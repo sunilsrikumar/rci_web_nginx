@@ -24,7 +24,7 @@ from wagtail.contrib.forms.edit_handlers import FormSubmissionsPanel
 from wagtail.images.edit_handlers import ImageChooserPanel
 from wagtail.search import index
 
-
+#comment
 class BlogListPage(Page):
     intro = RichTextField(blank=True)
     logo_image = models.ForeignKey(
