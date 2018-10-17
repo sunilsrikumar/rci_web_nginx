@@ -1,0 +1,954 @@
+.healthcareClientLogos .view:first-child p,
+.healthcareClientLogos .view:nth-child(4) p,
+.retailClientLogos .view:first-child p,
+.educationAppClients .view p,
+.engineeringSol .view p {
+  background-image: url(../images/homeImg/client.png);
+}
+.healthcareClientLogos .view.viewAllWrapper {
+  padding-top: 25px;
+}
+.healthcareClientLogos .view.viewAllWrapper p,
+.retailClientLogos .view.viewAllWrapper p,
+.educationAppClients .view.viewAllWrapper p,
+.financeClientList .view.viewAllWrapper p,
+.engineeringSol .view.viewAllWrapper p {
+  background-image: none;
+  display: inherit;
+  vertical-align: middle;
+}
+.engineeringSol .view.viewAllWrapper .viewlink {
+  display: table-cell;
+  vertical-align: middle;
+}
+.retailClientLogos .view p,
+.healthcareClientLogos .view p,
+.educationAppClients .view p,
+.financeClientList .view p,
+.engineeringSol .view p {
+  height: 94px;
+  margin: auto;
+  display: flex;
+}
+.healthcareClientLogos .view p,
+.retailClientLogos .view p,
+.financeClientList .view p {
+  background-image: url(../images/responsive/commons/logoListSprite.png);
+}
+.financeClientList .view:nth-child(3) p,
+.financeClientList .view:first-child p {
+  max-width: 130px;
+}
+.engineeringSol .view:first-child p,
+.engineeringSol .view:nth-child(2) p {
+  max-width: 170px;
+}
+.engineeringSol .view:first-child p {
+  background-position: -4375px -104px;
+}
+.engineeringSol .view:first-child:hover p {
+  background-position: -4375px 0;
+}
+.engineeringSol .view:nth-child(2) p {
+  background-position: -5600px -104px;
+}
+.engineeringSol .view:nth-child(2):hover p {
+  background-position: -5600px 0;
+}
+.engineeringSol .view:nth-child(3) p {
+  background-position: -6454px -104px;
+  max-width: 270px;
+}
+.engineeringSol .view:nth-child(3) {
+  width: 30%;
+}
+.engineeringSol .view:nth-child(3):hover p {
+  background-position: -6454px 0;
+}
+.financeClientList .view:first-child p {
+  background-position: -1462px 99px;
+}
+.financeClientList .view:first-child:hover p {
+  background-position: -1462px 201px;
+}
+.financeClientList .view:nth-child(2) p {
+  background-position: -3050px 104px;
+  max-width: 220px;
+}
+.financeClientList .view:nth-child(2):hover p {
+  background-position: -3050px 188px;
+}
+.financeClientList .view:nth-child(3) p {
+  background-position: -3260px 106px;
+}
+.financeClientList .view:nth-child(3):hover p {
+  background-position: -3260px 186px;
+}
+.financeClientList .view:nth-child(4) p {
+  background-position: -4116px 106px;
+  max-width: 187px
+}
+.financeClientList .view:nth-child(4):hover p {
+  background-position: -4116px 186px;
+}
+.retailClientLogos .view:nth-child(4) p,
+.retailClientLogos .view:first-child p {
+  max-width: 200px;
+}
+.educationAppClients .view:first-child p {
+  background-position: -190px -104px;
+}
+.educationAppClients .view:first-child:hover p {
+  background-position: -190px 0;
+}
+.educationAppClients .view:nth-child(2) p {
+  background-position: -5950px -104px;
+}
+.educationAppClients .view:nth-child(2):hover p {
+  background-position: -5950px 0;
+}
+.educationAppClients .view:nth-child(3) p {
+  background-position: -1240px -104px;
+}
+.educationAppClients .view:nth-child(3):hover p {
+  background-position: -1240px 0;
+}
+.educationAppClients .view:nth-child(4) p {
+  background-position: -888px -104px;
+}
+.educationAppClients .view:nth-child(4):hover p {
+  background-position: -888px 0;
+}
+.retailClientLogos .view:first-child p {
+  background-position: -1565px -104px;
+}
+.retailClientLogos .view:first-child:hover p {
+  background-position: -1565px 0;
+}
+.retailClientLogos .view:nth-child(2) p {
+  background-position: -1285px -104px;
+}
+.retailClientLogos .view:nth-child(2):hover p {
+  background-position: -1285px -3px;
+}
+.retailClientLogos .view:nth-child(3) {
+  width: 26%;
+}
+.retailClientLogos .view:nth-child(3) p {
+  background-position: -2622px 104px;
+  max-width: 235px;
+}
+.retailClientLogos .view:nth-child(3):hover p {
+  background-position: -2622px -15px;
+}
+.retailClientLogos .view:nth-child(4) p {
+  background-position: -2860px 104px;
+}
+.retailClientLogos .view:nth-child(4):hover p {
+  background-position: -2860px -11px;
+}
+.healthcareClientLogos .view:first-child p,
+.healthcareClientLogos .view:nth-child(2) p,
+.retailClientLogos .view:nth-child(2) p,
+.educationAppClients .view:first-child p,
+.educationAppClients .view:nth-child(2) p,
+.educationAppClients .view:nth-child(3) p,
+.educationAppClients .view:nth-child(4) p {
+  max-width: 180px;
+}
+.healthcareClientLogos .view:nth-child(3) p,
+.healthcareClientLogos .view:nth-child(4) p {
+  max-width: 170px;
+}
+.healthcareClientLogos .view:first-child p {
+  background-position: -2625px -104px;
+}
+.healthcareClientLogos .view:first-child:hover p {
+  background-position: -2625px 0;
+}
+.healthcareClientLogos .view:nth-child(2) p {
+  background-position: -2280px 112px;
+}
+.healthcareClientLogos .view:nth-child(2):hover p {
+  background-position: -2280px 398px;
+}
+.healthcareClientLogos .view:nth-child(3) p {
+  background-position: -2450px 102px;
+}
+.healthcareClientLogos .view:nth-child(3):hover p {
+  background-position: -2450px 389px;
+}
+.healthcareClientLogos .view:nth-child(4) p {
+  background-position: -3508px 102px;
+}
+.healthcareClientLogos .view:nth-child(4):hover p {
+  background-position: -3508px 405px;
+}
+.associateicons {
+  background: url("../images/responsive/Industry/sprite.png") no-repeat;
+  height: 88px;
+  width: 110px;
+  margin: auto;
+}
+.associateicons.webicon {
+  background-position: -650px -88px;
+}
+.associatedServices .view:hover > .associateicons.webicon {
+  background-position: -650px 12px;
+}
+.associateicons.ecmicon {
+  background-position: -110px -88px;
+}
+.associatedServices .view:hover > .associateicons.ecmicon {
+  background-position: -110px 12px;
+}
+.associateicons.ioticon {
+  background-position: -1510px -88px;
+}
+.associatedServices .view:hover > .associateicons.ioticon {
+  background-position: -1510px 12px;
+}
+.associateicons.cloudicon {
+  background-position: 0 -88px;
+}
+.associatedServices .view:hover > .associateicons.cloudicon {
+  background-position: 0 12px;
+}
+.associateicons.elearnicon {
+  background-position: -218px -88px;
+}
+.associatedServices .view:hover > .associateicons.elearnicon {
+  background-position: -218px 12px;
+}
+.associateicons.gameicon {
+  background-position: -332px -88px;
+}
+.associatedServices .view:hover > .associateicons.gameicon {
+  background-position: -332px 12px;
+}
+.associateicons.mobicon {
+  background-position: -430px -88px;
+}
+.associatedServices .view:hover > .associateicons.mobicon {
+  background-position: -430px 12px;
+}
+.associateicons.dataicon {
+  background-position: -538px -88px;
+}
+.associatedServices .view:hover > .associateicons.dataicon {
+  background-position: -538px 12px;
+}
+.associateicons.analyticsicon {
+  background-position: -755px -88px;
+}
+.associatedServices .view:hover > .associateicons.analyticsicon {
+  background-position: -755px 12px;
+}
+.associateicons.contexticon {
+  background-position: -865px -88px;
+}
+.associatedServices .view:hover > .associateicons.contexticon {
+  background-position: -865px 12px;
+}
+.associateicons.ecommereceicon {
+  background-position: -975px -88px;
+}
+.associatedServices .view:hover > .associateicons.ecommereceicon {
+  background-position: -975px 12px;
+}
+.associateicons.qbeaconicon {
+  background-position: -1080px -88px;
+}
+.associatedServices .view:hover > .associateicons.qbeaconicon {
+  background-position: -1080px 12px;
+}
+.associateicons.smicon {
+  background-position: -1295px -88px;
+}
+.associatedServices .view:hover > .associateicons.smicon {
+  background-position: -1295px 12px;
+}
+.associateicons.wsicon {
+  background-position: -1405px -88px;
+}
+.associatedServices .view:hover > .associateicons.wsicon {
+  background-position: -1405px 12px;
+}
+
+/* New healthcare page under industries */
+
+.healthBannerImg {
+  background-image: url("../images/responsive/Industry/health/banner.png");
+}
+.featuredApps.pharmacyApp {
+  background-image: url("../images/responsive/resource/pharmacyApp.png");
+}
+.featuredApps.fitnessApp {
+  background-image: url("../images/responsive/resource/fitness.png");
+}
+.featuredApps.doctorsApp {
+  background-image: url("../images/responsive/resource/casestudy/healthcareApp.png");
+}
+.clientVideoWrapper {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  margin: 60px 0;
+}
+.healthcareClient {
+  width: 91%;
+  margin: 0 auto 60px;
+  max-width: 1500px;
+}
+#clientVideo {
+  width: 40%;
+}
+.clientVideoContent {
+  width: 60%;
+  position: relative;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  background-color: #FAFAFA;
+  padding-right: 20px;
+  text-align: center;
+}
+.clientVideoContent .clientSays {
+  align-self: flex-end;
+  -ms-align-self: flex-end;
+  -webkit-align-self: flex-end;
+  width: 100%;
+  padding: 0 30px;
+  line-height: 25px;
+  font-family: "OpenSansSemiboldItalic";
+}
+.clientVideoContent div {
+  width: 100%;
+  align-self: center;
+  -ms-align-self: center;
+  -webkit-align-self: center;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+.clientVideoContent div span {
+  margin-left: 10px;
+}
+.clientVideoContent div p {
+  font-size: 10px;
+  margin: 0 0 5px;
+  color: #616161;
+}
+.clientVideoContent div h2 {
+  font-size: 18px;
+}
+.clientVideoContent div .viewAll {
+  margin: 0;
+  color: #e2292f;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+section.solutions.bigDataWrapper {
+  width: 75%;
+}
+section.solutions {
+  margin: 60px auto 0;
+  width: 91%;
+  max-width: 1500px;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
+.solutions .leftSection,
+.solutions .rightSection {
+  width: 50%;
+  text-align: left;
+}
+.solutions h2 {
+  padding-bottom: 20px;
+}
+.viewLeftArrow {
+  font-size: 20px;
+  vertical-align: sub;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+/* New engineering page under industries*/
+
+.engineeringBannerImg {
+  background-image: url("../images/responsive/Industry/engineering/banner.jpg");
+}
+.clientstory {
+  overflow: auto;
+  margin: auto;
+  width: 91%;
+  max-width: 1500px;
+}
+.clientstory.bigDataWrapper {
+  width: 75%;
+}
+.rightTextData.engineering {
+  background: #f6f6f6;
+  padding: 40px;
+  box-sizing: border-box;
+}
+.rightTextData.engineering h2 {
+  padding-bottom: 20px;
+}
+.rightTextData.engineering .listText li {
+  padding-bottom: 10px;
+  font-size: 16px;
+}
+.clientstorycontent {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.rightTextData.engineering .icon-checkmark {
+  font-size: 18px;
+}
+.associatedServices.engineering {
+  justify-content: space-around;
+  -ms-justify-content: space-around;
+  -webkit-justify-content: space-around;
+  -moz-justify-content: space-around;
+}
+.associatedServicesWrapper {
+  padding: 60px 0;
+  background-color: #F6F6F6;
+  text-align: center;
+}
+.associatedServices {
+  width: 91%;
+  max-width: 1500px;
+  margin: auto;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -ms-justify-content: space-between;
+  -webkit-justify-content: space-between;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  text-align: center;
+  padding: 60px 0 20px;
+}
+.associatedServices p {
+  padding: 10px 0;
+  font-weight: 600;
+  color: #000;
+}
+.associatedServices p img {
+  height: 70px;
+}
+.viewlink {
+  display: inline-block;
+}
+.umbracoButtons.engieeringinq {
+  padding-bottom: 60px;
+}
+
+/* New education page under industries */
+
+.associatedServices.educaton .view {
+  width: 20%;
+}
+.educationBannerImg {
+  background-image: url("../images/responsive/Industry/education/banner.png");
+}
+.featuredApps.learningApp {
+  background-image: url("../images/responsive/resource/casestudy/elearningApp.png");
+}
+.featuredApps.schoolApp {
+  background-image: url("../images/responsive/resource/casestudy/schoolApp.png");
+}
+.featuredApps.portalApp {
+  background-image: url("../images/responsive/resource/featuredProjects/Qlearn.png");
+}
+
+/*New Retail page in Industries */
+
+.retailBannerImg {
+  background-image: url("../images/responsive/Industry/retail/banner.png");
+}
+.featuredApps.shoppingApp {
+  background-image: url("../images/responsive/resource/featuredProjects/shoppingAssist.png");
+}
+.featuredApps.CustomerApp {
+  background-image: url("../images/responsive/resource/featuredProjects/customerFeedback.png");
+}
+.featuredApps.magentoApp {
+  background-image: url("../images/responsive/resource/featuredProjects/optics.png");
+}
+
+/*new finacial landing page */
+
+.financialBannerImg {
+  background-image: url("../images/responsive/Industry/financial/banner.png");
+}
+.featuredApps.insuranceApp {
+  background-image: url("../images/responsive/resource/casestudy/Slices/insurance.png");
+}
+.featuredApps.bussinessApp {
+  background-image: url("../images/responsive/Industry/financial/bussiness.png");
+}
+.featuredApps.aemApp {
+  background-image: url("../images/responsive/Industry/financial/AEM.png");
+}
+.financialMobApp .mobileAppCasestudiesLast button {
+  width: 280px;
+}
+
+/*common css for new industries and service landing pages*/
+
+.bannerImageWrapper {
+  text-align: center;
+  height: 300px;
+  display: table;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+  margin-top: 30px;
+}
+.bannerImageWrapper p,
+.bannerImageWrapper h1 {
+  display: table-cell;
+  vertical-align: middle;
+  color: white;
+  position: relative;
+  z-index: 9;
+}
+.mobileappContent {
+  width: 75%;
+  margin: 0 auto;
+  max-width: 1500px;
+  padding: 40px 0 0;
+}
+.mobileAppCasestudiesWrapper {
+  margin: 30px auto;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: space-around;
+  -ms-justify-content: space-around;
+  -webkit-justify-content: space-around;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  text-align: center;
+}
+.mobileAppCasestudies {
+  width: 45%;
+  margin: 20px auto 25px;
+  position: relative;
+  padding-bottom: 50px;
+}
+.mobileAppCasestudies a {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+.mobileAppCasestudies p {
+  line-height: 24px;
+  padding: 10px 0;
+}
+.clientsays {
+  margin: 60px 0;
+}
+.clientsays #testiSection {
+  width: 91%;
+  margin: 0 auto;
+  max-width: 1500px;
+}
+.clientContent {
+  display: table;
+  width: 88%;
+  max-width: 1500px;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+}
+.clientImg {
+  width: 20%;
+  max-width: 250px;
+  padding-right: 20px;
+  display: table-cell;
+  vertical-align: middle;
+  border-right: 1px solid #CCC;
+}
+.clientImg img {
+  max-width: 220px;
+}
+.clientComment {
+  display: table-cell;
+  vertical-align: middle;
+}
+.viewallClient {
+  text-align: right;
+  width: 88%;
+  margin: auto;
+  max-width: 1500px;
+  padding-bottom: 20px;
+}
+.clientComment .client {
+  text-align: right;
+  font-style: normal;
+  padding-top: 15px;
+}
+.clientComment p {
+  font-style: italic;
+}
+.clientComment .client p {
+  font-style: normal;
+  margin-left: 10px;
+  align-self: center;
+  -ms-align-self: center;
+  -webkit-align-self: center;
+}
+.viewallClient p {
+  color: #000;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 0;
+  display: inline-block;
+}
+.viewallClient span {
+  color: #b8b8b8;
+}
+.featuredClients {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  justify-content: space-between;
+  width: 91%;
+  margin: auto;
+  text-align: center;
+  max-width: 1500px;
+  padding: 20px 0;
+}
+.view {
+  width: 21%;
+  align-self: center;
+  -ms-align-self: center;
+  -webkit-align-self: center;
+}
+.featuredClients .view:last-child {
+  width: 85px;
+  padding-bottom: 0;
+}
+.featuredClients .view:last-child p {
+  color: #e2292f;
+  font-size: 13px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.featuredStory {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  justify-content: space-between;
+  width: 91%;
+  margin: auto;
+  max-width: 1500px;
+}
+.featuredApps {
+  width: 33%;
+  max-width: 350px;
+  text-align: center;
+  height: 250px;
+  background-size: cover;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  position: relative;
+  cursor: pointer;
+}
+.featuredApps:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: .6;
+}
+.featuredApps h3 {
+  width: 100%;
+  align-self: center;
+  -ms-align-self: center;
+  -webkit-align-self: center;
+  color: #FFF;
+  position: relative;
+  z-index: 1;
+}
+.featuredApps p {
+  width: 100%;
+  align-self: flex-end;
+  -ms-align-self: flex-end;
+  -webkit-align-self: flex-end;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #FFF;
+  padding: 10px 20px;
+  text-align: left;
+}
+.featuredApps:hover > h3 {
+  display: none;
+}
+.featuredApps:hover > p {
+  display: block;
+}
+.featuredApps:hover:after {
+  opacity: 0;
+}
+.featuredStoryWrapper h2 {
+  text-align: center;
+  margin: 40px 0;
+}
+.resourceWrapper {
+  text-align: center;
+  padding: 50px 0 60px;
+  background-color: #F6F6F6;
+  margin-top: 60px;
+}
+.resources {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  padding-top: 30px;
+  width: 91%;
+  margin: auto;
+  max-width: 1500px;
+}
+.security {
+  width: 46%;
+  max-width: 550px;
+  background-color: #FFF;
+  padding-bottom: 60px;
+  margin: 0 2%;
+  position: relative;
+}
+.security a {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  transform: translateX(-50%);
+  cursor: default;
+}
+.security img {
+  width: 100%;
+}
+.security h3 {
+  padding: 20px;
+  text-align: left;
+}
+.security p {
+  padding-bottom: 20px;
+  line-height: 30px;
+  font-size: 15px;
+  margin: 0 20px;
+  text-align: left;
+}
+.security button {
+  background: #FFF;
+  width: auto;
+  line-height: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  outline: none;
+  background-color: #e63c3c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  text-transform: capitalize;
+}
+.security button.largeBtn {
+  width: 220px;
+}
+@media screen and (max-width:1024px) {
+  .healthcareClientLogos .view,
+  .retailClientLogos .view,
+  .retailClientLogos .view:nth-child(3),
+  .financeClientList .view,
+  .engineeringSol .view,
+  .engineeringSol .view:nth-child(3) {
+    width: 50%;
+  }
+  .featuredClients.engineeringSol .view:last-child {
+    width: 30%;
+  }
+  .engineeringSol .view:first-child p,
+  .engineeringSol .view:first-child:hover p {
+    background-position: -4375px 0;
+  }
+  .engineeringSol .view:nth-child(2) p,
+  .engineeringSol .view:nth-child(2):hover p {
+    background-position: -5600px 0;
+  }
+  .engineeringSol .view:nth-child(3) p,
+  .engineeringSol .view:nth-child(3):hover p {
+    background-position: -6454px 0;
+  }
+  .financeClientList .view:first-child p,
+  .financeClientList .view:first-child:hover p {
+    background-position: -1462px 201px;
+  }
+  .financeClientList .view:nth-child(2) p,
+  .financeClientList .view:nth-child(2):hover p {
+    background-position: -3050px 188px;
+  }
+  .financeClientList .view:nth-child(3) p,
+  .financeClientList .view:nth-child(3):hover p {
+    background-position: -3260px 186px;
+  }
+  .financeClientList .view:nth-child(4) p,
+  .financeClientList .view:nth-child(4):hover p {
+    background-position: -4116px 186px;
+  }
+  .educationAppClients .view:first-child p,
+  .educationAppClients .view:first-child:hover p {
+    background-position: -190px 0;
+  }
+  .educationAppClients .view:nth-child(2) p,
+  .educationAppClients .view:nth-child(2):hover p {
+    background-position: -5950px 0;
+  }
+  .educationAppClients .view:nth-child(3) p,
+  .educationAppClients .view:nth-child(3):hover p {
+    background-position: -1240px 0;
+  }
+  .educationAppClients .view:nth-child(4) p,
+  .educationAppClients .view:nth-child(4):hover p {
+    background-position: -888px 0;
+  }
+  .retailClientLogos .view:first-child p,
+  .retailClientLogos .view:first-child:hover p {
+    background-position: -1565px 0;
+  }
+  .retailClientLogos .view:nth-child(2) p,
+  .retailClientLogos .view:nth-child(2):hover p {
+    background-position: -1285px -3px;
+  }
+  .retailClientLogos .view:nth-child(3) p,
+  .retailClientLogos .view:nth-child(3):hover p {
+    background-position: -2622px -15px;
+  }
+  .retailClientLogos .view:nth-child(4) p,
+  .retailClientLogos .view:nth-child(4):hover p {
+    background-position: -2860px -11px;
+  }
+  .featuredClients.healthcareClientLogos .view:last-child,
+  .featuredClients.retailClientLogos .view:last-child,
+  .featuredClients.financeClientList .view:last-child {
+    text-align: right;
+    margin-right: 1%;
+    width: 99%;
+  }
+  .healthcareClientLogos .view:first-child p,
+  .healthcareClientLogos .view:first-child:hover p {
+    background-position: -2625px 0;
+  }
+  .healthcareClientLogos .view:nth-child(2) p,
+  .healthcareClientLogos .view:nth-child(2):hover p {
+    background-position: -2280px 398px;
+  }
+  .healthcareClientLogos .view:nth-child(3) p,
+  .healthcareClientLogos .view:nth-child(3):hover p {
+    background-position: -2450px 389px;
+  }
+  .healthcareClientLogos .view:nth-child(4) p,
+  .healthcareClientLogos .view:nth-child(4):hover p {
+    background-position: -3508px 405px;
+  }
+}
+@media screen and (min-width:280px) and (max-width:767px) {
+  .engineeringSol .view:first-child p,
+  .engineeringSol .view:first-child:hover p {
+    background-position: -4375px 0;
+  }
+  .engineeringSol .view:nth-child(2) p,
+  .engineeringSol .view:nth-child(2):hover p {
+    background-position: -5600px 0;
+  }
+  .engineeringSol .view:nth-child(3) p,
+  .engineeringSol .view:nth-child(3):hover p {
+    background-position: -6454px 0;
+  }
+  .associatedServices .view,
+  .educationAppClients .view {
+    width: 50%;
+  }
+  section.solutions.bigDataWrapper,
+  .clientstory.bigDataWrapper {
+    width: 88%;
+  }
+  .associatedServices.educaton .view {
+    width: 50%;
+  }
+  .associatedServicesWrapper h2 {
+    width: 88%;
+  }
+  .associatedServices.engineering {
+    justify-content: space-between;
+    -ms-justify-content: space-between;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+  }
+  .engineeringSol .view.viewAllWrapper .viewlink {
+    display: block;
+  }
+  .healthcareClientLogos .view,
+  .retailClientLogos .view,
+  .financeClientList .view,
+  .engineeringSol .view,
+  .engineeringSol .view:nth-child(3),
+  .featuredClients.engineeringSol .view.viewAllWrapper:last-child {
+    width: 100%;
+  }
+  .featuredClients.healthcareClientLogos .view:last-child,
+  .featuredClients.retailClientLogos .view:last-child,
+  .featuredClients.financeClientList .view:last-child {
+    text-align: center;
+  }
+}
+@media screen and (min-width:280px) and (max-width:400px) {
+  .associatedServices .view,
+  .associatedServices.educaton .view {
+    width: 100%;
+  }
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="170px" height="147px" viewBox="0 0 170 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1100.000000, -1934.000000)" fill-rule="nonzero">
+            <g id="Group-17" transform="translate(0.000000, 1517.000000)">
+                <g id="Group-6">
+                    <g id="Group-9">
+                        <g id="Group-25">
+                            <g id="Group-21" transform="translate(299.000000, 410.000000)">
+                                <g id="Group-22">
+                                    <g id="edit" transform="translate(885.997486, 80.512204) rotate(-360.000000) translate(-885.997486, -80.512204) translate(800.997486, 7.512204)">
+                                        <path d="M139.444984,-1.42108547e-13 L6.55471892,-1.42108547e-13 C2.9347271,-1.42108547e-13 -1.13686838e-13,2.93473307 -1.13686838e-13,6.55473226 L-1.13686838e-13,139.445268 C-1.13686838e-13,143.065564 2.9347271,146 6.55471892,146 L139.445281,146 C143.064679,146 146,143.065267 146,139.445268 L146,6.55473226 C145.999703,2.93473307 143.064679,-1.42108547e-13 139.444984,-1.42108547e-13 Z" id="Shape" fill="#D8D9DA"></path>
+                                        <g id="Group" transform="translate(6.000000, 9.000000)">
+                                            <rect id="Rectangle-path" fill="#EEF2F3" x="-2.27373675e-13" y="15" width="134" height="116"></rect>
+                                            <rect id="Rectangle-path" fill="#FFFFFF" x="5.22209026" y="0.208418824" width="89.1742874" height="7.53183529"></rect>
+                                        </g>
+                                        <circle id="Oval" fill="#FCD462" cx="107.5" cy="12.5" r="3.5"></circle>
+                                        <circle id="Oval" fill="#44C4A1" cx="119.5" cy="12.5" r="3.5"></circle>
+                                        <circle id="Oval" fill="#E56353" cx="131.5" cy="12.5" r="3.5"></circle>
+                                        <rect id="Rectangle-path" fill="#F9A53D" x="17" y="34" width="34" height="30"></rect>
+                                        <rect id="Rectangle-path" fill="#F6C358" x="17" y="60" width="34" height="4"></rect>
+                                        <g id="Group" transform="translate(17.000000, 34.000000)" fill="#424A60">
+                                            <rect id="Rectangle-path" x="45.1225416" y="0.233088737" width="65.6843244" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="45.1225416" y="13.8107304" width="65.6843244" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="45.1225416" y="27.3868874" width="65.6843244" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="0.0470187668" y="40.9627474" width="110.769072" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="0.0470187668" y="54.5389044" width="110.769072" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="0.0470187668" y="68.1147645" width="110.769072" height="5.30729693"></rect>
+                                            <rect id="Rectangle-path" x="0.0470187668" y="81.6909215" width="76.2888418" height="5.30729693"></rect>
+                                        </g>
+                                        <g id="Group-4" transform="translate(93.000000, 44.000000)">
+                                            <polygon id="Rectangle-path" fill="#F05244" transform="translate(32.506990, 34.521112) rotate(-135.000000) translate(-32.506990, -34.521112) " points="28.9881389 1.99418189 36.0268606 2.03109848 36.0268606 67.0310985 28.9871186 67.0480426"></polygon>
+                                            <polygon id="Rectangle-path" fill="#BA3A2F" transform="translate(37.533432, 39.509425) rotate(-135.000000) translate(-37.533432, -39.509425) " points="33.9878216 6.92877844 41.101498 6.93022232 41.135622 72.022363 33.9312415 72.0900716"></polygon>
+                                            <rect id="Rectangle-path" fill="#942016" transform="translate(42.500000, 44.500000) rotate(-135.000000) translate(-42.500000, -44.500000) " x="39" y="12" width="7" height="65"></rect>
+                                            <path d="M2.18650169,76.9031524 L10,74.140573 C9.63798931,72.444948 8.80530418,70.8295337 7.48771845,69.5119586 C6.1704354,68.1946862 4.5550081,67.3617051 2.85936939,67 L0.0967677389,74.8137379 C-0.361799315,76.111336 0.88828777,77.3620184 2.18650169,76.9031524 Z" id="Shape" fill="#64798A"></path>
+                                            <path d="M7.06511095,55 L3,66.6870708 C4.10417752,66.9265938 5.17460152,67.3640251 6.15657881,68 L12,60.0163233 L7.06511095,55 Z" id="Shape" fill="#FCD462"></path>
+                                            <path d="M22,69.9347177 L16.9836767,65 L9,70.8432183 C9.63629255,71.8251615 10.0737238,72.8958608 10.3129292,74 L22,69.9347177 Z" id="Shape" fill="#DC8744"></path>
+                                            <path d="M11.9634366,60 L6,68.0156572 C6.5868708,68.3897765 7.14280329,68.8318304 7.65535839,69.3443707 C8.16823243,69.8572298 8.60998028,70.4128273 8.98411042,71 L17,65.0367364 L11.9634366,60 Z" id="Shape" fill="#F6C358"></path>
+                                            <rect id="Rectangle-path" fill="#FCD462" transform="translate(59.500000, 17.500000) rotate(-135.000000) translate(-59.500000, -17.500000) " x="49" y="16" width="21" height="3"></rect>
+                                            <path d="M67.0144381,25 L52,9.98556415 L61.7853417,0.200540872 C63.8837626,-1.89787978 78.8978838,13.1159222 76.7994629,15.2146598 L67.0144381,25 Z" id="Shape" fill="#F9A53D"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

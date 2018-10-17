@@ -1,0 +1,883 @@
+@font-face {
+  font-family: 'universCnd';
+  src: url('../fonts/Univers_Cons_bold/unvr67w-webfont.eot');
+  src: url('../fonts/Univers_Cons_bold/unvr67w-webfontd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Univers_Cons_bold/unvr67w-webfont.woff') format('woff'), url('../fonts/Univers_Cons_bold/unvr67w-webfont.ttf') format('truetype'), url('../fonts/Univers_Cons_bold/unvr67w-webfont.svg#universCnd') format('svg');
+}
+#openPositions {
+  position: relative
+}
+#openPositions #tripleSubNav {
+  width: 90%;
+  margin: 20px auto 50px
+}
+#openPositions .flex-control-nav {
+  display: none
+}
+#openPositions .open_dropdown {
+  position: relative;
+  width: 425px;
+  margin: 20px auto 40px
+}
+#jobsTable {
+  position: relative;
+  padding-bottom: 60px;
+}
+#jobsTable .noDetails {
+  padding: 0 40px 30px 40px;
+  color: #727272;
+}
+#jobsTable .advertisement {
+  position: absolute;
+  text-align: center;
+  margin: 20px 0;
+  top: 276px;
+  width: 100%;
+  cursor: pointer;
+  display: none;
+}
+#jobsTable .advertisement img,
+.partnersSection .slaesforcePartnerLogo {
+  width: 100%
+}
+#openPositions #jobsTable ul li p {
+  display: table-cell;
+  vertical-align: middle
+}
+.careerHead li {
+  background-color: #e9e9e9;
+  border: 1px solid #d3d3d3
+}
+.careerHead .holder p,
+#openPositions #jobsTable .careerlists li .experience {
+  font-family: "OpenSansBold";
+  font-size: 14px
+}
+.careerHead .holder p {
+  font-size: 18px
+}
+.careerHead,
+.careerlists {
+  display: table;
+  width: 100%
+}
+.careerHead li,
+.careerlists li {
+  display: table;
+  height: auto;
+  padding: 20px 0;
+  vertical-align: middle;
+  width: 100%
+}
+#jobsTable li .holder {
+  display: table;
+  margin: 0 auto;
+  width: 95%
+}
+.careerlists li {
+  border: 1px solid #d3d3d3;
+  border-top: none;
+  background-color: #fff
+}
+.careerlists .careercontent li {
+  border: none;
+  margin-top: 10px;
+  height: auto
+}
+.careercontent .resumebtn {
+  background-color: #E8202A;
+  border: 0 none;
+  border-radius: 3px;
+  color: #FFF;
+  cursor: pointer;
+  font-family: 'OpenSansbold';
+  font-size: 14px;
+  padding: 8px 16px
+}
+.careercontent .linkedinbtn {
+  background: url(../images/responsive/companys/career/openpositions/apply.png) no-repeat scroll left center transparent;
+  background-color: #e1e1e1;
+  border: 0 none;
+  border-radius: 3px;
+  color: #262626;
+  cursor: pointer;
+  font-family: 'OpenSansbold';
+  font-size: 14px;
+  padding: 8px 16px 8px 50px
+}
+.careerlists .toChild {
+  background-color: #000;
+  border-radius: 50%;
+  color: #FFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  height: 28px;
+  line-height: 29px;
+  width: 28px;
+  text-align: center;
+  position: static
+}
+.careercontent {
+  display: none;
+  width: 95%;
+  margin: 0 auto
+}
+.careercontent h1,
+.careercontent h2,
+.careercontent h3,
+.careercontent h4 {
+  color: #262626;
+  font-size: 14px;
+  margin-top: 20px;
+  padding: 0;
+  width: 100%;
+}
+.careercontent h1,
+.careercontent h2,
+.careercontent h3 {
+  font-family: "OpenSansBold";
+}
+.careercontent h4 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+#openPositions #jobsTable ul li .careercontent p {
+  display: table;
+  font-family: "Opensansregular";
+  font-size: 14px;
+  line-height: normal;
+  margin: 0 auto;
+  padding-top: 10px;
+  width: 100%
+}
+.careercontent.active {
+  display: block
+}
+.thirdParty,
+.jQueryPlugins {
+  width: 50%;
+  float: left
+}
+.thirdParty .listCont,
+.jQueryPlugins .listCont {
+  width: 87%
+}
+.thirdParty {
+  margin-top: -18px
+}
+.schoolList {
+  font-size: 14px
+}
+.bannerHead {
+  color: #FFF;
+  font-family: "OpenSansLight";
+  font-size: 46px;
+  position: absolute;
+  text-align: center;
+  bottom: 50px;
+  width: 100%;
+  z-index: 10
+}
+#openPositions .innerBanner,
+#openPositions .banner {
+  height: auto;
+  position: relative
+}
+#openPositions .banner img {
+  max-height: none;
+  width: 100%
+}
+.innerBanner .flexslider {
+  overflow-y: hidden
+}
+.openHeadArea {
+  text-align: center
+}
+#openPositions #jobsTable ul li p:nth-child(2) {
+  width: 32%
+}
+#openPositions #jobsTable ul li p:nth-child(1) {
+  width: 44%
+}
+#openPositions #jobsTable .careerHead li p:nth-child(4) {
+  width: 25%
+}
+#openPositions #jobsTable .careerlists li p:nth-child(4) {
+  width: 22%
+}
+#openPositions #jobsTable .careerlists li p.toggler {
+  text-align: right;
+  width: 4%
+}
+.postresume form {
+  display: inline-block;
+  vertical-align: middle;
+  width: 49%
+}
+.postresume {
+  margin: 40px 0;
+  padding-right: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  width: 22%
+}
+.shareBox {
+  margin: 40px 0;
+  border-left: 1px solid #cdcdcd;
+  display: inline-block;
+  padding-left: 20px;
+  vertical-align: middle
+}
+.shareBox h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-top: 0!important;
+  text-align: center
+}
+#jobsTable > .careerlists > li:nth-child(even) {
+  background-color: #f8f8f8
+}
+#jobsTable .careerlists li .careercontent ul,
+#jobsTable .careerlists li .careercontent .repo {
+  width: 100%
+}
+#jobsTable .careerlists li .careercontent ul li {
+  background: url(../images/responsive/companys/career/openpositions/bullet.png) no-repeat scroll left 22px;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 15px;
+  padding-top: 15px;
+  width: 95%;
+  color: #727272;
+}
+#jobsTable .addthis_button_linkedin {
+  background: url(../images/responsive/companys/career/openpositions/linkedIn.png) no-repeat center center
+}
+#jobsTable .addthis_button_twitter {
+  background: url(../images/responsive/companys/career/openpositions/twitter.png) no-repeat center center
+}
+#jobsTable .addthis_button_facebook {
+  background: url(../images/responsive/companys/career/openpositions/fb.png) no-repeat center center
+}
+#jobsTable .addthis_button_email {
+  background: url(../images/responsive/companys/career/openpositions/email.png) no-repeat center center
+}
+#jobsTable .shareBox .addthis_toolbox {
+  text-align: center;
+  float: none
+}
+#jobsTable .shareBox .addthis_toolbox a {
+  display: inline-block;
+  float: none;
+  height: 28px;
+  width: 28px
+}
+#jobsTable .shareBox .addthis_toolbox a span {
+  background: none;
+  width: 28px;
+  height: 28px;
+  display: none
+}
+#openPositions #jobsTable ul li p.experience,
+#openPositions #jobsTable ul li p.location {
+  display: none
+}
+#resumeiframe {
+  width: 100%;
+  height: 100%;
+  max-height: 100%
+}
+.careerlists li:nth-child(3) {
+  margin-bottom: 0 !important
+}
+.careerlists li .careercontent ul li:nth-child(3) {
+  margin-bottom: 0!important
+}
+.careerlists li .careercontent ul li:nth-child(4) {
+  border-top: none
+}
+.careercontent .separator {
+  display: none;
+  border-radius: 50% 50%;
+  border: 1px solid #cdcdcd;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  margin: 20px auto
+}
+#openPositions #jobsTable .careercontent .separator p {
+  display: table-cell;
+  margin: 0;
+  float: none;
+  padding: 0!important;
+  vertical-align: middle
+}
+.dropdown,
+.dropdown div,
+.dropdown li,
+.dropdown div::after {
+  -webkit-transition: all 150ms ease-in-out;
+  -moz-transition: all 150ms ease-in-out;
+  -ms-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out
+}
+.dropdown .selected::after,
+.dropdown.scrollable div::after {
+  -webkit-pointer-events: none;
+  -moz-pointer-events: none;
+  -ms-pointer-events: none;
+  pointer-events: none
+}
+.dropdown {
+  position: relative;
+  width: 100%;
+  padding: 8px 0;
+  text-align: left;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background: #fff;
+  border-radius: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none
+}
+#openPositions .dropdown {
+  border: 1px solid #BCBCBC
+}
+.dropdown.open {
+  z-index: 2
+}
+.dropdown .carat {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  margin-top: -4px;
+  border: 6px solid transparent;
+  border-top: 8px solid #000
+}
+.dropdown.open .carat {
+  margin-top: -10px;
+  border-top: 6px solid transparent;
+  border-bottom: 8px solid #000
+}
+.dropdown.disabled .carat {
+  border-top-color: #999
+}
+.dropdown .old {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 0;
+  width: 0;
+  overflow: hidden
+}
+.dropdown select {
+  position: absolute;
+  left: 0;
+  top: 0
+}
+.dropdown.touch .old {
+  width: 100%;
+  height: 100%
+}
+.dropdown.touch select {
+  width: 100%;
+  height: 100%;
+  opacity: 0
+}
+.dropdown .selected,
+.dropdown li {
+  display: block;
+  font-size: 14px;
+  line-height: 1;
+  color: #262626;
+  padding: 8px 12px;
+  overflow: hidden;
+  white-space: nowrap
+}
+.dropdown.disabled .selected {
+  color: #999
+}
+.dropdown .selected::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 60px;
+  border-radius: 0 2px 2px 0
+}
+.dropdown div {
+  position: absolute;
+  height: 0;
+  left: -1px;
+  right: -1px;
+  top: 100%;
+  margin-top: -1px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-top: 1px solid #eee;
+  border-radius: 0 0 3px 3px;
+  overflow: hidden;
+  opacity: 0
+}
+.dropdown.open div {
+  opacity: 1;
+  z-index: 2
+}
+.dropdown.scrollable div::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 50px
+}
+.dropdown.scrollable.bottom div::after {
+  opacity: 0
+}
+.dropdown ul {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  list-style: none;
+  overflow: hidden
+}
+.dropdown.scrollable.open ul {
+  overflow-y: auto
+}
+.dropdown li {
+  list-style: none;
+  padding: 8px 12px
+}
+.dropdown li.focus {
+  position: relative;
+  z-index: 3;
+  font-weight: 700
+}
+.dropdown li.active {
+  font-weight: 700
+}
+.errormsg {
+  background-color: #ffe6e7;
+  border: 2px solid #d16f74;
+  border-radius: 6px;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  padding: 20px 50px;
+  left: 61%;
+  margin-left: -448px;
+  outline: medium none;
+  position: fixed;
+  text-align: center;
+  top: 300px;
+  vertical-align: middle;
+  width: 500px;
+  z-index: 10;
+  display: none;
+  opacity: 0
+}
+.errormsg p {
+  font-family: "OpenSansSemiboldItalic";
+  font-size: 18px;
+  color: #e8202a
+}
+.errorbkopacity {
+  background-color: #f2f2f2;
+  display: none;
+  margin: 0;
+  opacity: .5!important;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  height: 100%
+}
+.entryLevelContent {
+  float: left;
+  margin-top: 30px;
+  width: 100%
+}
+.entryLevelContent.openBtmSectionTezzle p {
+  font-size: 14px
+}
+.entryLevelContent.openBtmSectionTezzle a {
+  font-style: italic;
+  text-decoration: underline
+}
+.entryLevelContent.openBtmSectionTezzle {
+  padding-top: 30px;
+  float: none;
+  display: table
+}
+.rightEntryImage {
+  width: 43%;
+  float: right
+}
+.entryList {
+  width: 57%
+}
+.leftEntryImage {
+  float: left;
+  width: 44%
+}
+.entryListOffer {
+  float: right;
+  width: 49%;
+  margin-left: 7%;
+  margin-bottom: 25px
+}
+.aboutQB {
+  width: 100%;
+  margin: 0 auto
+}
+.abtbtmBorder {
+  border-bottom: 5px solid #F7F2F2
+}
+.secrgt .icon-VisionandMission {
+  font-size: 250px;
+  color: #f7c000
+}
+.secrgt {
+  width: 40%;
+  float: left;
+  text-align: right;
+  padding-top: 0
+}
+.seclft {
+  width: 60%;
+  float: left
+}
+.seclft div:first-child h2 {
+  color: #f7c000;
+  font-size: 50px;
+  line-height: 45px;
+  font-family: 'universCnd'
+}
+.seclft div:last-child {
+  margin-top: 30px;
+  padding-bottom: 0
+}
+.seclft div:last-child h2 {
+  color: #04baef;
+  font-size: 50px;
+  line-height: 45px;
+  font-family: 'universCnd'
+}
+.seclft div span {
+  font-size: 18px;
+  font-family: 'OpenSansLight'
+}
+.thrSection,
+.secSection,
+.sixSection {
+  margin: 50px auto;
+  width: 76%
+}
+.thrSection .thrrgt {
+  margin-top: 10px
+}
+.thrrgt {
+  width: 64%;
+  float: right;
+  text-align: center
+}
+.thrrgt h2 {
+  width: 100%;
+  display: block;
+  font-family: 'universCnd';
+  font-size: 50px;
+  color: #000;
+  text-align: center
+}
+.thrrgt ul {
+  width: 100%
+}
+.thrrgt ul li {
+  font-family: 'universCnd';
+  font-size: 32px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 1%;
+  color: #fff
+}
+.thrrgt ul li:first-child,
+.thrrgt ul li:nth-child(5),
+.thrrgt ul li:nth-child(7) {
+  margin-left: 0
+}
+.thrrgt ul li:first-child,
+.thrrgt ul li:nth-child(2),
+.thrrgt ul li:nth-child(3),
+.thrrgt ul li:nth-child(4) {
+  width: 19%
+}
+.thrrgt ul li:nth-child(7) {
+  width: 70%
+}
+.thrrgt ul li:first-child {
+  background-color: #e112ae;
+  border: 1px solid #e112ae
+}
+.thrrgt ul li:nth-child(2) {
+  background-color: #06b900
+}
+.thrrgt ul li:nth-child(3) {
+  background-color: #d7385d;
+  border: 1px solid #d7385d
+}
+.thrrgt ul li:nth-child(4) {
+  background-color: #04baef;
+  border: 1px solid #04baef
+}
+.thrrgt ul li#validationExp {
+  background-color: #f7c000;
+  border: 1px solid #f7c000;
+  width: 55%
+}
+.thrrgt ul li#biExp {
+  background-color: #a254d3;
+  border: 1px solid #a254d3;
+  width: 42%
+}
+.thrrgt ul li:nth-child(7) {
+  background-color: #10bf83;
+  border: 1px solid #10bf83
+}
+.frlft {
+  width: 20%;
+  float: left;
+  text-align: left
+}
+.frlft .icon-technologies,
+.frlft .icon-clientele {
+  font-size: 150px;
+  color: #d6d6d6;
+  text-align: center
+}
+.frlft .icon-technologies {
+  margin-bottom: 15px
+}
+.frlft h2 {
+  width: 100%;
+  display: block;
+  font-size: 40px;
+  font-family: 'universCnd';
+  color: #000;
+  text-align: center;
+  margin-bottom: 0
+}
+.topVision {
+  background-image: url(../images/responsive/companys/aboutUs/visionbg.jpg);
+  background-size: 100% 100%;
+  display: table;
+  width: 100%
+}
+.btmMission {
+  background-image: url(../images/responsive/companys/aboutUs/m.jpg);
+  background-size: 100% 100%;
+  display: table;
+  width: 100%
+}
+.topVision div,
+.btmMission div {
+  display: table-cell;
+  vertical-align: middle;
+  height: 270px
+}
+#visionTest {
+  float: right;
+  padding: 0;
+  width: 31%;
+  height: auto;
+  margin-bottom: 20px;
+  margin-top: 40px
+}
+#visionTest .testimonialTitle {
+  text-transform: none;
+  font-size: 24px
+}
+#managDesc h2 {
+  color: #000;
+  margin-top: 40px
+}
+.leftValues {
+  float: left;
+  width: 65%
+}
+.leftValues ul {
+  margin-top: 10px
+}
+.leftValues ul li {
+  line-height: 40px;
+  color: #727272;
+}
+.icon-architects {
+  color: #e39705
+}
+.icon-QA {
+  color: #0fc205
+}
+.icon-designers {
+  color: #04a7e3
+}
+.icon-analysts {
+  color: #e7486d
+}
+.icon-developers {
+  color: #8680c3
+}
+.rightEntryImage {
+  width: 43%;
+  float: right
+}
+.entryList {
+  width: 57%
+}
+.leftEntryImage {
+  float: left;
+  width: 44%
+}
+.entryListOffer {
+  float: right;
+  width: 49%;
+  margin-left: 7%;
+  margin-bottom: 25px
+}
+.careerContent .workCulture {
+  margin-top: 60px
+}
+.workCulture .leftContent,
+.celebratingWork .rightContent {
+  text-align: center
+}
+.celebratingWork {
+  margin-top: 50px
+}
+.celebratingWork .leftContent {
+  margin-top: 50px
+}
+.celebratingWork .leftContent,
+.celebratingWork .rightContent {
+  float: right
+}
+.celebratingWork .leftContent h2,
+.celebratingWork .leftContent p {
+  text-align: right
+}
+#contactForm input {
+  background-color: #F9F9F9;
+  border: 1px solid #C9C9C9;
+  border-radius: 3px;
+  color: #9c9c9c;
+  float: none;
+  font-family: 'OpenSansRegular';
+  margin-left: 0;
+  padding: 4px 10px;
+  width: 95%;
+  line-height: 24px;
+  font-size: 16px
+}
+#contactForm .leftSection {
+  float: left;
+  margin-right: 2%;
+  width: 46%
+}
+#contactForm .rightSection {
+  float: right;
+  margin-left: 2%;
+  width: 46%
+}
+#contactForm input.sendBtn {
+  background-color: #E8202A;
+  border: 0 none;
+  border-radius: 33px;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 14px;
+  font-family: 'OpenSansBold';
+  height: 40px;
+  margin: 0 auto;
+  padding: 0 16px;
+  width: 150px
+}
+.contactType ul li label,
+.contactType ul li label.active {
+  background-size: 29px 29px;
+  padding: 5px 25px 0 40px;
+  display: inline-block;
+  top: 0
+}
+.contactType ul li label {
+  color: #393939;
+  font-family: 'OpenSansRegular';
+  padding-top: 5px
+}
+#contactForm .formSect {
+  padding: 15px 5px 5px
+}
+.contactType .formLbl {
+  padding: 0 20px 0 12px
+}
+.applyForm.newinquiryspcng {
+  max-width: 1100px;
+  margin: 0 auto
+}
+.captchWrap .captcha {
+  float: left;
+  margin-right: 10px
+}
+#contactForm .captchWrap input {
+  width: 38%;
+  float: left;
+  min-width: 160px
+}
+#projectType select {
+  background-color: #F9F9F9;
+  border: 1px solid #C9C9C9;
+  color: #9c9c9c;
+  height: 41px
+}
+#projectType.styled-select {
+  margin-top: 10px;
+  width: 100%
+}
+#projectType.styled-select:before {
+  background-color: #F9F9F9;
+  border-color: transparent;
+  height: 35px
+}
+.firstCol {
+  padding-top: 10px
+}
+#contactForm input {
+  height: 29px
+}
+.sendBtnWrap {
+  float: left;
+  width: 100%;
+  text-align: center;
+  border-top: 1px solid #e3e3e3;
+  margin-top: 40px;
+  padding: 40px 0
+}
+#contactForm #ucaptchaValMsg {
+  clear: both;
+  display: block
+}
+#contactForm .error_msg {
+  color: #E51E25;
+  display: block;
+  font-family: 'OpenSansItalic';
+  font-size: 14px;
+  margin: 10px 0 0;
+  padding-left: 11px
+}
+.linkedInApply,
+#jobsTable ul li .careercontent p.location {
+  display: none!important
+}

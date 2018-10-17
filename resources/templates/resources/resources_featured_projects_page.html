@@ -1,0 +1,140 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags wagtailimages_tags %}
+{% load static %}
+{% load wagtailcore_tags %}
+{% block body_class %}template-resourcesfeaturedprojectspage{% endblock %}
+
+{% block content %}
+
+
+<div id="cform" class="feedback" style="display:none;">
+    <div class="feedbackInner">
+        <div id="statusDiv" class="feedbackSmtMsg"></div>
+        <form method="post" id="feedbackForm" name="feedbackImg" class="drop"><input type='hidden' name='csrfmiddlewaretoken' value='zkIEG81ylDjUDPGBc0c6d51TyfrCMVUq' />
+                <div class="feedbackFrm">
+                    <input autofocus="autofocus" class="feedbackTxt" id="id_email" maxlength="100" name="email" onkeyup="limitText(this.form.email, 150)" placeholder="Your email" title="Please enter a valid email" type="email" />
+                    <span id="mailValmsg"></span>
+                    <textarea class="feedbackTxtArea" cols="20" id="id_comments" maxlength="1000" name="comments" onkeyup="limitText(this.form.comments, 1000)" placeholder="Inquiry/Feedback" rows="4" title="Please enter feedback">
+</textarea>
+                    <span id="comntValmsg"></span>
+                    <div class="clear"></div>
+                    <div class="captchaHolder">
+                    <div class="captcha_feedback">
+                        <img alt="Captcha code" src="#" />
+                    </div>
+                            <input autocomplete="off" class="feedbackTxt" id="id_captcha" maxlength="10" name="captcha" onkeyup="limitText(this.form.captcha, 10)" placeholder="Enter Code *" title="Please enter valid captcha" type="text" />
+                        <span id="captchafeedValMsg" ></span>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <br>
+                <div class="ruler"></div>
+                <div class="feedbackBtm"></div>
+                <div class="feedbackSbmt">
+                    <input type="submit" value="Submit Message" name="submit" class="submitBtn" />
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    <div class="close" title="Close button"><span class="icon_Homeleft"></span></div>
+</div><!--feedback form -->
+<div id="breadcrumb">
+    <div id="breadcrumbInner">
+        <span>
+            <a href="{{ page.get_parent.url }}">Resources</a>
+            <span class="breadcrumbSlash">/</span> Featured Projects
+        </span>
+        <div class="inquirybtnHolder">
+            <div class="InquiryBtn">SEND INQUIRY</div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+        <div class="clear"></div>
+        <section class="homeWrapper">
+            <div class="homeContent clearfix">
+
+                <div id="content" class="services">
+                    <div class="leftCnt privacy">
+
+                    </div>
+                </div>
+
+                <section class="content">
+
+<!-- <h1 id="headTitle">Featured Projects</h1>
+ --><div class="casesubNav clearfix cloudSolNav resourcesNav">
+    <div class="subMenus">
+        <ul class="menuSelected">
+            <li class="selectOption" value="">
+                <a href="{{ page.get_parent.url }}">
+                    <span>Featured Projects</span>
+                </a>
+            </li>
+            <li class="resourceDropdown"><span class="iconHomedown"></span></li>
+        </ul>
+        <ul id="mobMenuHolder" class="clearfix ">
+            <li class="active">
+                <a href="">
+                    <span value="Featured Projects">{{page.resourcesNav1}}</span>
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    <span value="Videos">{{page.resourcesNav2}}</span>
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    <span value="Case Studies">{{page.resourcesNav3}}</span>
+                </a>
+            </li>
+            <li>
+                <a href="">
+                    <span value="Whitepapers">{{page.resourcesNav4}}</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="clientSection">
+    <div class="caseloader">
+        <img src="../../images/responsive/commons/ajax-loader.gif">
+    </div>
+
+    </div>
+    <div id="casecontainer" class="clearfix">
+      {% for item in page.featured_projects_gallary.all %}
+
+        <div class="elements tech analytics web view" itemscope itemtype="https://schema.org/CreativeWork">
+            <p class="caseStudyImage">
+                <a href="" target="" itemprop="url">
+                    {% image item.image max-1000x500 %}
+                </a>
+            </p>
+            <p>
+                <a href="" target="">
+                    <span class="firstTitle" itemprop="name">{{ item.heading }}</span>
+                </a>
+                <span class="secondTitle" itemprop="description">{{ item.subheading }}</span>
+            </p>
+        </div>
+
+        {% endfor %}
+
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+                </section>
+
+            </div>
+        </section>
+    </div>
+
+
+
+{% endblock %}

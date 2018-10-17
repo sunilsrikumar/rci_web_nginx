@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="137px" height="66px" viewBox="0 0 137 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>granular_operational_analytics</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="10 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Device-Desktops" transform="translate(-192.000000, -1179.000000)">
+            <g id="iot_solutions_manufacturing" transform="translate(80.000000, 635.000000)">
+                <g id="Group-15" transform="translate(70.000000, 373.000000)">
+                    <g id="Group-13" transform="translate(58.000000, 0.000000)">
+                        <g id="granular_operational_analytics" transform="translate(11.000000, 171.000000)">
+                            <ellipse id="Oval-7" fill="#000000" opacity="0.1" filter="url(#filter-1)" cx="41.5" cy="64.6056338" rx="41.5" ry="1.3943662"></ellipse>
+                            <g id="analytics-(2)" transform="translate(8.000000, 0.386391)">
+                                <g id="Layer_1">
+                                    <polyline id="Path-2" stroke="#979797" stroke-width="2" points="4.60997046 36.1335615 19.2725919 28.0020009 33.9442228 15.4624173 48.3156083 29.5281307 56.7639815 8.07533783 63.2784751 3.765422"></polyline>
+                                    <ellipse id="Oval" fill="#E6E9EE" cx="63.1221627" cy="4.6285007" rx="4.78650019" ry="4.41648319"></ellipse>
+                                    <ellipse id="Oval" fill="#FF7058" cx="63.1221627" cy="4.6285007" rx="2.78398481" ry="2.56877084"></ellipse>
+                                    <ellipse id="Oval" fill="#E6E9EE" cx="48.260049" cy="29.382776" rx="4.78650019" ry="4.41648319"></ellipse>
+                                    <ellipse id="Oval" fill="#FF7058" cx="48.260049" cy="29.382776" rx="2.78398481" ry="2.56877084"></ellipse>
+                                    <ellipse id="Oval" fill="#E6E9EE" cx="33.8375119" cy="16.0983345" rx="4.78650019" ry="4.41648319"></ellipse>
+                                    <ellipse id="Oval" fill="#FF7058" cx="33.8375119" cy="16.0983345" rx="2.78398481" ry="2.56877084"></ellipse>
+                                    <ellipse id="Oval" fill="#E6E9EE" cx="19.3986942" cy="27.9090847" rx="4.78650019" ry="4.41648319"></ellipse>
+                                    <ellipse id="Oval" fill="#FF7058" cx="19.3986942" cy="27.9090847" rx="2.78398481" ry="2.56877084"></ellipse>
+                                    <ellipse id="Oval" fill="#E6E9EE" cx="5.30113325" cy="35.6368973" rx="4.78650019" ry="4.41648319"></ellipse>
+                                    <ellipse id="Oval" fill="#FF7058" cx="5.30113325" cy="35.6368973" rx="2.78398481" ry="2.56877084"></ellipse>
+                                </g>
+                            </g>
+                            <g id="analytics-(3)" transform="translate(8.000000, 11.905311)">
+                                <g id="Layer_1">
+                                    <g id="Group">
+                                        <g transform="translate(0.827393, 41.164206)" id="Shape" fill="#425B68">
+                                            <polygon points="0.111886507 9.77434952 9.65467051 9.77434952 9.65467051 0.075807625 0.111886507 0.075807625"></polygon>
+                                            <polygon points="14.4261526 9.77434952 23.9689366 9.77434952 23.9689366 0.075807625 14.4261526 0.075807625"></polygon>
+                                            <polygon points="28.7404187 9.77434952 38.2833828 9.77434952 38.2833828 0.075807625 28.7404187 0.075807625"></polygon>
+                                            <polygon points="43.0548649 9.77434952 52.5976489 9.77434952 52.5976489 0.075807625 43.0548649 0.075807625"></polygon>
+                                            <polygon points="57.369131 9.77434952 66.911915 9.77434952 66.911915 0.075807625 57.369131 0.075807625"></polygon>
+                                        </g>
+                                        <g transform="translate(0.827393, 0.294008)" id="Shape" fill="#EA6148">
+                                            <polygon points="0.111886507 40.9460055 9.65467051 40.9460055 9.65467051 31.2474636 0.111886507 31.2474636"></polygon>
+                                            <polygon points="14.4261526 40.9460055 23.9689366 40.9460055 23.9689366 23.4887179 14.4261526 23.4887179"></polygon>
+                                            <polygon points="28.7404187 40.9460055 38.2833828 40.9460055 38.2833828 11.8503798 28.7404187 11.8503798"></polygon>
+                                            <polygon points="43.0548649 40.9460055 52.5976489 40.9460055 52.5976489 25.4282945 43.0548649 25.4282945"></polygon>
+                                            <polygon points="57.369131 40.9460055 66.911915 40.9460055 66.911915 0.21226135 57.369131 0.21226135"></polygon>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

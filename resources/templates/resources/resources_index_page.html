@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags wagtailimages_tags %}
+{% load static %}
+{% load wagtailcore_tags %}
+
+{% block body_class %}template-resourcesindexpage{% endblock %}
+{% block content %}
+
+
+
+<div id="cform" class="feedback" style="display:none;">
+    <div class="feedbackInner">
+        <div id="statusDiv" class="feedbackSmtMsg"></div>
+        <form method="post" id="feedbackForm" name="feedbackImg" class="drop"><input type='hidden' name='csrfmiddlewaretoken' value='zkIEG81ylDjUDPGBc0c6d51TyfrCMVUq' />
+                <div class="feedbackFrm">
+                    <input autofocus="autofocus" class="feedbackTxt" id="id_email" maxlength="100" name="email" onkeyup="limitText(this.form.email, 150)" placeholder="Your email" title="Please enter a valid email" type="email" />
+                    <span id="mailValmsg"></span>
+                    <textarea class="feedbackTxtArea" cols="20" id="id_comments" maxlength="1000" name="comments" onkeyup="limitText(this.form.comments, 1000)" placeholder="Inquiry/Feedback" rows="4" title="Please enter feedback">
+</textarea>
+                    <span id="comntValmsg"></span>
+                    <div class="clear"></div>
+                    <div class="captchaHolder">
+                    <div class="captcha_feedback">
+                        <img alt="Captcha code" src="#" />
+                    </div>
+                            <input autocomplete="off" class="feedbackTxt" id="id_captcha" maxlength="10" name="captcha" onkeyup="limitText(this.form.captcha, 10)" placeholder="Enter Code *" title="Please enter valid captcha" type="text" />
+                        <span id="captchafeedValMsg" ></span>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <br>
+                <div class="ruler"></div>
+                <div class="feedbackBtm"></div>
+                <div class="feedbackSbmt">
+                    <input type="submit" value="Submit Message" name="submit" class="submitBtn" />
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    <div class="close" title="Close button"><span class="icon_Homeleft"></span></div>
+</div><!--feedback form -->
+<div id="breadcrumb">
+    <div id="breadcrumbInner">
+        <span>
+				<a href="{{ page.get_parent.url }}">Home</a>
+				<span class="breadcrumbSlash">/</span> Resources
+        </span>
+    </div>
+</div>
+
+        <div class="clear"></div>
+        <section class="homeWrapper">
+            <div class="homeContent clearfix">
+
+                <div id="content" class="services">
+                    <div class="leftCnt privacy">
+
+                    </div>
+                </div>
+
+                <section class="content">
+
+<section>
+    <h1>{{page.indexheading}}</h1>
+    <p class="headDesc">{{page.intro}}</p>
+</section>
+<section class="clearfix">
+    <ul class="landingPageBlock resourcesBlock">
+
+        {% for post in page.get_children %}
+        {% with post=post.specific %}
+        <li class="element ">
+            <div >
+                <a href="{% pageurl post %}">
+                  {% image post.image fill-200x200 %}
+                </a>
+            </div>
+            <div class="elementText">
+                <a href="{% pageurl post %}">
+                    <h2>{{post.heading}}</h2>
+                </a>
+                <p>{{ post.intro|richtext }}</p>
+            </div>
+            <div class="elementLink">
+                <a href="{% pageurl post %}">Read More<span class="viewLeftArrow">></span></a>
+            </div>
+        </li>
+
+        {% endwith %}
+    {% endfor %}
+
+    </ul>
+</section>
+
+                </section>
+
+            </div>
+        </section>
+
+
+
+
+{% endblock %}

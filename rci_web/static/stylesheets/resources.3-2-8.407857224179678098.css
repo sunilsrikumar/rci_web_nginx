@@ -1,0 +1,4582 @@
+/*casestudies -start*/
+
+#headTitle {
+  font-size: 0;
+}
+
+/**********chatterfly******/
+
+.chatterflyrightfirst,
+.deanEdwardrightfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 45px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.chatterflyrightthird,
+.deanEdwardrightthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 45px;
+  margin-top: 45px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.chatterflyleftfirst p,
+.deanEdwardleftfirst p {
+  padding-bottom: 36px;
+}
+.chatterflyleftsecond p,
+.chatterflyleftthird p,
+.chatterflyrightsecond p,
+.deanEdwardleftsecond p,
+.deanEdwardleftthird p,
+.deanEdwardrightsecond p {
+  padding-bottom: 16px;
+}
+.chatterflylist {
+  margin-top: 10px;
+}
+.chatterflylist li {
+  float: left;
+  font-size: 17px;
+}
+.chatterflylist li:first-child {
+  width: 34%;
+}
+.deanEdwardlist li:first-child {
+  width: 24%;
+}
+.chatterflylist li:nth-child(2) {
+  width: 42%;
+}
+.chatterflylist li:nth-child(3) {
+  width: 23.5%;
+}
+.chatterflylist li:nth-child(4) {
+  width: 34%;
+}
+.chatterflylist li:nth-child(5) {
+  width: 42%;
+}
+.chatterflylist li:nth-child(6) {
+  width: 22%;
+}
+.chatterflylist li:nth-child(7) {
+  width: 76%;
+}
+.chatterflyrightsecond,
+.chatterflyrightfourth,
+.chatterflyleftfirst,
+.chatterflyleftsecond,
+.chatterflyleftthird,
+.chatterflyleftfourth {
+  float: left;
+}
+
+/******savenia***********/
+
+.saveniarightfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.saveniarightthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 51px;
+  margin-top: 50px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.saveniarightsecond,
+.saveniarightfourth,
+.savenialeftfirst,
+.savenialeftsecond,
+.savenialeftthird,
+.savenialeftfourth,
+.saveniarightfifth {
+  float: left;
+}
+.saveniarightfourth p:nth-child(3) {
+  padding-bottom: 15px;
+}
+.saveniarightfourth p {
+  padding-bottom: 16px;
+}
+.savenilist {
+  margin-top: 10px;
+}
+.savenilist li {
+  float: left;
+  font-size: 17px;
+}
+.savenilist li:first-child {
+  width: 28%;
+}
+.savenilist li:nth-child(2) {
+  width: 34%;
+}
+.savenilist li:nth-child(3) {
+  width: 35%;
+}
+.savenilist li:nth-child(4) {
+  width: 28%;
+}
+.savenilist li:nth-child(5) {
+  width: 35%;
+}
+.savenilist li:nth-child(6) {
+  width: 32%;
+}
+.savenialeftfirst,
+.savenialeftsecond {
+  padding-bottom: 25px;
+}
+.saveniarightsecond {
+  padding-bottom: 20px;
+}
+
+/******Breathpattern****/
+
+.breathpatternrightfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.breathpatternrightsecond,
+.breathpatternrightfourth,
+.breathpatternleftfirst,
+.breathpatternleftsecond,
+.breathpatternleftthird,
+.breathpatternrightthird {
+  float: left;
+}
+.breathpatternleftfirst h2,
+.breathpatternleftsecond h2 {
+  padding-top: 16px;
+}
+.breathpatternrightthird {
+  padding: 30px 0 25px 0;
+}
+.breathlist {
+  padding-top: 10px;
+}
+.breathpatternleftfirst {
+  margin-bottom: 28px;
+}
+.breathpatternleftthird {
+  margin-bottom: 12px;
+}
+.breathpatternrightsecond {
+  margin-bottom: 15px;
+}
+.deanEdwardrightsecond,
+.deanEdwardrightfourth,
+.deanEdwardleftfirst,
+.deanEdwardleftsecond,
+.deanEdwardleftthird,
+.deanEdwardleftfourth {
+  float: left;
+}
+.deanEdwardlist li:nth-child(2) {
+  width: 55%;
+}
+.deanEdwardlist li:nth-child(3) {
+  width: 20.5%;
+}
+.deanEdwardlist li:nth-child(4) {
+  width: 24%;
+}
+.deanEdwardlist li:nth-child(5) {
+  width: 75%;
+}
+.deanEdward .deanEdwardrightthird {
+  padding-bottom: 2px;
+  padding-top: 10px;
+}
+.deanProjectHighlights {
+  width: 100%;
+}
+.deanProjectHighlights .projectHighlightsList {
+  width: 50%;
+  float: left;
+}
+.deanProjectHighlights .projectHighlightsList .listCont {
+  width: 91%;
+}
+.deanEdwardrightthird .deanEdwardlist li span:nth-child(2) {
+  float: left;
+  position: relative;
+  top: -5px;
+  width: 80%;
+}
+
+/****NewzGlobe***/
+
+.newzgloberightfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 45px;
+  /*margin-top: 20px;*/
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.newzglobeleftfifth h2,
+.newzgloberightthird h2 {
+  padding-top: 16px;
+}
+.newzglobeleftfirst p,
+.newzglobeleftsecond p,
+.newzglobeleftthird p {
+  padding-bottom: 36px;
+}
+.newzglobeleftfirst,
+.newzglobeleftsecond,
+.newzgloberightsecond,
+.newzglobeleftthird,
+.newzglobeleftfourth,
+.newzglobeleftfifth,
+.newzgloberightthird {
+  float: left;
+}
+.newzgloberightthird {
+  width: 100%;
+}
+
+/***Metal Face***/
+
+.metalfacerightfirst,
+.metalfacerightthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 45px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.metalfacerightthird {
+  padding: 15px 30px 8px;
+}
+.metalfaceleftfirst p,
+.metalfacerightsecond p {
+  padding-bottom: 36px;
+}
+.metalfaceleftsecond p {
+  padding-bottom: 25px;
+}
+.metalfaceleftfirst,
+.metalfaceleftsecond,
+.metalfaceleftthird,
+.metalfacerightsecond,
+.metalfacerightfourth,
+.metalfacerightfifth {
+  float: left;
+  width: 100%;
+}
+.metalList {
+  margin-left: 35px;
+  width: auto;
+}
+.metalfacerightthird li:first-child {
+  width: 63%;
+}
+.metalfacerightthird li {
+  float: left;
+  font-size: 17px;
+}
+.metalfacerightthird li:nth-child(3) {
+  width: 63%;
+}
+.metalfacerightthird li:last-child {
+  width: 73%;
+}
+.metalfacerightthird li:nth-child(2) {
+  width: 28%;
+}
+.metalfacerightthird li:nth-child(4) {
+  width: 28%;
+}
+.metalfacerightthird .techText {
+  float: left;
+  width: 87%;
+}
+
+/***Jewellery App***/
+
+.jewelApprightfirst,
+.jewelApprightfourth {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.jewelApprightfourth {
+  padding: 15px 0px 8px 30px;
+  width: 100%;
+}
+.jewelAppleftfirst h2,
+.jewelAppleftthird h2 {
+  padding-top: 16px;
+}
+.jewelAppleftfirst p,
+.jewelApprightsecond p,
+.jewelApprightthird p {
+  padding-bottom: 36px;
+}
+.jewelAppleftsecond p {
+  padding-bottom: 25px;
+}
+.jewelAppleftthird .innerList .listCont {
+  width: 89%;
+}
+.jewelAppleftfirst,
+.jewelAppleftsecond,
+.jewelAppleftthird,
+.jewelApprightsecond,
+.jewelApprightthird,
+.jewelApprightfifth {
+  float: left;
+  width: 100%;
+}
+.jewelApprightfourth li:first-child {
+  width: 25%;
+}
+.jewelApprightfourth li {
+  float: left;
+  font-size: 17px;
+}
+.jewelApprightfourth li:nth-child(3) {
+  width: 35%;
+}
+.jewelApprightfourth li:last-child {
+  width: 35%;
+}
+.jewelApprightfourth li:nth-child(2) {
+  width: 40%;
+}
+.jewelApprightfourth li:nth-child(4) {
+  width: 25%;
+}
+.jewelApprightfourth li:nth-child(5) {
+  width: 40%;
+}
+.jewelApprightfourth li:nth-child(6) {
+  width: 35%;
+}
+.jewelApprightfourth li:nth-child(7) {
+  width: 25%;
+}
+.jewelApprightfourth li:nth-child(8) {
+  width: 40%;
+}
+.jewelApprightfourth .techText {
+  float: left;
+  width: 79%;
+}
+.jewelAppleftthird .innerList li {
+  padding-bottom: 0;
+  margin: 0;
+  width: 49%;
+  float: left;
+}
+.jewelAppleftthird .innerList {
+  margin-left: 20px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.jewelApprightthird .jewelAppDevelopmentPara {
+  padding-bottom: 15px;
+}
+
+/***CustomMade CS***/
+
+.customMaderightfirst,
+.customMaderightthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 20px 30px 25px;
+  width: 88%;
+}
+.customMaderightthird {
+  padding: 15px 5px 8px 30px;
+  margin-top: 35px;
+  width: 94%;
+}
+.customMadeleftfirst h2,
+.customMadeleftthird h2,
+.customMadeleftfourth h2,
+.customMaderightfifth h2 {
+  padding-top: 16px;
+}
+.customMadeleftfirst p {
+  padding-bottom: 36px;
+}
+.customMadeleftsecond p {
+  padding-bottom: 25px;
+}
+.customMaderightsecond p {
+  padding-bottom: 16px;
+}
+.customMadeleftfirst,
+.customMadeleftsecond,
+.customMadeleftthird,
+.customMadeleftfourth,
+.customMaderightsecond,
+.customMaderightfourth {
+  float: left;
+  width: 100%;
+}
+.customMaderightthird li {
+  float: left;
+  font-size: 17px;
+  width: 100%;
+}
+.customMaderightthird .techGroup {
+  float: left;
+}
+.customMaderightthird .techText {
+  float: left;
+  width: 92%;
+}
+.customMaderightthird li .customMadeTech {
+  float: left;
+}
+.customMaderightthird li:first-child .customMadeTech {
+  width: 79%;
+}
+.customMaderightthird li:nth-child(2) .customMadeTech {
+  width: 46%;
+}
+.customMaderightthird li:nth-child(3) .customMadeTech {
+  width: 80%;
+}
+.customMaderightthird li:nth-child(4) .customMadeTech {
+  width: 80%;
+}
+.customMaderightthird li:nth-child(8) .customMadeTech {
+  width: 72%;
+}
+
+/***Scorfolio CS***/
+
+.caseStudyClientProfile,
+.scorfoliorightthird,
+.prprescuerightthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  float: left;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 10px 30px 25px;
+  width: 88%;
+}
+.scorfoliorightthird {
+  padding: 15px 5px 8px 30px;
+  margin-top: 35px;
+  width: 94%;
+}
+.scorfolioleftfirst p,
+.scorfolioleftthird p {
+  padding-bottom: 32px;
+}
+.scorfolioleftsecond p {
+  padding-bottom: 33px;
+}
+.scorfolioleftsecond .listText,
+.scorfolioleftfourth .listText {
+  margin-bottom: 10px;
+}
+.scorfolioleftthird .listText {
+  margin-bottom: 11px;
+}
+.scorfoliorightsecond p {
+  padding-bottom: 16px;
+}
+.scorfolioleftfifth p {
+  margin-bottom: 27px;
+}
+.scorfolioleftsecond.newCasesub.portekSubContent,
+.scorfolioleftthird.newCasesub.portekSubContent {
+  width: 91%;
+}
+.scorfolioleftfirst,
+.scorfolioleftsecond,
+.scorfolioleftthird,
+.scorfolioleftfourth,
+.scorfolioleftfifth,
+.scorfoliorightsecond,
+.scorfoliorightfourth {
+  float: left;
+  width: 100%;
+}
+.scorfolioleftfifth p:nth-child(3),
+.scorfolioleftfifth p:nth-child(4),
+.scorfolioleftfifth p:nth-child(5) {
+  margin-top: 10px;
+}
+.scorfoliorightthird li {
+  float: left;
+  font-size: 17px;
+  width: 100%;
+}
+.scorfoliorightthird .techGroup {
+  float: left;
+}
+.scorfoliorightthird .techText {
+  float: left;
+  width: 86%;
+}
+.scorfoliorightthird .scorfolioTechServerBlock,
+.scorfoliorightthird .scorfolioTechClientBlock {
+  float: left;
+}
+.scorfoliorightthird .scorfolioTechServerBlock {
+  width: 63%;
+  margin-left: 15px;
+}
+.scorfoliorightthird .scorfolioTechClientBlock {
+  width: 30%;
+}
+.scorfoliorightthird h4 {
+  color: #262626;
+  font-family: 'OpenSansBold';
+  font-size: 18px;
+  line-height: 40px;
+  padding-bottom: 4px;
+}
+.scorfolioContent .caseblock {
+  padding: 25px 30px;
+}
+.awsEnvironmentTitle {
+  padding-bottom: 10px;
+}
+.newCS.bankingnewCS {
+  min-height: auto;
+}
+.bankingcaseouterContent {
+  min-height: calc(100vh - 1075px);
+}
+.newCS{
+  min-height: calc(100vh - 618px);
+}
+.featuredProjectsWrapper {
+  min-height: calc(100vh - 548px);
+}
+.csinnerList .icon-Bullet-2,
+.designing .listText.mobListWidth .csinnerList li span.icon-Bullet-2 {
+  color: #e2292f;
+}
+// .medRepList.medList {
+//   display: none !important;
+// }
+// .newCS .listCont {
+//   display: inline-block;
+// }
+
+/*casestudies -end*/
+
+
+/*casestudies -start*/
+
+
+/***Saveworks CS***/
+
+.saveworksleftfirst h2 {
+  padding-top: 16px;
+}
+.saveworksleftfirst p,
+.saveworksleftsecond p,
+.saveworksrightsecond p,
+.saveworksrightthird p {
+  padding-bottom: 36px;
+}
+.saveworksleftthird .listText .saveworkslist {
+  padding-bottom: 0;
+}
+.saveworkslist .listText li:first-child {
+  padding-bottom: 10px;
+}
+.saveworkslist .innerList li:first-child {
+  padding-bottom: 5px;
+}
+.saveworkslist .innerList {
+  margin-top: 0;
+}
+.saveworksleftfirst,
+.saveworksleftsecond,
+.saveworksleftthird,
+.saveworksrightsecond,
+.saveworksrightthird,
+.saveworksrightfourth,
+.saveworksrightfifth {
+  float: left;
+  width: 100%;
+}
+.saveworksrightfourth .saveworksTechBlock,
+.scorfoliorightthird .saveworksTechBlock {
+  float: left;
+  width: 50%;
+}
+.saveworksTechBlock .listCont {
+  width: 80%;
+}
+.listText .saveworksTechBlock .iconAndroid {
+  color: #9AC241;
+  font-size: 32px;
+}
+.listText .saveworksTechBlock .iconApp {
+  font-size: 30px;
+}
+
+/***Plusnet CS***/
+
+.plusnetleftfirst h2,
+.plusnetleftthird h2,
+.plusnetrightfourth h2 {
+  padding-top: 16px;
+}
+.plusnetleftfirst p,
+.plusnetleftthird p,
+.plusnetrightsecond p {
+  padding-bottom: 36px;
+}
+.plusnetleftfourth .plusnetlist,
+.plusnetrightfourth .plusnetlist {
+  margin-top: 20px;
+}
+.plusnetleftfirst,
+.plusnetleftsecond,
+.plusnetleftthird,
+.plusnetleftfourth,
+.plusnetrightsecond,
+.plusnetrightthird,
+.plusnetrightfourth {
+  float: left;
+  width: 100%;
+}
+
+/***PRP Rescue CS***/
+
+.prprescueleftfirst h2,
+.prprescueleftthird h2,
+.prprescueleftfourth h2 {
+  padding-top: 16px;
+}
+.prprescueleftfirst p,
+.prprescueleftfourth p,
+.prprescuerightsecond p {
+  padding-bottom: 36px;
+}
+.prprescueleftfirst,
+.prprescueleftsecond,
+.prprescueleftthird,
+.prprescueleftfourth,
+.prprescuerightsecond,
+.prprescuerightfourth {
+  float: left;
+  width: 100%;
+}
+.prprescueInnerList {
+  margin: 10px 0 0 30px;
+}
+.prprescueInnerList li {
+  padding-bottom: 0;
+}
+.prprescueTechList {
+  width: 33%;
+  float: left;
+}
+.prprescueTechList .listCont {
+  width: 77%;
+}
+.prprescueTechInnerList {
+  margin-top: 10px;
+}
+.acis .acislist li {
+  width: 33%;
+  display: inline-block;
+}
+.newzgloberightfirst.revampRight {
+  margin-bottom: 36px;
+}
+.revampTechnologies {
+  float: left;
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-bottom: 35px;
+  padding: 20px 30px 30px;
+  float: left;
+  margin-top: 33px
+}
+.revampTechnologiesinnerList .icon-Bullet-1 {
+  margin-top: 9px;
+}
+.revampList {
+  padding-bottom: 16px;
+}
+.revampTechnologiesinnerList li {
+  display: inline-block;
+  width: 49%;
+}
+.revampTechnologiesinnerList .listCont {
+  width: 80%;
+}
+.listText.innerList.revampTechnologiesinnerList {
+  margin: 20px 0 0 25px;
+}
+.revampTechnologiesList.clearfix {
+  float: left;
+  width: 64%;
+  border-right: 1px solid #CFCFCF;
+  margin-top: 10px;
+}
+.revampTechnologiesinnerList {
+  width: 100%;
+}
+.newzglobeleftfifth.revampEnd {
+  margin-top: 20px;
+}
+.newzgloberightthird.revampMain {
+  margin-top: 20px;
+}
+.saveworksrightfourth.revampTechnologies {
+  margin-top: 35px;
+}
+.listText.secondList {
+  float: right;
+  width: 27%;
+  margin-top: 10px;
+}
+.acislist li span:nth-child(2) {
+  display: inline-block;
+  width: 78%;
+}
+.medactivusrightsecond.everfi {
+  float: none;
+}
+.everfilist .listText li {
+  padding-bottom: 20px !important;
+}
+.listText.first.listOrder.clearfix.everfiTechnologies li {
+  width: 50%;
+}
+.scorfolioleftfourth p {
+  margin-bottom: 20px;
+}
+.bankingConsultContent .rightSecond {
+  padding: 10px 0;
+}
+.casesubContent {
+  width: 100%;
+  margin: 25px auto;
+  font-family: 'OpenSansRegular';
+  color: #262626;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.portekSubTitle {
+  font-family: 'OpenSansBold';
+}
+.cloudMigrationTech .portekSubTitle.portekSubTitleNew {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.portekSubTitle.portekSubTitleNew {
+  display: block;
+}
+.casesubContent p {
+  margin: 0 auto;
+  width: 100%;
+  line-height: 24px;
+  font-size: 14px;
+}
+.casesubLeft,
+.mobileCasesubLeft,
+.bankcasesubLeft {
+  width: 48%;
+  margin-right: 2.5%;
+  float: left;
+}
+.casesubRight {
+  width: 49%;
+  float: left;
+}
+.casesubRight .rightHolder {
+  padding-left: 30px;
+}
+.rightHolder h2 {
+  line-height: 16px;
+  margin-bottom: 16px;
+}
+.casesubContent .rightSecond {
+  border-left: 3px solid #e2292f;
+  margin-top: 0;
+}
+.subSecond {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.subSecond .leftSecond {
+  display: table;
+}
+.subSecond .leftSecond .leftSection {
+  display: table-cell;
+  vertical-align: middle;
+}
+.floralCheck {
+  margin-right: 5px;
+}
+.caseblock {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  padding: 20px 30px 30px;
+  margin-bottom: 35px;
+}
+.caseblock ul {
+  margin-top: 10px;
+}
+.caseblock ul.first {
+  float: left;
+  width: 49%;
+  margin-right: 1%;
+}
+.casesubRight .caseblock ul.listOrder {
+  float: none;
+  margin-right: 0;
+  width: 100%;
+}
+.casesubRight .caseblock ul.listOrder li {
+  float: left;
+  width: 50%;
+}
+.casesubRight .caseblock ul.shopper li:nth-child(1),
+.casesubRight .caseblock ul.shopper li:nth-child(3) {
+  width: 60%;
+}
+.casesubRight .caseblock ul.shopper li:nth-child(2),
+.casesubRight .caseblock ul.shopper li:nth-child(4) {
+  width: 40%;
+}
+#caseouterContent {
+  margin-top: 30px;
+}
+#caseouterContent .casesubContent {
+  width: 82%;
+  margin: 0 auto;
+}
+#caseouterContent .outerFirst,
+#mobileNewsCaseouter .outerFirst {
+  background-color: #F5F5F5;
+  width: 100%;
+  margin: 0 auto 60px;
+  padding: 45px 0;
+}
+#caseouterContent .outerSecond .casesubContent {
+  margin-bottom: 40px;
+}
+#caseouterContent .outerSecond h2,
+.bigDataContent h2,
+#mobileNewsCaseouter .outerSecond h2,
+.mobBlck h2,
+.featuredBlock h2 {
+  border: 1px solid #EBEBEB;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid #EBEBEB !important;
+  text-align: center;
+  padding: 7px 0;
+}
+#caseouterContent .outerSecond h3 {
+  font-size: 18px;
+  font-family: 'OpenSansbold';
+  margin-bottom: 10px;
+}
+#caseouterContent .outerSecond .casesubLeft,
+.analysisContent .casesubLeft,
+#mobileNewsCaseouter .outerSecond .mobileCasesubLeft {
+  width: 32%;
+  margin-top: 40px;
+  margin-right: 1%;
+}
+#mobileNewsCaseouter .outerSecond .mobileCasesubLeft .listText {
+  margin: 10px auto 0;
+}
+.jarusContent .casesubLeft {
+  width: 49%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-right: 1px solid #EBEBEB;
+  margin-right: 0;
+}
+.jarusContent .casesubsecd {
+  border-right: none !important;
+  padding-left: 3%;
+  width: 46%;
+}
+.jarusContent .casesubLeft ul li:last-child {
+  padding-bottom: 0;
+}
+.jarusContent .casesubLeft ul li:last-child .innerList {
+  margin-bottom: 0;
+}
+#caseouterContent .outerSecond .casesubLeft .listCont,
+#mobileNewsCaseouter .outerSecond .mobileCasesubLeft .listCont {
+  width: 91%;
+}
+#caseouterContent .casesubRight,
+#mobileNewsCaseouter .casesubRight {
+  margin-top: 0;
+}
+.techBullet {
+  background: url("../images/responsive/resource/techBullet.png") no-repeat;
+  width: 22px;
+  height: 22px;
+  margin-right: 10px;
+  float: left;
+}
+.caseblock .first li:last-child {
+  padding-bottom: 0;
+}
+.caseblock .first li span:nth-child(2) {
+  position: relative;
+  top: -5px;
+  width: 80%;
+  float: left;
+}
+.auctioningtools .first li span:nth-child(2) {
+  width: 80%;
+  display: inline-block;
+  float: none;
+  position: static;
+}
+.innerList {
+  margin: 20px 0 20px 30px;
+  width: auto;
+}
+.innerList li:last-child {
+  padding-bottom: 0;
+}
+.listFullwidth {
+  width: 100%;
+}
+.analysisContent,
+.jarusContent {
+  margin: 30px auto;
+  width: 100%;
+  float: left;
+}
+.analysisContent {
+  margin-bottom: 0;
+}
+.analysisContent h2,
+.jarusContent h2 {
+  border: 1px solid #EBEBEB;
+  border-bottom: 1px solid #EBEBEB;
+  border-left: 0;
+  border-right: 0;
+  text-align: center;
+}
+.jarusContent h2 {
+  line-height: 70px;
+  margin-bottom: 40px !important;
+}
+.analysisContent .listText .listCont,
+.jarusContent .listText .listCont {
+  width: 93%;
+}
+.leftSecond .listText {
+  display: block;
+}
+.floralLeftsecond,
+.floralLeftthird {
+  margin: 20px auto;
+}
+.businesslefttrd {
+  margin-bottom: 0;
+}
+.floralRightsub {
+  margin-bottom: 20px;
+}
+.medactivusleftthird {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-bottom: 50px;
+  padding: 20px 0px 30px 30px;
+  float: left;
+}
+.airlineapp .medactivusleftthird {
+  padding: 20px 30px 30px;
+}
+.medactivusleftfourth {
+  float: left;
+}
+.medactivusleftsecond {
+  float: left;
+}
+.medactivusleftthird li {
+  float: left;
+  font-size: 17px;
+}
+.medactivusrightsecond {
+  float: right;
+}
+.medactivusleftfirst p {
+  padding-bottom: 40px;
+}
+.medactivusleftsecond p {
+  padding-bottom: 30px;
+}
+.medactivusleftfourth p {
+  padding-bottom: 16px;
+}
+.medactivusrightfirst p {
+  padding-bottom: 40px;
+}
+.medactivusrightsecond p {
+  padding-bottom: 12px;
+}
+.airlineapp .marketingsecond {
+  float: left;
+  width: 100%;
+}
+.airlineapp .medactivusrightfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-bottom: 35px;
+  padding: 20px 30px 30px;
+}
+.airlineapp .medactivusrightfirst p {
+  padding-bottom: 0;
+}
+.airlineapp .marketingsecond p {
+  padding-bottom: 30px;
+}
+.medactivusleftsecond p:last-child {
+  padding-bottom: 65px;
+}
+.medList {
+  margin: 8px 0px 3px 30px;
+  width: auto;
+}
+.medblock {
+  float: left;
+  width: 85.5%;
+}
+.medactivusleftthird li:first-child {
+  width: 60%;
+}
+.content .airlineapp .medactivusleftthird li {
+  width: 40%;
+}
+.content .airlineapp .medactivusleftthird li:nth-child(3) {
+  width: 20%;
+}
+.medactivusleftthird li:last-child {
+  width: 32%;
+}
+.medactivusleftthird li:nth-child(2) {
+  width: 32%;
+}
+.medactivusleftthird li:nth-child(3) {
+  width: 60%;
+}
+.medactivusleftthird li:nth-child(4) {
+  width: 32%;
+}
+.medactivuslist {
+  margin-top: 10px;
+}
+.staytouch .casesubRight .caseblock ul.listOrder li {
+  font-size: 16px;
+  line-height: normal;
+  width: 64%;
+}
+.staytouch .casesubRight .caseblock ul.listOrder li:nth-child(2),
+.staytouch .casesubRight .caseblock ul.listOrder li:nth-child(4),
+.staytouch .casesubRight .caseblock ul.listOrder li:nth-child(6) {
+  width: 36%;
+}
+.staytouch .casesubRight .caseblock ul.listOrder li span:nth-child(2) {
+  width: 78%;
+}
+.staytouch p,
+.staytouch p:last-child,
+.staytouch .medactivusleftsecond p:last-child {
+  padding-bottom: 32px;
+}
+.staytouch .medactivusrightfirst p {
+  padding-bottom: 0;
+}
+.staytouch .medactivusthird .innerList,
+.staytouch .medactivusrightthird .innerList {
+  margin: 10px 0;
+}
+.staytouch .medactivusthird .listText li,
+.staytouch .medactivusrightthird .listText li {
+  padding-bottom: 10px;
+}
+.staytouch .medactivusrightthird .listText {
+  margin: 0 auto 20px;
+}
+.staytouch .marketingsecond {
+  width: 88%;
+}
+.qlearnTechnologyList {
+  margin-top: 10px;
+}
+.qlearnTechnologyList li {
+  width: 30%;
+  display: inline-block;
+}
+.mobileapprightfirst.selfLearningHighlights {
+  padding-top: 0;
+  width: 91%;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+.mobileappleftfirst.qlearnClient {
+  margin: 40px 0 30px;
+}
+.technologyblock.QlearnTechnologies {
+  margin-top: 0px;
+  width: 74%;
+  margin-left: 9%;
+}
+.shopperImage {
+  margin-top: 25px;
+}
+.shopperImage li {
+  float: left;
+  width: 50%;
+}
+.shopperImage li img {
+  display: block;
+  margin: auto;
+}
+.businessBox {
+  background-color: #FBFBFB;
+  border: 5px solid #EBEBEB;
+  float: left;
+  margin-bottom: 42px;
+  margin-top: 40px;
+  padding: 20px 0 20px 20px;
+  width: 95%;
+}
+.businesscont {
+  float: left;
+  width: 95%;
+}
+.serverLastPara span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.rightbusinesscontent {
+  float: left;
+  margin: 10px 0 5px 22px;
+  width: 80%;
+}
+.rightbusinesscontent i {
+  color: #262626;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: justify;
+  width: 98%;
+  font-style: italic;
+}
+.rightbusinesscontent b {
+  color: #262626;
+  float: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 25px;
+  text-align: justify;
+  width: 100%;
+}
+.rightbusinesscontent small {
+  color: #262626;
+  float: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  margin-top: 3px;
+  text-align: justify;
+}
+.businessBox .quotes {
+  top: 0px;
+}
+.business .caseblock .listText {
+  margin-top: 13px;
+}
+.businesslefttrd p {
+  margin-bottom: 20px;
+}
+.circleWebCast {
+  color: #E23335;
+}
+.circlefeatured {
+  color: #0056B6;
+}
+.circleCaseStudy {
+  color: #F66E00;
+}
+.circleArticle {
+  color: #007341;
+}
+.emisList li {
+  width: 50%;
+}
+.moreApps {
+  width: 33%;
+  max-width: 370px;
+  text-align: center;
+  height: 300px;
+  background-size: cover;
+  display: table;
+  position: relative;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  -moz-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  padding: 40px 0;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.thumbnailText {
+  position: absolute;
+  bottom: -200px;
+  padding-left: 20px;
+  text-align: left;
+  transition: top ease 0.5s;
+}
+.thumbnailText h3 {
+  position: relative;
+  top: 15px;
+  transition: top ease 0.5s;
+}
+.moreApps:hover .thumbnailTextHead {
+  top: -5px;
+}
+.moreApps:hover {
+  top: -20px;
+}
+.moreApps p span {
+  font-size: 22px;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.moreApps p,
+.xtraContent {
+  display: none;
+}
+.moreApps:hover .xtraContent {
+  display: block;
+  position: relative;
+  top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+.moreApps:hover:after {
+  opacity: .7;
+}
+.moreApps:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: .5;
+  border-radius: 4px;
+}
+.moreStory {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  justify-content: space-between;
+  -ms-justify-content: space-between;
+  -webkit-justify-content: space-between;
+  margin: 35px auto 80px;
+}
+.moreStoryContent {
+  width: 100%;
+  color: #FFF;
+  position: relative;
+  z-index: 1;
+  margin-top: 110px;
+}
+.moreStoryContent h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+}
+.newCS .pdfImg p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fff;
+  padding-bottom: 0;
+}
+.moreApps.elearnApp {
+  background-image: url("../images/responsive/resource/casestudy/Slices/elearn.png");
+}
+.moreApps.insuranceApp {
+  background-image: url("../images/responsive/resource/casestudy/Slices/insurance.png");
+}
+.moreApps.schoolsApp {
+  background-image: url("../images/responsive/resource/casestudy/Slices/school.png");
+}
+.moreApps.customerApp {
+  background-image: url("../images/responsive/resource/featuredProjects/customerFeedback.png");
+}
+.moreApps.magentoApp {
+  background-image: url("../images/responsive/resource/featuredProjects/optics.png");
+}
+.moreApps.NFCApp {
+  background-image: url("../images/responsive/resource/nfc.png");
+}
+.moreApps.medicalrepsApp {
+  background-image: url("../images/responsive/resource/featuredProjects/medicalReps_Thumb.png");
+}
+.moreApps.shoppingApp {
+  background-image: url("../images/responsive/resource/featuredProjects/shoppingAssist.png");
+}
+.moreApps.coatdesinerApp {
+  background-image: url("../images/responsive/resource/featuredProjects/TrenchCoat_Thumb.png");
+}
+.moreApps.customerfeedbackApp {
+  background-image: url("../images/responsive/resource/featuredProjects/customerFeedback.png");
+}
+.moreApps.intranelportal {
+  background-image: url("../images/responsive/resource/casestudy/intranet.png");
+}
+.moreApps.labormanagment {
+  background-image: url("../images/responsive/resource/casestudy/labour.png");
+}
+.moreApps.fitnessApp {
+  background-image: url("../images/responsive/resource/fitness.png");
+}
+.moreApps.PharmacyApp {
+  background-image: url("../images/responsive/resource/pharmacyApp.png");
+}
+.moreApps.mlearn {
+  background-image: url(../images/responsive/resource/casestudy/mlearn.jpg);
+}
+.moreApps.mobBISoln {
+  background-image: url(../images/responsive/resource/featuredProjects/BIsolution.jpg);
+}
+
+/*added new background image for instoreanalytics*/
+
+.moreApps.kiosk-solution {
+  background-image: url(../images/responsive/resource/casestudy/retail.png);
+}
+.moreApps.e-buisness {
+  background-image: url(../images/responsive/resource/casestudy/ebusns.png);
+}
+.moreApps.mob-bank {
+  background-image: url(../images/responsive/resource/featuredProjects/mobilebankthumb.png);
+}
+.moreApps.digi-wallet {
+  background-image: url(../images/responsive/resource/casestudy/digital-wallet.png);
+}
+.moreApps.sharepoint {
+  background-image: url(../images/responsive/resource/casestudy/sharePoint.png)
+}
+.moreApps.intranet {
+  background-image: url(../images/responsive/resource/casestudy/intranet.png);
+}
+.moreApps.labor {
+  background-image: url(../images/responsive/resource/casestudy/labor.png);
+}
+.moreApps.intl-sales {
+  background-image: url(../images/responsive/resource/casestudy/bullion-trading-platform.png);
+}
+
+/*for patientrecovery*/
+
+.moreApps.medical-records {
+  background-image: url(../images/responsive/resource/casestudy/patientApp.png);
+}
+.moreApps.fitness-app {
+  background-image: url(../images/responsive/resource/casestudy/fitnessApp.jpg);
+}
+.moreApps.umbracoWeb {
+  background-image: url(../images/responsive/resource/casestudy/cmsImplementation.png);
+}
+.moreApps.adobe {
+  background-image: url(../images/responsive/resource/featuredProjects/CQ5.png);
+}
+.moreApps.gamified {
+  background-image: url(../images/responsive/resource/casestudy/gamified-thumbnail.jpg);
+}
+.moreApps.teacherParent {
+  background-image: url(../images/responsive/resource/casestudy/teacher-parent-connect-thumbnail.png);
+}
+.moreApps.homedecor {
+  background-image: url(../images/responsive/resource/casestudy/homeDecor.png);
+}
+.moreApps.webRevamp {
+  background-image: url(../images/responsive/resource/casestudy/revampWebsite.png);
+}
+.moreApps.softwareSuite {
+  background-image: url(../images/responsive/resource/casestudy/hotelSoftware.png);
+}
+.moreApps.siteCom {
+  background-image: url(../images/responsive/resource/casestudy/salesforce-customization.png);
+}
+.moreApps.intranetPortal {
+  background-image: url(../images/responsive/resource/casestudy/intranetPortal.png);
+}
+.moreApps.softwareSuite {
+  background-image: url(../images/responsive/resource/casestudy/hotelSoftware.png);
+}
+.moreApps.patientRecoveryTracker {
+  background-image: url(../images/responsive/resource/casestudy/patientRecovoryTracker.png);
+}
+.moreApps.intranetPrtalDev {
+  background-image: url(../images/responsive/resource/casestudy/intranetPortal.png);
+}
+.moreApps.onlineJobPortal {
+  background-image: url(../images/responsive/resource/casestudy/jobPortal.png);
+}
+.moreApps.inspectionSol {
+  background-image: url(../images/responsive/resource/casestudy/mobileInspection.png);
+}
+.moreApps.privateJet {
+  background-image: url(../images/responsive/resource/casestudy/PrivateflyApp.jpg);
+}
+.moreApps.homeIntelPlatform {
+  background-image: url(../images/responsive/resource/casestudy/communityApplicationRealty.jpg);
+}
+.moreApps.homeIntelligencePlatform {
+  background-image: url(../images/responsive/resource/casestudy/home-intelligence-thumbnail.png);
+}
+.moreApps.mobileLoyalty {
+  background-image: url(../images/responsive/resource/casestudy/mobileApp.jpg);
+}
+.moreApps.healthcareIoT {
+  background-image: url(../images/responsive/resource/casestudy/healthcare-iot-thumbnail.png);
+}
+.moreApps.predictiveAnalytics {
+  background-image: url(../images/responsive/resource/featuredProjects/predictive-landing.png);
+}
+.moreApps.gamifiedMessaging {
+  background-image: url(../images/responsive/resource/casestudy/tengiCS.jpg);
+}
+.moreApps.socialMediaAnalytics {
+  background-image: url(../images/responsive/resource/casestudy/socialMedia.png);
+}
+.casesubContent p.awsHighlightSubhead {
+  padding-bottom: 10px;
+}
+.casesubContent p.paraBefBullet {
+  padding-bottom: 15px;
+}
+.moreStoryWrapper .sectionTitle {
+  text-align: center;
+  margin: 30px auto;
+  color: #262626;
+  line-height: normal;
+}
+.casestudyPdf {
+  text-align: center;
+  position: relative;
+}
+.casestudyPdf .pdfImg {
+  display: inline-block;
+}
+.designing.magnetoList .innerListCommon .listCont,
+.designing.magnetoList .innerListCommon .icon-Bullet-2,
+.innerListCommon .listCont {
+  display: inline-block !important;
+}
+.casestudyPdf .pdfImg img {
+  float: left;
+}
+.pdfImg {
+  position: relative;
+  width: 300px;
+  max-width: 100%;
+  margin: auto;
+  cursor: pointer;
+  display: inline-grid;
+}
+.pdfImg:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: 0;
+}
+.pdfImg:hover:after {
+  opacity: .8;
+}
+.pdfImg:hover>.xtraContent {
+  display: block;
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  color: #FFF;
+  z-index: 1;
+  border: 1px solid #fff;
+  padding: 10px;
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 4px;
+}
+.pdfImg:hover>.smallDownlodIcon {
+  display: none;
+}
+.smallDownlodIcon {
+  position: absolute;
+  background: #333;
+  opacity: .8;
+  bottom: 15px;
+  width: 35px;
+  right: 15px;
+  border-radius: 50%;
+  padding: 5px;
+  height: 35px;
+}
+.smallDownlodIcon img {
+  width: 25px;
+  padding-top: 5px;
+}
+.casestudyPdf .xtraContent img {
+  width: 50px;
+}
+.caseContents {
+  overflow: auto;
+}
+.caseContentContainer {
+  margin-top: 50px;
+}
+.caseContentContainer h2 {
+  line-height: 50px;
+}
+.caseContentContainer #readLess,
+.caseContentContainer #readMoreDown {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+}
+.casesubContent p.casestudySubHead,
+.designing .listText.mobListWidth li span.casestudySubHead,
+span.casestudySubHead {
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+.caseContentContainer p,
+.casesubContent p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #727272;
+  line-height: 26px;
+}
+.caseContentContainer p {
+  margin: 0 auto;
+  width: 100%;
+  line-height: 24px;
+  font-size: 14px;
+  padding-bottom: 25px;
+}
+.newCS h2 {
+  padding-bottom: 15px;
+}
+.moreStoryWrapper {
+  text-align: center;
+}
+.moreStoryWrapper button {
+  border: 2px solid #393939;
+  background: #FFF;
+  color: #393939;
+  width: auto;
+  padding: 0 20px;
+  line-height: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  outline: 0;
+  display: none;
+}
+.moreStoryWrapper button:hover {
+  border: 2px solid #e62422;
+  color: #e62422;
+}
+.mobilemoneytechnology.longTechnology .listText.techList span,
+.techList {
+  display: inline;
+}
+.designing .listText.mobListWidth li {
+  color: #e2292f;
+}
+.designing .listText.mobListWidth li span {
+  color: #727272;
+}
+.mobilemoneytechnology.longTechnology .techList span.longTechContent {
+  display: flex !important;
+}
+
+/**************for mobileapppage******************/
+
+.mobileappleftfirst {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-bottom: 35px;
+  padding: 10px 30px 25px;
+  margin-top: 32px;
+}
+.medicalRepsClient {
+  margin-bottom: 35px;
+  margin-top: 32px;
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  padding: 20px 30px;
+  width: auto;
+}
+.mobileappleftfirst p {
+  line-height: 24px;
+}
+.mobileapplist li {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.mobileapplist {
+  padding-top: 0px;
+}
+.mobileappList li {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.mobileappList {
+  margin-top: 32px;
+}
+.mobilefitnessrightfirst .mobileapplist li:nth-child(1) {
+  margin-top: 0;
+}
+.technologyblock {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-bottom: 30px;
+  margin-top: 25px;
+  padding: 13px 30px 10px;
+  float: left;
+  width: 94%;
+}
+.mobilefitnessblock {
+  width: 85%;
+  margin-bottom: 20px;
+}
+.technologyblock h2 {
+  color: #262626;
+  line-height: 45px;
+  margin-bottom: 12px !important;
+}
+.technologylist li {
+  width: 27.5%;
+  float: left;
+  font-size: 16px;
+}
+.healthtechblock .technologylist li {
+  width: 33%;
+}
+.technologylist li:last-child {
+  width: 16%;
+}
+.mobilefitnessblock .technologylist li,
+.mobilefitnessblock .technologylist li:last-child {
+  width: 33%;
+}
+.mobileappleftsecond p {
+  padding-bottom: 25px;
+}
+.mobileappleftthird p {
+  padding-bottom: 25px;
+}
+.mobileappleftfirst {
+  float: left;
+}
+.mobileappleftsecond {
+  float: left;
+}
+.mobileappleftthird {
+  float: left;
+}
+.mobileappleftfourth {
+  float: left;
+  width: 97%;
+}
+.mobileappimage {
+  float: right;
+  width: 100%;
+  margin-top: 3%;
+}
+.mobileapprightfirst {
+  float: right;
+  width: 100%;
+  padding-bottom: 25px;
+}
+.vodHighlights {
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.vodDetails p {
+  padding-bottom: 25px;
+}
+.gameKinectContent p {
+  padding-bottom: 25px;
+}
+.mobileappimage img {
+  padding-left: 6%;
+}
+
+/*FP page css*/
+
+.mobileappleftfirst.mobilemoneyClient {
+  background: #fff;
+  border: none;
+  padding: 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.mobileappleftsecond.Highlights {
+  width: 100%;
+}
+.mobilemoneytechnology {
+  background: #fff;
+  border: 1px solid #bbb;
+  padding: 25px 50px;
+  box-sizing: border-box;
+  width: 100%;
+}
+.mobilemoneytechnology.toolsUsedContainer {
+  width: 88%;
+}
+.mobilemoneylist {
+  margin-left: 30px;
+}
+.mobilemoneylist li {
+  list-style: disc;
+}
+.mobilemoneytechnology h2 {
+  position: relative;
+  // padding-left: 45px;
+}
+.mobilemoneytechnology.cloudMigrationTech h2 {
+  padding-left: 0;
+}
+.mobilemoneytechnology.cloudMigrationTech h2:before {
+  display: none;
+}
+.fleetTechnology h2,
+.fleetTechnology.mobilemoneytechnology.longTechnology .listText {
+  padding-left: 0;
+}
+.fleetTechnology h2:before {
+  display: none;
+}
+.mobilebanklist {
+  margin-left: 15px;
+}
+.mobilebanklist li {
+  width: 24%;
+  display: inline-block;
+}
+.medicalRepsTechBlock {
+  margin-top: 60px;
+}
+.medicalOverview p {
+  padding-bottom: 10px;
+}
+.medicalRepsTechBlock ul li:last-child span:last-child {
+  display: inline-block;
+  width: 80%;
+}
+.medicalRepsTechBlock li {
+  width: 25%;
+}
+.medicalRepsTechBlock li:last-child {
+  width: 25%;
+}
+.shoppingAssistantTechBlock {
+  margin-top: 60px;
+}
+.shoppingAssistantTechBlock ul li:last-child span:last-child {
+  display: inline-block;
+  width: 80%;
+}
+.shoppingAssistantTechBlock li {
+  width: 20% !important;
+}
+.shoppingAssistantTechBlock li:last-child {
+  width: 20% !important;
+}
+#mobMenuHolder .active a {
+  pointer-events: none;
+}
+.insSolution {
+  margin-top: 20px;
+}
+.insResult {
+  margin-top: 20px;
+}
+.insHighlights .listText {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.insHighlights .listText li {
+  padding-bottom: 10px;
+}
+.insDev p {
+  padding-bottom: 20px;
+}
+.insDev {
+  padding-bottom: 0px;
+}
+.kinectDev {
+  margin-top: 20px;
+}
+.gamekinecthighlights ul {
+  margin-top: 10px;
+}
+.gamekinecthighlights ul li {
+  padding-bottom: 10px;
+}
+.hospOverview p {
+  padding-bottom: 40px;
+}
+.dubai .listText li {
+  width: 50% !important;
+}
+.medicalRepsImage {
+  text-align: center;
+  float: none;
+}
+.trenchCoatImage {
+  text-align: center;
+  float: none;
+}
+.medicalRepsImage img {
+  padding-left: 0px;
+}
+.trenchCoats .listText li {
+  width: 50% !important;
+}
+.trecchCoatsProject p {
+  padding-bottom: 25px;
+}
+.kaboomSolution {
+  margin-top: 20px;
+}
+.kaboomClient {
+  margin-top: 0px!important;
+}
+.kaboomClient p {
+  padding-bottom: 10px;
+}
+.kaboomTechnology {
+  margin-top: 20px!important;
+}
+.kaboomTechnology li {
+  width: 32% !important;
+  vertical-align: top;
+}
+.kaboomTechnology .qlearnTechnologyList li:nth-child(2) {
+  padding-left: 0;
+}
+.kaboomTechnology ul:nth-child(4) {
+  width: 66%!important;
+}
+.kaboomTechnology ul li:nth-child(4) span:nth-child(2),
+.kaboomTechnology ul li:nth-child(5) span:nth-child(2) {
+  display: inline-block;
+  width: 70%;
+}
+.medicalRepsHighlights {
+  margin-top: 30px;
+}
+.medicalRepsHighlights li {
+  padding-bottom: 10px;
+}
+.trenchCoatsHighlights li {
+  padding-bottom: 10px;
+}
+.feedbackTechnologies {
+  margin-left: 0px!important;
+}
+.feedbackTechnologies ul li {
+  width: 49%;
+}
+.feedbackTechnologies .qlearnTechnologyList li:nth-child(2) {
+  padding: 0px;
+}
+.feedbackHighlights {
+  margin-top: 50px;
+}
+.feedbackHighlights ul {
+  margin-top: 10px;
+}
+.feedbackHighlights ul li {
+  padding-bottom: 10px;
+}
+.feedbackOverview p {
+  padding-bottom: 0px!important;
+}
+.feedbackTechnologies {
+  width: 88%!important;
+}
+.customerImage {
+  float: left;
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.intranetSolution p {
+  padding-bottom: 10px!important;
+}
+.intranetFeatures .innerList {
+  margin: 0px 0 10px 30px;
+}
+.netstreamHighlights ul {
+  margin-top: 10px;
+}
+.netstreamHighlights ul li {
+  padding-bottom: 10px;
+}
+.netstreamTechnology ul li {
+  width: 50%;
+  float: left;
+}
+.netstreamTechnology {
+  margin-top: 0px;
+  margin-left: 9%;
+  width: 74%;
+}
+.netstreamDevelopment,
+.netstreamHighlights {
+  width: 91%!important;
+  float: right!important;
+  padding-bottom: 30px;
+}
+.mediaBusiness ul,
+.mediaFeatures ul {
+  margin-top: 10px;
+}
+.mediaBusiness ul li,
+.mediaFeatures ul li {
+  padding-bottom: 10px;
+}
+.netstreamImage {
+  text-align: center;
+}
+.nyuBusinessreq ul li {
+  padding-bottom: 10px;
+}
+.nyuSolution p {
+  padding-bottom: 20px!important;
+}
+.nyuFeatures ul li {
+  padding-bottom: 10px;
+}
+.nyuBenefits {
+  width: 100%;
+}
+.nyuBenefits ul li {
+  padding-bottom: 10px;
+}
+.nyuTechnologies {
+  margin-left: 0px!important;
+  width: 88%!important;
+  margin-top: 20px!important;
+}
+.nyuTechnologies .qlearnTechnologyList li:nth-child(2) {
+  padding-left: 0px;
+}
+.insurance h2 {
+  font-size: 18px;
+  font-family: OpenSans;
+  margin: 10px auto;
+}
+.insurance {
+  margin-top: 10px;
+}
+.insurance p {
+  padding: 10px 0px;
+}
+.intranetTechnologies {
+  width: 88%!important;
+}
+.mediaTechnologies {
+  width: 88%!important;
+}
+.engageContent .bigDataService {
+  float: left;
+  display: table;
+}
+.engageContent .bigDataService.mobWebTesting {
+  float: none;
+  width: 100%;
+}
+.engageContent .leftTextData p,
+.engageContent .rightTextData p {
+  margin-top: 10px;
+}
+.engageContent ul li {
+  padding-bottom: 10px;
+}
+.engageContent .listText {
+  margin-top: 10px;
+}
+.natImg {
+  text-align: center;
+}
+.caseStudyButton a {
+  color: #fff;
+}
+.engageContent .leftTextData,
+.engageContent .rightTextData {
+  float: none;
+  display: table-cell;
+  vertical-align: middle;
+}
+.natPerformedTests .leftTest,
+.natPerformedTests .rightTest {
+  width: 50%;
+  float: left;
+}
+.natGeoTests h3 {
+  text-align: center;
+}
+.natGeoTests ul,
+.natPerformedTests ul {
+  margin-top: 10px;
+}
+.natGeoTests ul li,
+.natPerformedTests ul li {
+  padding-bottom: 10px;
+}
+.natGeoTests {
+  float: left;
+  width: 100%;
+  margin-top: 70px;
+}
+.engageContent .bigDataService:first-child {
+  margin-top: 0px;
+}
+.appImageOverlay {
+  display: inline-block;
+  position: relative;
+  margin-right: 0.8%;
+  margin-left: 0.8%;
+  margin-top: 4%;
+}
+.overlay {
+  width: 119px;
+  height: 119px;
+  background: #000;
+  z-index: 9;
+  position: absolute;
+  display: block;
+  top: 0px;
+  opacity: 0;
+  border-radius: 32px;
+  color: #FFFFFF;
+  text-align: center;
+  display: table;
+}
+.overlay span {
+  color: #FFFFFF;
+  display: table-cell;
+  vertical-align: middle;
+}
+.overlay p {
+  line-height: 15px!important;
+}
+.overlay p:first-child {
+  font-size: 13px!important;
+  font-family: 'OpenSansBold';
+  padding-bottom: 6px;
+}
+.overlay p:nth-child(2) {
+  font-size: 11px!important;
+  font-family: 'OpenSansItalic';
+}
+.natgeoEngagement p {
+  padding-bottom: 10px!important;
+}
+.natGeoClient {
+  width: 90%!important;
+}
+.natPerformedTests {
+  float: left;
+  width: 50%;
+  margin-top: 80px;
+}
+.appImages {
+  text-align: center;
+}
+.engageContent .bigDataService {
+  margin-top: 50px;
+}
+.natPerformedTests h3 {
+  color: #262626;
+  font-family: "OpenSansbold";
+  font-size: 24px;
+}
+.addthisTechnology ul li {
+  width: 100%;
+}
+.addthisTechnology .qlearnTechnologyList li:nth-child(2) {
+  padding-left: 0px;
+  padding-bottom: 20px;
+}
+.addthisHighlights ul li {
+  padding-bottom: 10px;
+}
+.natGeoTechnologies ul li {
+  width: 50%;
+  float: left;
+}
+.natGeoTechnologies {
+  float: left!important;
+  width: 46%!important;
+  margin-top: 80px!important;
+}
+.toolsWrapper {
+  float: left;
+  width: 100%;
+}
+.engageContent {
+  float: left;
+  width: 100%;
+  padding-bottom: 80px;
+  border-bottom: 1px solid #ebebeb;
+}
+.bpclBusiness ul li,
+.bpclFeatures ul li,
+.bpclBenefits ul li,
+.bpclSolution ul li {
+  padding-bottom: 10px;
+}
+.bpclBusiness p {
+  padding-bottom: 16px!important;
+}
+.topCareercnt p {
+  margin: 30px auto 0px;
+  width: 80%;
+  line-height: 24px;
+}
+.carBusiness p {
+  padding-bottom: 20px!important;
+}
+.carConfigHighlights .listText li {
+  padding-bottom: 10px;
+}
+.carConfigHighlights {
+  width: 100%!important;
+}
+.carConfigClient {
+  width: 88%!important;
+}
+.carConfigClient p {
+  padding-bottom: 0px!important;
+}
+.goFishTechnologies .listText li {
+  float: left;
+  width: 50%;
+}
+.goFishApps .listText li {
+  padding-bottom: 10px;
+}
+.goFishImage img:nth-child(2) {
+  margin-top: 30px;
+}
+.goFishOverview h2 {
+  border-top: none!important;
+}
+.windowsHighlights .listText li {
+  padding-bottom: 10px;
+}
+.windowsHighlights .listText {
+  margin-top: 10px;
+}
+.windowsImage {
+  margin-top: 20px;
+}
+.CarImage {
+  margin-top: 20px;
+}
+.goFishImage {
+  margin-top: 20px;
+}
+.csWrapper {
+  float: left;
+  width: 100%;
+}
+.csText {
+  // width: 100%;
+  width: 88%;
+}
+.csText #filters,
+.csText .casestudy-filter {
+  width: 25%;
+}
+.csText .heading {
+  padding-bottom: 0px!important;
+}
+.loading {
+  position: relative;
+  text-align: center;
+  float: left;
+  width: 100%;
+}
+.loading img {
+  width: 38px;
+  height: 38px;
+}
+.loading span {
+  position: absolute;
+  top: 10px;
+}
+#csContainer {
+  margin: 0 auto 20px;
+}
+#csContainer .elements p:last-child {
+  display: block !important;
+  padding: 20px 0;
+}
+#csContainer .elements {
+  background: #f9f9f9;
+  border: 1px solid #dcdcdc;
+  margin: 20px;
+  float: none;
+}
+#csContainer .elements.visible {
+  display: inline-block!important;
+}
+#csContainer .firstTitle {
+  color: #303030;
+  font-family: "OpenSansSemiboldItalic";
+  font-size: 14px;
+  width: 100%;
+  display: block;
+}
+#csContainer .firstTitle a {
+  color: #303030;
+}
+#csContainer .whitecontent {
+  width: 90%;
+  margin: 20px auto;
+}
+#csContainer .whitecontent .firstTitle {
+  font-family: "OpenSansBold";
+  font-size: 20px;
+  text-align: left;
+  margin: 0 auto;
+  line-height: 22px;
+}
+#csContainer .secondTitle {
+  color: #303030;
+  font-family: "OpenSansItalic";
+  font-size: 14px;
+  width: 100%;
+  display: block;
+  margin-top: 6px;
+}
+#csContainer .whitecontent .secondTitle {
+  font-family: "OpenSansRegular";
+  margin: 10px auto 20px;
+  text-align: left;
+  line-height: 24px;
+}
+.clientSection #csContainer .partnercontent {
+  width: 80%;
+}
+#csContainer .elements {
+  margin: 15px;
+  width: 250px;
+  height: auto;
+}
+#csContainer .testicontent .firstTitle .right {
+  border-left: 1px solid #D6D6D6;
+  display: table-cell !important;
+  padding: 0 !important;
+  text-align: center;
+  width: 17%;
+}
+#csContainer .testicontent .firstTitle .nolink {
+  padding: 0 !important;
+}
+#csContainer .testicontent .secondTitle {
+  line-height: 24px;
+  margin-top: 15px;
+}
+.testimain #csContainer .elements {
+  margin: 15px 15px 60px;
+}
+.bombardierTechnologies li {
+  width: 50% !important;
+}
+
+/*private fly page */
+
+.airContainer li {
+  width: 33%;
+  float: left;
+}
+.airContainer {
+  background-color: #f5f5f5;
+  border: 1px solid #ebebeb;
+  float: left;
+  margin-bottom: 50px;
+  padding: 20px 30px 30px;
+  margin-top: 31px;
+  width: 87%!important;
+}
+.jetApp {
+  margin-top: 20px!important;
+}
+.airlineBook {
+  display: inline-block;
+}
+.airlineFeatures p {
+  padding-bottom: 0px!important;
+}
+.airlineFeatures .listText {
+  margin-top: 30px!important;
+}
+.airlineFeatures .innerList {
+  margin: 10px 0!important;
+}
+.airlineFeatures .innerList li:last-child {
+  padding-bottom: 0px;
+}
+.benefitsPara {
+  margin-top: 20px!important;
+}
+.bankingClient {
+  margin-top: 20px;
+}
+
+/*paladion page*/
+
+.caseblock.scorfoliorightthird.paladionTech ul li:nth-child(2n) {
+  width: 35%;
+}
+.caseblock.scorfoliorightthird.paladionTech ul li:nth-child(2n+1) {
+  width: 65%;
+}
+.caseblock.scorfoliorightthird.paladionTech {
+  padding: 15px 30px 25px;
+}
+
+/*ingogo CS */
+
+.taxiApp .floralLeftfirst,
+.taxiApp .floralLeftsecond,
+.taxiApp .floralLeftthird {
+  margin: 0 auto 35px;
+}
+.taxiApp .listText p {
+  width: 100%;
+  // margin-left: 20px;
+}
+.taxiApp .listText li:last-child {
+  padding: 0;
+}
+.taxiApp .floralLeftthird p,
+.taxiApp .floralRightsub p {
+  padding-bottom: 20px;
+}
+.taxiApp .casesubRight .caseblock ul.listOrder li {
+  width: 36%;
+  font-size: 17px;
+}
+.taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(2),
+.taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(5) {
+  width: 45%;
+}
+.taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(3),
+.taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(6) {
+  width: 19%;
+}
+.taxiApp .caseblock .first li span:nth-child(2) {
+  width: auto;
+}
+.taxiApp .floralLeftfourth .listText {
+  margin-top: 5px;
+}
+.taxiApp .icon-checkmark {
+  margin-top: 7px;
+}
+.taxiApp .floralRightsub {
+  margin-bottom: 35px;
+}
+.jarussubLeft {
+  float: left;
+  margin-right: 2.5%;
+  width: 48%;
+}
+.jarussubRight {
+  float: left;
+  margin-top: 16px;
+  width: 49%;
+}
+.jarus .jarussubRight .listOrder {
+  float: none;
+  width: 100%;
+}
+.jarussubRight .listOrder li {
+  float: left;
+  width: 50%;
+}
+.jarus .casesubRight .jarusRight .listOrder li {
+  width: 33%;
+  padding-bottom: 0;
+}
+.jarusRight .caseblock .first li span:nth-child(2) {
+  font-family: 'OpenSansRegular';
+  font-size: 18px;
+  width: 60%;
+}
+
+/*double filter*/
+
+#csWrap .casestudy-dropdown span.heading,
+{
+  width: 27%;
+}
+#csWrap .casestudy-dropdown div,
+.casestudy-dropdown div {
+  width: 44%;
+  float: right;
+  position: relative;
+}
+#csWrap .casestudy-dropdown div .filterSelected,
+.casestudy-dropdown div .filterSelected {
+  width: 100%;
+}
+.csText .casestudy-dropdown #filters {
+  width: 13%;
+}
+#csWrap .casestudy-dropdown .industry-dropdown,
+.industry-dropdown {
+  margin-left: 4%;
+}
+.dropdown-content .filterSelected li:first-child {
+  padding: 7px 0 10px 8px;
+}
+.rightcontainer .dropdown-content .iconHomedown {
+  padding: 12px 6px;
+}
+.caseText .case-study-filter {
+  height: 156px;
+}
+.fpText li p.sub-heading {
+  width: 100%;
+  padding-right: 0;
+}
+#csWrap {
+  right: 4.5%;
+  max-width: 1235px;
+  min-width: 1185px;
+  width: 100%;
+}
+#csContainer {
+  max-width: 1235px;
+}
+.casesubContent .subHeading {
+  font-size: 18px;
+  font-family: 'OpenSansBold';
+  padding-bottom: 10px;
+}
+.innerHeading {
+  font-family: 'OpenSansBold';
+}
+.novartisImage {
+  text-align: center;
+  margin-top: 20px;
+}
+.casesubContent .resourcesSub {
+  font-size: 16px;
+  font-weight: bold;
+  color: #3a3a3a;
+  padding-top: 25px;
+}
+.casesubContent.expandText {
+  margin: 40px 0;
+  padding: 50px 0 40px 0;
+}
+.newTechnology {
+  background-color: #fff;
+  border: 1px solid #e5e5e5;
+}
+.newTechnology .listText {
+  // padding-left: 41px;
+  box-sizing: border-box;
+}
+.newTechnology .listText li {
+  width: 100%!important;
+  padding-right: 0!important;
+  font-size: 14px;
+}
+.newTechnology .listText li:nth-child(2) {
+  min-height: 0!important;
+}
+.cloudMigrationTech .mobilebanklist .longListContent {
+  width: 25% !important;
+}
+.toolsUsed.mobilebanklist .longListContent {
+  width: 100% !important;
+}
+.mobilebanklist .longListContent {
+  width: 49%!important;
+  display: inline-table;
+}
+.techListHeading {
+  font-family: 'OpenSansBold';
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 10px;
+  float: left;
+  width: 100%;
+}
+.techListHeadingSub {
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+.omronCaseSub p {
+  padding-bottom: 15px;
+}
+.scorfolioleftsecond .listText .inventoryFinanceInnerList {
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+.caseStudySub,
+.caseStudiesMore {
+  width: 86%;
+}
+.icon-Bullet-1 {
+  float: left;
+}
+@media screen and (min-width:280px) and (max-width:767px) {
+  .technologyblock ul.toolsUsed li span {
+    display: table !important;
+  }
+  .bigDataService.mobWebTesting .digiRepo,
+  .bigDataService.mobWebTesting .natPark {
+    width: 88%;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .designing .listText.medList {
+    width: 80%;
+  }
+  .designing .listText.medList li {
+    display: list-item !important;
+  }
+  .designing .listText.medList li .listCont,
+  .casesubRight .rightHolder .listText.mobListWidth li span {
+    display: inline !important;
+  }
+  .casesubContent p.awsHighlightSubhead,
+  .casesubContent p.paraBefBullet {
+     padding-bottom: 0;
+  }
+  .cloudMigrationTech .portekSubTitle.portekSubTitleNew,
+  .bankingConsultContent .rightSecond {
+    padding: 0;
+  }
+  .cloudMigrationTech .portekSubTitle.portekSubTitleNew.cloudflareTitle {
+    padding-bottom: 20px;
+  }
+  .newCS .environmentSetupPara {
+    padding-bottom: 20px;
+  }
+  .newCS .mobileappleftsecondFetaured.onlineAuctionQS {
+    margin-bottom: -20px;
+  }
+  .scorfolioleftsecond.newCasesub.portekSubContent,
+  .scorfolioleftthird.newCasesub.portekSubContent {
+    width: 100%;
+  }
+  .listText li .busReqList {
+    width: 94%;
+  }
+  .casesubContent .newcaseNormalpara {
+    margin-top: 20px;
+  }
+  .mobilemoneytechnology.longTechnology {
+    margin-top: 20px;
+  }
+  .doubleLayer.technologyblock {
+    background-color: #eee;
+  }
+  .techListHeading {
+    width: 88%;
+    margin: 20px auto 0;
+    float: none;
+  }
+  .longTechnology.doubleLayer .tripleList.listText {
+    padding-top: 16px;
+    margin-bottom: 4px;
+  }
+  .mobilemoneytechnology.longTechnology .listText {
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 6%;
+    background-color: #eee;
+    box-sizing: border-box;
+    margin-top: 0;
+  }
+  .mobilemoneytechnology.longTechnology .toggleHead {
+    background-color: #eee;
+    padding: 10px 0;
+  }
+  .mobilemoneytechnology.longTechnology .toChild {
+    top: 24px;
+  }
+  .newTechnology .listText {
+    padding-left: 0;
+  }
+  .newTechnology .listText li span:nth-child(2) {
+    width: 92%;
+  }
+  .newCasesub {
+    margin-top: 20px!important;
+    background-color: #eee!important;
+    border-bottom: none!important;
+  }
+  .newCasesub .toggleHead {
+    background-color: #eee;
+    padding: 10px 0;
+  }
+  .newCasesub .toggleHead .toChild {
+    top: 24px;
+  }
+  .casesubContent.expandText {
+    margin: 30px 0!important;
+    padding: 0;
+  }
+  .newCasesub .toggleHead {
+    border: none;
+  }
+  .mobileappleftsecond .innerHeading {
+    display: inline-block;
+  }
+  .casesubContent .subHeading {
+    padding-bottom: 0;
+    padding-top: 15px;
+  }
+  /*double filter*/
+  .subMenus .resourceDropdown {
+    width: auto;
+    float: right;
+  }
+  .subMenus .resourceDropdown .iconHomedown {
+    padding: 0 9px;
+  }
+  .case-study-filter li:not(:first-child) {
+    padding-bottom: 10px;
+  }
+  .caseText .case-study-filter {
+    height: 185px;
+  }
+  #csWrap .casestudy-dropdown .industry-dropdown,
+  .casestudy-dropdown .industry-dropdown {
+    margin-left: 0;
+  }
+  #csWrap .casestudy-dropdown div,
+  .casestudy-dropdown div,
+  .mobilemoneytechnology.toolsUsedContainer {
+    width: 100%;
+  }
+  .fpText .casestudy-dropdown div {
+    position: relative;
+  }
+  #csWrap .casestudy-dropdown span.heading,
+  .casestudy-dropdown span.heading {
+    width: 100%;
+  }
+  .casestudy-dropdown .case-study-filter,
+  .mobilemoneytechnology.longTechnology .listText.techList {
+    width: 88%;
+  }
+  .fpText .service-dropdown .case-study-filter,
+  .fpText .casestudy-dropdown .industry-dropdown .case-study-filter,
+  .casestudy-dropdown .industry-dropdown .case-study-filter,
+  .casestudy-dropdown .service-dropdown .case-study-filter {
+    top: 71%;
+  }
+  /*auctioning page css*/
+  .jarusContent {
+    margin: 0 auto;
+    float: none;
+    padding: 0;
+  }
+  .jarusContent h2,
+  .jarus .jarusRight h2 {
+    margin-bottom: 0 !important;
+    border-bottom: none;
+  }
+  .jarussec .caseblock {
+    border: none;
+    background: none;
+    padding: 0;
+  }
+  .jarussubRight .listOrder li {
+    float: none;
+    width: 100%;
+  }
+  .jarusRight .caseblock {
+    border: medium none;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+  }
+  .jarus .jarusRight .caseblock h2 {
+    border-bottom: none;
+  }
+  .jarusRight .caseblock h2 span {
+    display: inline-block !important;
+  }
+  .jarussubLeft {
+    float: none;
+    margin-right: 0;
+    width: 100%;
+  }
+  .jarussubRight {
+    float: none;
+    margin-top: 0;
+    width: 100%;
+  }
+  .jarusRight .listOrder li {
+    float: left;
+    width: 100%;
+  }
+  .jarusContent .casesubLeft {
+    width: 100%;
+    border: none;
+    margin: 20px auto;
+  }
+  .jarusContent .casesubLeft .innerList {
+    margin: 20px 0 0 30px;
+  }
+  .jarusContent .casesubsecd {
+    padding: 0;
+    width: 100%;
+    margin: 20px auto;
+  }
+  .jarusRight .caseblock ul.listOrder,
+  .jarussec .caseblock ul.listOrder {
+    background-color: #FFFFFF;
+    float: none;
+    margin: 20px auto;
+    width: 88%;
+  }
+  .jarusRight .caseblock .first li span:nth-child(2),
+  .jarussec .caseblock .first li span:nth-child(2) {
+    width: 88%;
+  }
+  .jarussec .caseblock .first li span:nth-child(2) {
+    float: none;
+  }
+  /*ingogo CS */
+  .taxiApp .floralLeftfirst,
+  .taxiApp .floralLeftsecond,
+  .taxiApp .floralLeftthird,
+  .taxiApp .floralRightsub,
+  .taxiApp .listText p {
+    margin: 0 auto;
+  }
+  .taxiApp .active p,
+  .taxiApp .active li,
+  .taxiApp .active span,
+  .taxiApp .active ul {
+    display: inline-block;
+  }
+  .taxiApp .active li {
+    width: 100%;
+  }
+  .taxiApp .listText,
+  .taxiApp .listCont {
+    font-size: 14px;
+  }
+  .taxiApp .floralLeftfourth h2 {
+    line-height: 45px;
+  }
+  .taxiApp .casesubRight .floraltech .listText li {
+    width: auto;
+    margin: 0;
+  }
+  .taxiApp .casesubRight .caseblock ul.listOrder li,
+  .taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(2),
+  .taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(5),
+  .taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(3),
+  .taxiApp .casesubRight .caseblock ul.listOrder li:nth-child(6) {
+    width: 90%;
+  }
+  .taxiApp .floralLeftthird p,
+  .taxiApp .floralRightsub p {
+    padding: 0;
+  }
+  .taxiApp .casesubRight .caseblock ul.listOrder {
+    margin: 20px auto;
+    width: 88%;
+  }
+  .taxiApp .casesubRight .clientblock h2 span:first-child {
+    width: 0 !important;
+  }
+  /**********for medactivus*******/
+  .medactivusrightfirst {
+    float: none;
+  }
+  .medactivusrightfirst >:not(h2) {
+    display: none;
+  }
+  .airlineapp .medactivusleftfirst >:not(h2) {
+    display: none;
+  }
+  .airlineapp .medactivusrightfirst {
+    display: block !important;
+  }
+  .airlineapp .medactivusrightfirst p {
+    display: block !important;
+  }
+  .medactivusrightfirst ul li span {
+    display: inline-block;
+  }
+  .medactivusleftsecond {
+    float: none;
+  }
+  .medactivusleftsecond >:not(h2) {
+    display: none;
+  }
+  .medactivusleftsecond ul li span {
+    display: inline-block;
+  }
+  .medactivusrightsecond,
+  .medactivusrightsecond.everfi {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .medactivusrightsecond {
+    float: none;
+  }
+  .medactivusrightsecond >:not(h2),
+  .medactivusrightthird >:not(h2),
+  .medactivusthird >:not(h2) {
+    display: none;
+  }
+  .medactivusrightsecond ul li span {
+    display: inline-block;
+  }
+  .medactivusleftfirst,
+  .airlineapp .medactivusrightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+  }
+  .medactivusleftfirst h2,
+  .airlineapp .medactivusrightfirst h2 {
+    background-color: #fff;
+    border-style: none;
+  }
+  .airlineapp .medactivusleftfirst h2 {
+    background-color: #fbfbfb;
+    border: 1px solid #EBEBEB;
+    border-bottom: none;
+  }
+  .medactivusleftfirst h2 span:first-child,
+  .airlineapp .medactivusrightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .airlineapp .medactivusleftfirst h2 span:first-child {
+    // font-size: 19px;
+    left: 5%;
+  }
+  .medactivusleftfirst h2 span:nth-child(2),
+  .airlineapp .medactivusrightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .airlineapp .medactivusleftfirst h2 span:nth-child(2) {
+    width: 28px;
+  }
+  .medactivusleftfirst p,
+  .airlineapp .medactivusrightfirst p {
+    margin-top: 0px;
+    width: 88%;
+    padding-bottom: 15px;
+  }
+  .medactivusleftthird {
+    background-color: #ffffff;
+    border-style: none;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+  .casesubContent.hospapp {
+    margin-top: 20px;
+  }
+  .medactivusleftthird ul li span {
+    display: inline-block;
+  }
+  .medactivusleftfourth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .medactivusleftfourth ul li span {
+    display: inline-block;
+  }
+  .medactivusleftfourth h2 {
+    border-bottom: 1px solid #EBEBEB;
+  }
+  .medblock {
+    float: none;
+  }
+  .medactivuslist {
+    margin-top: 0px;
+  }
+  .medactivusleftsecond p:last-child {
+    padding-bottom: 0px;
+  }
+  .medactivusleftsecond p {
+    padding-bottom: 5px;
+  }
+  .medactivusrightfirst p {
+    padding-bottom: 3px;
+  }
+  .medactivusrightfirst li:last-child {
+    padding-bottom: 0px !important;
+  }
+  .content .airlineapp .medactivusleftthird li {
+    width: 100%;
+  }
+  .airlineapp .medactivusleftthird {
+    padding: 0;
+  }
+  /*********Carpilots*********/
+  .carpilotsrightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+  }
+  .carpilotsrightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .carpilotsrightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .carpilotsrightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .carpilotsrightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .carpilotsleftfirst,
+  .carpilotsleftsecond,
+  .carpilotsrightsecond,
+  .carpilotsleftthird {
+    float: none;
+  }
+  .carpilotsleftfirst >:not(h2),
+  .carpilotsleftsecond >:not(h2),
+  .carpilotsrightsecond >:not(h2),
+  .carpilotsleftthird >:not(h2),
+  .carpilotsrightfourth >:not(h2),
+  .carpilotsrightthird >:not(h2) {
+    display: none;
+  }
+  .carpilotsleftfirst ul li,
+  .carpilotsleftsecond ul li,
+  .carpilotsrightsecond ul li,
+  .carpilotsleftthird ul li,
+  .carpilotsrightfourth ul li,
+  .carpilotsrightthird ul li {
+    display: block;
+  }
+  .carpilotsleftfirst ul li span,
+  .carpilotsleftsecond ul li span,
+  .carpilotsrightsecond ul li span,
+  .carpilotsleftthird ul li span,
+  .carpilotsrightfourth ul li span,
+  .carpilotsrightthird ul li span {
+    display: inline-block;
+  }
+  .carpilotsrightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .carpilotsrightfourth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .carpilotsleftfirst {
+    padding-top: 0px;
+  }
+  .carpilotsleftfirst p,
+  .carpilotsrightsecond p {
+    padding-bottom: 0px;
+  }
+  .carpilotsleftsecond {
+    padding-bottom: 0px;
+  }
+  .bankingClient span.toChild {
+    width: 0 !important;
+  }
+  /*********Chatterfly*********/
+  .chatterflyrightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+  }
+  .chatterflyrightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .chatterflyrightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .chatterflyrightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .chatterflyrightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .chatterflyleftfirst,
+  .chatterflyleftsecond,
+  .chatterflyleftfourth,
+  .chatterflyleftthird,
+  .chatterflyrightsecond,
+  .chatterflyrightthird,
+  .chatterflyrightfourth {
+    float: none;
+  }
+  .chatterflyleftfirst >:not(h2),
+  .chatterflyleftsecond >:not(h2),
+  .chatterflyleftfourth >:not(h2),
+  .chatterflyleftthird >:not(h2),
+  .chatterflyrightsecond >:not(h2),
+  .chatterflyrightthird >:not(h2),
+  .chatterflyrightfourth >:not(h2) {
+    display: none;
+  }
+  .chatterflyleftfirst ul li,
+  .chatterflyleftsecond ul li,
+  .chatterflyleftfourth ul li,
+  .chatterflyleftthird ul li,
+  .chatterflyrightsecond ul li,
+  .chatterflyrightthird ul li,
+  .chatterflyrightfourth ul li {
+    display: block;
+  }
+  .chatterflyleftfirst ul li span,
+  .chatterflyleftsecond ul li span,
+  .chatterflyleftfourth ul li span,
+  .chatterflyleftthird ul li span,
+  .chatterflyrightsecond ul li span,
+  .chatterflyrightthird ul li span,
+  .chatterflyrightfourth ul li span {
+    display: inline-block;
+  }
+  .chatterflyrightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .chatterflyrightfourth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .chatterflyleftfirst h2,
+  .chatterflyleftthird h2,
+  .chatterflyleftfourth h2 {
+    padding-top: 0px;
+  }
+  .chatterflyleftfirst p,
+  .chatterflyleftsecond p,
+  .chatterflyleftthird p,
+  .chatterflyrightsecond p {
+    padding-bottom: 0px;
+  }
+  /*********Savenia*********/
+  .saveniarightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+    width: 100%;
+  }
+  .saveniarightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .saveniarightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .saveniarightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .saveniarightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .newCS .saveworksleftfirst,
+  .newCS .saveworksleftsecond,
+  .newCS .saveworksleftthird,
+  .newCS .saveworksrightsecond,
+  .newCS .saveworksrightthird,
+  .newCS .saveworksrightfourth,
+  .newCS .saveworksrightfifth {
+    float: left;
+  }
+  .savenialeftfirst,
+  .savenialeftsecond,
+  .savenialeftfourth,
+  .savenialeftthird,
+  .saveniarightsecond,
+  .saveniarightthird,
+  .saveniarightfourth,
+  .saveniarightfifth {
+    float: none;
+  }
+  .savenialeftfirst >:not(h2),
+  .savenialeftsecond >:not(h2),
+  .savenialeftfourth >:not(h2),
+  .savenialeftthird >:not(h2),
+  .saveniarightsecond >:not(h2),
+  .saveniarightthird >:not(h2),
+  .saveniarightfourth >:not(h2),
+  .saveniarightfifth >:not(h2) {
+    display: none;
+  }
+  .savenialeftfirst ul li,
+  .savenialeftsecond ul li,
+  .savenialeftfourth ul li,
+  .savenialeftthird ul li,
+  .saveniarightsecond ul li,
+  .saveniarightthird ul li,
+  .saveniarightfourth ul li,
+  .saveniarightfifth ul li {
+    display: block;
+  }
+  .savenialeftfirst ul li span,
+  .savenialeftsecond ul li span,
+  .savenialeftfourth ul li span,
+  .savenialeftthird ul li span,
+  .saveniarightsecond ul li span,
+  .saveniarightthird ul li span,
+  .saveniarightfourth ul li span,
+  .saveniarightfifth ul li span {
+    display: inline-block;
+  }
+  .saveniarightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .saveniarightfifth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .saveniarightfourth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .savenialeftthird .savenialist {
+    display: inline-block !important;
+    margin-left: 4%;
+  }
+  .savenialeftfirst h2,
+  .savenialeftsecond h2 {
+    padding-top: 0px;
+  }
+  .savenialeftfirst,
+  .savenialeftsecond,
+  .saveniarightsecond {
+    padding-bottom: 0px;
+  }
+  .savenia {
+    padding-top: 25px;
+  }
+  /*********Breathpattern*********/
+  .breathpatternrightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+  }
+  .breathpatternrightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .breathpatternrightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .breathpatternrightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .breathpatternrightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .breathpatternleftfirst,
+  .breathpatternleftsecond,
+  .breathpatternleftthird,
+  .breathpatternrightsecond,
+  .breathpatternrightthird,
+  .breathpatternrightfourth {
+    float: none;
+  }
+  .breathpatternleftfirst >:not(h2),
+  .breathpatternleftsecond >:not(h2),
+  .breathpatternleftthird >:not(h2),
+  .breathpatternrightsecond >:not(h2),
+  .breathpatternrightthird >:not(h2),
+  .breathpatternrightfourth >:not(h2) {
+    display: none;
+  }
+  .breathpatternleftfirst ul li,
+  .breathpatternleftsecond ul li,
+  .breathpatternleftthird ul li,
+  .breathpatternrightsecond ul li,
+  .breathpatternrightthird ul li,
+  .breathpatternrightfourth ul li {
+    display: block;
+  }
+  .breathpatternleftfirst ul li span,
+  .breathpatternleftsecond ul li span,
+  .breathpatternleftthird ul li span,
+  .breathpatternrightsecond ul li span,
+  .breathpatternrightthird ul li span,
+  .breathpatternrightfourth ul li span {
+    display: inline-block;
+  }
+  .breathpatternrightthird {
+    margin-top: -16px;
+  }
+  .breathpatternleftsecond .breathpatternlist {
+    display: inline-block !important;
+    margin-left: 4%;
+  }
+  .breathpatternleftfirst h2,
+  .breathpatternleftsecond h2 {
+    padding-top: 0px;
+  }
+  .breathpatternrightthird {
+    padding: 0px;
+  }
+  .breathpatternrightfourth p {
+    padding-top: 22px;
+  }
+  .breathpatternleftfirst {
+    margin-bottom: 0px;
+  }
+  .breathpatternrightsecond {
+    margin-bottom: 0px;
+  }
+  /***Dean and Edwards***/
+  .deanEdwardrightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+  }
+  .deanEdwardrightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .deanEdwardrightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .deanEdwardrightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .deanEdwardrightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .deanEdwardleftfirst,
+  .deanEdwardleftsecond,
+  .deanEdwardleftfourth,
+  .deanEdwardleftthird,
+  .deanEdwardrightsecond,
+  .deanEdwardrightthird,
+  .deanEdwardrightfourth {
+    float: none;
+  }
+  .deanEdwardleftfirst >:not(h2),
+  .deanEdwardleftsecond >:not(h2),
+  .deanEdwardleftfourth >:not(h2),
+  .deanEdwardleftthird >:not(h2),
+  .deanEdwardrightsecond >:not(h2),
+  .deanEdwardrightthird >:not(h2),
+  .deanEdwardrightfourth >:not(h2) {
+    display: none;
+  }
+  .deanEdwardleftfirst ul li,
+  .deanEdwardleftsecond ul li,
+  .deanEdwardleftfourth ul li,
+  .deanEdwardleftthird ul li,
+  .deanEdwardrightsecond ul li,
+  .deanEdwardrightthird ul li,
+  .deanEdwardrightfourth ul li {
+    display: block;
+  }
+  .deanEdwardleftfirst ul li span,
+  .deanEdwardleftsecond ul li span,
+  .deanEdwardleftfourth ul li span,
+  .deanEdwardleftthird ul li span,
+  .deanEdwardrightsecond ul li span,
+  .deanEdwardrightthird ul li span,
+  .deanEdwardrightfourth ul li span {
+    display: inline-block;
+  }
+  .deanEdward .casesubRight {
+    margin-top: 0;
+  }
+  .deanEdwardrightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .deanEdwardrightfourth {
+    float: left;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .deanEdwardleftfirst h2,
+  .deanEdwardleftthird h2,
+  .deanEdwardleftfourth h2 {
+    padding-top: 0px;
+  }
+  .deanEdwardleftfirst p,
+  .deanEdwardleftsecond p,
+  .deanEdwardleftthird p,
+  .deanEdwardrightsecond p {
+    padding-bottom: 0px;
+  }
+  .deanProjectHighlights .projectHighlightsList {
+    float: none;
+  }
+  .casesubContent .deanProjectHighlights .projectHighlightsList:nth-child(2) {
+    margin-bottom: 0;
+  }
+  .casesubContent .deanProjectHighlights .projectHighlightsList:nth-child(3) {
+    margin-top: 0;
+  }
+  .deanEdward .deanEdwardrightthird {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+  /***NewzGlobe****/
+  .newzgloberightfirst {
+    background-color: #FFFFFF;
+    border: 0 none;
+    float: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+  }
+  .newzgloberightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .newzgloberightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .newzgloberightfirst h2 span:nth-child(2) {
+    width: 0;
+  }
+  .newzgloberightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .newzglobeleftfirst,
+  .newzglobeleftsecond,
+  .newzglobeleftfourth,
+  .newzglobeleftthird,
+  .newzglobeleftfifth,
+  .newzgloberightsecond,
+  .newzgloberightthird {
+    float: none;
+  }
+  .newzglobeleftfirst >:not(h2),
+  .newzglobeleftsecond >:not(h2),
+  .newzglobeleftfourth >:not(h2),
+  .newzglobeleftthird >:not(h2),
+  .newzgloberightsecond >:not(h2),
+  .newzgloberightthird >:not(h2),
+  .newzglobeleftfifth >:not(h2) {
+    display: none;
+  }
+  .newzglobeleftfourth ul li,
+  .newzglobeleftfifth ul li,
+  .newzgloberightsecond ul li,
+  .newzgloberightthird ul li,
+  .newzgloberightthird ul li ul {
+    display: block;
+  }
+  .newzglobeleftfourth ul li span,
+  .newzglobeleftfifth ul li span,
+  .newzgloberightsecond ul li span,
+  .newzgloberightthird ul li span {
+    display: inline-block;
+  }
+  .newzglobeleftfirst h2,
+  .newzglobeleftfifth h2,
+  .newzgloberightthird h2 {
+    padding-top: 0;
+  }
+  .newzglobeleftfirst p,
+  .newzglobeleftsecond p,
+  .newzglobeleftthird p {
+    padding-bottom: 0;
+  }
+  .prodLevel .element {
+    min-height: 400px;
+  }
+  /***Metal face***/
+  .metalfacerightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+    width: 100%;
+  }
+  .metalfacerightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .metalfacerightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .metalfacerightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .metalfacerightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .metalfaceleftfirst,
+  .metalfaceleftsecond,
+  .metalfaceleftthird,
+  .metalfacerightsecond,
+  .metalfacerightthird,
+  .metalfacerightfourth,
+  .metalfacerightfifth {
+    float: none;
+  }
+  .metalfaceleftfirst >:not(h2),
+  .metalfaceleftsecond >:not(h2),
+  .metalfaceleftthird >:not(h2),
+  .metalfacerightfifth >:not(h2),
+  .metalfacerightsecond >:not(h2),
+  .metalfacerightthird >:not(h2),
+  .metalfacerightfourth >:not(h2) {
+    display: none;
+  }
+  .metalfaceleftsecond ul li,
+  .metalfaceleftthird ul li,
+  .metalfacerightfifth ul li,
+  .metalfacerightthird ul li,
+  .metalfacerightfourth ul li {
+    display: block;
+  }
+  .metalfaceleftsecond ul li span,
+  .metalfaceleftthird ul li span,
+  .metalfacerightfifth ul li span,
+  .metalfacerightthird ul li span,
+  .metalfacerightfourth ul li span {
+    display: inline-block;
+  }
+  .metalface .casesubRight {
+    margin-top: 0;
+  }
+  .metalfacerightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .metalfaceContent .casesubRight {
+    margin-top: 0;
+  }
+  .metalfaceleftfirst h2,
+  .metalfacerightthird h2,
+  .metalfacerightfifth h2,
+  .metalfaceleftthird h2 {
+    padding-top: 0;
+  }
+  .metalfacerightthird .metalList {
+    margin: 0;
+  }
+  .metalfacerightthird .techText {
+    width: 85%;
+  }
+  /***Jewellery App***/
+  .jewelApprightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+    width: 100%;
+  }
+  .jewelApprightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .jewelApprightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .jewelApprightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .jewelApprightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .jewelAppleftfirst,
+  .jewelAppleftsecond,
+  .jewelAppleftthird,
+  .jewelApprightsecond,
+  .jewelApprightthird,
+  .jewelApprightfourth,
+  .jewelApprightfifth {
+    float: none;
+  }
+  .jewelAppleftfirst >:not(h2),
+  .jewelAppleftsecond >:not(h2),
+  .jewelAppleftthird >:not(h2),
+  .jewelApprightfifth >:not(h2),
+  .jewelApprightsecond >:not(h2),
+  .jewelApprightthird >:not(h2),
+  .jewelApprightfourth >:not(h2) {
+    display: none;
+  }
+  .jewelAppleftsecond ul li,
+  .jewelAppleftthird ul li,
+  .jewelApprightfifth ul li,
+  .jewelApprightthird ul li,
+  .jewelApprightfourth ul li {
+    display: block;
+  }
+  .jewelAppleftsecond ul li span,
+  .jewelAppleftthird ul li span,
+  .jewelApprightfifth ul li span,
+  .jewelApprightthird ul li span,
+  .jewelApprightfourth ul li span {
+    display: inline-block;
+  }
+  .jewelApprightthird .jewelAppDevelopmentPara {
+    padding-bottom: 0;
+    margin: 20px auto;
+  }
+  .jewelApp .casesubRight {
+    margin-top: 0;
+  }
+  .jewelApprightfourth {
+    background-color: #fff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .jewelAppContent .casesubRight {
+    margin-top: 0;
+  }
+  .jewelAppleftfirst h2,
+  .jewelApprightthird h2,
+  .jewelAppleftthird h2 {
+    padding-top: 0;
+  }
+  .jewelApprightfourth .techText {
+    width: 85%;
+  }
+  /***CustomMade CS***/
+  .customMaderightfirst {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    float: none;
+    width: 100%;
+  }
+  .customMaderightfirst h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .customMaderightfirst h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .customMaderightfirst h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .customMaderightfirst p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .customMadeleftfirst,
+  .customMadeleftsecond,
+  .customMadeleftthird,
+  .customMaderightsecond,
+  .customMaderightthird,
+  .customMadeleftfourth {
+    float: none;
+  }
+  .customMadeleftfirst >:not(h2),
+  .customMadeleftsecond >:not(h2),
+  .customMadeleftthird >:not(h2),
+  .customMaderightsecond >:not(h2),
+  .customMaderightthird >:not(h2),
+  .customMadeleftfourth >:not(h2) {
+    display: none;
+  }
+  .customMadeleftsecond ul li,
+  .customMadeleftthird ul li,
+  .customMaderightsecond ul li,
+  .customMaderightthird ul li,
+  .customMadeleftfourth ul li {
+    display: block;
+  }
+  .customMadeleftsecond ul li span,
+  .customMadeleftthird ul li span,
+  .customMaderightsecond ul li span,
+  .customMaderightthird ul li span,
+  .customMadeleftfourth ul li span {
+    display: inline-block;
+  }
+  .customMaderightthird {
+    background-color: #ffffff;
+    border-style: none;
+    float: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .customMadeContent .casesubRight {
+    margin-top: 0;
+  }
+  .customMadeleftfirst h2,
+  .customMadeleftthird h2,
+  .customMadeleftfourth h2 {
+    padding-top: 0;
+  }
+  .customMaderightthird .customList {
+    margin: 0;
+  }
+  .customMaderightthird .listText {
+    left: 5%;
+    margin: 20px 0;
+    position: relative;
+    width: 95%;
+  }
+  .customMaderightthird .techText {
+    float: left;
+    width: 89%;
+  }
+  .customMaderightthird li:first-child .customMadeTech {
+    width: 68%;
+  }
+  .customMaderightthird li:nth-child(2) .customMadeTech {
+    width: auto;
+  }
+  .customMaderightthird li:nth-child(3) .customMadeTech {
+    width: 72%;
+  }
+  .customMaderightthird li:nth-child(4) .customMadeTech {
+    width: 70%;
+  }
+  .customMaderightthird li:nth-child(8) .customMadeTech {
+    width: 58%;
+  }
+  /***Scorfolio CS***/
+  .caseStudyClientProfile,
+  .scorfoliorightthird {
+    background-color: #ffffff;
+    border: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .caseStudyClientProfile h2 {
+    background-color: #ffffff!important;
+    border-style: none!important;
+  }
+  .caseStudyClientProfile h2 span:first-child {
+    position: relative;
+    left: 6%;
+    font-size: 24px;
+  }
+  .caseStudyClientProfile h2 span:nth-child(2) {
+    width: 0px;
+  }
+  .caseStudyClientProfile p {
+    margin-top: 0px;
+    width: 88%;
+  }
+  .scorfolioleftfirst,
+  .scorfolioleftsecond,
+  .scorfoliorightsecond,
+  .scorfoliorightthird,
+  .scorfoliorightfourth,
+  .scorfolioleftfifth,
+  .scorfolioleftfourth,
+  .scorfolioleftthird {
+    display: block;
+  }
+  .scorfolioleftfirst >:not(h2),
+  .scorfolioleftsecond >:not(h2),
+  .scorfolioleftthird >:not(h2),
+  .scorfoliorightsecond >:not(h2),
+  .scorfoliorightthird >:not(h2),
+  .scorfolioleftfourth >:not(h2),
+  .scorfoliorightfourth >:not(h2),
+  .scorfolioleftfifth >:not(h2),
+  .scorfoliorightthird .scorfolioTechServerBlock,
+  .scorfoliorightthird .scorfolioTechClientBlock {
+    display: none;
+  }
+  .scorfolioleftsecond ul li,
+  .scorfoliorightsecond ul li,
+  .scorfoliorightthird div ul li,
+  .scorfoliorightthird div h4,
+  .scorfoliorightthird div,
+  .scorfoliorightthird div ul,
+  .scorfolioleftfourth ul li,
+  .scorfoliorightfourth ul li {
+    display: block;
+  }
+  .scorfolioleftsecond ul li span,
+  .scorfoliorightsecond ul li span,
+  .scorfoliorightthird ul li span,
+  .scorfolioleftfourth ul li span,
+  .scorfoliorightfourth ul li span {
+    display: inline-block;
+  }
+  .scorfolioleftfirst p,
+  .scorfolioleftthird p,
+  .scorfolioleftsecond p {
+    padding-bottom: 0;
+  }
+  .scorfolioContent .casesubRight {
+    margin-top: 0;
+  }
+  .scorfolioContent .caseblock {
+    padding: 0;
+  }
+  .scorfolioContent .caseblock .listText {
+    margin: 20px 0;
+  }
+  .scorfolioleftthird .listText {
+    margin: 20px auto 0;
+  }
+  .scorfolioleftfirst h2,
+  .scorfolioleftthird h2,
+  .scorfolioleftfifth h2,
+  .scorfoliorightfifth h2 {
+    padding-top: 0;
+  }
+  .scorfoliorightthird .listText {
+    margin: 0;
+    width: 95%;
+  }
+  .scorfoliorightthird .techText {
+    float: left;
+    width: 80%;
+  }
+  .scorfoliorightthird .scorfolioTechServerBlock,
+  .scorfoliorightthird .scorfolioTechClientBlock {
+    float: none;
+    margin: 20px auto 0;
+    width: 88%;
+  }
+  /***Saveworks CS***/
+  .saveworksleftfirst,
+  .saveworksleftsecond,
+  .saveworksleftthird,
+  .saveworksrightsecond,
+  .saveworksrightthird,
+  .saveworksrightfourth,
+  .saveworksrightfifth {
+    float: none;
+  }
+  .saveworksleftfirst >:not(h2),
+  .saveworksleftsecond >:not(h2),
+  .saveworksleftthird >:not(h2),
+  .saveworksrightsecond >:not(h2),
+  .saveworksrightthird >:not(h2),
+  .saveworksrightfourth >:not(h2),
+  .saveworksrightfifth >:not(h2) {
+    display: none;
+  }
+  .saveworksleftsecond ul li,
+  .saveworksleftthird ul li,
+  .saveworksrightfourth ul li,
+  .saveworksrightfifth ul li,
+  .saveworksrightfourth ul li ul,
+  .saveworksleftthird ul li ul {
+    display: block;
+  }
+  .saveworksleftsecond ul li span,
+  .saveworksleftthird ul li span,
+  .saveworksrightfourth ul li span,
+  .saveworksrightfifth ul li span {
+    display: inline-block;
+  }
+  .saveworksleftfirst p,
+  .saveworksleftsecond p,
+  .saveworksrightsecond p,
+  .saveworksrightthird p {
+    padding-bottom: 15px;
+  }
+  .saveworksContent .casesubRight {
+    margin-top: 0;
+  }
+  .saveworksleftfirst h2,
+  .saveworksleftthird h2,
+  .saveworksrightthird h2,
+  .saveworksrightfourth h2 {
+    padding-top: 0;
+  }
+  .casesubContent .saveworksleftthird .saveworkslist .innerList {
+    margin-top: 0;
+    margin-left: 30px;
+  }
+  .casesubContent .saveworkslist .listText {
+    margin: 0 auto;
+  }
+  .innerList li:last-child {
+    padding-bottom: 20px;
+  }
+  .saveworksrightthird .devParaFirst {
+    margin-top: 20px;
+  }
+  /***Plusnet CS***/
+  .plusnetleftfirst,
+  .plusnetleftsecond,
+  .plusnetleftthird,
+  .plusnetleftfourth,
+  .plusnetrightsecond,
+  .plusnetrightthird,
+  .plusnetrightfourth {
+    float: none;
+  }
+  .plusnetleftfirst >:not(h2),
+  .plusnetleftsecond >:not(h2),
+  .plusnetleftthird >:not(h2),
+  .plusnetleftfourth >:not(h2),
+  .plusnetrightsecond >:not(h2),
+  .plusnetrightthird >:not(h2),
+  .plusnetrightfourth >:not(h2) {
+    display: none;
+  }
+  .plusnetleftsecond ul li,
+  .plusnetleftthird ul li,
+  .plusnetleftfourth ul li,
+  .plusnetrightthird ul li,
+  .plusnetrightfourth ul li {
+    display: block;
+  }
+  .plusnetleftsecond ul li span,
+  .plusnetleftthird ul li span,
+  .plusnetleftfourth ul li span,
+  .plusnetrightthird ul li span,
+  .plusnetrightfourth ul li span {
+    display: inline-block;
+  }
+  .plusnetleftfirst p,
+  .plusnetleftthird p,
+  .plusnetrightsecond p {
+    padding-bottom: 15px;
+  }
+  .plusnetContent .casesubRight {
+    margin-top: 0;
+  }
+  .plusnetleftfirst h2,
+  .plusnetleftthird h2,
+  .plusnetrightfourth h2 {
+    padding-top: 0;
+  }
+  .plusnetrightfourth p {
+    margin-top: 20px;
+  }
+  /***PRP Rescue CS***/
+  .prprescuerightthird {
+    background-color: #FFFFFF;
+    border: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+    width: 100%;
+  }
+  .prprescueleftfirst >:not(h2),
+  .prprescueleftsecond >:not(h2),
+  .prprescueleftthird >:not(h2),
+  .prprescuerightsecond >:not(h2),
+  .prprescuerightthird >:not(h2),
+  .prprescuerightfourth >:not(h2),
+  .prprescueleftfourth >:not(h2) {
+    display: none;
+  }
+  .prprescueleftsecond ul li,
+  .prprescueleftthird ul li,
+  .prprescuerightthird ul li,
+  .prprescuerightfourth ul li,
+  .prprescueleftthird ul li ul,
+  .prprescuerightthird ul li ul {
+    display: block;
+  }
+  .prprescueleftsecond ul li span,
+  .prprescueleftthird ul li span,
+  .prprescuerightthird ul li span,
+  .prprescuerightfourth ul li span {
+    display: inline-block;
+  }
+  .prprescueleftfirst p,
+  .prprescueleftfourth p,
+  .prprescuerightsecond p {
+    padding-bottom: 15px;
+  }
+  .prprescueContent .casesubRight {
+    margin-top: 0;
+  }
+  .prprescueleftfirst h2,
+  .prprescueleftthird h2,
+  .prprescueleftfourth h2 {
+    padding-top: 0;
+  }
+  /*stay and touch*/
+  .staytouch .marketingsecond {
+    background-color: #FFFFFF;
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+  }
+  .staytouch .marketingsecond ul li span {
+    display: block;
+  }
+  .staytouch .medactivusthird * >:not(h2),
+  .staytouch .medactivusrightthird * >:not(h2),
+  .revampTechnologies * >:not(h2),
+  .revampTechnologies >:not(h2) {
+    display: none;
+  }
+  .staytouch .medactivusthird ul li {
+    margin-bottom: 0;
+    display: block;
+  }
+  .staytouch .medactivusthird ul li .innerList,
+  .staytouch .medactivusrightthird ul li,
+  .staytouch .medactivusrightthird ul li .innerList {
+    display: block;
+  }
+  .staytouch .medactivusrightthird ul li span,
+  .staytouch .medactivusthird ul li span {
+    display: inline-block;
+  }
+  .staytouch .medactivusrightthird {
+    float: none;
+    width: 100%;
+  }
+  .staytouch .medactivusleftfourth h2 {
+    border-bottom: none;
+  }
+  .staytouch .marketingsecond h2 {
+    background-color: #FBFBFB;
+  }
+  .staytouch .marketingsecond h2 .toChild {
+    display: inline-block !important;
+  }
+  .staytouch p,
+  .staytouch p:last-child,
+  .staytouch .medactivusleftsecond p:last-child {
+    padding-bottom: 0;
+  }
+  .staytouch .medactivusleftfourth ul {
+    margin: 20px auto 0;
+  }
+  .staytouch .medactivusrightthird .listText {
+    margin: 20px auto 0;
+  }
+  .staytouch .casesubRight h2 {
+    background-color: #FBFBFB !important;
+  }
+  .staytouch .casesubRight .caseblock ul.listOrder li {
+    width: 90%;
+  }
+  .staytouch .casesubRight .caseblock ul.listOrder li:nth-child(2),
+  .staytouch .casesubRight .caseblock ul.listOrder li:nth-child(4),
+  .staytouch .casesubRight .caseblock ul.listOrder li:nth-child(6) {
+    width: 90%;
+  }
+  .staytouch .medactivusleftfourth {
+    float: none;
+  }
+  .caseblock.scorfoliorightthird.revamplist {
+    margin-top: 0px;
+  }
+  .bankingTechnologies .first li span:nth-child(2) {
+    float: none;
+  }
+  .caseblock.bankingTechnologies {
+    border-bottom: 1px solid #EBEBEB;
+  }
+  .medicalRepsTechBlock .listText li {
+    width: 100% !important;
+    font-size: 15px !important;
+  }
+  .gamekinectClient {
+    margin-bottom: 20px;
+  }
+  .gamekinectClient h2 span {
+    width: 0px!important;
+  }
+  .gamekinectClient h2 {
+    width: 88%;
+    background-color: #FFF!important;
+    border: none!important;
+  }
+  .vod p span {
+    display: inline;
+  }
+  .vodTechnology ul li:last-child {
+    margin-bottom: 20px!important;
+  }
+  .kaboomSolution {
+    margin-top: 0px;
+  }
+  .kaboomContent {
+    margin-top: 20px;
+  }
+  .kaboomClient .toChild {
+    display: none!important;
+  }
+  .kaboomClient p {
+    display: block!important;
+    padding-bottom: 0px;
+  }
+  .kaboomClient h2 {
+    border-top: none!important;
+    background-color: #fff!important;
+  }
+  .kaboomClient p {
+    margin-top: 0px!important;
+  }
+  .kaboomOverview,
+  .kaboomSolution,
+  .kaboomResult {
+    float: left!important;
+    width: 100%;
+  }
+  .kaboomTechnology {
+    margin-top: 0px!important;
+  }
+  .kaboomTechnology ul {
+    overflow: hidden;
+  }
+  .intranetFeatures .innerList {
+    margin: 0px 20px;
+  }
+  .intranetTechnologies ul li:nth-child(2) {
+    min-height: 0px;
+  }
+  .intranetFeatures .innerList li:last-child {
+    padding-bottom: 10px;
+  }
+  .netstreamHighlights {
+    padding-bottom: 0px;
+    width: 100%!important;
+  }
+  .netstreamDevelopment {
+    width: 100%!important;
+    padding-bottom: 0px;
+  }
+  .netstreamBenefits {
+    float: left!important;
+    margin-top: 1px solid #ebebeb;
+  }
+  .intranetBenefits {
+    border-bottom: none;
+  }
+  .netstreamTechnology ul {
+    overflow: hidden;
+  }
+  .intranetTechnologies {
+    width: 100%!important;
+  }
+  .intranetTechnologies h2 {
+    width: 100%!important;
+  }
+  .mediaBenefits {
+    border-bottom: none;
+  }
+  .mediaTechnologies {
+    width: 100%!important;
+  }
+  .feedbackTechnologies {
+    width: 100%!important;
+  }
+  .customerImage {
+    display: none;
+  }
+  .feedbackTechnologies h2 span:first-child {
+    width: 88%!important;
+  }
+  .novartisTechnology ul li {
+    width: 100%!important;
+  }
+  .novartisImage {
+    display: none;
+  }
+  .nyuTechnologies {
+    width: 100%!important;
+    margin-top: 0px!important;
+  }
+  .nyuTechnologies ul li {
+    width: 50%!important;
+    float: left;
+  }
+  .nyuBusinessreq ul li:last-child {
+    padding-bottom: 20px;
+  }
+  .nyuSolution p {
+    padding-bottom: 0px!important;
+  }
+  .nyuDevelopment h2 span:first-child,
+  .nyuTechnologies h2 span:first-child,
+  .nyuBenefits h2 span:first-child {
+    width: 88%;
+  }
+  .nfcHighlights h2 span:first-child {
+    width: 88%;
+  }
+  .nfcOverview p,
+  .nfcRequirement p,
+  .nfcSolution p {
+    padding-bottom: 0px!important;
+  }
+  .nfcOverview {
+    margin-top: 20px;
+  }
+  .nfcBenefits {
+    float: left;
+  }
+  .nfcHighlights {
+    border-bottom: none;
+  }
+  /*new CS & FP page css*/
+  .moreStoryWrapper a {
+    display: inline-block;
+    margin: 30px auto 0;
+  }
+  .moreStoryWrapper button {
+    display: block;
+  }
+  .moreStoryWrapper h2 {
+    display: none;
+  }
+  .moreStory {
+    display: none;
+  }
+  .pdfImg {
+    margin: 20px auto;
+  }
+  .mobilemoneytechnology h2 {
+    display: block;
+    padding-left: 0;
+  }
+  .mobilemoneytechnology h2:before {
+    content: "";
+  }
+  .insHighlights {
+    border-bottom: 1px #ebebeb solid!important;
+  }
+  .insProjectOverview {
+    margin-top: 20px;
+  }
+  .insResult,
+  .insSolution {
+    margin-top: 0px;
+  }
+  .insurance.active p {
+    display: block;
+    margin-top: 0;
+  }
+  .insurance h3 {
+    border-top: none;
+  }
+  .insurance p {
+    padding: 0px;
+  }
+  .feedbackHighlights {
+    margin-top: 0px;
+  }
+  .insTechnology h2 {
+    border-top: none;
+  }
+  .insResult {
+    float: left!important;
+  }
+  .vodOverview {
+    margin-top: 20px;
+  }
+  .medicalRepsHighlights {
+    margin-top: 0px;
+  }
+  .bombardierTechnologies h2 {
+    width: 100%!important;
+  }
+  .technologyblock h2 {
+    margin-bottom: 0px!important;
+  }
+  .CarImage {
+    display: none;
+  }
+  .carConfigClient p {
+    display: block;
+  }
+  .carConfigTechnologies .listText li span:nth-child(2) {
+    width: 85%;
+  }
+  .carConfigTechnologies h2 {
+    margin-bottom: 0 !important;
+  }
+  .carConfigResult {
+    float: left!important;
+    border-top: 1px solid #ebebeb!important;
+  }
+  .carConfigTechnologies {
+    margin-bottom: 0px!important;
+  }
+  .carConfigResult h2 {
+    border-top: none!important;
+  }
+  .goFishImage {
+    display: none;
+  }
+}
+@media screen and (min-width:768px) and (max-width:1039px) {
+  .technologyblock.QlearnTechnologies.kaboomTechnology {
+    width: 90.5%;
+  }
+  .rightcontainer .sub-heading {
+    font-size: 13px;
+  }
+  .multipleImage .customerImage {
+    width: 48%;
+  }
+  .multipleImage .customerImage:first-child {
+    margin-right: 4%;
+  }
+  .mobileappleftsecond.highlightModified,
+  .mobilemoneytechnology.modifiedTech {
+    width: 50%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+  /*.modifiedTech ul {
+        width: 82%; 
+    }*/
+  .caseStudySub,
+  .caseStudiesMore {
+    width: 100%;
+  }
+  .busReqList {
+    width: 94%;
+  }
+}
+@media screen and (min-width:768px) and (max-width:1267px) {
+  #csWrap {
+    right: 6.5%;
+    min-width: 900px;
+    max-width: 955px;
+  }
+  #csContainer {
+    max-width: 1000px;
+  }
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+  .cloudMigrationTech .mobilebanklist .longListContent {
+    width: 50% !important;
+  }
+  #csWrap {
+    right: 37px;
+    min-width: inherit;
+  }
+  .modifiedTech .listText {
+    padding-left: 45px;
+  }
+  .combinedCase {
+    margin-top: 40px;
+  }
+  .caseStudySub,
+  .caseStudiesMore {
+    width: 100%;
+  }
+  #csWrap .casestudy-dropdown div .filterSelected,
+  .casestudy-dropdown div .filterSelected {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+  #filters,
+  .case-study-filter {
+    width: 88%;
+  }
+  .case-study-filter {
+    left: 0;
+  }
+}
+@media screen and (max-width:767px) {
+  .designing .listText.mobListWidth li,
+  .casesubContent .listText.mobListWidth li,
+  #mobileNewsCaseouter .casesubContent .listText.mobListWidth li {
+    display: list-item !important;
+  }
+  .designing .listText.mobListWidth li span,
+  .casesubContent .listText.mobListWidth li span,
+  #mobileNewsCaseouter .casesubContent .listText.mobListWidth li span {
+    display: inline !important;
+  }
+  .designing .listText.mobListWidth,
+  .casesubContent .listText.mobListWidth {
+    width: 80%;
+  }
+  .cloudMigrationTech .mobilebanklist .longListContent {
+    width: 100% !important;
+  }
+  #csWrap .casestudy-dropdown div .filterSelected,
+  .casestudy-dropdown div .filterSelected {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+  #filters,
+  .case-study-filter {
+    width: 88%;
+  }
+  .case-study-filter {
+    left: 0;
+  }
+  #csWrap {
+    right: 0;
+    min-width: inherit;
+  }
+  .caseStudySub,
+  .caseStudiesMore {
+    width: 100%;
+  }
+  .busReqList {
+    width: 94%;
+  }
+}
+@media screen and (min-width:1300px) and (max-width:1400px) {
+  #csWrap {
+    right: 4%;
+  }
+}
+@media screen and (min-width:767px) {
+  .technologyblock,
+  .newTechnology {
+    background-image: url(../images/responsive/resource/casestudy/settings_icon.svg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+  }
+  .longTechnology .techListHeading {
+    // padding-left: 50px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  .closeContents p {
+    padding-bottom: 14px;
+  }
+  .closeContents .techListHeading {
+    margin-top: -2px;
+  }
+  .mobilebanklist.tripleList .longListContent {
+    width: 32.5%!important;
+    padding-bottom: 10px;
+  }
+  .mobilemoneytechnology.modifiedTech {
+    padding: 15px;
+  }
+  .modifiedTech ul {
+    padding-left: 50px;
+    box-sizing: border-box;
+  }
+  .mobilefitnessfirst.normalContent p:not(.lastPara) {
+    padding-bottom: 25px;
+  }
+  .casesubContent.expandText {
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .newTechnology .toggleHead {
+    background-size: 30px;
+    background-position: 0px 10px;
+    box-sizing: border-box
+  }
+  .mobilemoneytechnology.longTechnology {
+    padding: 25px 0 25px 23px;
+  }
+  .mobilemoneytechnology.longTechnology.cloudMigrationTech .listText {
+    padding-left: 0;
+  }
+  .mobilemoneytechnology.longTechnology .listText {
+    // padding-left: 50px;
+    box-sizing: border-box;
+    margin-left: 0;
+    display: table;
+  }
+}
+@media screen and (min-width:1025px) {
+  .caseContentContainer.caseContentContainerInner.newCaseContainer,
+  .casesubContentInnerWrapper {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .newCS {
+    position: relative;
+    width: 91%;
+    margin: 0 auto;
+  }
+  .combinedCase {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .newCasestory {
+    padding-top: 35px;
+  }
+  .casesubContent.expandText {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+  .newCaseContainer {
+    padding-bottom: 40px;
+  }
+  .longTechContent {
+    display: inherit;
+    width: 88%;
+  }
+  .netCsFirstSection {
+    padding-bottom: 40px;
+  }
+}

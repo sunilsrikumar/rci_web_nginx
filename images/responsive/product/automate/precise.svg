@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="54px" viewBox="0 0 56 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>tick-inside-a-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-914.000000, -1506.000000)">
+        <g id="Group-5" transform="translate(239.000000, 1491.000000)">
+            <g id="Group-11" transform="translate(676.000000, 15.000000)">
+                <g id="tick-inside-a-circle">
+                    <circle id="Oval-6" fill="#FFEFF0" cx="29.1923077" cy="25.8076923" r="25.8076923"></circle>
+                    <path d="M25.7384937,53.169295 C11.5468153,53.169295 0,41.6234723 0,27.4309432 C0,13.2382722 11.5468153,1.69230769 25.7384937,1.69230769 C39.9303138,1.69230769 51.4771291,13.2382722 51.4771291,27.4309432 C51.4771291,41.6234723 39.9303138,53.169295 25.7384937,53.169295 Z M25.7384937,3.35279163 C12.4614286,3.35279163 1.66048394,14.1545871 1.66048394,27.4309432 C1.66048394,40.7072992 12.4614286,51.5089529 25.7384937,51.5089529 C39.0157005,51.5089529 49.8166452,40.7072992 49.8166452,27.4309432 C49.8166452,14.1545871 39.0157005,3.35279163 25.7384937,3.35279163 Z" id="Shape" stroke="#859DBA" stroke-width="0.5" fill="#859DBA" fill-rule="nonzero"></path>
+                    <polygon id="Shape" stroke="#859DBA" stroke-width="0.5" fill="#859DBA" fill-rule="nonzero" points="20.9803776 38.409422 11.7790845 29.2081289 12.9531927 28.0341625 20.9803776 36.0612056 38.4521853 18.5901069 39.6262935 19.7640733"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

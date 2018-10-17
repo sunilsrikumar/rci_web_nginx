@@ -1,0 +1,473 @@
+  .iosDescriptionWraper,
+  .iosDevService,
+  .iosAppStore,
+  .inneriosAppWrapper {
+    width: 65%;
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 60px 0;
+  }
+  .iosDescriptionWraper h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .iosFeaturedApp {
+    width: 88%;
+    margin: 0 auto;
+    max-width: 1100px;
+    padding: 60px 0;
+  }
+  .iosDescriptionWraper,
+  .iosDevService,
+  .iosAppStore {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .iosFiveIdeawrapper {
+    padding: 60px 0;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .innersectionios {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .innerpageSubHead,
+  .iosFeaturedAppMobile .devLink span.titleHead {
+    font-family: 'OpenSansLight';
+  }
+  .devServiceContent h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  .innerpageSubHead {
+    text-align: center;
+    font-size: 30px;
+  }
+  .iosDescriptionWraper p,
+  .iosAppStore p {
+    padding-top: 20px;
+  }
+  .iosDescriptionWraper p,
+  .devServiceContent p,
+  .iosAppStore p,
+  .iosFiveIdeawrapper .AppStoreContent p,
+  .inneriosAppWrapper p,
+  .iosFeaturedApp p,
+  .iosDeviceMobile,
+  .iosFeaturedContent p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #727272;
+    line-height: 26px;
+  }
+  .iosDevService h2 {
+    margin: 0 auto;
+  }
+  .iosFiveIdeawrapper .inneriosDevService {
+    width: 62%;
+  }
+  .inneriosDevService {
+    width: 77%;
+    margin: 0 auto;
+    // display: table;
+    padding-top: 70px;
+    max-width: 865px;
+  }
+  .inneriosDevService figure {
+    display: table-cell;
+    vertical-align: middle;
+    width: 20%;
+  }
+  .inneriosDevService figure.secondiosFigure {
+    width: 28%;
+  }
+  .inneriosDevService .devServiceContent {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .inneriosDevService .devServiceContentSecond,
+  .inneriosDevServiceMiddle figure {
+    padding-left: 5%;
+  }
+  .inneriosDevService .devServiceContentFirst {
+    padding-left: 0;
+  }
+  .devServiceContent h3 {
+    font-size: 22px;
+    padding-bottom: 10px;
+  }
+  .iosAppStore p a {
+    text-decoration: underline;
+    color: #e2292f;
+  }
+  .iosFiveIdeawrapper .AppStoreContent h3,
+  .iosFeaturedApp h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  .iosFiveIdeawrapper .AppStoreContent h3 {
+    font-size: 17px;
+    color: #000;
+  }
+  .iosScrollline {
+    float: left;
+    width: 6%;
+    text-align: center;
+  }
+  .iosFiveIdeawrapper .inneriosDevService {
+    padding-top: 0;
+  }
+  .iosFiveIdeawrapper .innerpageSubHead {
+    padding-bottom: 45px;
+  }
+  .iosAppWrapper {
+    background-color: #f8f8f8;
+  }
+  .inneriosAppWrapper {
+    text-align: center;
+  }
+  .inneriosAppWrapper .iosGetTouch {
+    padding-bottom: 25px;
+  }
+  .inneriosAppWrapper p {
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: #474747;
+  }
+  .inneriosAppWrapper p a,
+  .iosFeaturedContent a {
+    color: #e34a4d;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+  }
+  #inqBtn.inquiryLinkBtn {
+    background-color: #e63c3c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    text-transform: capitalize;
+  }
+  .inneriosAppWrapper img {
+    padding-top: 30px;
+  }
+  .iosFeaturedContentInner {
+    display: table;
+  }
+  .iosFeaturedContentInner img,
+  .iosFeaturedContentInner .featuredsubContent {
+    display: table-cell;
+  }
+  .iosFeaturedContentInner .featuredsubContent {
+    width: 70%;
+  }
+  .iosFeaturedContent {
+    width: 46%;
+  }
+  .iosFeaturedContent:first-child {
+    float: left;
+    padding-bottom: 60px;
+  }
+  .iosFeaturedContent:nth-child(2) {
+    box-sizing: border-box;
+    float: right;
+  }
+  .iosFeaturedContent h3 {
+    font-size: 22px;
+    color: #525252;
+  }
+  .iosAppStoreWrapper {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-flow: row wrap;
+  }
+  .AppStoreContent {
+    width: 48%;
+    box-sizing: border-box;
+    position: relative;
+  }
+  .AppStoreContent.AppStoreContentLeft {
+    padding-right: 20px;
+  }
+  .AppStoreContent.AppStoreContentRight {
+    padding-left: 20px;
+  }
+  .AppStoreContent:nth-child(2) {
+    margin-top: 200px;
+  }
+  .AppStoreContent:nth-child(3),
+  .AppStoreContent:nth-child(5) {
+    padding-top: 60px;
+  }
+  .AppStoreContent:nth-child(4) {
+    margin-top: 265px;
+  }
+  .AppStoreContent:before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    background: #c2cedc;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    position: absolute;
+  }
+  .AppStoreContentLeft:before {
+    right: -8px;
+  }
+  .AppStoreContentRight:before {
+    left: -8px;
+  }
+  .AppStoreContent:first-child:before {
+    top: 65px;
+  }
+  .AppStoreContent:nth-child(2):before {
+    top: 55px;
+  }
+  .AppStoreContent:nth-child(3):before {
+    top: 130px;
+  }
+  .AppStoreContent:nth-child(4):before {
+    top: 65px;
+  }
+  .AppStoreContent:nth-child(5):before {
+    top: 111px;
+  }
+  .AppStoreContentLeft {
+    text-align: right;
+    border-right: 1px solid #c2cedc;
+  }
+  .inneriosDevServiceMiddleMobile,
+  .iosDeviceMobile,
+  .iosFeaturedAppMobile {
+    display: none;
+  }
+  .iosFetauredWrapper {
+    padding-top: 40px;
+  }
+  @media screen and (min-width:768px) and (max-width:1024px) {
+    .iosFeaturedContent:first-child {
+      padding-bottom: 55px;
+    }
+    .iosFeaturedContent {
+      width: 100%;
+      padding-bottom: 55px;
+    }
+    .iosFeaturedContent:nth-child(2) {
+      padding-left: 0;
+    }
+    .inneriosDevService figure {
+      width: 30%;
+    }
+    .inneriosDevService figure.secondiosFigure {
+      width: 34%;
+    }
+    .iosFeaturedContentInner .featuredsubContent {
+      width: 80%;
+    }
+    .iosDescriptionWraper,
+    .iosDevService,
+    .iosAppStore,
+    .inneriosAppWrapper {
+      width: 86%;
+    }
+    .iosFiveIdeawrapper .inneriosDevService {
+      width: 74%;
+    }
+  }
+  @media screen and (max-width:767px) {
+    .AppStoreContent.AppStoreContentLeft {
+      padding-right: 0;
+    }
+    .AppStoreContent.AppStoreContentRight {
+      padding-left: 0;
+    }
+    .AppStoreContent:nth-child(3),
+    .AppStoreContent:nth-child(5) {
+      padding-top: 20px;
+    }
+    .iosFiveIdeawrapper .innerpageSubHead {
+      padding-bottom: 30px;
+    }
+    .inneriosDevService figure {
+      padding-bottom: 10px;
+    }
+    .iosFetauredWrapper {
+      padding-top: 0;
+    }
+    .iosFeaturedAppMobile.graphAccordion .accordion-section .devBullet {
+      margin-top: 5px;
+    }
+    .iosDescriptionWraper,
+    .iosDevService,
+    .iosAppStore,
+    .inneriosAppWrapper,
+    .iosFeaturedApp,
+    .iosFiveIdeawrapper {
+      padding: 50px 0;
+    }
+    .innerpageSubHead {
+      text-align: left;
+    }
+    .iosDescriptionWraper {
+      padding-top: 0;
+    }
+    .iosDevService h2 {
+      text-align: left;
+      width: 100%;
+    }
+    .iosDescriptionWraper,
+    .iosDevService,
+    .iosAppStore,
+    .inneriosAppWrapper,
+    .iosFeaturedApp {
+      width: 88%;
+    }
+    .innersectionios {
+      width: 100%;
+    }
+    .subMenus,
+    .iosFiveIdeawrapper .inneriosDevService {
+      width: 100%;
+    }
+    .inneriosDevService {
+      width: 100%;
+      padding-top: 40px;
+    }
+    .inneriosDevService figure,
+    .inneriosDevService .devServiceContent,
+    .iosFeaturedAppMobile {
+      display: block;
+    }
+    .inneriosDevService .devServiceContentSecond,
+    .inneriosDevServiceMiddle figure {
+      padding-left: 0;
+    }
+    .inneriosDevServiceMiddleMobile {
+      display: block;
+    }
+    .inneriosDevServiceMiddle,
+    .iosFeaturedApp {
+      display: none;
+    }
+    .iosFiveIdeawrapper {
+      width: 88%;
+      margin: 0 auto;
+    }
+    .AppStoreContent {
+      width: 100%;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .AppStoreContentLeft {
+      border: none;
+    }
+    .AppStoreContent:before {
+      content: initial;
+    }
+    .AppStoreContent:nth-child(2),
+    .AppStoreContent:nth-child(4) {
+      margin-top: 0;
+    }
+    .inneriosAppWrapper img {
+      display: none;
+    }
+    .inneriosAppWrapper .iosDeviceApp {
+      display: none;
+    }
+    .iosDeviceMobile {
+      display: flex;
+      margin: 0 auto;
+      flex-flow: row wrap;
+      justify-content: space-between;
+      width: 94%;
+      padding-top: 30px;
+      color: #474747;
+    }
+    .iosDeviceMobile span {
+      width: 48%;
+      text-align: left;
+      line-height: 34px;
+    }
+    .inneriosAppWrapper p {
+      width: 100%;
+      text-align: center;
+    }
+    .iosFeaturedAppMobile .toggleIcon .devBullet {
+      display: block;
+      color: #e63c3c;
+    }
+    .iosFeaturedAppMobile {
+      width: 88%;
+      margin: 0 auto;
+      float: none;
+    }
+    .iosFeaturedAppMobile .toggleIcon,
+    .iosFeaturedAppMobile.graphAccordion .accordion-section {
+      border: none;
+      background-color: #fff;
+    }
+    .iosFeaturedAppMobile.graphAccordion .accordion-section .devBullet {
+      margin-right: 0;
+    }
+    .iosFeaturedAppMobile .devLink {
+      display: inline-block;
+      width: 100%;
+    }
+    .iosFeaturedAppMobile span.titleHead {
+      width: 70%;
+    }
+    .iosFeaturedAppMobile span.devBullet {
+      float: right;
+    }
+    .iosFeaturedAppMobile .devLink span.titleHead {
+      font-size: 30px;
+    }
+    .iosFeaturedAppMobile.graphAccordion .accordion-section .devLink {
+      padding-left: 0;
+    }
+    .iosFeaturedAppMobile .devLink {
+      padding: 20px 0;
+    }
+    .iosFeaturedAppMobile .devLink.active {
+      border-bottom: 1px solid #e5e5e5;
+    }
+    .iosFeaturedContentInner img,
+    .iosFeaturedContentInner .featuredsubContent {
+      display: initial;
+      padding: 15px 0;
+    }
+    .iosFeaturedContent {
+      width: 100%;
+      text-align: center;
+    }
+    .iosFeaturedContent p {
+      padding: 15px 0;
+    }
+    .iosFeaturedContent:first-child {
+      padding-bottom: 0;
+    }
+    .iosFeaturedContent:nth-child(2) {
+      padding-left: 0;
+    }
+    .iosDeviceMobile span:nth-child(2),
+    .iosDeviceMobile span:nth-child(4),
+    .iosDeviceMobile span:nth-child(6) {
+      width: 15%;
+      padding-right: 18%;
+    }
+  }
+  @media screen and (max-width:450px) {
+    .iosFeaturedAppMobile.graphAccordion .accordion-section .devBullet {
+      margin-top: 12px;
+    }
+  }
+  @media screen and (max-width:414px) {
+    .inneriosDevService figure {
+      width: 30%;
+    }
+    .inneriosDevService figure.secondiosFigure {
+      width: 32%;
+    }
+  }

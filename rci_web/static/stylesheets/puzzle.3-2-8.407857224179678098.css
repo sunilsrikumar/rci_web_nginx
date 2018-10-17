@@ -1,0 +1,37 @@
+h5{
+	padding-top:30px;
+}
+p#level{
+   padding-bottom:10px;
+   color:#FFFFFF;
+   visibility:hidden;
+   font-weight:bold;
+   background-color:#b51c1c;
+   border:5px solid #c15555;
+   padding:5px 0;
+   text-align:center;
+}
+.gamesection .active {
+	background-color:#b51c1c !important;
+   	border:5px solid #c15555  !important;
+	padding:5px 0px; width:30%;
+	float:left;
+	text-align:center;
+	color:#FFFFFF; font-weight:bold;
+	border:none;
+	margin-right:10px;
+}
+
+/* CSS for React.js */
+
+.content .reactService {
+    margin: 30px 0;
+}
+
+.content .reactService .listText {
+    margin: 20px auto;
+}
+
+.content .reactService .listText li {
+    padding-bottom: 10px;
+}

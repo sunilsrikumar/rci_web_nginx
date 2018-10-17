@@ -1,0 +1,707 @@
+.bannerImageWrapper.mobBannerImg h1.headingWebMobile {
+  text-align: left;
+  left: 10%;
+  bottom: 10%;
+  vertical-align: bottom;
+}
+.bannerImageWrapper.mobBannerImg h1.headingMobileMobileWeb {
+  display: none;
+}
+.bannerImageWrapper.mobBannerImg h1.headingWebMobile span:first-child {
+  display: block;
+  font-size: 34px;
+  font-weight: normal;
+  padding-bottom: 8px;
+  font-family: 'OpenSansLight';
+}
+.bannerImageWrapper.mobBannerImg h1.headingWebMobile span:nth-child(2) {
+  font-weight: bold;
+  font-size: 52px;
+}
+.mobileAppWrapper .firstBoldHead {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  display: block;
+}
+.resourceWrapper {
+  background-color: transparent;
+}
+.mobileAppWrapper.mobileWebAppWrapper {
+  border-bottom: 1px solid #e5e5e5;
+  width: 60%;
+}
+.commonBorder {
+  border-bottom: 1px solid #e5e5e5;
+}
+.mobileWebClientLogoSection h2 {
+  padding-bottom: 30px;
+}
+.innerMobDevService figure {
+  display: table-cell;
+  vertical-align: middle;
+  width: 14%;
+}
+.innerMobDevService figure.secondmobFigure {
+  width: 28%;
+}
+.innermobDevService.innermobDevServiceMiddleMobile {
+  display: none;
+}
+.innerMobDevService .mobdevServiceContentSecond,
+.inneriosMobDevServiceMiddle figure {
+  padding-left: 5%;
+}
+.innerMobDevService .mobdevServiceContentFirst {
+  padding-left: 0;
+}
+.innerMobDevService .mobdevServiceContent {
+  display: table-cell;
+  vertical-align: middle;
+}
+.mobileImgContent,
+.innerMobDevService.inneriosMobDevServiceMiddle,
+.commonmainPadding {
+  padding: 60px 0;
+}
+.innerpageSubHead {
+  text-align: center;
+  font-size: 30px;
+}
+.mobSolImgWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: column;
+  -o-flex-flow: column;
+  flex-flow: column;
+  -ms-flex-flow: column;
+  -moz-flex-flow: column;
+  padding-top: 40px;
+  display: inline-block;
+}
+.mobSolImgFirst,
+.mobSolImgSecond,
+.mobSolImgSectionWrapper {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  border-radius: 4px;
+}
+.mobSolImgFirstSection {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.imgWrap {
+  background-size: cover;
+  height: 240px;
+  width: 50%;
+  display: table;
+  position: relative;
+}
+.imgWrapHead {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.imgWrap span {
+  font-size: 28px;
+  color: #fff;
+}
+.imgWrap.internetImg {
+  width: 100%;
+  height: 480px;
+}
+.gamingImg,
+.videoStreamImg,
+.beaconsImg,
+.augImg,
+.gamificationImg  {
+  float: left;
+}
+.nfcImg,
+.wearableImg {
+  float: right;
+}
+.gamingImg,
+.videoStreamImg {
+  right: -1px;
+}
+.imgWrap:hover .imgWrapHead,
+.hoverContent {
+  display: none;
+}
+.gamingImg {
+  background-image: url("../images/responsive/service/mobile_App/gaming.jpg");
+}
+.gamingImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/gaming_white.jpg");
+}
+.nfcImg {
+  background-image: url("../images/responsive/service/mobile_App/nfc.jpg");
+}
+.nfcImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/nfc_white.jpg");
+}
+.videoStreamImg {
+  background-image: url("../images/responsive/service/mobile_App/video_streaming.jpg");
+}
+.videoStreamImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/video_streaming_white.jpg");
+}
+.wearableImg {
+  background-image: url("../images/responsive/service/mobile_App/wearables.jpg");
+}
+.wearableImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/wearables_white.jpg");
+}
+.internetImg {
+  background-image: url("../images/responsive/service/mobile_App/iot.jpg");
+}
+.internetImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/iot_white.jpg");
+}
+.beaconsImg {
+  background-image: url("../images/responsive/service/mobile_App/beacons.jpg");
+  width: 25%;
+}
+.beaconsImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/beacons_white.jpg")
+}
+.augImg {
+  background-image: url("../images/responsive/service/mobile_App/augmented_reality.jpg");
+}
+.augImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/augmented_reality_white.jpg");
+}
+.gamificationImg{
+  background-image: url("../images/responsive/service/mobile_App/gamification.jpg");
+  width: 25%;
+}
+.gamificationImg:hover {
+  background-image: url("../images/responsive/service/mobile_App/gamification_white.jpg");
+}
+.mobIndustriesWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.mobIndustryContent {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  margin: 25px;
+  padding: 5px;
+  background: #fff;
+  border: 1px solid #dfdbda;
+  padding: 40px 30px;
+  border-radius: 4px;
+}
+.pageUrlLink {
+  display: block;
+}
+.mobIndustryContent p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.mobIndustryContent p span,
+.clientQuoteMobileApp img {
+  display: block;
+}
+.lastInquiryLinkContent {
+  padding-top: 30px;
+}
+.lastInquiryLinkContent p {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.clientQuoteMobileApp {
+  width: 65%;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 0;
+}
+.clientQuoteMobileApp q {
+  color: #727272;
+  line-height: 26px;
+}
+.clientQuoteMobileApp img {
+  margin: 0 auto;
+}
+.clientName {
+  font-family: 'OpenSansBold';
+  color: #333;
+}
+.clientQuoteMobileApp .elementLink a {
+  padding-top: 10px;
+  display: inline-block;
+}
+.damanvirIMG {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.mobileAppSecurityWrapper {
+  background-image: url("../images/responsive/service/mobile_App/mobileAppSecurityBg.jpg");
+}
+.mobileAppSecurityContent {
+  width: 75%;
+  margin: 0 auto;
+  max-width: 1100px; 
+  padding: 60px 0;
+}
+.innermobileAppSecurityContent {
+  background-color: #fff;
+  padding: 60px 150px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.commonPDFDownload button,
+.viewCaseStudyBtn button {
+  width: auto;
+  line-height: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  outline: none;
+  font-family: 'OpenSansBold';
+  background-color: #e63c3c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  text-transform: capitalize;
+}
+.innermobileAppSecurityContent .pageUrlLink{
+  display: initial;
+}
+.astraZenecaLogiLink {
+  display: inline-block;
+}
+.commonPDFDownload {
+  display: inline-block;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.security.mobileAppResources {
+  width: 33%;
+  max-width: 370px;
+  text-align: center;
+  height: 300px;
+  background-size: cover;
+  display: table;
+  position: relative;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  -moz-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  padding: 40px 0;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.security.mobileAppResources:first-child {
+  background-image: url("../images/responsive/service/mobile_App/resource-intranet.jpg");
+}
+.security.mobileAppResources:nth-child(2) {
+  background-image: url("../images/responsive/service/mobile_App/resourceBuss.png");
+}
+.moreStoryContent {
+  width: 100%;
+  color: #FFF;
+  position: relative;
+  z-index: 1;
+  margin-top: 110px;
+}
+.thumbnailText {
+  position: absolute;
+  bottom: -200px;
+  padding-left: 20px;
+  text-align: left;
+  transition: top ease 0.5s;
+}
+.thumbnailTextHead {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+}
+.thumbnailText .xtraContent {
+  display: none;
+}
+.thumbnailText .xtraContent span {
+  font-size: 22px;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.mobileAppResources:hover {
+  top: -20px;
+}
+.mobileAppResources:hover .xtraContent {
+  display: block;
+  position: relative;
+  top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+.security.mobileAppResources .thumbnailText h3 {
+  position: relative;
+  top: 15px;
+  transition: top ease 0.5s;
+  padding: 0;
+  width: 100%;
+}
+.security.mobileAppResources .thumbnailText p {
+  margin: 0;
+}
+.mobileAppResources:hover .thumbnailTextHead {
+  top: -5px;
+}
+.resources.resourcesMobDev {
+  padding-top: 50px;
+}
+.imgWrap:hover .hoverContent {
+  display: block;
+  padding: 10px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+.hoverContent span {
+  color: #e2292f;
+  font-size: 24px;
+  line-height: 30px;
+}
+.internetImg span {
+  font-size: 30px;
+}
+.imgWrap.internetImg .hoverContent p {
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  line-height: 40px;
+}
+.imgWrap .hoverContent p {
+  color: #434343;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+}
+.clearClientLogo,
+.mobSolImgWrapperiPad,
+.mobileWebClientLogoSection .featuredClients p:hover .greyClientLogo,
+.mobilitySolutionsMobile.collapse-content.dualContent {
+  display: none;
+}
+.mobileWebClientLogoSection .featuredClients p:hover .clearClientLogo {
+  display: inline-block;
+}
+.mobilityIndustriesWrapper h2 {
+  padding-bottom: 20px;
+}
+.nfcImg,
+.wearableImg,
+.gamificationImg {
+  right: 1px;
+}
+.imgWrap.internetImg {
+  right: 2px;
+}
+.beaconsImg {
+  left: 1px;
+}
+.quoteClientSection img {
+  display: inline-block;
+  vertical-align: top;
+}
+.quoteClientSection img:nth-child(2) {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+@media screen and (max-width:1200px) {
+  .imgWrap .hoverContent p {
+    font-size: 10px;
+  }
+  .imgWrap span {
+    font-size: 24px;
+  }
+  .imgWrap .viewCaseStudyBtn button {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width:1024px) {
+  .featuredClients.featuredClientsMobileApp {
+    width: 100%;
+  }
+  .clearClientLogo,
+  .mobileWebClientLogoSection .featuredClients p:hover .clearClientLogo {
+    display: block;
+  }
+  .clearClientLogo,
+  .greyClientLogo {
+    width: 75%;
+  }
+  .nfcImg,
+  .wearableImg,
+  .gamificationImg {
+    right: 0;
+  }
+  .imgWrap.internetImg {
+    right: 0;
+  }
+  .beaconsImg {
+    left: 0;
+  }
+  .thumbnailText{
+    padding-left: 0;
+  }
+  .resourceWrapper {
+    padding-top: 0;
+  }
+  .security.mobileAppResources {
+    width: 40%;
+  }
+  .mobileAppWrapper.mobileWebAppWrapper,
+  .clientQuoteMobileApp {
+    width: 88%;
+  }
+  .mobileAppResources:hover .xtraContent,
+  .thumbnailText .xtraContent {
+    display: inline;
+    position: relative;
+    top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 10px;
+    width: 140px;
+    color: #fff;
+    font-family: 'OpenSansBold';
+  }
+  .thumbnailText .xtraContent span,
+  .mobilitySolutionsMobile.collapse-content.dualContent,
+  .bannerImageWrapper.mobBannerImg h1.headingMobileMobileWeb,
+  .greyClientLogo {
+    display: none;
+  }
+  .innermobileAppSecurityContent {
+    padding: 50px;
+  }
+  .moreStoryContent {
+    margin-top: 0;
+  }
+  .thumbnailText {
+    bottom: auto;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+  }
+  .mobileAppResources:hover {
+    top: auto;
+  }
+  .mobSolImgWrapperiPad {
+    display: inline-block;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .mobSolImgWrapper {
+    display: none;
+  }
+  .gamingImg,
+  .gamingImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/gaming_ipad.jpg");
+  }
+  .nfcImg,
+  .nfcImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/nfc_ipad.jpg");
+  }
+  .videoStreamImg,
+  .videoStreamImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/video_streaming_ipad.jpg");
+  }
+  .wearableImg,
+  .wearableImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/wearables_ipad.jpg");
+  }
+  .internetImg,
+  .internetImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/IoT_ipad.jpg");
+  }
+  .beaconsImg,
+  .beaconsImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/beacons_ipad.jpg")
+  }
+  .augImg,
+  .augImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/augmented_reality_ipad.jpg");
+  }
+  .gamificationImg,
+  .gamificationImg:hover {
+    background-image: url("../images/responsive/service/mobile_App/gamification_ipad.jpg");
+  }
+  .ipadImgContent {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .ipadImgContent p {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .viewCaseStudyBtn.viewCaseStudyBtnIpad button {
+    border: 1px solid #fff;
+    background-color: transparent;
+  }
+  .imgWrap,
+  .imgWrap.internetImg {
+    height: 340px;
+  }
+  .imgWrap.internetImg {
+    width: 50%;
+  }
+  .gamingImg, 
+  .videoStreamImg {
+    right: 0;
+  }
+  .imgWrap.internetImg,
+  .imgWrap.wearableImg,
+  .imgWrap.videoStreamImg,
+  .imgWrap.beaconsImg,
+  .imgWrap.nfcImg,
+  .nfcImg, 
+  .wearableImg {
+    float: left;
+  }
+  .imgWrap.beaconsImg,
+  .imgWrap.gamificationImg {
+    width: 50%;
+  }
+}
+@media screen and (max-width:767px) {
+  .bannerImageWrapper.mobBannerImg h1.headingWebMobile {
+    display: none;
+  }
+  .clearClientLogo {
+    width: auto;
+    margin: 0 auto;
+  }
+  .innermobDevService.innermobDevServiceMiddleMobile,
+  .mobilitySolutionsMobile.collapse-content.dualContent,
+  .mobIndustriesWrapperMobile .otherIndustries span,
+  .mobileWebClientLogoSection .featuredClients,
+  .innermobileAppSecurityContent .pageUrlLink,
+  .bannerImageWrapper.mobBannerImg h1.headingMobileMobileWeb {
+    display: block;
+  }
+  .thumbnailText {
+    padding-left: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+  }
+  .mobileWebClientLogoSection .featuredClients p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .mobileWebClientLogoSection .featuredClients div.view {
+    text-align: center;
+  }
+  .mobilitySolutionsMobile.collapse-content.dualContent {
+    border-bottom: none;
+  }
+  .innerMobDevService .mobdevServiceContentSecond, 
+  .inneriosMobDevServiceMiddle figure {
+    padding-left: 0;
+    display: block;
+  } 
+  .innermobDevService.innermobDevServiceMiddleMobile .secondmobFigure {
+    padding-bottom: 10px;
+  }
+  .mobSolImgWrapperiPad,
+  .mobIndustriesWrapper {
+    display: none;
+  }
+  .mobilitySolutionsMobile.collapse-content.dualContent .mobile-collapse-content {
+    padding: 10px 5%;
+  }
+  .mobilitySolutionsMobile.collapse-content.dualContent .desktop-view-content .xtraP {
+    padding: 0 5% 20px 5%;
+  }  
+  .mobilitySolutionsMobile.collapse-content.dualContent .desktop-view-content {
+    border: 1px solid #EBEBEB;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .mobilitySolutionsMobile.collapse-content.dualContent .mobile-collapse-content {
+    background-color: transparent;
+    color: #535353;
+  }
+  .mobilitySolutionsMobile.collapse-content.dualContent .viewCaseStudyBtn {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .clientsays.mobileWebClientLogoSection {
+    padding-top: 60px;
+  }
+  .mobileAppSecurityWrapper {
+    background-color: #f6f6f6;
+    background-image: none;
+  }
+  .mobileAppSecurityContent {
+    width: 88%;
+  }
+  .innermobileAppSecurityContent {
+    padding: 50px 40px;
+  }
+  .innermobileAppSecurityContent h2 {
+    padding-bottom: 40px;
+  }
+  .innermobileAppSecurityContent .expandTitle {
+    text-align: center;
+  }
+  .security.mobileAppResources {
+    width: 100%;
+  }
+  .resourceWrapper.mobileAppResourceWrapper {
+    margin-bottom: 0;
+  }
+}

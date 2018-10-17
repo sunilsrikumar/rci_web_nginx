@@ -1,0 +1,3674 @@
+/*product landing page*/
+.qbeaconBenefits .tickList li span:nth-child(2) {
+  display: inline-block;
+  width: 80%;
+} 
+.productBlock .elementLast {
+  width: 50%;
+  float: left;
+}
+.productBlock .elementLast .elementText {
+  width: 70%;
+}
+.featureProduct {
+  margin-bottom: 30px !important;
+}
+.crick,
+.galImgContainer {
+  text-align: center;
+}
+.crickText {
+  text-align: left;
+}
+
+/*products*/
+#penQLeft .innerList li span {
+  color: #e2292f;
+}
+#penQLeft .innerList li .listCont {
+  color: #727272;
+}
+.icon-Galapagos {
+  color: #870387;
+}
+.icon-WWatch {
+  color: #e2292f;
+}
+.icon-CRN {
+  color: #005db3;
+}
+.icon-Crickees {
+  color: #00a10f;
+}
+.icon-PenQ {
+  color: #007ddd;
+  font-size: 28px;
+}
+.icon-SecondSight {
+  color: #00a5d4;
+}
+.subMenus .icon-Tools {
+  font-size: 23px;
+  position: relative;
+}
+.subMenus .icon-WWatch {
+  font-size: 26px;
+}
+.subMenus .icon-Galapagos,
+.subMenus .icon-quick {
+  font-size: 28px;
+}
+.subMenus .icon-Tools {
+  color: #833333;
+}
+.subMenus ul li a span.opnSrc {
+  width: 90px;
+  line-height: 16px;
+}
+#webwatchBox,
+#crickeeBox {
+  width: 98%;
+  float: right;
+  border: 5px solid #ebebeb;
+  background-color: #fbfbfb;
+  height: auto;
+  font-family: 'OpenSansregular';
+}
+#webwatchBox .featuredsubContent {
+  display: table;
+  padding: 10px;
+  margin: 0 auto;
+  width: auto;
+}
+#webwatchBox .icon-SignUp {
+  display: table-cell;
+  font-size: 35px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+#webwatchBox .watchboxText {
+  display: table-cell;
+  vertical-align: middle;
+}
+#crickeeBox .crickeesContent {
+  padding: 10px 0 5px;
+  width: 100%;
+  text-align: center;
+}
+#crickeeBox .crickeessec {
+  padding: 5px 0 10px;
+}
+#crickeeBox .icon-Cricket,
+#crickeeBox .icon-Webcast {
+  font-size: 30px;
+  padding-right: 10px;
+}
+#crickeeBox .icon-Cricket {
+  color: #059c58;
+  vertical-align: middle;
+}
+#crickeeBox .icon-Webcast {
+  color: #e23335;
+  vertical-align: middle;
+}
+#crickeeBox a {
+  text-decoration: underline;
+}
+#PenQAppend {
+  border: 8px solid #ebebeb;
+}
+.inspktrBottom.inspktrSection h2 {
+  padding-bottom: 20px;
+}
+
+/*products-end*/
+
+
+/*products*/
+/*products-end*/
+
+.tezzleMobExpandText {
+  display: none;
+}
+.tezzleImage {
+  margin-top: 60px;
+  position: relative;
+}
+.tezzleImage .leftImage {
+  float: left;
+  margin-right: 30px;
+  width: 73%
+}
+.tezzleImage .rightImageTop {
+  text-align: center;
+  margin-top: 25px;
+  float: left;
+  width: 22%;
+}
+.tezzleIndustryData {
+  font-family: 'OpenSansSemiBold';
+  font-size: 15px;
+  text-align: left;
+  color: #393939;
+  margin-top: 11px;
+  width: 70%;
+  float: left;
+}
+.tezzleIndustryMoreText {
+  margin-left: 30%;
+}
+.rightImageBottom .tezzleBottomImage {
+  float: left;
+  margin-top: 8px;
+}
+.rightImageBottom {
+  background-color: #FBFBFB;
+  border: 2px solid #EBEBEB;
+  bottom: 35px;
+  display: table;
+  height: 65px;
+  position: absolute;
+  right: 0;
+  width: 48%;
+}
+.rightImageBottomInnerDiv {
+  display: table-cell;
+  margin: 0 auto;
+  vertical-align: middle;
+  width: 100%;
+}
+.rightImageBottom .tezzleBottomImageText {
+  font-family: 'OpenSansSemiBold';
+  margin: 0 auto;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  width: 100%;
+}
+.tezzleBottomImageText .icon-alarm {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.tezzleBottomImageText span.tezzletextholder {
+  position: relative;
+  top: -6px;
+}
+.tezzleBottomData {
+  width: 100%;
+  margin-bottom: 15px;
+}
+.tezzleLevels .levels:first-child {
+  width: 49%;
+}
+.tezzleLevels .levels {
+  float: left;
+  margin: 60px 0 60px;
+  width: 50%;
+}
+.tezzleLevels .levels .block:first-child {
+  margin: 0;
+  width: 95%;
+}
+.tezzleLevels .levels .block {
+  margin: 60px 0 0;
+  width: 95%;
+}
+.tezzleLevels img {
+  width: 93px!important;
+}
+.contextHead {
+  margin-top: 40px;
+  display: block;
+}
+#secondSightList,
+.crickeeslevels.mobbody {
+  margin-bottom: 60px;
+}
+.casesubContent {
+  width: 100%;
+  margin: 25px auto;
+  font-family: 'OpenSansRegular';
+  color: #262626;
+}
+.casesubContent p {
+  margin: 0 auto;
+  width: 100%;
+  line-height: 24px;
+  font-size: 14px;
+}
+.casesubLeft {
+  width: 48%;
+  margin-right: 2.5%;
+  float: left;
+}
+#caseouterContent {
+  margin-top: 30px;
+}
+#caseouterContent.penQSecondSection .casesubContent {
+  width: 88%;
+}
+#caseouterContent .casesubContent {
+  width: 91%;
+  margin: 0 auto;
+  max-width: 1500px;
+}
+#caseouterContent .outerFirst,
+#mobileNewsCaseouter .outerFirst {
+  background-color: #F5F5F5;
+  width: 100%;
+  margin: 0 auto 60px;
+  padding: 45px 0;
+}
+#caseouterContent .outerSecond .casesubContent {
+  margin-bottom: 40px;
+}
+#caseouterContent .outerSecond h2,
+.bigDataContent h2,
+#mobileNewsCaseouter .outerSecond h2,
+.mobBlck h2,
+.featuredBlock h2 {
+  border: 1px solid #EBEBEB;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 1px solid #EBEBEB !important;
+  text-align: center;
+  padding: 7px 0;
+}
+#caseouterContent .outerSecond h3 {
+  font-size: 18px;
+  font-family: 'OpenSansbold';
+  margin-bottom: 10px;
+}
+#caseouterContent .outerSecond .casesubLeft,
+.analysisContent .casesubLeft,
+#mobileNewsCaseouter .outerSecond .mobileCasesubLeft {
+  width: 32%;
+  margin-top: 40px;
+  margin-right: 1%;
+}
+#caseouterContent .outerSecond .casesubLeft .listCont,
+#mobileNewsCaseouter .outerSecond .mobileCasesubLeft .listCont {
+  width: 91%;
+}
+#caseouterContent .casesubRight,
+#mobileNewsCaseouter .casesubRight {
+  margin-top: 0;
+}
+.innerList {
+  margin: 20px 0 20px 30px;
+  width: auto;
+}
+.innerList li:last-child {
+  padding-bottom: 0;
+}
+.clrcon_lft .elementLink a {
+  font-size: 18px;
+}
+
+/*Crickees Page*/
+
+.bookMeeting img,
+#galapogasImg {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+#penQMiddle {
+  padding: 30px 0;
+}
+#penQMiddle h2 {
+  font-family: 'OpenSansLight';
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+#penQMiddle .analyticsleftcontent {
+  vertical-align: top;
+  width: 63%;
+}
+#penQMiddle .analyticsrightcontent {
+  padding-bottom: 0;
+  padding-left: 2%;
+  width: 41%;
+  vertical-align: middle;
+}
+#penQMiddle .analyticsleftcontent p {
+  text-align: left;
+  width: 98%;
+}
+.penQPara {
+  width: 88%;
+  text-align: left;
+  margin: 0 auto;
+}
+.penQAnalyticslist {
+  display: table;
+}
+#penQMiddle .analyticslist li {
+  width: 50%;
+  display: inline-table;
+  margin-left: 0;
+  margin-top: 12px;
+}
+#penQMiddle .listanalyticsValues {
+  font-size: 16px;
+  position: relative;
+  top: -13px;
+}
+#caseouterContent .penQContent {
+  width: 88%;
+  margin: 0px auto 30px;
+  max-width: 1500px;
+}
+#caseouterContent #penQImg .penQContent {
+  margin: 0px auto;
+  padding-bottom: 70px;
+}
+.penQContent ul {
+  font-family: 'OpenSansRegular';
+  font-size: 17px;
+  margin-top: 10px;
+}
+.penQContent ul li {
+  padding-bottom: 15px;
+  line-height: 24px;
+  width: 33%;
+  display: inline-block;
+  font-size: 14px;
+}
+.penQContent ul li.lstList {
+  padding-bottom: 5px;
+}
+.penQContent ul li .listCont {
+  width: 89%;
+}
+#caseouterContent .penQContent h2 {
+  border: 0;
+  border-bottom: 0 !important;
+  text-align: left;
+}
+#penQImg .penQContent ul li .listCont {
+  width: 78%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  position: relative;
+  font-style: italic;
+  top: -16px;
+}
+#penQImg .penQContent ul li .deob {
+  vertical-align: middle;
+  top: -20px;
+}
+#penQImg .penQContent ul li {
+  width: 24%;
+}
+#penQLeft {
+  width: 70%;
+}
+#penQLeft .innerList {
+  margin: 20px 0 0px 50px;
+}
+#PenQAppend {
+  padding: 70px 30px 70px;
+  width: 20%;
+  float: right;
+  background: whiteSmoke;
+  margin-top: 39px;
+}
+#PenQAppend p {
+  font: 22px 'OpenSansBold';
+  margin-bottom: 15px;
+  color: rgb(226, 41, 47)!important;
+  text-align: center;
+  font-style: italic;
+}
+#PenQAppend #download {
+  background-color: rgb(66, 66, 66);
+  border-radius: 3px;
+  color: white;
+  font-family: 'OpenSansSemiBold';
+  font-size: 14px;
+  padding: 10px 12px;
+  text-align: center;
+  width: 125px;
+  display: block;
+  font-style: normal;
+  margin-bottom: 10px;
+}
+#PenQAppend #download .adder {
+  margin-right: 5px;
+  position: relative;
+  top: 3px;
+  color: white;
+  font-size: 18px;
+}
+.keverContent {
+  display: table;
+  margin: 30px auto;
+  width: 88%;
+}
+.keverLeft {
+  display: table-cell;
+  position: relative;
+  width: 50%;
+}
+.keverRight {
+  display: table-cell;
+  padding-left: 40px;
+  width: 50%;
+}
+#keverMain .keverContent .videoContainer {
+  background-color: #FBFBFB;
+  border: 5px solid #EBEBEB;
+  margin-top: 30px;
+}
+.keverList ul li {
+  padding: 10px 0 0;
+  width: auto;
+}
+.keverBottom {
+  padding-bottom: 60px;
+}
+.keverFreeBox {
+  background-color: #F5F5F5;
+  border: 1px solid #EBEBEB;
+  margin-top: 35px;
+  padding: 40px 10px;
+  width: 95%;
+}
+.keverFreeBox h1 {
+  float: left;
+  font-style: italic;
+  padding-right: 20px;
+  text-align: right;
+  width: 50%;
+}
+.keverFreeBox #download {
+  float: left;
+  padding: 8px 10px;
+  width: 110px;
+}
+.keverFreeBox p:nth-child(3) {
+  clear: both;
+  margin: 0 auto;
+  padding: 15px 0 5px;
+  text-align: center;
+  width: 88%;
+}
+.keverFreeBox #download .text {
+  font: 14px 'OpenSansRegular';
+}
+.keverFreeBox #download .adder {
+  color: #FFFFFF;
+  font-size: 18px;
+  position: relative;
+  top: 2px;
+}
+.keverTable {
+  border-top: 1px solid #E1E1E1;
+  display: table;
+  float: none;
+  width: 88%;
+  margin: 0 auto;
+}
+.keverCell {
+  display: table-cell;
+  float: left;
+  margin: 40px 1% 25px;
+  text-align: center;
+  width: 48%;
+}
+.keverRow {
+  float: left;
+  width: 50%;
+}
+.keverCell > p {
+  width: 100%;
+}
+.icon-Kever {
+  color: #4d7502;
+}
+.rightImg {
+  top: 21px;
+}
+.element.opensourceList {
+  margin-bottom: 25px;
+}
+
+/*----- LIQUID CAROUSEL------*/
+
+#productsNav {
+  margin: 0 auto 30px;
+  position: relative;
+}
+.liquid .previous {
+  border: 1px solid #D1D1D1;
+  visibility: hidden;
+  float: left;
+  height: 45px;
+  left: 1px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 21px;
+  text-align: center;
+  cursor: pointer;
+}
+.liquid .previous .icon-Prev,
+.liquid .next .icon-Next {
+  position: relative;
+  top: 13px;
+  font-size: 12px;
+}
+.liquid .next {
+  border: 1px solid #D1D1D1;
+  visibility: hidden;
+  float: right;
+  height: 45px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  right: 7px;
+  width: 21px;
+  text-align: center;
+  cursor: pointer;
+}
+.liquid .previous:hover,
+.liquid .next:hover {
+  background-color: #f7f7f7;
+}
+.liquid ul li,
+.industriaBlock {
+  text-align: center;
+}
+#productsNav .subMenus .wrapper1 {
+  float: left;
+}
+#productsNav .subMenus .wrapper1,
+#productsNav {
+  height: 56px;
+}
+#productsNav .subMenus .wrapper1 ul li {
+  background-color: #FDFDFD;
+  color: #666;
+  border: 1px solid #d1d1d1;
+  display: none;
+  float: left;
+  font-family: 'OpenSansRegular', sans-serif;
+  font-size: 13px;
+  height: 45px !important;
+  list-style-type: none;
+  position: relative;
+  text-align: center;
+  width: 200px;
+  border-right: none;
+}
+#productsNav .subMenus .wrapper1 ul .active {
+  background-color: #2D2D2D;
+}
+#productsNav .subMenus .wrapper1 ul li:last-child {
+  border-right: none;
+}
+.wrapper1 ul li a p {
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+}
+#productsNav .wrapper1 #mobMenuHolder {
+  width: auto;
+  height: 47px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+/*----- LIQUID CAROUSEL------*/
+
+.expandText .heading,
+.leftDataContent .heading,
+.rightDataContent .heading {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.contextList .galapsec,
+.contextList li {
+  margin-top: 0;
+}
+
+/*PenQ PopUp*/
+
+#popupWindow {
+  display: none;
+  position: fixed;
+  height: auto;
+  width: 86%;
+  border-radius: 7px;
+  background-color: #fff;
+  border: 0;
+  left: 0;
+  top: 15%;
+  z-index: 1000;
+  margin-left: auto;
+  padding: 15px;
+  font-size: 15px;
+  max-width: 805px;
+  right: 0;
+  margin-right: auto;
+}
+.downloadTitle {
+  font-weight: bold;
+  font-size: 18px;
+  color: #E51E25;
+}
+#popupClose {
+  float: right;
+  width: 30px;
+  height: 30px;
+  background: url('../images/lytebox/close_grey.png') no-repeat scroll 0 0 transparent;
+}
+#popupWindow h3 {
+  font-size: 14px;
+  padding: 0px 2px 10px;
+}
+#popupWindow #main {
+  background-color: #F1F1F1;
+  padding: 10px;
+  width: 97%;
+  height: 150px;
+  overflow: auto;
+  visibility: visible
+}
+.prevBtn {
+  border-right: 1px solid rgb(209, 209, 209);
+}
+.prevBtn,
+.nextBtn {
+  float: left;
+  height: 45px;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  cursor: pointer;
+  visibility: visible;
+  background-color: rgb(255, 255, 255);
+  width: 21px;
+  text-align: center;
+  left: 1px;
+}
+.wrapper2 {
+  height: 56px;
+  float: left;
+  overflow: hidden;
+  width: calc(100% - 45px);
+}
+.prevBtn span,
+.nextBtn span {
+  position: relative;
+  top: 13px;
+  font-size: 12px;
+}
+#mobMenuHolder2 {
+  width: 2415px;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  margin-left: 0;
+  transition: all 1s ease;
+}
+#mobMenuHolder2 li {
+  width: 200px;
+  margin-bottom: 20px;
+}
+.wrapper2 ul .active {
+  background-color: #fff;
+}
+.wrapper2 ul .active span {
+  color: #e2292f;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+#mobMenuHolder2 .active a p {
+  color: #fff;
+}
+#liquid2 {
+  overflow: auto;
+  margin: auto;
+  width: 1055px;
+}
+
+/* iot and qbeacon css */
+
+.titleHead {
+  display: block;
+  cursor: pointer;
+  margin: 0 !important;
+}
+.iotheading {
+  text-align: center;
+  font-size: 18px;
+  padding: 10px 0px;
+}
+.iotIntro {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.iotIntro .videoWrapper {
+  margin: 40px auto;
+  width: 560px;
+}
+.iotIntro ul {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: space-between;
+  -ms-justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+
+/*.iot-description {
+    width: 50%;
+    float: left;
+}
+
+.iot-description span {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.iot-description span .InquiryBtn {
+    border: 3px solid #393939;
+    background: white;
+    color: #393939;
+    width: auto;
+    padding: 0 20px;
+    line-height: 30px;
+    font-weight: 600;
+    font-size: 14px;
+    outline: 0;
+    border-radius: initial;
+}
+
+.iot-description span .InquiryBtn:hover {
+    color: #e62422;
+    border-color: #e62422;
+}*/
+
+.iotIntro ul li {
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+
+/*.iotIntro .rightTextData img {
+    width: 400px;
+    height: 120px;
+}*/
+
+.iotIntro h6 {
+  font-size: 17px;
+}
+.iotIntro h6:before {
+  content: "\e046";
+  font-size: 30px;
+}
+.iotIntroHead {
+  display: block;
+}
+
+/*.iotIntroHead span {
+    align-self: center;
+    -ms-align-self: center;
+    -webkit-align-self: center;
+    padding-left: 10px;
+    font-size: 20px;
+}*/
+
+.iotIntroContent {
+  margin: 20px auto;
+  width: 60%;
+}
+.iotimgdiv,
+.centerContent {
+  text-align: center;
+}
+.iotsolution {
+  width: 100%;
+  margin: 0px auto 30px;
+  text-align: center;
+  background-color: #fcfcfc;
+  ;
+  padding: 50px 0px;
+  overflow: auto;
+}
+.iotsolution .devBullet {
+  display: none;
+}
+.iotsolution h3 {
+  color: #000;
+}
+.iotsolution .accordion-section {
+  border: none;
+}
+.iotsolution .development {
+  border: none;
+}
+.iotsolution ul li {
+  width: 15%;
+  display: inline-block;
+}
+.iotsolution ul li:nth-child(2n+1) {
+  width: 15%;
+}
+.iotsolution ul li:nth-child(2n) {
+  width: 10%;
+  padding-top: 40px;
+}
+.iotsolution ul li img {
+  width: 100px;
+}
+.iotWorld_P {
+  margin-top: 0px !important;
+}
+.iotHelp ul li:first-child {
+  padding-bottom: 20px;
+}
+.omniaContentWrapper {
+  overflow: hidden;
+}
+.qbeaconIntro,
+.penQFirstSection,
+#penQMiddle,
+.exituFirstSection,
+.collapse-content.exsituCollapse,
+.crick,
+.crickeeslevels,
+.contxtIQFirstSection,
+.contextList,
+.bookMeeting,
+.galImgContainer,
+.galaList,
+.keverFirstSection,
+.openSourceContainer,
+.firstLevel {
+  width: 88%;
+  margin: 0 auto;
+}
+.qbeaconHelp,
+.qbeaconSolutionWrap,
+.qbeaconBenefits,
+.bigDataContent.contextHead {
+  width: 88%;
+}
+.bigDataContent.contextHead {
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+}
+.qbeaconRetail {
+  float: left;
+  width: 100%;
+}
+.qbeaconIntro {
+  margin-top: 40px;
+}
+.qbeaconIntro .rightTextData {
+  text-align: center;
+  margin-top: 50px;
+}
+.qbeaconIntro .listText {
+  margin-top: 10px;
+}
+.qbeaconIntro ul li {
+  padding-bottom: 10px;
+}
+.qbeaconIntro .leftTextData p {
+  margin-top: 20px;
+}
+.qbeaconRetail h2 {
+  text-align: center;
+}
+.qbeaconRetail {
+  margin: 30px auto 90px;
+  text-align: center;
+  background-color: #F6F6F6;
+  padding: 50px 0px;
+  float: none;
+}
+.qbeaconSolution {
+  background-color: #F6F6F6;
+  width: 100%;
+  float: left;
+  padding: 60px 0px;
+  margin-bottom: 70px;
+}
+.qbeaconSolutionWrap {
+  width: 88%;
+  margin: 0 auto;
+  max-width: 1500px;
+}
+.qbeaconRetail h2 span {
+  font-family: 'OpenSansregular';
+}
+.qbeaconRetail img {
+  margin-top: 50px;
+  width: 1035px;
+  height: 260px;
+}
+.qbeaconHelp .useCaseOdd .graphRight,
+.qbeaconHelp .useCaseEven .graphLeft {
+  width: 30%;
+}
+.qbeaconHelp .useCaseOdd .graphLeft,
+.qbeaconHelp .useCaseEven .graphRight {
+  width: 70%;
+}
+.qbeaconHelp .azureUsecase img {
+  width: auto;
+  height: auto;
+}
+.qbeaconHelp .useCaseEven .graphLeft {
+  padding-right: 0px;
+}
+.qbeaconHelp h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+}
+.qbeaconHelp .listText {
+  margin-top: 10px;
+}
+.qbeaconHelp .listText li {
+  padding-bottom: 10px;
+}
+.qbeaconHelp .useCaseOdd .graphRight {
+  padding-left: 0px;
+}
+.qbeaconHelp .testPlan {
+  border-bottom: none;
+  margin-bottom: 0px;
+  padding-bottom: 90px;
+}
+.iotHelp .testPlan {
+  padding-bottom: 20px;
+}
+.qbeaconHelp {
+  margin: 0px auto;
+  width: 70%;
+  overflow: hidden;
+}
+.qbeaconSolution h2 {
+  margin-bottom: 60px;
+}
+.qbeaconImage {
+  display: table-cell;
+  width: 38%;
+}
+.qbeaconContent {
+  display: table-cell;
+  width: 62%;
+  vertical-align: middle;
+}
+.qbeaconSolution h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+}
+.qbeaconSolution ul {
+  margin-top: 10px;
+}
+.qbeaconSolution ul li {
+  padding-bottom: 10px;
+}
+.qbeaconMobile,
+.qbeacons {
+  margin-top: 30px;
+}
+.qbeaconBenefits ul {
+  margin-top: 10px;
+}
+.qbeaconBenefits ul li {
+  padding-bottom: 10px;
+  color: #727272;
+}
+.qbeaconBenefits .rightTextData ul li {
+  color: #e2292f;
+}
+.qbeaconBenefits {
+  margin-top: 30px;
+  padding-bottom: 90px;
+  margin: 0px auto;
+  width: 88%;
+  overflow: hidden;
+  float: none;
+}
+.qbeaconBenefits .leftTextData {
+  border: 3px solid #ebebeb;
+  width: 44%;
+  margin-right: 3%;
+  padding: 70px 36px;
+}
+.qbeaconBenefits .rightTextData {
+  width: 45%;
+}
+.beaconBtn {
+  float: none;
+  padding-bottom: 90px;
+  margin-top: 0px;
+}
+.beaconProcessIpad {
+  display: none;
+}
+.novartisImage {
+  margin-top: 25px;
+  text-align: center;
+}
+.novartisTechnology ul li {
+  float: left;
+}
+.novartisTechnology ul li:nth-child(2) {
+  padding: 0px 0px 20px 0px;
+}
+.novartisTechnology ul li:nth-child(2n) {
+  width: 40%;
+}
+.novartisTechnology ul li:nth-child(2n+1) {
+  width: 60%;
+}
+.nfcOverview p:first-child {
+  padding-bottom: 25px;
+}
+.nfcOverview p,
+.nfcSolution p,
+.nfcRequirement p {
+  padding-bottom: 25px!important;
+}
+.nfcSolution ul li {
+  padding-bottom: 10px;
+}
+
+/*inspktr page*/
+.inspktrVideo .listCont {
+  display: inline-block;
+}
+.inspktrVideo .videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+.inspktrVideo .videoWrapper iframe,
+.inspktrVideo .videoWrapper object,
+.inspktrVideo .videoWrapper embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.inspktrVideo .leftTextData,
+.inspktrIpadApp .leftTextData,
+.inspktrWebConsole .leftTextData {
+  width: 47%;
+  padding-right: 3%;
+}
+.inspktrVideo .rightTextData,
+.inspktrIpadApp .rightTextData,
+.inspktrWebConsole .rightTextData {
+  width: 47%;
+  padding-left: 3%;
+}
+.inspktrVideo .videoWrapper {
+  margin: 10px 0px;
+}
+.inspktrVideo {
+  float: left;
+  width: 100%;
+  margin-top: 45px;
+}
+.inspktrVideo.inspktrSection,
+.inspktrIpadApp.inspktrSection,
+.inspktrWebConsole.inspktrSection,
+.inspktrBottom.inspktrSection {
+  float: none;
+  width: 88%;
+  margin: 0 auto;
+}
+.inspktrWebConsole {
+  float: left;
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 80px;
+}
+.inspktrIpadApp {
+  float: left;
+  width: 100%;
+  display: table;
+  margin-top: 100px;
+}
+.inspktrIpadApp .leftTextData,
+.inspktrWebConsole .leftTextData,
+.inspktrIpadApp .rightTextData,
+.inspktrWebConsole .rightTextData {
+  float: none;
+  display: table-cell;
+  vertical-align: middle;
+}
+.inspktrIpadApp ul li,
+.inspktrWebConsole ul li {
+  padding-bottom: 10px;
+}
+.inspktrIpadApp ul,
+.inspktrWebConsole ul {
+  margin-top: 10px;
+}
+.inspktrLogo {
+  width: 100%;
+  text-align: center;
+  padding-top: 75px;
+  padding-bottom: 85px;
+  background-color: #f6f6f6;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.inspktrLogoWrap {
+  overflow: hidden;
+  width: 91%;
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.logoContainer {
+  width: 90%;
+  margin: 0 auto;
+}
+.logoContainer ul {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+}
+.logoContainer ul li {
+  width: 27%;
+  float: left;
+  padding: 35px 3%;
+}
+.logoContainer .headDesc {
+  margin-top: 0px;
+}
+.inspktrBottom {
+  width: 100%;
+  margin: 0px auto 20px;
+  padding-bottom: 55px;
+  border-bottom: 1px solid #ebebeb;
+  width: 91%;
+  overflow: hidden;
+  padding-top: 100px;
+}
+.inspktrBottom .leftTextData ul li {
+  padding-bottom: 10px;
+}
+.inspktrTestimonial {
+  width: 49%;
+}
+.inspktrTestimonial .businessBox {
+  background-color: #FBFBFB;
+  border: 5px solid #EBEBEB;
+  float: left;
+  margin-bottom: 42px;
+  padding: 20px 0 20px 20px;
+  width: 95%;
+}
+.inspktrTestimonial .businesscont {
+  float: left;
+  width: 95%;
+}
+.inspktrTestimonial .rightbusinesscontent {
+  float: left;
+  margin: 10px 0 5px 22px;
+  width: 80%;
+}
+.inspktrTestimonial .rightbusinesscontent i {
+  color: #262626;
+  font-size: 14px;
+  text-align: justify;
+  width: 98%;
+  font-style: italic;
+}
+.inspktrTestimonial .rightbusinesscontent b {
+  color: #262626;
+  float: left;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 25px;
+  text-align: justify;
+  width: 100%;
+}
+.inspktrTestimonial .rightbusinesscontent small {
+  color: #262626;
+  float: left;
+  font-size: 11px;
+  margin-top: 3px;
+  text-align: justify;
+}
+.inspktrTestimonial .businessContentBold {
+  font-weight: bold;
+}
+.inspktrVideo .rightTextData .listText {
+  margin-top: 20px;
+}
+.logoContainer ul li img {
+  margin-bottom: 20px;
+  height: 77px;
+}
+.iconIpad,
+.iconWeb {
+  padding-right: 15px;
+  float: left;
+  padding-top: 7px;
+}
+.inspktrBtn {
+  float: left;
+  margin-bottom: 300px;
+}
+#videoplayer {
+  background-color: #000;
+}
+#videoplayer .fp-ratio {
+  padding-top: 41.67%;
+}
+.inspktrVideo .videoWrapper {
+  width: auto;
+}
+.inspktrMenu {
+  margin-bottom: 75px!important;
+}
+.inspktrVideo .rightTextData .docButton {
+  font-style: normal;
+  text-decoration: none;
+}
+.newIcon img {
+  margin-bottom: -4px;
+  margin-left: 2px;
+}
+
+/*exsitu*/
+
+.icon-exsitu,
+.icon-exsitu-mob {
+  width: 28px;
+  height: 28px;
+  background: url(../images/responsive/product/exsitu/exsitu-icon.svg) no-repeat 5px 10px;
+}
+.collapse-content {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: space-around;
+  -ms-justify-content: space-around;
+  -webkit-justify-content: space-around;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  width: 100%;
+  padding: 30px 0 20px;
+}
+.exsitu-events .collapse-content {
+  width: 85%;
+  margin: 0 auto;
+}
+.desktop-view-content {
+  width: 32%;
+  padding: 20px 40px 60px;
+  box-sizing: border-box;
+  line-height: 30px;
+}
+.desktop-view-content h3 {
+  padding: 5px 0 20px;
+  text-align: center;
+}
+.collapse-image-container {
+  width: 58px;
+  margin: 0 auto;
+  text-align: center;
+}
+.mobile-collapse-content .mobile-collapse-contenting {
+  font-size: 18px;
+  /*  display: none;*/
+}
+.iconArrow {
+  float: right;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.xtraP,
+.architecture.iotTitles {
+  text-align: center;
+}
+.security-container {
+  border-bottom: 1px solid #efefef;
+  padding-bottom: 60px;
+}
+.security-container h2 {
+  text-align: center;
+  color: #262626;
+}
+.exsitu-events h2 {
+  padding-top: 15px;
+}
+.xtraP.listText {
+  width: auto;
+}
+.security-dropdown .icon-Bullet-1 {
+  color: #02bec4;
+}
+.reponse-container section {
+  background-color: #fbfbfb;
+  margin: 50px 0;
+  padding-bottom: 35px;
+}
+.reponse-container h2,
+.reponse-container p,
+.reponse-container figure,
+.reponse-container figcaption {
+  width: 81%;
+  margin: 0 auto;
+}
+.reponse-container h2,
+.reponse-container figure,
+.exsitu-events h2 {
+  text-align: center;
+  color: #262626;
+}
+.reponse-container h2 {
+  padding: 30px 0;
+}
+.reponse-container figure img {
+  padding: 45px 0 20px;
+}
+.reponse-container figcaption {
+  color: #525252;
+}
+.write-comments {
+  text-align: center;
+  padding-bottom: 70px;
+}
+.comment-section {
+  padding: 30px 0;
+  text-align: center;
+  font-size: 16px;
+}
+.write-comments #inqBtn {
+  padding: 5px 20px;
+  text-transform: none;
+}
+.exsitu-events {
+  padding-top: 30px;
+}
+.exsitu-events .xtraP {
+  font-weight: bold;
+  padding-top: 20px;
+  line-height: 24px;
+}
+.events {
+  background: url(../images/responsive/product/exsitu/events-sprite.png) no-repeat;
+  display: block;
+  width: 126px;
+  height: 126px;
+  margin: 0 auto;
+}
+.event-recieves {
+  background-position: -5px -5px;
+}
+.event-sorts {
+  background-position: -141px -5px;
+}
+.event-maps {
+  background-position: -5px -141px;
+}
+.event-alerts {
+  background-position: -141px -141px;
+}
+.event-subordinate {
+  background-position: -277px -5px;
+}
+.exsitu-events .desktop-view-content .icon-checkmark {
+  display: none;
+}
+.exsitu-infograph-container {
+  width: 60%;
+  margin: 0 auto;
+  position: relative;
+}
+.security-dropdown {
+  width: 35%;
+  position: absolute;
+}
+.leftCurvedSect {
+  border-radius: 15px 0 0 15px;
+}
+.righttCurvedSect {
+  border-radius: 0 15px 15px 0;
+}
+.fire-alarm {
+  top: 3.6%;
+  left: 55%;
+}
+.burglar-assault {
+  top: 18.5%;
+  left: 85%;
+  width: 34%;
+}
+.access-control {
+  top: 47.5%;
+  left: 98%;
+}
+.paging-system {
+  top: 75%;
+  left: 85%;
+  max-width: 280px;
+}
+.survelance {
+  top: 91%;
+  left: 10%;
+}
+.counting {
+  top: 76%;
+  left: -21%;
+}
+.key {
+  top: 47.5%;
+  left: -33%;
+}
+.automation {
+  top: 20%;
+  left: -21%;
+}
+.security-dropdown .security-collapse-content {
+  display: block;
+  width: 90%;
+  margin: 0 auto;
+}
+.security-dropdown .mobile-collapse-image {
+  display: none;
+}
+.security-dropdown .xtraP {
+  margin-top: 0%;
+  background-color: #fbfbfb;
+  text-align: left;
+  display: none;
+  margin-left: 4%;
+  width: 82%;
+  padding-top: 7px;
+  padding-bottom: 5px;
+}
+.security-dropdown .listCont {
+  display: inline-block;
+}
+.security-dropdown .security-collapse-content .mobile-collapse-contenting {
+  width: 79%;
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bolder;
+  padding-left: 17px;
+}
+.exsituCollapse .xtraP {
+  line-height: 24px;
+}
+.reponse-container {
+  margin-top: -45px;
+}
+.exsitu-events .collapse-content:last-child {
+  padding-top: 0;
+  width: 60%;
+}
+.exsitu-events .collapse-content:last-child .desktop-view-content {
+  width: 44%;
+}
+.security-dropdown.paging-system span.iconArrow {
+  margin-top: 5%;
+}
+.iottextHolder {
+  font-weight: bold;
+  font-size: 16px;
+}
+.iotDef {
+  text-align: center;
+}
+.iotCollapse {
+  width: 91%;
+  margin: 0 auto;
+  border-bottom: 1px solid #e5e5e5;
+}
+.iotCollapse .desktop-view-content {
+  width: 49%;
+}
+.iotCollapse .desktop-view-content:nth-child(even) {
+  padding: 20px 40px 36px 0;
+}
+.iotCollapse .desktop-view-content:nth-child(odd) {
+  padding: 20px 0 36px 40px;
+}
+.iotCollapse .desktop-view-content h3,
+.iotCollapse .desktop-view-content .xtraP,
+.omniaModels .desktop-view-content h3,
+.omniaModels .desktop-view-content .xtraP {
+  text-align: left;
+}
+.iotTitles {
+  width: 100%;
+  text-align: center;
+  margin: 20px auto;
+}
+.productLink {
+  color: #e51e25;
+  text-decoration: underline;
+}
+.productBox {
+  border: 1px solid #e5e5e5;
+  padding: 74px 45px 56px;
+  box-sizing: border-box;
+  width: 80%;
+  margin: 0 auto;
+}
+.boxImage {
+  background-color: #fff;
+  width: 100%;
+  margin: -139px 0 0;
+  text-align: center;
+  float: left;
+  background: none;
+}
+.boxImage img {
+  background: #fff;
+}
+.productBox h3 {
+  text-align: center;
+  font-weight: bold;
+  color: #2d2d2d;
+  padding-bottom: 20px;
+}
+.page-links {
+  display: block;
+  text-align: center;
+  padding-top: 35px;
+}
+.page-links button {
+  background-color: transparent;
+}
+.page-links.pageLinkCommon button {
+  padding: 0;
+}
+.iotvideo h2,
+.iotvideo .expandTitle {
+  text-align: center;
+}
+.xtraP.iotxtraP,
+.page-links.pageLinkCommon {
+  text-align: left;
+}
+.iotPdfContainer {
+  position: relative;
+  max-width: 352px;
+  margin: 0 auto;
+}
+.iotPdfContainer:hover:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  opacity: .6;
+}
+.iotPdfContainer .adjustLinks {
+  display: none;
+  display: none;
+  z-index: 1;
+  bottom: 40%;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
+.iotPdfContainer:hover >.adjustLinks {
+  display: block;
+}
+.iotPdfContainer .adjustLinks button {
+  background-color: transparent;
+  border: 3px solid #fff;
+  color: #fff;
+}
+.iotQuote b,
+.iotHighlight {
+  color: #000;
+  font-weight: bold;
+}
+.iotQuote .graphRight .expandTitle {
+  font-style: italic;
+}
+.iotHighlight {
+  font-style: normal;
+}
+.qbeaconHelp.iotQuote {
+  background-size: cover;
+  background-image: url(../images/responsive/product/IoT/Svgs/build-your-smart_factory-bg.png);
+}
+.iotList {
+  text-align: left;
+}
+.iotDrive {
+  display: block;
+  font-weight: bold;
+  color: #000;
+  font-size: 16px!important;
+  padding-bottom: 7px;
+}
+.expandTitle q {
+  font-style: italic;
+}
+.inquiryComments {
+  text-align: center;
+  width: 91%;
+  margin: 70px auto 0;
+  padding-bottom: 70px;
+}
+.commentTitle {
+  margin-bottom: 25px;
+}
+.graphRightIot {
+  padding-left: 0px;
+  width: 30%;
+  display: table-cell;
+  vertical-align: middle;
+}
+.inquiryComments .InquiryBtn {
+  text-transform: none;
+}
+.inquiryComments #inqBtn {
+  padding: 7px 22px;
+}
+.iiotInquiry #inqBtn {
+  text-transform: initial;
+}
+.mobile-collapse-content .subContents {
+  text-align: left;
+}
+
+/*mob dev*/
+
+.mobdevSub {
+  margin-top: 40px;
+}
+.mobdevSubcontent {
+  margin-top: 20px;
+}
+.mobdevlistHead {
+  color: #3f3f3f;
+}
+.openProductsSection .devPersonal {
+  font-style: italic;
+  margin-top: 0;
+  color: #000;
+}
+/*quickpicks*/
+.lightningReady {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.lightningReady .contentInnerWrapper,
+.needMoreQuick .contentInnerWrapper {
+  background-color: #f0f5f7;
+}
+.lightingReadyContent,
+.needMoreContent {
+  padding: 40px;
+}
+.quickpickEnhance {
+  font-family: 'OpenSansSemiBold';
+  font-size: 20px;
+  padding-top: 20px;
+  display: block;
+  padding-bottom: 10px;
+}
+.lightningReady li:last-child {
+  padding-bottom: 0;
+}
+.quickpickWidgets,
+.qintRelationWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: flex;
+  flex-flow: row;
+}
+.quickpickWidgets {
+  border-bottom: 1px solid #dfdbda;
+}
+.quickpickWidgets>div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  margin: 25px;
+  padding: 5px;
+  background: #fff;
+  border-right: 1px solid #dfdbda;
+  padding: 10px;
+  border-radius: 4px;
+}
+.quickpickWidgets>div:first-child {
+  padding-left: 0;
+  margin-left: 0;
+}
+.quickpickWidgets>div:last-child {
+  border: none;
+  padding-right: 0;
+  margin-right: 0;
+}
+.quickpickWidgets:last-child {
+  border: none;
+}
+.installQuickPicks>div {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+.installQuickPicks>div:first-child {
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+.installQuickPicksWrapper {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.installQuickPicksWrapper h2 {
+  padding-bottom: 10px;
+}
+.installQuickPicks>div:first-child p {
+  padding-bottom: 40px;
+  box-sizing: border-box;
+}
+.installQuickPicks .videoContainer {
+  background-color: #FBFBFB;
+  border: 5px solid #EBEBEB;
+}
+.quickpickWidgets h3:before {
+  font-family: 'icmoon';
+  font-size: 50px;
+  display: block;
+}
+.opportunityInsight:before {
+  content: "\e905";
+}
+.leadInsight:before {
+  content: "\e903";
+}
+.accountInsight:before{
+  content: "\e900"
+}
+.currencyConvert:before {
+  content: "\e902";
+}
+.stockIndices:before {
+  content: "\e914";
+}
+.courierTrack:before {
+  content: "\e901";
+}
+.newsWidget:before {
+  content: "\e904";
+}
+.weatherTrack:before {
+  content: "\e916";
+}
+.zoneClock:before{
+  content: "\e915";
+}
+.needMoreQuick .listTextCommon:nth-child(2) {
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+.needMoreQuick .listTextCommon {
+  width: 32%;
+  display: inline-block;
+  vertical-align: top;
+}
+.needMoreContent>div {
+  width: 92%;
+  margin: 0 auto;
+}
+.needMoreQuick h3 {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.needMoreQuick button {
+  width: inherit;
+  padding: 10px;
+  text-transform: inherit;
+}
+.needMoreQuick .write-comments {
+  padding-top: 20px;
+  padding-bottom: 0
+}
+.needMoreQuick {
+  padding-bottom: 60px;
+}
+.quickEnhanceWrapper>div,
+.quickEnhanceWrapper figure {
+  display: inline-block;
+  vertical-align: middle;
+}
+.quickEnhanceWrapper>div {
+  width: 69%;
+}
+.quickEnhanceWrapper figure {
+  width: 30%;
+}
+.quickPickHead {
+  padding-bottom: 20px;
+}
+/*qint*/
+.qintRelationWrapper {
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+.qintRelationWrapper>div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  padding: 5px;
+  border-right: 1px solid #dfdbda;
+  padding: 25px;
+  text-align: center;
+  padding-top: 0;
+}
+.qintRelationWrapper>div:first-child {
+  padding-left: 0;
+}
+.qintRelationWrapper>div:last-child {
+  border: none;
+  padding-right: 0;
+}
+.qintRelationWrapper h3 {
+  padding: 10px 0;
+}
+.qintIntelligence {
+  background-color: #f1f5f7;
+  border-radius: 3px;
+  padding: 60px 90px;
+}
+.qintIntelligence h3 {
+  padding-bottom: 20px;
+  padding-left: 1%;
+}
+.qintActionContent {
+  display: table;
+  padding-top: 60px;
+}
+.qintActionContent:nth-of-type(2),
+.qintActionContent:last-child {
+  padding-top: 75px;
+}
+.qintActionContent>figure,
+.qintActionContent>div {
+  display: table-cell;
+  vertical-align: top;
+}
+.qintActionContent>figure {
+  width: 12%;
+  padding-right: 20px;
+}
+.qintActionContent>div {
+  width: 88%;
+}
+.qintActionContent h3 {
+  padding-bottom: 15px;
+}
+.qintUseWrapper .listTextCommon {
+  width: 24%;
+  display: inline-block;
+  vertical-align: top;
+}
+.qintUseWrapper .listTextCommon:last-child {
+  float: right;
+}
+.qintUseWrapper .listTextCommon li {
+  width: 90%;
+}
+.qintAlign {
+  text-align: center;
+}
+..qintActionContent:first-child {
+  padding-top: 50px;
+}
+.qintUseWrapper {
+  padding-top: 40px;
+}
+.qintIntelligence .listText li:last-child,
+.carDealerAutomate .inquiryComments  {
+  padding-bottom: 0;
+}
+.qintUseWrapper:nth-of-type(2) {
+  padding-top: 0;
+}
+.qintInquiry #inqBtn {
+  text-transform: inherit;
+}
+/*automate*/
+.automateFirstSection {
+  display: block;
+  padding-top: 30px;
+}
+.automateFirstSection p {
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+.automateFirstSection figure,
+.automateFirstSection p {
+  display: inline-block;
+  vertical-align: middle;
+  width: 49%;
+}
+.automateActivities {
+  padding-top: 40px;
+  padding-bottom: 0;
+}
+.automateActivities>div,
+.automateIntegrate:last-child,
+.carDealerAutomate .commonBottomSection {
+  border: none;
+  padding-bottom: 0;
+}
+.automateIntegrate {
+  border-bottom: 1px solid #dfdbda;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.automateIntegrate:not(:nth-of-type(1)) div {
+  padding-top: 25px;
+}
+.automateIntegrate>div {
+  text-align: left;
+}
+.carDealerAutomate .listTextCommon {
+  width: 94%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.automateIntegrate:nth-of-type(1) {
+  padding-top: 20px;
+}
+.automateIntegrate:nth-of-type(2) div:first-child img,
+.automateIntegrate:nth-of-type(2) div:last-child img,
+.automateIntegrate:nth-of-type(3) div:first-child img {
+  padding-top: 12px;
+}
+.qintRelationWrapper>div:first-child img {
+  padding-top: 3px;
+}
+@media screen and (min-width:280px) and (max-width:767px) {
+  .content .carDealerAutomate .expandTitle {
+    margin-top: 30px;
+  }
+  .carDealerAutomate .inquiryComments {
+    margin-top: 20px;
+   }
+  .automateIntegrate:not(:nth-of-type(1)) div,
+  .automateIntegrate:nth-of-type(2) div:first-child img,
+  .automateIntegrate:nth-of-type(2) div:last-child img,
+  .automateIntegrate:nth-of-type(3) div:first-child img,
+  .qintRelationWrapper>div:first-child img {
+    padding-top: 0;
+  }
+  .automateIntegrate.qintRelationWrapper>div:last-child {
+    padding-bottom: 50px;
+  }
+  .automateIntegrate.qintRelationWrapper:nth-of-type(3)>div:last-child,
+  .automateIntegrate.qintRelationWrapper:nth-of-type(3)>div:nth-child(2) {
+    padding-bottom: 0;
+  }
+  .automateIntegrate {
+    border: none;
+  }
+  .qintUseWrapper .listTextCommon:last-child {
+    float: none;
+  }
+  .qintSections {
+    margin-top: -60px;
+  }
+  .qintUseWrapper .listTextCommon,
+  .carDealerAutomate .listTextCommon {
+    display: block;
+    width: 91%;
+  }
+  .qintActionContent>figure {
+    padding-bottom: 15px;
+  }
+  .qintIntelligence h3,
+  .qintRelationWrapper.automateActivities>div,
+  .automateFirstSection figure {
+    text-align: center;
+  }
+  .qintAlign {
+    text-align: left;
+  }
+  .qintActionContent>figure, 
+  .qintActionContent>div,
+  .automateFirstSection figure, 
+  .automateFirstSection p {
+    display: block;
+    width: 100%;
+  }
+  .qintIntelligence {
+    padding: 30px 20px;
+  }
+  .qintRelationWrapper>div {
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: left;
+  }
+  .qintRelationWrapper>div:first-child,
+  .qintRelationWrapper>div:nth-child(2) {
+    padding-right: 0;
+    padding-bottom: 50px;
+  }
+  .qintRelationWrapper>div:last-child {
+    padding-left: 0;
+    padding-bottom: 10px;
+  }
+  .needMoreQuick .listTextCommon:nth-child(2) {
+    padding: 0;
+  }
+  .quickpickWidgets,
+  .quickpickWidgets>div {
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+  .quickpickWidgets>div,
+  .automateFirstSection figure {
+    padding-bottom: 40px;
+  }
+  .quickpickWidgets:last-child div:last-child {
+    padding-bottom: 60px;
+    border-bottom: 1px solid #dfdbda;
+  }
+  .quickEnhanceWrapper figure {
+    padding-top: 40px;
+    text-align: center;
+  }
+  .quickpickEnhance {
+    font-family: 'OpenSansRegular';
+  }
+  .webWatchLevels .levels:nth-child(2) {
+    padding-left: 0;
+  }
+  .qbeaconIntro .listTextCommon,
+  .qbeaconHelp .listTextCommon,
+  .qbeaconContent .listTextCommon,
+  .qbeaconBenefits .listTextCommon {
+    width: 86%;
+  }
+  .exituLastSection .expandTitle,
+  .reponse-container .expandTitle,
+  .openProductsSection.bigDataWrapper {
+    width: 88%;
+  }
+  .inspktrVideo.inspktrSection,
+  .inspktrIpadApp.inspktrSection,
+  .inspktrWebConsole.inspktrSection,
+  .inspktrWebConsole.inspktrSection,
+  .collapse-content.exsituCollapse,
+  .crickeeslevels,
+  .galaList,
+  .keverTable,
+  .firstLevel,
+  .OpenSourceSubTabText.OpenSourceSubTabTextMob,
+  .bigDataWrapper h1,
+  .quickEnhanceWrapper>div,
+  .quickEnhanceWrapper figure,
+  .contentInnerWrapper,
+  .installQuickPicks>div,
+  .bigDataWrapper.lightningReady,
+  .bigDataWrapper.needMoreQuick,
+  .needMoreQuick .listTextCommon,
+  .bigDataWrapper.qintSections,
+  .qintRelationWrapper.automateActivities,
+  .qintRelationWrapper.automateIntegrate {
+    width: 100%;
+  }
+  .qbeaconHelp .useCaseOdd .graphLeft,
+  .qbeaconHelp .useCaseEven .graphRight,
+  .qbeaconBenefits .rightTextData {
+    padding-top: 20px;
+  }
+  .logoContainer ul li h3 {
+    font-size: 16px;
+  }
+  .contextList .element .elementText,
+  .qintSections .qintFirstSection,
+  .qintRelationWrapper,
+  .qintIntelligenceBottom {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .subPortionSubTitle {
+    font-family: 'OpenSansRegular';
+  }
+  .OpenSourceSubTabText {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .content .OpenSourceSubTabText p {
+    text-align: left;
+    margin: 20px 0;
+  }
+  #caseouterContent .penQContent #Features {
+    font-size: 30px;
+    border: none;
+  }
+  .mobile-collapse-content .deskIot {
+    display: none!important;
+  }
+  .mobile-collapse-content .imgSub {
+    display: inline-block;
+  }
+  .iotPdfContainer {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .smmHeadDesktop,
+  .carDealerAutomate img {
+    display: none;
+  }
+  .iotUpper .mobile-collapse-image {
+    width: 52px;
+    margin-top: -4px;
+  }
+  .iotContainer {
+    margin-top: -55px;
+  }
+  .iotUpper .desktop-view-content .xtraP {
+    background-color: #fff;
+  }
+  .iotUpper .expandTitle {
+    width: 97%!important;
+  }
+  .pointerContainer {
+    top: 0;
+    text-align: center;
+  }
+  .collapse-content.iotUpper {
+    padding-top: 20px;
+    padding-bottom: 0;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .iotUpper .mobile-collapse-content {
+    border-top: 1px solid #e5e5e5;
+    background-color: #fff;
+  }
+  .iotUpper .iotQuote.smart {
+    background-image: none;
+  }
+  .iotQuote.smart .useCaseOdd {
+    background-color: #eee;
+    padding-bottom: 20px;
+  }
+  .smart .collapse-content,
+  .plainIotContainer .collapse-content,
+  .quickPickHead {
+    padding-bottom: 0;
+  }
+  .smartIot {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .qbeaconHelp.iotQuote,
+  .qbeaconHelp.equalContent {
+    width: 100%;
+    margin-top: 34px;
+  }
+  .content .iotIntro .expandTitle {
+    width: 88%;
+  }
+  .graphRightIot {
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+  }
+  .icon-remote.iotFonts {
+    font-size: 35px;
+  }
+  .mobile-collapse-image.iotFonts {
+    width: 45px;
+    text-align: center;
+  }
+  .boxImage {
+    display: none;
+  }
+  .mobile-collapse-content .subContents {
+    display: inline-block;
+    padding-bottom: 5px;
+    width: 68%;
+  }
+  .mobile-collapse-content .subContents.smartContent {
+    width: 70%;
+  }
+  .iotCollapse .desktop-view-content h3,
+  .needMoreQuick {
+    padding-bottom: 0;
+  }
+  .inquiryComments {
+    margin-top: 60px;
+  }
+  .omniaModelHeading {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+  .iotTitles {
+    padding-bottom: 10px;
+  }
+  .curvedContainer {
+    display: none;
+  }
+  .productBox {
+    padding: 28px 10px 56px;
+    width: 91%;
+    margin-top: 40px;
+  }
+  .productBox h3 {
+    text-align: left;
+  }
+  .productBox .expandTitle {
+    width: 100%;
+  }
+  .mobile-collapse-image.icon-smart,
+  .mobile-collapse-image.icon-health,
+  .iotFonts {
+    font-size: 36px;
+    position: relative;
+    width: auto;
+  }
+  .omniaModels .collapse-icon,
+  .showMobileContent .collapse-icon {
+    margin-top: 13px;
+  }
+  .secondPortion .mobile-collapse-image {
+    width: 50px;
+  }
+  .secondPortion.iotCollapse {
+    padding-bottom: 0;
+  }
+  .secondPortion.iotCollapse .desktop-view-content:last-child {
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .secondPortion .desktop-view-content {
+    border-top: 1px solid #e5e5e5;
+  }
+  .secondPortion .mobile-collapse-content,
+  .secondPortion .desktop-view-content .xtraP {
+    background-color: #fff;
+  }
+  .iotTitles {
+    text-align: left;
+    width: 88%;
+  }
+  .colapseLeft {
+    display: none;
+  }
+  .iotCollapse {
+    border-bottom: none;
+  }
+  .iotWorks h2 {
+    font-size: 19px;
+    display: inline-block;
+  }
+  .iotCollapse .desktop-view-content {
+    width: 100%;
+    padding: 0!important;
+  }
+  .iotCollapse {
+    width: 100%;
+    padding: 0;
+  }
+  .iotCollapse.initialPortion {
+    margin-top: -100px;
+    padding-bottom: 0;
+  }
+  .iotsolution {
+    display: none;
+  }
+  /*exsitu*/
+  .exsitu-events .collapse-content:last-child .desktop-view-content {
+    width: 100%;
+  }
+  .exsitu-events .collapse-content.upperCollapse {
+    padding-bottom: 0;
+  }
+  .exsitu-events .collapse-content:last-child {
+    width: 100%;
+  }
+  .exsitu-events .xtraP {
+    width: 100%;
+  }
+  .exsitu-events .xtraP span:nth-child(2) {
+    display: inline-block;
+    width: 90%;
+  }
+  .security-container .info {
+    display: none;
+  }
+  .icon-exsitu,
+  .icon-exsitu-mob {
+    width: 28px!important;
+  }
+  .reponse-container {
+    margin-top: -45px;
+  }
+  .reponse-container section {
+    background-color: #fbfbfb;
+    margin: 0 0 50px;
+  }
+  .security-dropdown span.iconArrow {
+    display: inline-block;
+  }
+  .security-dropdown span.iconHomedown {
+    display: none;
+  }
+  .security-dropdown {
+    width: 99%;
+    padding: 6px 0;
+    position: relative;
+    background-color: #fff;
+    border-radius: 0;
+    border: 1px solid #f7f7f7;
+    top: 0!important;
+    left: 0!important;
+    max-width: 100%;
+  }
+  .security-container,
+  .exsitu-infograph-container {
+    width: 100%;
+    margin: 0 auto
+  }
+  .events {
+    display: none;
+  }
+  .security-container {
+    padding-bottom: 0;
+  }
+  .security-container h2 {
+    text-align: left;
+    width: 81%;
+    margin: 0 auto;
+    padding-bottom: 30px;
+  }
+  .exsitu-events h2 {
+    text-align: left;
+  }
+  .exsitu-events {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .exsitu-events .collapse-content {
+    width: 100%;
+  }
+  .exsitu-events .desktop-view-content .xtraP {
+    padding: 20px 0 0;
+  }
+  .collapse-content {
+    padding: 35px 0;
+  }
+  .safeguard {
+    float: right;
+    max-width: 73%;
+  }
+  .collapsable-container {
+    width: 100%;
+  }
+  .desktop-view-content {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 0;
+  }
+  .security-dropdown .security-collapse-content {
+    background-color: #fff;
+    padding: 20px 0;
+  }
+  .security-dropdown .security-collapse-content .mobile-collapse-contenting {
+    font-size: 18px;
+    width: 60%;
+    display: inline-block;
+    font-weight: normal;
+    padding-top: 7px;
+  }
+  .exsitu-events .desktop-view-content .xtraP,
+  .exsitu-events .desktop-view-content .icon-checkmark {
+    display: inline-block;
+    background-color: #fff;
+  }
+  .desktop-view-content .xtraP,
+  .security-dropdown .xtraP {
+    display: none;
+  }
+  .desktop-view-content .xtraP {
+    padding: 0 5% 20px;
+    background-color: #eee;
+  }
+  .security-dropdown .xtraP {
+    padding: 20px 6%;
+    background-color: #fbfbfb;
+    box-sizing: border-box;
+    margin-left: 0;
+    width: 100%;
+  }
+  .desktop-view-content h3,
+  .collapse-image-container {
+    display: none;
+  }
+  .mobile-collapse-content {
+    font-size: 28px;
+    padding: 20px 5%;
+    cursor: pointer;
+    background-color: #eee;
+  }
+  .mobile-collapse-image {
+    margin-right: 10px;
+    display: inline-block;
+    width: 38px;
+    float: left;
+  }
+  .security-dropdown .mobile-collapse-image {
+    display: inline-block;
+  }
+  .mobile-collapse-content span {
+    margin-right: 10px;
+  }
+  .mobile-collapse-content .mobileTitle {
+    margin-right: 0;
+  }
+  .collapse-icon {
+    margin-top: 11px;
+    margin-right: 10px;
+  }
+  .xtraP {
+    text-align: left;
+  }
+  /*omnia redesign*/
+  .iot-description span {
+    margin-top: 20px;
+  }
+  .iot-description {
+    width: 100%;
+  }
+  .iotWorks h3 {
+    font-size: 19px;
+  }
+  /*inspktr page*/
+  .inspktrVideo {
+    margin-top: 30px;
+  }
+  .inspktrVideo .leftTextData,
+  .inspktrVideo .rightTextData {
+    width: 88%;
+    margin: 20px auto 0px;
+  }
+  .inspktrIpadApp .leftTextData,
+  .inspktrWebConsole .leftTextData,
+  .inspktrIpadApp .rightTextData,
+  .inspktrWebConsole .rightTextData {
+    display: block;
+    margin: 0 auto;
+    width: 88%;
+  }
+  .inspktrIpadApp {
+    display: block;
+    margin-top: 20px;
+  }
+  .inspktrIpadApp .rightTextData,
+  .inspktrWebConsole .leftTextData {
+    display: none;
+  }
+  .inspktrVideo .rightTextData ul li {
+    position: relative;
+  }
+  .iconIpad,
+  .iconWeb {
+    position: absolute;
+  }
+  .inspktrVideo .rightTextData ul li .listCont {
+    padding-left: 34px;
+  }
+  .inspktrVideo ul li .listCont,
+  .inspktrIpadApp ul li .listCont,
+  .inspktrWebConsole ul li .listCont,
+  .inspktrBottom ul li .listCont {
+    font-size: 14px;
+  }
+  .logoContainer ul li {
+    width: 44%;
+  }
+  .inspktrBtn {
+    width: 70%;
+    float: none;
+    margin-bottom: 100px;
+  }
+  .inspktrBottom .rightTextData {
+    border-bottom: 1px solid #ebebeb;
+    margin: 40px auto 20px;
+    width: 88%;
+  }
+  .logoContainerList li:last-child {
+    padding-bottom: 0px;
+  }
+  .inspktrVideo .leftTextData,
+  .inspktrIpadApp .leftTextData,
+  .inspktrWebConsole .leftTextData {
+    padding-right: 0px;
+  }
+  .inspktrVideo .rightTextData,
+  .inspktrIpadApp .rightTextData,
+  .inspktrWebConsole .rightTextData {
+    padding-left: 0px;
+  }
+  .inspktrWrap {
+    width: 100%;
+  }
+  .inspktrMenu {
+    margin-bottom: 30px!important;
+  }
+  .inspktrWebConsole {
+    margin: 20px 0px 0px;
+  }
+  .inspktrLogo {
+    margin-top: -30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .inspktrBottom {
+    margin-top: 0px;
+    border-bottom: none;
+    padding-bottom: 0px;
+    padding-top: 0px;
+  }
+  .logoContainer ul li img {
+    height: 55px;
+  }
+  /*Products page */
+  .qbeaconIntro .leftTextData {
+    width: 88%;
+    padding-bottom: 30px;
+  }
+  .qbeaconIntro .leftTextData p {
+    width: 100%;
+  }
+  .qbeaconIntro .listText .listCont {
+    font-size: 14px;
+  }
+  .qbeaconIntro .rightTextData {
+    display: none;
+  }
+  .qbeaconHelp {
+    overflow: hidden;
+    width: 88%;
+    margin-top: -30px;
+  }
+  .qbeaconHelp .usecaseSection {
+    width: 100%!important;
+  }
+  .qbeaconHelp .usecaseSection ul li .listCont,
+  .qbeaconSolution ul li .listCont,
+  .qbeaconBenefits .rightTextData ul li .listCont {
+    font-size: 14px;
+  }
+  .qbeaconRetail {
+    display: none;
+  }
+  .qbeaconImage {
+    display: none;
+  }
+  .qbeaconSolution {
+    width: 100%;
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  .qbeaconSolutionWrap,
+  .qbeaconBenefits {
+    width: 88%;
+  }
+  .qbeaconSolution h2 {
+    margin-bottom: 20px;
+  }
+  .qbeaconBenefits .leftTextData {
+    padding: 30px 20px;
+    width: 100%;
+    margin-right: 0px;
+  }
+  .qbeaconBenefits .leftTextData ul li .html5Text {
+    display: inline-block;
+    width: 87%;
+  }
+  .qbeaconBenefits .rightTextData {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .qbeaconBenefits .rightTextData p {
+    width: 100%;
+  }
+  .beaconBtn {
+    width: 88% !important;
+  }
+  .qbeaconHelp .useCaseOdd .graphRight,
+  .qbeaconHelp .useCaseEven .graphLeft {
+    display: block;
+    text-align: center;
+    width: 100%;
+  }
+  .qbeaconHelp .useCaseOdd,
+  .qbeaconHelp .useCaseEven {
+    display: block;
+  }
+  .qbeaconHelp .testPlan {
+    padding-bottom: 0px;
+  }
+  .qbeaconHelp .azureUsecase img {
+    width: 200px;
+    height: 200px;
+  }
+  .productBlock .elementLast {
+    width: 100%;
+  }
+  .galapsec {
+    margin-top: 15px !important;
+  }
+  .bookMeeting img {
+    display: none;
+  }
+  .content #productsNav {
+    width: 88% !important;
+    margin: 30px auto;
+  }
+  #productsNav #mobMenuHolder {
+    height: auto !important;
+    float: none !important;
+    margin: 0 auto 20px !important;
+  }
+  #productsNav #mobMenuHolder li {
+    height: 47px !important;
+    float: none !important;
+  }
+  #secondSightList li a {
+    float: left;
+    width: 17%;
+  }
+  #secondSightList li .elementText a {
+    width: 80%;
+    position: relative;
+    top: 10px;
+    float: right;
+  }
+  #secondSightList li .elementText a h2 {
+    width: 100%;
+    text-align: left;
+  }
+  #secondSightList li .elementText p {
+    clear: both;
+    text-align: left;
+  }
+  #secondSightList li.galapsec .elementText a {
+    top: 24px;
+  }
+  #secondSightList li.multiplt .elementText a {
+    top: -1px;
+  }
+  #penQMiddle .analyticsleftcontent {
+    width: 88%;
+    margin-bottom: 40px;
+    margin-top: 0;
+  }
+  #penQMiddle .analyticsrightcontent {
+    padding: 0;
+    width: 88%;
+  }
+  #penQMiddle h2,
+  #penQMiddle .analyticslist {
+    margin: 0;
+    padding: 0;
+  }
+  #caseouterContent #penQouterFirst,
+  #penQImg {
+    display: none;
+  }
+  .penQContent ul li {
+    width: 100%;
+  }
+  #caseouterContent .penQContent {
+    width: 88%;
+    margin: 0 auto 40px;
+  }
+  #caseouterContent .penQContent h2 {
+    border: none;
+    border-bottom: 0 !important;
+    margin: 0;
+    line-height: 24px;
+    background: none !important;
+  }
+  .icon-Galapagos {
+    color: #870387 !important;
+  }
+  .icon-WWatch {
+    color: #e2292f !important;
+  }
+  .icon-CRN {
+    color: #005db3 !important;
+  }
+  .icon-Crickees {
+    color: #00a10f !important;
+  }
+  .icon-PenQ {
+    color: #007ddd !important;
+  }
+  .icon-SecondSight {
+    color: #00a5d4 !important;
+  }
+  #galapogasImg {
+    display: none;
+  }
+  .penQPara {
+    text-align: left;
+    width: 88%;
+    margin: 0 auto;
+  }
+  .galap ul li {
+    width: 100%;
+  }
+  .galap ul li span:nth-child(3) {
+    width: 100%;
+  }
+  .crickeeslevels .levels .block {
+    width: 88%;
+    margin: 30px auto 0;
+  }
+  .crickeeslevels .levels .block:first-child {
+    margin: 0 auto;
+    width: 88%;
+  }
+  #secondSightList li .elementText p {
+    width: 100%;
+  }
+  .crickeeslevels .levels {
+    width: 100%;
+  }
+  .crickeeslevels .levels:first-child {
+    width: 100%;
+    margin: 30px 0 0;
+  }
+  #productsNav .subMenus .wrapper1,
+  #productsNav {
+    height: auto;
+  }
+  #productsNav #mobMenuHolder li {
+    display: block !important;
+  }
+  .mobExpandTitle {
+    margin: 25px auto;
+    width: 88%;
+  }
+  .tezzleMobExpandText,
+  .quickpickWidgets,
+  .qintRelationWrapper {
+    display: block;
+  }
+  .tezzleImage {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .tezzleLevels .levels:first-child {
+    margin: 53px 0 0;
+    width: 100%;
+  }
+  .tezzleLevels .levels {
+    width: 100%;
+    margin: 45px 0 50px;
+  }
+  .tezzleLevels .levels .block:first-child {
+    margin: 0 auto;
+  }
+  .tezzleLevels .levels .block {
+    margin: 48px auto 0;
+    width: 88%;
+  }
+  .tezzleLevels .levels .block img {
+    width: 13%;
+    float: left;
+  }
+  .crickeeslevels .levels .block img {
+    width: 10%;
+    float: left;
+  }
+  .tezzleLevels .levels .block .featuredsubContent,
+  .crickeeslevels .levels .block .featuredsubContent {
+    display: block;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+  }
+  .tezzleLevels .featuredsubContent p,
+  .crickeeslevels .featuredsubContent p {
+    clear: both;
+    padding-top: 10px;
+  }
+  .tezzleLevels .featuredsubContent h2,
+  .crickeeslevels .featuredsubContent h2 {
+    vertical-align: middle;
+    width: 70%;
+    font-size: 21px;
+    line-height: 25px;
+  }
+  .tezzleLevels .featuredsubContent h2 {
+    font-size: 21px;
+  }
+  .crickeeslevels .featuredsubContent h2 {
+    font-size: 30px;
+    width: 100%;
+  }
+  .openBtmSectionTezzle {
+    margin: 0 auto;
+    width: 88%;
+    float: none;
+  }
+  .openBtmSectionTezzle .leftOpenDiv {
+    text-align: center;
+  }
+  .contextHead {
+    margin-top: 40px !important;
+    width: 88% !important;
+    display: none;
+  }
+  .contextList li .elementText p {
+    text-align: center !important;
+  }
+  .contextContent {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .contextContent .contextLeft {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+  }
+  .contextContent .contextRight {
+    width: 100%;
+    float: none;
+    margin: 40px auto 0;
+  }
+  .contextLeft .mobExpand {
+    display: inline-block;
+  }
+  .contextLeft .expandText {
+    display: none;
+  }
+  .contextRight .block:first-child {
+    border-top: 1px solid #cdcdcd;
+    padding-top: 20px;
+  }
+  .contextRight .block:last-child {
+    border-bottom: 1px solid #cdcdcd;
+  }
+  .tezzleText .mobExpand {
+    display: block;
+  }
+  .tezzleMobText {
+    display: none;
+    text-align: left !important;
+  }
+  .tezzleMobText p {
+    width: 100% !important;
+  }
+  .contextRight .block div:nth-child(2) {
+    width: 77%;
+    float: right;
+    margin-left: 3%;
+  }
+  .tezzleLinking .InquiryBtn,
+  .tezzleLinking .inquirybtnHolder {
+    display: block;
+    text-align: center;
+  }
+  .contextList li p:first-child {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .iqtext {
+    text-align: center;
+  }
+  .contextRight .block div:nth-child(2) {
+    width: 100%;
+  }
+  .contextRight .block div:first-child h3 {
+    width: 75%;
+    margin-left: 0;
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+  }
+  .contextRight .block div:first-child {
+    display: table;
+  }
+  .contextRight .block div:first-child p {
+    width: 72% !important;
+  }
+  .rightImageBottom {
+    width: 88%;
+    margin: 0 auto;
+    float: none;
+    position: static !important;
+  }
+  .rightImageBottom .tezzleBottomImageText {
+    font-size: 14px;
+  }
+  .tezzleBottomImageText .icon-alarm {
+    float: none;
+  }
+  /*crickees*/
+  #crickeeBox {
+    width: 86%;
+    float: none;
+  }
+  #crickeeBox #horizontalLine {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  #crickeeBox #horizontalLine p {
+    width: 8%;
+    display: inline-block;
+    float: none;
+    padding-top: 0;
+  }
+  #crickeeBox #horizontalLine hr {
+    display: inline-block;
+    float: none;
+  }
+  #crickeeBox .crickeesContent p {
+    text-align: center;
+  }
+  /*kever page */
+  .keverContent {
+    display: block;
+    margin: 30px auto;
+    width: 88%;
+  }
+  .keverLeft {
+    display: block;
+    width: 100%;
+  }
+  .keverRight {
+    display: block;
+    margin: 30px 0;
+    padding-left: 0;
+    width: 100%;
+  }
+  .keverFreeBox {
+    padding: 30px 0;
+    position: static;
+    width: 100%;
+  }
+  .keverDownload {
+    float: none;
+    margin: 10px auto 0;
+    text-align: center;
+    width: 100%;
+  }
+  .keverFreeBox #download.firefoxBtn {
+    display: block;
+    float: none;
+    margin: 0 auto;
+  }
+  .keverFreeBox h1 {
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+  }
+  #keverMain .keverContent .videoContainer {
+    margin: 30px auto;
+    width: 88%;
+  }
+  .keverBottom {
+    margin: 0 auto;
+    width: 88%;
+  }
+  .keverRow {
+    display: table-row;
+    width: 100%;
+  }
+  .keverCell {
+    margin: 40px 0 0;
+    width: 100%;
+  }
+  .keverBottom div:nth-child(4) {
+    margin-bottom: 20px;
+  }
+  .icon-Kever {
+    color: #4d7502 !important;
+  }
+  .keverList ul li span:nth-child(2) {
+    display: inline-block;
+    width: 88%;
+  }
+  .iotheading {
+    width: 88%;
+    margin: auto;
+    text-align: left;
+    font-style: normal;
+    font-size: 14px;
+    padding-top: 20px;
+  }
+  .iotIntro h2 {
+    width: 88%;
+    margin: auto;
+  }
+  .iotvideo h2,
+  .iotvideo .expandTitle {
+    text-align: left;
+  }
+  .iotIntro .videoWrapper {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .iotIntro .rightTextData img {
+    max-width: 100%;
+    margin: auto;
+  }
+  .iotIntro ul {
+    display: block;
+    width: 88%;
+    margin: auto;
+  }
+  .iotIntro ul li {
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    display: table;
+  }
+  .iotIntroHead {
+    display: table-cell;
+    vertical-align: middle;
+    width: 24%;
+  }
+  .iotIntroContent {
+    width: 80%;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 10px auto;
+    padding-left: 10px;
+    text-align: left;
+  }
+  .iotDef {
+    text-align: left;
+  }
+  .iotsolutionContent {
+    display: none;
+  }
+  #iotWorkImg {
+    display: none;
+  }
+  #iotimglabel {
+    display: none;
+  }
+  #iotSolutionHead {
+    display: none;
+  }
+  .iotWorks {
+    padding: 10px 0px;
+    text-align: left;
+    max-width: 88%;
+    margin: auto;
+    position: relative;
+  }
+  .iotWorks img {
+    display: none;
+  }
+  .iotWorks h3 {
+    font-family: 'OpenSansbold';
+    display: inline-block;
+  }
+  .iotHelp {
+    margin-top: 0px;
+  }
+  .iotHelp img {
+    margin: 25px auto;
+  }
+  .iotimgdiv {
+    display: none;
+  }
+  .leftTextData,
+  .rightTextData {
+    width: 100%;
+    float: none;
+  }
+  /*icon color change fixes*/
+  .clearConsoleIcon {
+    color: #005ea1!important;
+  }
+  .bookMeetIcon {
+    color: #005f07!important;
+  }
+}
+@media (min-width: 280px) and (max-width: 360px) {
+  .mobile-collapse-content .imgSub {
+    display: inline-block;
+    width: 63%;
+  }
+  .longContent .mobile-collapse-image {
+    margin-top: 15px!important;
+  }
+  .longContent .collapse-icon {
+    margin-top: 26px!important;
+  }
+  .mobile-collapse-content .subContents {
+    width: 60%;
+  }
+  .mobile-collapse-content .subContents.operation {
+    width: 56%;
+  }
+}
+@media (min-width: 768px) {
+  .qintActionContent>figure {
+    padding-top: 9px;
+  }
+  .exsituCollapse p,
+  .iotUpper .xtraP,
+  .iotContainer .xtraP.iotxtraP,
+  .plainIotContainer .xtraP.iotxtraP,
+  .iotSmartContainer .xtraP.iotxtraP,
+  .exsitu-events .xtraP {
+    display: block !important;
+  }
+  .iotsolution img {
+    max-width: 94%;
+  }
+  .mobIot {
+    display: none;
+  }
+  .subContents span {
+    width: 50%;
+    float: left;
+  }
+  .iotQuote.qbeaconHelp .useCaseOdd .graphLeft {
+    width: 50%;
+  }
+  .iotUpper .desktop-view-content h3 {
+    padding-bottom: 0;
+  }
+  .smmHeadMob {
+    display: none;
+  }
+  .omniaSub {
+    width: 75%;
+    margin: 30px auto 0;
+  }
+  .capabilityHeading {
+    width: 82%;
+    margin: 40px auto 35px;
+  }
+  .architectureHeading {
+    padding-bottom: 40px;
+    width: 75%;
+    margin: 0 auto;
+  }
+  .iotUpper .expandTitle {
+    text-align: center;
+    margin-top: 20px;
+    min-height: 125px;
+  }
+  .iotUpper .desktop-view-content {
+    width: 28%;
+    border: 1px solid #e5e5e5;
+    position: relative;
+  }
+  .iotUpper .collapse-image-container {
+    background-color: #fff;
+    width: 100%;
+    margin: -85px 0 20px;
+    text-align: center;
+    float: left;
+    background: none;
+  }
+  .iotUpper .collapse-image-container img {
+    background-color: #fff;
+  }
+  .iotUpper {
+    margin-top: 70px;
+  }
+  .iotQuote.smart {
+    background-image: url(../images/responsive/product/IoT/Svgs/improve-bottomline-bg.png);
+  }
+  .iotQuote .collapse-content {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .plainIotContainer .desktop-view-content:not(:last-child),
+  .smart .desktop-view-content:not(:last-child) {
+    border-right: 1px solid #e5e5e5;
+  }
+  .smart .desktop-view-content {
+    width: 33%;
+  }
+  .equalContent .iotTitles {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .iotQuote .iotTitles {
+    text-align: left;
+  }
+  .plainIotContainer {
+    width: 90%;
+    margin: 0 auto 50px;
+  }
+  .horizontalLine {
+    margin: 0 auto;
+    position: relative;
+    width: 91%;
+    border: 1px solid #e2e2e2;
+    bottom: 19px;
+  }
+  .graphRightIot {
+    padding-left: 0px;
+    width: 30%;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .equalContent .useCaseEven .graphLeft,
+  .equalContent .useCaseEven .graphRight {
+    width: 50%;
+  }
+  .equalContent .useCaseEven {
+    margin-top: 0;
+  }
+  .equalContent h2 {
+    margin: 60px 0 40px;
+  }
+  .equalContent .useCaseEven .graphLeft {
+    padding-right: 4%;
+    border-right: 1px solid #e5e5e5;
+  }
+  .equalContent .useCaseEven .graphRight {
+    padding-left: 4%;
+  }
+  .equalContent .useCaseEven .graphRight {
+    padding-left: 4%;
+  }
+  .qbeaconHelp.iotQuote {
+    width: 100%;
+    padding-top: 43px;
+    margin-top: 30px;
+  }
+  .iotQuote .useCaseOdd {
+    width: 88%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+  }
+  .curvedContainer {
+    width: 134px;
+    height: 67px;
+    border: 1px solid #e5e5e5;
+    border-radius: 0 0 134px 134px;
+    position: absolute;
+    top: 1px;
+    left: 39.5%;
+    border-top: 0;
+  }
+  .iotQuote .useCaseOdd p {
+    text-align: left;
+  }
+  .iotList {
+    padding-left: 36px;
+    box-sizing: border-box;
+  }
+  .qbeaconHelp.iotHelp,
+  .qbeaconHelp.equalContent {
+    width: 88%;
+    margin-top: 25px;
+    margin-bottom: 60px;
+  }
+  .iotContainer {
+    background-color: #fbfbfb;
+    margin-top: 50px;
+  }
+  .iotContainer .collapse-content {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .iotMain {
+    margin-top: 30px;
+  }
+  .security-dropdown span.iconArrow {
+    display: block;
+    margin-top: 4px;
+    font-size: 12px;
+    margin-right: 4px;
+  }
+  .burglar-assault span.iconArrow {
+    margin-top: 15px;
+  }
+  .security-dropdown span.iconArrow:before {
+    content: "\e01f" !important;
+    font-size: 12px;
+  }
+  .security-dropdown span.upArrow:before {
+    content: "\e01e" !important;
+  }
+  .security-dropdown .security-collapse-content {
+    position: relative;
+    z-index: -1;
+    background: #efefef;
+    padding: 8px 8px 8px 0px;
+    min-width: 200px;
+  }
+  .security-dropdown .security-collapse-content.leftCurvedSect .iconArrow {
+    float: left;
+    margin-left: 12px;
+  }
+  .security-dropdown .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: right;
+    padding-left: 8px;
+  }
+  .security-dropdown .listText li {
+    padding-bottom: 7px;
+  }
+  .security-dropdown .listCont {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .security-dropdown .xtraP {
+    padding-left: 20px;
+    min-width: 182px;
+  }
+  .active .icon-exsitu {
+    background: url(../images/responsive/product/exsitu/exsitu-active-icon.svg) no-repeat 5px 10px;
+  }
+  .reverse {
+    position: absolute;
+    bottom: 100%;
+  }
+  .security-dropdown .xtraP {
+    box-shadow: 1px 4px 10px 3px rgba(0, 0, 0, .1);
+    border-radius: 12px;
+    margin-top: 5px;
+  }
+  .security-dropdown .xtraP.reverse {
+    box-shadow: 1px 0px 10px 3px rgba(0, 0, 0, .1);
+    margin-bottom: 5px;
+  }
+  .exsitu-infograph-container {
+    margin-top: 60px;
+  }
+  .burglar-assault .security-collapse-content,
+  .paging-system .security-collapse-content {
+    padding-left: 6px;
+  }
+  .secondPortion .desktop-view-content,
+  .omniaModels {
+    display: table;
+  }
+  .omniaModels {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .colapseLeft {
+    display: table-cell;
+    width: 20%;
+    vertical-align: middle;
+  }
+  .secondPortion .desktop-view-content .xtraP {
+    display: table-cell!important;
+    vertical-align: middle;
+    width: 80%;
+    padding-left: 20px;
+  }
+  .secondPortionHeading {
+    width: 100%;
+    display: block;
+    font-size: 22px!important;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+  .omniaModelContents {
+    display: table-cell;
+    vertical-align: top;
+    width: 50%;
+    position: relative;
+  }
+  .omniaModels .desktop-view-content {
+    width: 100%;
+  }
+  .omniaModels .mobile-collapse-content,
+  .mobile-collapse-content.showMobileContent {
+    display: block;
+    display: table;
+    padding: 20px 0;
+  }
+  .omniaModels .mobile-collapse-content .mobile-collapse-image,
+  .mobile-collapse-content.showMobileContent .mobile-collapse-image {
+    display: table-cell;
+    font-size: 62px;
+    vertical-align: middle;
+    padding-right: 20px;
+  }
+  .omniaModels .mobile-collapse-content .mobile-collapse-contenting,
+  .mobile-collapse-content.showMobileContent .mobile-collapse-contenting {
+    font-size: 24px;
+    vertical-align: middle;
+    display: table-cell;
+    padding-bottom: 10px;
+  }
+  .omniaModelHeading {
+    width: 75%;
+    margin: 75px auto 100px;
+  }
+  .iotQuote.oil,
+  .qintMainHead {
+    padding-bottom: 20px;
+  }
+  .qintMainHead {
+    padding-top: 40px;
+  }
+  .automateMainHead {
+    padding-top: 30px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .qintActionContent>figure {
+    width: 18%;
+  }
+  .qintActionContent>div {
+    width: 82%;
+  }
+  .nextBtn {
+    border-left: 1px solid rgb(209, 209, 209);
+  }
+  .iotUpper .desktop-view-content h3 {
+    min-height: 130px;
+  }
+  .iotUpper .expandTitle {
+    min-height: 170px;
+  }
+  .security-dropdown .security-collapse-content .mobile-collapse-contenting {
+    font-size: 12px;
+  }
+  .security-dropdown .security-collapse-content.leftCurvedSect {
+    min-width: 168px;
+  }
+  .security-dropdown .xtraP {
+    min-width: 178px;
+  }
+  .automation {
+    top: 20%;
+    left: -21%;
+  }
+  .burglar-assault span.iconArrow {
+    margin-top: 10px;
+  }
+  .paging-system {
+    top: 74%;
+  }
+  .iotIntroContent {
+    width: 88%;
+  }
+  .pointerLinks {
+    padding: 10px 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .qintUseWrapper .listTextCommon {
+    width: 24%;
+    padding-left: 25px;
+    box-sizing: border-box;
+  }
+  .qintUseWrapper .listTextCommon:nth-of-type(1) {
+    padding-left: 0;
+  }
+  .automateMainHead {
+    padding-top: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 900px) {
+  .iotPdfContainer .adjustLinks button {
+    font-size: 12px;
+  }
+  .security-dropdown .security-collapse-content .mobile-collapse-contenting {
+    font-size: 11px;
+  }
+  .security-dropdown .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    width: 75%;
+  }
+  .security-dropdown .security-collapse-content {
+    min-width: 168px;
+  }
+  .exsitu-infograph-container .info {
+    margin-top: 10px;
+  }
+  .security-dropdown .xtraP {
+    min-width: 146px;
+  }
+  .paging-system {
+    top: 73.5%;
+    left: 83%;
+  }
+  .automation {
+    top: 20%;
+    left: -23%;
+  }
+  .survelance {
+    top: 91%;
+    left: 9%;
+  }
+  .counting {
+    top: 76%;
+    left: -21%;
+  }
+  .key {
+    top: 48%;
+    left: -35%;
+  }
+  .paging-system .security-collapse-content {
+    padding-left: 10px;
+  }
+  .survelance .security-collapse-content.leftCurvedSect .mobile-collapse-contenting,
+  .counting .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: center;
+    padding-left: 0;
+  }
+  .key .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: center;
+  }
+  .automation .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: left;
+  }
+  .security-dropdown.access-control .mobile-collapse-contenting {
+    padding-left: 13px;
+    width: 82%;
+  }
+  .mobile-collapse-image.iotFonts {
+    font-size: 50px!important;
+    padding-right: 10px!important;
+  }
+  .mobile-collapse-content.showMobileContent .mobile-collapse-contenting {
+    font-size: 18px;
+  }
+  .iotUpper .desktop-view-content h3 {
+    font-size: 21px;
+  }
+  .iotUpper .desktop-view-content .longHeading {
+    margin-left: -10px;
+  }
+}
+@media (min-width: 901px) and (max-width: 1199px) {
+  .security-dropdown .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    width: 80%;
+    padding-left: 0;
+  }
+  .survelance .security-collapse-content.leftCurvedSect .mobile-collapse-contenting,
+  .automation .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: center;
+  }
+  .counting .security-collapse-content.leftCurvedSect .mobile-collapse-contenting,
+  .key .security-collapse-content.leftCurvedSect .mobile-collapse-contenting {
+    text-align: right;
+    width: 75%;
+  }
+  .automation {
+    width: 35%;
+  }
+}
+@media (min-width: 767px) and (max-width: 1039px) {
+  .active .icon-exsitu,
+  .icon-exsitu {
+    background: url(../images/responsive/product/exsitu/exsitu-icon.svg) no-repeat 5px 10px;
+    width: 28px!important;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1310px) {
+  @-moz-document url-prefix() {
+    .security-dropdown .security-collapse-content .mobile-collapse-contenting {
+      font-size: 12px;
+    }
+  }
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  .survelance {
+    left: 7%;
+  }
+  .automation {
+    left: -28%;
+  }
+}
+@media (max-width: 1100px) {
+  .iotCollapse.secondPortion .desktop-view-content {
+    width: 100%;
+    padding-left: 0!important;
+    padding-right: 0!important;
+  }
+}
+@media (min-width: 1160px) and (max-width: 1200px) {
+  .iotUpper .desktop-view-content h3 {
+    min-height: 103px;
+    padding-bottom: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 920px) {
+  .iotUpper .desktop-view-content {
+    padding: 20px 17px 60px;
+  }
+}

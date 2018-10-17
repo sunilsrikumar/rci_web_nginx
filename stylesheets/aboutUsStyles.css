@@ -1,0 +1,950 @@
+@font-face {
+  font-family: 'AvenirNextLTPro-Bold';
+  src: url('../fonts/Avenir/AvenirNextLTPro-Bold.eot');
+  src: url('../fonts/Avenir/AvenirNextLTPro-Boldd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Avenir/AvenirNextLTPro-Bold.woff') format('woff'), url('../fonts/Avenir/AvenirNextLTPro-Bold.ttf') format('truetype'), url('../fonts/Avenir/AvenirNextLTPro-Bold.svg#icomoon') format('svg');
+}
+.aboutus {
+  margin-top: 10px;
+  background-color: #ececec;
+}
+.aboutusgreybox {
+  height: 300px;
+  background: #393939;
+  display: table;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 40px;
+}
+.aboutusboxcontent {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+.aboutusboxcontent h3 {
+  font-size: 26px;
+  margin: 10px;
+}
+.aboutusboxcontent h2 {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.aboutusboxcontent p {
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.aboutuscontent {
+  width: 91%;
+  margin: auto;
+  max-width: 1500px;
+}
+.aboutusvideo,
+.aboutusimg {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin-top: -40px;
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  position: relative;
+}
+.aboutusleft,
+.aboutusright {
+  width: 50%;
+  position: relative;
+}
+/*remove style when video available*/
+.aboutusright img {
+  visibility: initial !important;
+}
+.aboutusright .videothumb {
+  cursor: initial;
+}
+.aboutusleft {
+  // padding: 10px 50px;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  box-sizing: border-box;
+}
+.aboutusleft h2,
+.techsubsection.techcontent h2 {
+  color: #fff;
+}
+.aboutusleft p {
+  color: #fff;
+  padding-bottom: 15px;
+}
+.aboutlist {
+  margin-top: 20px;
+}
+.aboutuscontent.aboutclients .aboutusleft .aboutlist {
+  color: #727272;
+}
+.aboutlist li {
+  list-style: square;
+  padding-bottom: 10px;
+}
+.aboutusleft div,
+.techsubsection.techcontent div {
+  height: auto;
+  align-self: center;
+  -ms-align-self: center;
+  -moz-align-self: center;
+  -webkit-align-self: center;
+  margin: auto;
+  text-align: left;
+}
+.abouttech,
+.winningclient {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.techsubsection {
+  width: 50%;
+  background: #fff;
+  border: 1px solid #ececec;
+  box-sizing: border-box;
+  padding: 30px 20px;
+  text-align: center;
+  overflow-y: hidden;
+}
+.techsubsection.techcontent {
+  background: #ed212d;
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  color: #fff;
+  padding-left: 60px;
+  box-sizing: border-box;
+}
+.techsubsection h2 {
+  margin: 20px auto;
+}
+.aboutuswhitebox {
+  height: 150px;
+  background: #fff;
+  display: table;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 40px;
+}
+.logolist {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  justify-content: space-around;
+  -ms-justify-content: space-around;
+  -moz-justify-content: space-around;
+  -webkit-justify-content: space-around;
+  overflow: hidden;
+}
+.logolist li {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.mobilelogos li {
+  min-width: 140px;
+  width: 25%;
+  height: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.mobilelogos li span {
+  background-image: url(../images/responsive/companys/aboutus/Mobile.png);
+}
+.logolist li span {
+  width: 140px;
+  height: 60px;
+  display: inline-block;
+}
+.logolist li .ioslogo {
+  background-position: -280px 64px;
+}
+.logolist li .htmllogo {
+  background-position: 0 64px;
+}
+.logolist li .andriodlogo {
+  background-position: -975px 64px;
+}
+.logolist li .windowslogo {
+  background-position: -697px 64px;
+  width: 138px;
+}
+.logolist li .jquerylogo {
+  background-position: -415px 64px;
+}
+.logolist li .ioniclogo {
+  background-position: -140px 64px;
+}
+.logolist li .reactlogo {
+  background-position: -556px 64px;
+}
+.logolist li .cordovalogo {
+  background-position: -835px 64px;
+}
+
+/*hover effect*/
+
+.logolist li .ioslogo:hover {
+  background-position: -280px 5px;
+}
+.logolist li .htmllogo:hover {
+  background-position: 0 5px;
+}
+.logolist li .andriodlogo:hover {
+  background-position: -975px 5px;
+}
+.logolist li .windowslogo:hover {
+  background-position: -697px 5px;
+}
+.logolist li .jquerylogo:hover {
+  background-position: -415px 5px;
+}
+.logolist li .ioniclogo:hover {
+  background-position: -140px 5px;
+}
+.logolist li .reactlogo:hover {
+  background-position: -556px 5px;
+}
+.logolist li .cordovalogo:hover {
+  background-position: -835px 5px;
+}
+.analyticslogos li {
+  min-width: 210px;
+  width: 33%;
+  height: 60px;
+}
+.analyticslogos li span {
+  background-image: url(../images/responsive/companys/aboutus/analytics.png);
+  width: 200px;
+}
+.logolist li .spark {
+  background-position: 10px 61px;
+  height: 59px;
+}
+.logolist li .Cassandra {
+  background-position: -190px 60px;
+}
+.logolist li .mssql {
+  background-position: -390px 60px;
+}
+.logolist li .hadoop {
+  background-position: -590px 60px;
+}
+.logolist li .redshift {
+  background-position: -790px 60px;
+}
+.logolist li .sap {
+  background-position: -990px 60px;
+}
+.logolist li .pentaho {
+  background-position: -1170px 60px;
+}
+.logolist li .tableau {
+  background-position: -1370px 60px;
+}
+.logolist li .kafka {
+  background-position: -1590px 60px;
+}
+
+/*hover effect*/
+
+.logolist li .spark:hover {
+  background-position: 10px 5px;
+}
+.logolist li .Cassandra:hover {
+  background-position: -190px 4px;
+}
+.logolist li .mssql:hover {
+  background-position: -390px 4px;
+}
+.logolist li .hadoop:hover {
+  background-position: -590px 4px;
+}
+.logolist li .redshift:hover {
+  background-position: -790px 6px;
+}
+.logolist li .sap:hover {
+  background-position: -990px 4px;
+}
+.logolist li .pentaho:hover {
+  background-position: -1170px 4px;
+}
+.logolist li .tableau:hover {
+  background-position: -1370px 4px;
+}
+.logolist li .kafka:hover {
+  background-position: -1590px 4px;
+}
+.weblogos li {
+  min-width: 210px;
+  width: 33%;
+  margin-bottom: 20px;
+}
+.weblogos li span {
+  background-image: url(../images/responsive/companys/aboutus/Web.png);
+  width: 210px;
+  height: 70px
+}
+.logolist li .drupal {
+  background-position: 10px 70px;
+}
+.logolist li .rails {
+  background-position: -210px 70px;
+}
+.logolist li .asp {
+  background-position: -400px 70px;
+}
+.logolist li .microsoft {
+  background-position: -624px 70px;
+}
+.logolist li .sharepoint {
+  background-position: -835px 70px;
+}
+.logolist li .salesforce {
+  background-position: -1040px 70px;
+}
+.logolist li .aws {
+  background-position: -1245px 70px;
+}
+.logolist li .java {
+  background-position: -1460px 70px;
+}
+.logolist li .python {
+  background-position: -1650px 70px;
+}
+
+/*hover effect*/
+
+.logolist li .drupal:hover {
+  background-position: 10px -6px;
+}
+.logolist li .rails:hover {
+  background-position: -210px -6px;
+}
+.logolist li .asp:hover {
+  background-position: -400px -6px;
+}
+.logolist li .microsoft:hover {
+  background-position: -624px -6px;
+}
+.logolist li .sharepoint:hover {
+  background-position: -835px -6px;
+}
+.logolist li .salesforce:hover {
+  background-position: -1040px -6px;
+}
+.logolist li .aws:hover {
+  background-position: -1245px -6px;
+}
+.logolist li .java:hover {
+  background-position: -1460px -6px;
+}
+.logolist li .python:hover {
+  background-position: -1650px -6px;
+}
+.aboutuswhitebox .aboutusboxcontent h3 {
+  color: #000;
+  font-size: 22px;
+  font-weight: 600;
+}
+.greyboxheading {
+  padding: 80px 20px;
+  margin-top: 60px;
+  background: #f6f6f6;
+  text-align: center;
+  font-size: 22px;
+  box-sizing: border-box;
+}
+.aboutclients {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  background-color: #fff;
+}
+.aboutclients .aboutusleft {
+  background-color: #fff;
+  color: #000;
+}
+.clinetslogo {
+  background: #fff;
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+.clinetslogo li {
+  min-width: 180px;
+  width: 33%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.clinetslogo li span {
+  background-image: url(../images/responsive/companys/aboutus/Clients.png);
+  width: 150px;
+  height: 70px
+}
+.logolist li .nato {
+  background-position: 0 -71px;
+}
+.logolist li .nato:hover {
+  background-position: 0 0;
+}
+.logolist li .omron {
+  background-position: -149px -71px;
+}
+.logolist li .omron:hover {
+  background-position: -149px 0;
+}
+.logolist li .burberry {
+  background-position: -297px -71px;
+}
+.logolist li .burberry:hover {
+  background-position: -297px 0;
+}
+.logolist li .allianz {
+  background-position: -445px -71px;
+}
+.logolist li .allianz:hover {
+  background-position: -445px 0;
+}
+.logolist li .dell {
+  background-position: -600px -71px;
+}
+.logolist li .dell:hover {
+  background-position: -600px 0;
+}
+.logolist li .nyu {
+  background-position: -745px -71px;
+}
+.logolist li .nyu:hover {
+  background-position: -745px 0;
+}
+.logolist li .undp {
+  background-position: -895px -70px;
+}
+.logolist li .undp:hover {
+  background-position: -895px 1px;
+}
+.logolist li .addthis {
+  background-position: -1040px -71px;
+}
+.logolist li .addthis:hover {
+  background-position: -1040px 0;
+}
+.logolist li .airtel {
+  background-position: -1190px -71px;
+}
+.logolist li .airtel:hover {
+  background-position: -1190px 0;
+}
+.viewallclient {
+  color: #fff;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: 20px 60px;
+  background-color: #ed212d;
+  font-size: 16px;
+  text-align: center;
+}
+.winningclientcomtent.techcontent {
+  background-color: #000;
+}
+.winningclientcomtent {
+  height: 300px;
+  padding: 30px 20px;
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+}
+.winningclientcomtent div {
+  align-self: center;
+  -ms-align-self: center;
+  -moz-align-self: center;
+  -webkit-align-self: center;
+  margin: auto;
+}
+.winningclientcomtent p {
+  padding-top: 20px;
+  font-size: 16px;
+  line-height: 30px;
+}
+.marginleft20 {
+  margin-left: 20px;
+}
+.aboutusblackbox {
+  height: 150px;
+  background: #242424;
+  display: table;
+  width: 100%;
+  color: #fff;
+  padding-bottom: 40px;
+}
+.aboutusblackbox .aboutusboxcontent h3 {
+  color: #fff;
+  font-size: 22px;
+}
+.aboutusmore {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  margin-top: -40px;
+}
+.aboutusmorecontent {
+  width: 33%;
+  padding: 20px 40px;
+  color: #000;
+  text-align: center;
+  height: 380px;
+  position: relative;
+  display: block;
+}
+.aboutusmorecontent:hover,
+.aboutusmorecontent:focus,
+.aboutusmorecontent:active {
+  color: #fff;
+  background-color: #ed212d;
+}
+.how {
+  background: #f5f5f5;
+}
+.who {
+  background: #f0f0f0;
+}
+.where {
+  background: #e7e7e7;
+}
+.aboutusmorecontent h3 {
+  display: block;
+  margin: 80px 0 20px;
+  position: relative;
+}
+.aboutusmorecontent h3:before {
+  font-family: "icomoon";
+  position: absolute;
+  top: -60px;
+  font-size: 40px;
+  font-weight: 100;
+  left: 0;
+  right: 0;
+}
+.aboutusmorecontent.how h3:before {
+  content: "\e91f";
+}
+.aboutusmorecontent.who h3:before {
+  content: "\e920";
+  font-size: 50px;
+}
+.aboutusmorecontent.where h3:before {
+  content: "\e921";
+}
+.aboutusmorecontent p {
+  font-size: 18px;
+  line-height: 40px;
+}
+.aboutusmorecontent:hover p{
+  color: #fff;
+}
+.aboutusmorecontent span {
+  position: absolute;
+  bottom: 25px;
+  color: #727272;
+  font-size: 15px;
+  left: 0;
+  right: 0;
+}
+.aboutusmorecontent:hover span {
+  color: #fff;
+  text-decoration: underline;
+}
+.aboutlocation {
+  width: 80%;
+  margin-left: 20%;
+}
+.aboutlocation li {
+  font-size: 20px;
+  width: 49%;
+  float: left;
+  padding-bottom: 20px;
+  text-align: left;
+  color: #727272;
+}
+.aboutusmorecontent:hover li {
+  color: #fff;
+}
+.connectus {
+  text-align: center;
+  padding: 100px 0;
+  background: #fff;
+}
+#inqBtn.aboutusinq {
+  text-transform: none;
+}
+.aboutusright .videoContainer {
+  margin-bottom: 0;
+  height: 100%;
+  padding: 0;
+  top: 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background: #000;
+}
+.skillsetimg {
+  margin-bottom: -4px;
+  min-height: 420px;
+}
+.moreaboutus {
+  display: inline-block;
+  background: #fff;
+  width: 100%;
+}
+.aboutusvideo .videocontent {
+  position: absolute;
+  top: 0;
+  background: #000;
+  display: table;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+}
+.aboutusvideo .videocontent .leftContainer {
+  display: table-cell;
+  vertical-align: middle;
+}
+.videothumb {
+  display: inherit;
+  cursor: pointer;
+}
+@media screen and (min-width: 1024px) and (max-width: 1500px) {
+  .clinetslogo li {
+    min-width: 120px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 33%;
+    transform: scale(.7);
+    margin-top: 0px;
+  }
+  .weblogos li,
+  .mobilelogos li,
+  .analyticslogos li {
+    min-width: 160px;
+    width: 33%;
+    transform: scale(.7);
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .weblogos li {
+    margin-bottom: 10px;
+  }
+  .clinetslogo {
+    padding-bottom: 60px;
+    padding-top: 30px;
+  }
+  .viewallclient {
+    font-size: 14px;
+    padding: 15px 50px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .logolist li .nato {
+    background-position: 0 0;
+  }
+  .logolist li .omron {
+    background-position: -149px 0;
+  }
+  .logolist li .burberry {
+    background-position: -297px 0;
+  }
+  .logolist li .allianz {
+    background-position: -445px 0;
+  }
+  .logolist li .dell {
+    background-position: -600px 0;
+  }
+  .logolist li .nyu {
+    background-position: -745px 0;
+  }
+  .logolist li .undp {
+    background-position: -895px 1px;
+  }
+  .logolist li .undp:hover {
+    background-position: -895px 1px;
+  }
+  .logolist li .addthis {
+    background-position: -1040px 0;
+  }
+  .logolist li .airtel {
+    background-position: -1190px 0;
+  }
+  .logolist li .drupal,
+  .logolist li .drupal:hover {
+    background-position: 10px 0;
+  }
+  .logolist li .rails,
+  .logolist li .rails:hover {
+    background-position: -210px 0;
+  }
+  .logolist li .asp,
+  .logolist li .asp:hover {
+    background-position: -400px 0;
+  }
+  .logolist li .aws,
+  .logolist li .aws:hover {
+    background-position: -1245px -6px;
+  }
+  .logolist li .spark,
+  .logolist li .spark:hover {
+    background-position: 10px 5px;
+  }
+  .logolist li .Cassandra,
+  .logolist li .Cassandra:hover {
+    background-position: -190px 0;
+  }
+  .logolist li .mssql,
+  .logolist li .mssql:hover {
+    background-position: -390px 6px;
+  }
+  .logolist li .pentaho,
+  .logolist li .pentaho:hover {
+    background-position: -1170px 0;
+  }
+  .logolist li .ioslogo,
+  .logolist li .ioslogo:hover {
+    background-position: -280px 2px;
+  }
+  .logolist li .andriodlogo,
+  .logolist li .andriodlogo:hover {
+    background-position: -975px 2px;
+  }
+  .logolist li .htmllogo,
+  .logolist li .htmllogo:hover {
+    background-position: 0 2px;
+  }
+  .logolist li .reactlogo,
+  .logolist li .reactlogo:hover {
+    background-position: -556px 0;
+  }
+}
+
+@media screen and (min-width:280px) and (max-width:767px) {
+  .aboutusgreybox {
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 60px;
+  }
+  .aboutusboxcontent h3 {
+    font-size: 20px;
+    width: 88%;
+    margin: 10px auto;
+  }
+  .aboutusboxcontent h2 {
+    font-size: 22px;
+    width: 88%;
+    margin: 10px auto;
+  }
+  .aboutusboxcontent p {
+    font-size: 14px;
+    width: 88%;
+    margin: 10px auto;
+  }
+  .aboutusvideo .aboutusleft {
+    display: none;
+  }
+  .aboutusimg .aboutusright,
+  .aboutuscontent {
+    width: 100%;
+  }
+  .aboutusvideo .aboutusright {
+    width: 88%;
+    margin: auto;
+  }
+  .techsubsection {
+    width: 88%;
+    order: 2;
+    height: 350px;
+    margin: -40px auto 40px;
+  }
+  .techsubsection:nth-child(4) {
+    margin-bottom: 0;
+  }
+  .techsubsection.techcontent {
+    width: 100%;
+    order: 1;
+    margin: 0;
+    padding-top: 0;
+    height: 350px;
+  }
+  .aboutusimg .aboutusleft {
+    position: absolute;
+    z-index: 1;
+    background: transparent;
+    padding: 20px 50px;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  .greyboxheading {
+    margin: auto;
+    padding: 30px;
+    box-sizing: border-box;
+  }
+  .aboutclients,
+  .aboutusmore {
+    display: block;
+    padding-bottom: 30px;
+  }
+  .aboutclients .aboutusleft,
+  .aboutclients .aboutusright {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .clinetslogo {
+    height: 180px;
+    overflow: hidden;
+    padding-bottom: 120px;
+    padding-top: 0;
+    width: 88%;
+    margin: auto;
+  }
+  .viewallclient {
+    right: 6%;
+    width: 88%;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .winningclient {
+    display: none;
+  }
+  .aboutusblackbox {
+    height: 100px;
+  }
+  .aboutusmorecontent {
+    width: 88%;
+    margin: auto;
+    box-sizing: border-box;
+  }
+  .connectus {
+    padding: 60px 0;
+  }
+  .aboutusmorecontent h3 {
+    font-size: 20px;
+  }
+  .aboutusmorecontent h3:before {
+    font-size: 40px;
+  }
+  .aboutusmorecontent p {
+    font-size: 14px;
+    line-height: 35px;
+  }
+  .aboutlocation li {
+    font-size: 16px;
+  }
+  .aboutusmorecontent span {
+    font-size: 13px;
+  }
+  .aboutusleft div {
+    // margin-left: 30px;
+    width: 75%;
+  }
+  .clinetslogo li,
+  .mobilelogos li {
+    width: 45%;
+    min-width: auto;
+    margin: 25px auto;
+  }
+  .aboutus {
+    margin-top: -30px;
+  }
+  .analyticslogos li,
+  .weblogos li {
+    width: 50%;
+    min-width: auto;
+    transform: scale(.7);
+    -o-transform: scale(.7);
+    -ms-transform: scale(.7);
+    -moz-transform: scale(.7);
+    -webkit-transform: scale(.7);
+  }
+  .analyticslogos li span,
+  .weblogos li span {
+    transform: translatex(-10%);
+    -o-transform: translatex(-10%);
+    -ms-transform: translatex(-10%);
+    -moz-transform: translatex(-10%);
+    -webkit-transform: translatex(-10%);
+  }
+  .aboutusleft h2,
+  .techsubsection.techcontent h2,
+  .techsubsection h2,
+  .aboutuswhitebox .aboutusboxcontent h3,
+  .greyboxheading,
+  .aboutusblackbox .aboutusboxcontent h3 {
+    font-size: 20px;
+  }
+  .aboutlist li {
+    font-size: 14px;
+  }
+  #mobhide {
+    display: none;
+  }
+}
+@media screen and (min-width:280px) and (max-width:400px) {
+  .techsubsection {
+    height: 520px;
+  }
+  .aboutusleft p {
+    font-size: 14px;
+  }
+  .clinetslogo li span {
+    transform: scale(.7);
+  }
+  .analyticslogos li,
+  .weblogos li,
+  .mobilelogos li {
+    width: 100%;
+    margin: 20px 0;
+    height: 60px;
+    transform: scale(1);
+    -o-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    -webkit-transform: scale(1);
+  }
+  .analyticslogos li span,
+  .weblogos li span {
+    transform: none;
+    -o-transform: none;
+    -ms-transform: none;
+    -moz-transform: none;
+    -webkit-transform: none;
+  }
+}

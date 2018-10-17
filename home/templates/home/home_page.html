@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags %}
+{% load wagtailcore_tags wagtailimages_tags %}
+{% block body_class %}template-homepage{% endblock %}
+{% load static %}
+
+{% block content %}
+
+
+<div class="flexslider loading" id="homeSlider" xmlns:http="http://www.w3.org/1999/xhtml"
+     xmlns:http="http://www.w3.org/1999/xhtml">
+            <ul class="slides">
+                {% for item in page.carousel_images.all %}
+
+              <li>
+                <div class="img" >{% image item.image max-1000x500 %}</div>
+                <div class="sliderContentWrapper">
+                  <div class="sliderContent">
+                    <p class="sliderContent_head" style="color: #080808;" >{{ item.caption }}</p>
+                    <p class="sliderContent_p" style="color: #080808;" >{{item.tag_line}}</p>
+                    <a href={{item.embed_url}}>
+
+                      <span class="xtraContentBtn" style="background: rgba(76, 175, 80, 0.01);color: #080808;border: 2px solid #080808;" >Full Story</span>
+                    </a>
+                  </div>
+                </div>
+              </li>
+              {% endfor %}
+
+            </ul>
+          </div>
+
+<section class="homeContentWrapper">
+  <section class="home">
+    <div class="homeWrapper1">
+        {% for item in page.feature_images.all %}
+ {% image item.image max-1000x500 as my_image %}
+      <div class="homeSubContent mobility" style="background-image: url('http://35.187.57.106:8899{{ my_image.url }}') !important;" >
+        <div alt="Mobile app development">
+          <div class="subContent">
+            <a href={{item.embed_url}}>
+              <h2>{{ item.header }}</h2>
+              <p class="xtraContent" style="color:#FFF;">{{ item.intro }}</p>
+              <span class="xtraContent xtraContentBtn">Learn More</span>
+            </a>
+          </div>
+           {% image item.image max-1000x500 %}
+        </div>
+      </div>
+         {% endfor %}
+    </div>
+  </section>
+  <h2 class="clienthead">TRUSTED BY</h2>
+
+  <div id="clientContainer">
+
+      {% for item in page.gallery_images.all %}
+
+     <div onclick="void(0)" class="elements technology view dell" >
+	     {% image item.image max-1000x500 %}
+    </div>
+     {% endfor %}
+
+  </div>
+  <section class="home">
+    <div class="subpageWrapper1">
+      <div class="subpageContent video_whitepaper">
+          {% for item in page.section_images.all %}
+        <a href='{{item.embed_url}}' class="subpageVideo">
+
+          <h2><span>{{ item.caption }}</span></h2>
+          {% image item.image max-1000x500 as my_image  %}
+              <img src='{{ my_image.url }}' alt="white papers from the best mobile app development company" >
+          <img class="mobIMG" src='{{ my_image.url }}' alt="white papers from the best mobile app development company" >
+
+          </a>
+        {% endfor %}
+
+      </div>
+      <div  class="subpageContent blog">
+          {% for item in page.section_blog_images.all %}
+        <a href={{item.embed_url}}>
+        <div>
+          <h2><span>{{ item.caption }}</span></h2>
+             {% image item.blog_image max-1000x500 as my_image %}
+            <img src='{{ my_image.url }}' >
+          <img class="mobIMG" src='{{ my_image.url }}' >
+
+        </div>
+        </a>
+          {% endfor %}
+
+      </div>
+      <div href="http://35.187.57.106:8899/resources/" class="subpageContent casestudy">
+          {% for item in page.section_case_study_images.all %}
+        <a href={{item.embed_url}}>
+        <div>
+          <h2><span>{{ item.caption }}</span></h2>
+             {% image item.case_study_image max-1000x500 as my_image %}
+            <img src='{{ my_image.url }}' >
+            <img class="mobIMG" src='{{ my_image.url }}' >
+        </div>
+           </a>
+          {% endfor %}
+
+      </div>
+    </div>
+  </section>
+  <section class="homeSendInquiry">
+    <div class="inquiryContent">
+      <div class="homeSendInquiryHead">
+        <img class="inqimg" src="static/images/homeImg/inqicon.svg">
+        <h2 class="formHeading">START A CONVERSATION</h2>
+        <span>Share your requirements and we'll get back to you with how we can help.</span>
+      </div>
+      <form method="post" action="mail" id="homeInqury" name="homeInqury">
+        <input type='hidden' name='csrfmiddlewaretoken' value='PbXS6XLfjE9Z6955byNJMzXKwYoIIeyZ' />
+        <div class="rightSection">
+          <div class="leftsection">
+            <input name="inquiryName" title="Enter your name here." id="name_id" placeholder="Name *" onkeyup="limitText(this.form.inquiryName,240)" onkeypress="return validate_alphabet(event)" type="text" />
+            <span id="unameValMsg" class="error_msg"><label></label></span>
+          </div>
+          <div class="rightsection">
+            <input name="inquiryEmail" title="Enter a valid email adress." id="uemail_id" placeholder="Email *" onkeyup="limitText(this.form.inquiryEmail,70)" maxlength="70" type="text" />
+            <span id="uemailValMsg" class="error_msg"><label></label></span>
+          </div>
+          <div class="leftsection">
+            <input title="Enter the company name here." placeholder="Company" class="" onkeypress="return validate_character(event)" type="text" name="inquiryCompany" id="ucompany_id" onkeyup="limitText(this.form.inquiryCompany,70)" maxlength="70">
+            <span id="ucompValMsg" class="error_msg"><label></label></span>
+          </div>
+          <div class="rightsection">
+            <input title="Enter your phone number." placeholder="Phone" type="text" name="inquiryPhoneNumber" id="uphone_id" onkeyup="limitText(this.form.inquiryPhoneNumber,20)" maxlength="20" />
+            <span id="uexpValMsg" class="error_msg"><label></label></span>
+          </div>
+          <!--           <div id="recaptcha1" class="g-recaptcha reCaptha"></div>
+          <span id="captchaVal" class="error_msg reCaptha"><label></label></span> -->
+        </div>
+        <div class="leftSection">
+          <textarea title="Give some details about your project." placeholder="Brief Description of Your Project" cols="20" name="inquiryDescription" id="udescrtextarea_id" onkeyup="limitText(this.form.inquiryDescription,10000)" maxlength="10000" class="autoExpand" rows='1' data-min-rows='1'></textarea>
+          <span id="udescrValMsg" class="error_msg"><label></label></span>
+          <div class="inquiryHomeLastWrapper">
+            <div class="selectBoxWrapper">
+              <select class="sector selectbox placeholder" name="inquiryTypeOfProject" id="uprojectType_id" title="Select a category from the list" style="font-family: OpenSansSemibold;">
+                <option value="None" selected>Type of Project </option>
+                <option value="Web Development">Web Development</option>
+                <option value="Mobile Development">Mobile Development</option>
+                <option value="Big Data/Analytics">Big Data/Analytics</option>
+                <option value="Cloud/Devops">DevOps</option>
+                <option value="Cloud Solutions">Cloud Migration</option>
+                <option value="UX/Design">UX/Design</option>
+                <option value="Quality Assurance &amp; Testing">Quality Assurance &amp; Testing</option>
+                <option value="Digital Marketing">Digital Marketing</option>
+                <option value="SharePoint">SharePoint</option>
+                <option value="Salesforce">Salesforce</option>
+              </select>
+              <span id="udropdownValMsg" class="error_msg"><label></label></span>
+            </div>
+
+          </div>
+        </div>
+        <div class="sendInqBtn">
+          <input class="switching" name="switching" type="hidden" value="">
+          <input type="submit" name="sendInquiry" value="Send Inquiry" class="sendBtn" style="border: none;">
+        </div>
+      </form>
+
+    </div>
+  </section>
+</section>
+
+
+
+    </div>
+
+{% endblock %}
+
+
+
+

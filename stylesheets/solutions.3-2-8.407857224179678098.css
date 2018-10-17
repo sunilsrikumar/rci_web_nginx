@@ -1,0 +1,4859 @@
+@font-face {
+  font-family: 'AvenirNextLTPro-Regular';
+  src: url('../fonts/Avenir/AvenirNextLTPro-Regular.eot');
+  src: url('../fonts/Avenir/AvenirNextLTPro-Regulard41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Avenir/AvenirNextLTPro-Regular.woff') format('woff'), url('../fonts/Avenir/AvenirNextLTPro-Regular.ttf') format('truetype'), url('../fonts/Avenir/AvenirNextLTPro-Regular.svg#icomoon') format('svg');
+}
+@font-face {
+  font-family: 'PoppinsMedium';
+  src: url('../fonts/Poppins/Poppins-Medium.eot');
+  src: url('../fonts/Poppins/Poppins-Mediumd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Poppins/Poppins-Medium.woff') format('woff'), url('../fonts/Poppins/Poppins-Medium.ttf') format('truetype'), url('../fonts/Poppins/Poppins-Medium.svg#PoppinsMedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.designListText.listTextCommon,
+.ecmsText .listTextCommon,
+.solutionsLeft .listTextCommon {
+  margin: 0 auto;
+}
+/*digital marketing*/
+.digitalMarketingClientLogos .view p,
+.seoClientLogo span {
+  background-image: url(../images/responsive/commons/clientLogoSpriteImg.png);
+  height: 100px;
+  margin: auto;
+  max-width: 175px;
+}
+.digitalMarketingClientLogos .viewAllWrapper p {
+  background-image: none;
+  display: inline;
+  vertical-align: middle;
+}
+.digitalAnalyticsClientLogos .elementLink {
+  height: 75px;
+}
+.digitalAnalyticsClientLogos .elementLink span,
+.webSocialClientLogoList .elementLink span,
+.digitalAnalyticsClientList span {
+  background-image: none;
+}
+.digitalAnalyticsClientList span {
+  max-width: none;
+  height: auto;
+}
+.digitalAnalyticsClientLogos span:first-child {
+  background-position: -16039px 131px;
+}
+.digitalAnalyticsClientLogos span:first-child:hover {
+  background-position: -16040px 263px;
+}
+.digitalAnalyticsClientLogos span:nth-child(2) {
+  background-position: -16311px 131px;
+}
+.digitalAnalyticsClientLogos span:nth-child(2):hover {
+  background-position: -16316px 261px;
+}
+.digitalAnalyticsClientLogos span:nth-child(3) {
+  background-position: -5028px 131px;
+}
+.digitalAnalyticsClientLogos span:nth-child(3):hover {
+  background-position: -5028px 264px;
+}
+.ciClientLogoList span:first-child {
+  background-position: -35px 151px;
+}
+.ciClientLogoList span:first-child:hover {
+  background-position: -35px 284px;
+}
+.ciClientLogoList span:nth-child(2) {
+  background-position: -545px 151px;
+}
+.ciClientLogoList span:nth-child(2):hover {
+  background-position: -545px 283px;
+}
+.ciClientLogoList span:nth-child(3) {
+  background-position: -825px 151px;
+}
+.ciClientLogoList span:nth-child(3):hover {
+  background-position: -825px 283px;
+}
+.seoClientLogoList span:first-child {
+  background-position: -1085px 151px;
+}
+.seoClientLogoList span:first-child:hover {
+  background-position: -1085px 283px;
+}
+.seoClientLogoList span:nth-child(2) {
+  background-position: -1375px 150px;
+}
+.seoClientLogoList span:nth-child(2):hover {
+  background-position: -1375px 283px;
+}
+.seoClientLogoList span:nth-child(3) {
+  background-position: -545px 151px;
+}
+.seoClientLogoList span:nth-child(3):hover {
+  background-position: -545px 283px;
+}
+.webSocialClientLogoList span:first-child {
+  background-position: -300px 151px;
+}
+.webSocialClientLogoList span:first-child:hover {
+  background-position: -299px 283px;
+}
+.webSocialClientLogoList span:nth-child(2) {
+  background-position: -16310px 150px;
+}
+.webSocialClientLogoList span:nth-child(2):hover {
+  background-position: -16315px 280px;
+}
+.webSocialClientLogoList span:nth-child(3) {
+  background-position: -825px 151px;
+}
+.webSocialClientLogoList span:nth-child(3):hover {
+  background-position: -825px 283px;
+}
+.digitalMarketingClientLogos .view:first-child p {
+  background-position: -16065px 131px;
+}
+.digitalMarketingClientLogos .view:first-child:hover p {
+  background-position: -16066px 263px;
+}
+.digitalMarketingClientLogos .view:nth-child(2) p {
+  background-position: -560px 151px;
+}
+.digitalMarketingClientLogos .view:nth-child(2):hover p {
+  background-position: -560px 283px;
+}
+.digitalMarketingClientLogos .view:nth-child(3) p {
+  background-position: -315px 151px;
+}
+.digitalMarketingClientLogos .view:nth-child(3):hover p {
+  background-position: -314px 283px;
+}
+.digitalMarketingClientLogos .view:nth-child(4) p {
+  background-position: -825px 151px;
+}
+.digitalMarketingClientLogos .view:nth-child(4):hover p {
+  background-position: -825px 283px;
+}
+.owl-dots,
+.paidServiceMob,
+.contentMarketingApproach,
+.paidAddManagement .socialMedialinkSection .seoAudit figure.smmIpad,
+.ciProductDropMob {
+  display: none;
+}
+.dmContentWrapper .checkInner {
+  width: 91%;
+}
+.ciWebService {
+  max-width: 1500px;
+}
+.seoAudit figure.campaignReportingImg {
+  vertical-align: bottom;
+}
+.digitalPageLink h3 {
+  color: #2d2d2d;
+}
+.listLineBreak .listCont,
+.designDocumentListText .designListCont {
+  display: inline-block;
+}
+.hillKnowltonClientImg img {
+  max-width: 190px;
+}
+.paidService .ciReportSecondList>div:last-child {
+  position: relative;
+}
+.paidService .ciReportSecondList>div:last-child h3,
+.paidService .ciReportSecondList>div:last-child p {
+  position: absolute;
+}
+.paidService .ciReportSecondList>div:last-child h3 {
+  top: 30px;
+  left: 0;
+  right: 0;
+}
+.paidService .ciReportSecondList>div:last-child p {
+  top: 85px;
+}
+.contentBackground,
+.contentBackground .marketingPaddingLeft,
+.contentBackground .marketingWrapper .marketingPaddingRight {
+  background-color: #f8fafc;
+}
+.chooseFormLinkWrapper img {
+  transition: all 0.3s ease;
+}
+.chooseFormLinkWrapper:hover img {
+  transition: all 0.3s ease;
+  transform: scale(1.1) translateY(-5%);
+  cursor: pointer;
+}
+.ciReports .page-links.inquiryLink {
+  padding-top: 20px;
+}
+.signalHeadPara {
+  font-family: 'PoppinsMedium';
+}
+.socialMediaSection #inqBtn,
+.seoCheckList.paidServiceMob #inqBtn {
+  text-transform: inherit;
+}
+.toolsSocialMediaContent #inqBtn {
+  text-transform: inherit;
+}
+.contentMarketingTable h3 {
+  font-family: 'PoppinsMedium';
+  font-size: 18px;
+  padding: 5px 10px 0 10px;
+}
+.searchEngineFirstSection.ciFirstSection .listText.searchEngineBullets {
+  padding-bottom: 0;
+}
+.contentMarketingTable tr:first-child h3 {
+  color: #2ab6c7;
+}
+.contentMarketingTable tr:nth-child(2) h3 {
+  color: #37afa5;
+} 
+.contentMarketingTable tr:nth-child(3) h3 {
+  color: #68c96a;
+} 
+.contentMarketingTable tr:nth-child(4) h3 {
+  color: #93d051;
+}
+.contentMarketingTable tr:nth-child(5) h3 {
+  color: #c9d452;
+}
+.contentMarketingTable tr:nth-child(6) h3 {
+  color: #fad338;
+}
+.contentMarketingTable tr:nth-child(7) h3 {
+  color: #fca611;
+}
+.contentMarketingTable tr:nth-child(8) h3 {
+  color: #ef6737;
+}
+.contentMarketingTable tr:nth-child(9) h3 {
+  color: #e06254;
+}
+.seoClientLogo.webSocialClientFirst.smmClientLogoSection span:nth-child(4) img {
+  float: none;
+}
+.toolsSocialMedia p {
+  text-align: center;
+}
+.digitalWebMenu #subMenu li a {
+  cursor: pointer;
+  pointer-events: all;
+}
+.digitalWebMenu #subMenu li a:active p{
+  color: #e2292f;
+}
+.searchEngineFirstSection #inqBtn,
+.seoFactSection #inqBtn,
+.ciReports #inqBtn {
+  text-transform: inherit;
+}
+.socialMediaWrapper h3 {
+  padding-top: 40px;
+}
+.webMobileAnalyticsWrapper h2 {
+  padding-bottom: 50px;
+}
+.webMobileAnalyticsWrapper {
+  max-width: 1500px;
+}
+.sevenAspectsWrapper div {
+  position: relative;
+  padding-left: 90px;
+  border-left: dashed 2px #dfdfdf;
+  padding-bottom: 20px;
+}
+.sevenAspectsWrapper div:after {
+  content: "";
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+  top: -10px;
+  left: -40px;
+}
+.sevenAspectsWrapper div:nth-of-type(1):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspect_one.png);
+}
+.sevenAspectsWrapper div:nth-of-type(2):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_two.png);
+}
+.sevenAspectsWrapper div:nth-of-type(3):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_three.png);
+}
+.sevenAspectsWrapper div:nth-of-type(4):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_four.png);
+}
+.sevenAspectsWrapper div:nth-of-type(5):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_five.png);
+}
+.sevenAspectsWrapper div:nth-of-type(6):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_six.png);
+}
+.sevenAspectsWrapper div:nth-of-type(7):after {
+  background-image: url(../images/responsive/solution/digimarketing/sevenAspects_seven.png);
+  left: -38px;
+}
+.sevenAspectsWrapper div:last-child {
+  border: none;
+}
+.socialMediaWrapper h4 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 22px;
+}
+.socialMediaContentWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.socialMediaContentWrapper div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  margin: 25px;
+}
+.socialMediaContentWrapper div:first-child {
+  margin-left: 0;
+}
+.socialMediaContentWrapper div:nth-child(2) {
+  margin-right: 0;
+}
+.marketingWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.marketingContent {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  margin: 25px;
+  padding: 5px;
+  background: #fff;
+  padding: 40px 30px;
+  border-radius: 4px;
+}
+.marketingPaddingLeft {
+  padding-left: 0;
+  margin-left: 0;
+}
+.marketingWrapper .marketingContentCenter {
+  text-align: center;
+}
+.marketingWrapper .marketingContentCenter img {
+  padding: 40px 0;
+}
+.marketingWrapper .marketingPaddingRight {
+  padding-right: 0;
+  margin-right: 0;
+}
+.contentMarketingBullets {
+  padding-top: 30px;
+}
+.contentMarketingBullets span,
+.marketingWrapper .marketingContentCenter p,
+.marketingPaddingRight span,
+.matichingContent span,
+.marketingPaddingLeft span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.marketingPaddingRight span,
+.matichingContent span,
+.marketingPaddingLeft span {
+  color: #171717;
+}
+.contentOptimisationWrapper {
+  padding: 60px 0;
+}
+.ciCaseStudy.contentCountBg {
+  background-image: url("../images/responsive/solution/digimarketing/contentMarketingBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contentMarketingTable {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  margin-top: 30px;
+}
+.contentMarketingTable td:first-child {
+  width: 20%;
+  text-align: center;
+}
+.contentMarketingTable td:nth-child(2) {
+  width: 80%;
+}
+.contentMarketingTable td {
+  padding:0.8em;
+  border: 1px solid #e2e2e2;
+  padding: 30px 0;
+  vertical-align: middle;
+}
+.contentMarketingTable td p {
+  padding: 0 40px 0 40px;
+}
+.matichingContent figure {
+  text-align: center;
+  padding: 30px 0;
+}
+.contentMarketingFirstSection .listText:nth-child(2) {
+  padding-left: 5%;
+  box-sizing: border-box;
+}
+.webClientTesimonial {
+  position: relative;
+}
+.ciClientSection .seoClientLogo.webClientTesimonial span:first-child img {
+  position: absolute;
+  top: 18%;
+}
+.seoClientLogo.webSocialClientLast,
+.seoClientLogo.webSocialClientLast span {
+  width: 50%;
+}
+.seoClientLogo.webSocialClientLast span:nth-child(2) img,
+.seoClientLogo.webSocialClientSecond span:nth-child(3) img,
+.seoClientLogo.webSocialClientFirst span:nth-child(4) img {
+  float: right;
+}
+.socialAnalyticsContentWrapper,
+.digitalAnalyticsClient h2,
+.ciClientSection.smmClientSection.socialMediaClientSection h2 {
+  padding-top: 60px;
+}
+.socialAnalyticsWrapper .thumbnailText {
+  padding: 10% 3%;
+  box-sizing: border-box;
+}
+.socialAnalyticsWrapper .listText li,
+.socialAnalyticsWrapper .listText li span {
+  color: #fff;
+}
+.socialAnalyticsWrapper p,
+.socialAnalyticsWrapper .listText {
+  display: none;
+}
+.socialAnalyticsWrapper>div:hover p.xtraContent,
+.socialAnalyticsWrapper p.xtraContent {
+  position: absolute;
+  top: inherit;
+  bottom: 30px;
+}
+.socialAnalyticsWrapper>div:hover .listText {
+  display: table;
+}
+.socialAnalyticsWrapper>div:hover p {
+  display: block;
+}
+.socialAnalyticsWrapper>div:hover p,
+.socialAnalyticsWrapper>div:hover .listText {
+  position: relative;
+  top: 65px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #fff;
+}
+.socialAnalyticsWrapper>div:hover h3 {
+  top: 20px;
+}
+.socialAnalyticsWrapper p {
+  color: #fff;
+  padding-left: 10%;
+}
+.socialAnalyticsWrapper p span {
+  font-size: 22px;
+  vertical-align: middle;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.socialAnalyticsWrapper h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 23px;
+  color: #fff;
+  padding-left: 6%;
+  position: absolute;
+  bottom: 20px;
+  transition: top ease 0.5s;
+  box-sizing: border-box;
+  width: 94%;
+}
+.socialAnalyticsWrapper .listText {
+  padding-left: 15%;
+  box-sizing: border-box;
+  list-style: disc;
+  padding-top: 20px;
+}
+.socialAnalyticsWrapper>div:first-child{
+  background: url("../images/responsive/solution/digimarketing/web_mobile_analytics.jpg") top no-repeat;
+  // margin-left: 10%;
+}
+.socialAnalyticsWrapper>div:nth-child(2) {
+  background: url("../images/responsive/solution/digimarketing/social_media_analytics.jpg") top no-repeat;
+  float: right;
+  // margin-right: 10%;
+}
+.socialAnalyticsWrapper>div {
+  // width: 35%;
+  width: 45%;
+  display: inline-block;
+  background-size: cover !important;
+  border-radius: 4px;
+  height: 400px;
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+  -webkit-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  -moz-box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  box-shadow: 0 30px 40px -16px rgba(0, 0, 0, .35);
+  cursor: pointer;
+}
+.socialAnalyticsWrapper>div:hover {
+  top: -20px;
+}
+.seoClientLogo.webSocialClientSecond span:first-child {
+  width: 40%;
+}
+.seoClientLogo.webSocialClientSecond span:nth-child(3) {
+  width: 23%;
+}
+.seoClientLogo.webSocialClientFirst span:first-child,
+.seoClientLogo.webSocialClientFirst span:nth-child(2) {
+  width: 28%;
+}
+.seoClientLogo.webSocialClientFirst span:nth-child(3) {
+  width: 27%;
+}
+.seoClientLogo.webSocialClientFirst span:nth-child(4) {
+  width: 15%;
+}
+.subMenus ul.owl-carousel li {
+  border: none;
+  width: 100%;
+}
+.owl-item.activeTab span {
+  color:#e2292f;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.owl-item span {
+  color:#575757;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+#mobMenuHolder .owl-item.active {
+  line-height: 20px;
+}
+#mobMenuHolder .owl-item li {
+  border: 1px solid #d1d1d1;
+  border-right: none;
+  border-radius: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.digitalMarketingTab .wrapper2 ul .owl-item.active span {
+  color: #575757;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.smmClientSection .seoClientLogo span img {
+  width: 170px;
+}
+.searchEngineFirstSection .listText.searchEngineBullets li {
+  color: #e2292f;
+}
+.searchEngineFirstSection .listText.searchEngineBullets li,
+.searchEngineFirstSection .ciPara,
+.bulletdListCommon .listText li,
+.freeSeoAudit p.paraWithBold {
+  padding-bottom: 5px;
+}
+.searchEngineFirstSection.paidAdvertisingFirstSection p,
+.webClientTestimonialWrapper .smmclientTestominialWrapper,
+.seoClientLogoPadding {
+  padding-bottom: 0;
+}
+.ciReportFirstList h3.ciReportFirstListContent:nth-child(2) {
+  padding-left: 0;
+}
+.keywordResearchMob.seoAudit,
+.mobilitySolutionsMobile.seoCheckListMob,
+.ciCaseStudyQuote.ciCaseStudyQuoteMob,
+.socialMedialinkSection .smmMob,
+.smmMob {
+  display: none;
+}
+.digitalMarketingTab #liquid2 {
+  overflow: auto;
+  margin: auto;
+  width: 1055px;
+}
+.digitalMarketingTab .prevBtn, .digitalMarketingTab .nextBtn {
+  float: left;
+  height: 45px;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  cursor: pointer;
+  visibility: visible;
+  background-color: rgb(255, 255, 255);
+  width: 21px;
+  text-align: center;
+  left: 1px;
+}
+.digitalMarketingTab .prevBtn {
+  border-right: 1px solid rgb(209, 209, 209);
+}
+.digitalMarketingTab .digitalmarketingTabWrapper.wrapper2 {
+  height: auto;
+}
+.digitalMarketingTab .wrapper2 {
+  height: 56px;
+  float: left;
+  overflow: hidden;
+}
+.digitalMarketingTab .wrapper2 ul .active span,
+.digitalMarketingTab .wrapper2 ul .owl-item.active li a.active span {
+  color: #e2292f;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.digitalMarketingTab .wrapper2 ul .active span:focus, .digitalMarketingTab .wrapper2 ul .active span:active {
+  color: #e2292f;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+} 
+.digitalMarketingTab #mobMenuHolder2 {
+  width: 2415px;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  margin-left: 0;
+  transition: all 1s ease;
+}
+.digitalMarketingTab #mobMenuHolder2 li {
+  width: 300px;
+  margin-bottom: 20px;
+}
+.searchEngineFirstSection h3,
+.marketingServiceWrapper .listText {
+  padding-top: 15px;
+}
+.seoClientTestimonial h3,
+.sevenAspectsWrapper div h3 {
+  padding-bottom: 15px;
+}
+.searchEngineFirstSection p,
+.searchEngineSubhead,
+.freeSeoAudit p,
+.imgDescriptioncommon p,
+.seoCheckList p,
+.seoFactSection p,
+.ciCaseStudy p,
+.searchEngineFirstSection .listText.searchEngineBullets,
+.smmServiceswrapper .listText li,
+.toolsSocialMediaContent p,
+.socialMediaContentWrapper h4,
+.socialMediaContentWrapper img,
+.socialMediaContentWrapper p,
+.socialMediaWrapper h3 {
+  padding-bottom: 20px;
+}
+.bulletdListCommon .listText li:last-child {
+  padding-bottom: 20px;
+}
+.competitiveIntelligenceSolution p {
+  padding-bottom: 30px;
+}
+.competitiveIntelligenceSolution h3,
+.ciCaseStudy h3,
+.seoAudit h3,
+.listText.seoCheckListing li,
+.webMobileAnalyticsWrapper.bulletdListCommon .listText li,
+.bulletdListCommon .marketingServiceWrapper li {
+  padding-bottom: 10px;
+}
+.searchEngineSericeBullets {
+  width: 80%;
+  margin: 0 auto;
+}
+.searchEngineSericeBullets .searchEngineBullets {
+  display: block;
+  float: left;
+  width: 50%;
+  list-style: disc;
+}
+.searchDescriptionPara {
+  display: inline-block;
+}
+.searchDescriptionPara,
+.webClientTestimonialWrapper .elementLink,
+.webMobileAnalyticsWrapper .listText.searchEngineBullets {
+  padding-top: 10px;
+}
+.searchEngineFirstSection,
+.smmchooseFormWrapper .chooseFormLinkWrapper:first-child {
+  padding-bottom: 50px;
+}
+.grayBackgroundCommon {
+  background-color: #f9fafc;
+}
+.freeAuditContentWrapper h2,
+.inquiryLink,
+.seoClientSection h2,
+.clientTestominialWrapper q,
+.seoClientSection h3,
+.clientTestominialWrapper,
+.seoCheckList h2,
+.seoFactSection h2,
+.competitiveIntelligenceSolution h2,
+.customizedIntellSection h2,
+.ciClientSection h2,
+.ciCaseStudy h2,
+.ciCaseStudyQuote,
+.ciReports h2,
+.textAlignCenter,
+.paidAddManagement h2,
+.socialMediaWrapper h3 {
+  text-align: center;
+}
+.seoAudit,
+.searchEngineSericeBullets.contentMarketingBullets {
+  display: table;
+}
+.seoAudit {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.seoAudit figure {
+  width: 30%;
+}
+.seoAudit .imgDescriptioncommon {
+  width: 70%;
+}
+.leftSpacing,
+.smmIpadSpace {
+  padding-left: 5%;
+}
+.seoAudit figure,
+.seoAudit .imgDescriptioncommon {
+  display: table-cell;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+.seoClientLogo {
+  width: 88%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.seoClientLogo span:last-child {
+  margin-right: 0 !important; 
+}
+.seoClientLogo.webSocialClientLast span:first-child {
+  padding-right: 5%;
+}
+.seoClientLogo.webSocialClientLast span:last-child {
+  padding-left: 5%;
+}
+.seoClientLogo span {
+  display: inline-block;
+  width: 29%;
+}
+.seoClientLogo span.viewLeftArrow,
+.dmFAQSection .mobileCollapseContent {
+  display: inline;
+}
+.seoClientLogo .elementLink {
+  display: table-cell;
+  vertical-align: middle;
+  width: auto;
+  text-align: center;
+}
+.colorClientLogo,
+.ciCaseStudyOuterWrapper .mobilitySolutionsMobile {
+  display: none;
+}
+.seoClientLogo span:hover .greyClientLogo,
+.digitalMobileLink {
+  display: none;
+}
+.seoClientLogo span:hover .colorClientLogo {
+  display: inline-block;
+}
+.clientTestominialWrapper q {
+  color: #727272;
+  line-height: 26px;
+}
+.quoteClientSection img {
+  display: inline-block;
+  vertical-align: top;
+}
+.adrianImg {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+.quoteClientSection img:nth-child(2) {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.clientName {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #333;
+}
+.clientName,
+.clientPosition {
+  display: block;
+}
+.clientPosition {
+  color: #727272;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.seoCheckListTable {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%; */
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+  padding-top: 30px;
+}
+.seoCheckListTable div:first-child {
+  border-left: 1px solid #e8e8e8;
+  border-bottom-left-radius: 6px;
+  border-top-left-radius: 6px;
+}
+.seoCheckListTable div:last-child {
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+}
+.seoCheckListTable div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  border: 1px solid #e8e8e8;
+  border-left: none;
+}
+.seoCheckListTable div p {
+  background-color: #f5f5f5;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.seoCheckListing {
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  padding-top: 10%;
+}
+.seoFactSection .seoFactBoldText {
+  font-size: 18px;
+}
+h3.ciReportFirstListContent,
+.seoFactSection .seoFactBoldText,
+.ciReportFirstList>div .listText li,
+.ciReportSecondList>div .listText li  {
+  padding-bottom: 5px;
+}
+.seoFactSection #inqBtn,
+.searchEngineFirstSection #inqBtn,
+.paidService #inqBtn,
+.paidServiceMob #inqBtn,
+.toolsSocialMediaContent #inqBtn {
+  padding: 0;
+  background: transparent;
+  color: #e2292f;
+  font-weight: normal;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.customizedIntellSection .customIntellDesc {
+  padding-left: 0;
+  padding-right: 0;
+  width: 88%;
+  margin: 0 auto;
+}
+.customizedIntellSection .customIntellDesc figure {
+  width: 15%;
+}
+.customizedIntellSection .ciImgRightSection figure {
+  width: 25%;
+}
+.customizedIntellSection .customIntellDesc .imgDescriptioncommon {
+  width: 85%;
+}
+.customizedIntellSection .ciImgRightSection .imgDescriptioncommon {
+  width: 75%;
+}
+.customIntellDesc,
+.smmClientLogoSection {
+  padding-top: 60px;
+}
+.ciClientSection .seoClientLogo span{
+  width: 25%;
+}
+.ciClientSection .seoClientLogo.ciClientLogoList span {
+  width: 30%;
+}
+.ciCaseStudy {
+  background-image: url("../images/responsive/solution/digimarketing/ciBgRepeat.png");
+}
+.ciCaseStudyWrapper {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1500px;
+}
+.innerciWrapper {
+  background-color: #fff;
+  padding: 60px 150px;
+  box-sizing: border-box;
+}
+.ciCaseStudy .searchEngineSubhead {
+  padding-bottom: 40px;
+}
+.ciCaseStudyQuoteSection .clientName {
+  padding-bottom: 0;
+}
+.ciCaseStudyQuoteSection,
+.ciReportFirstList {
+  width: 100%;
+  display: table;
+}
+.ciCaseStudyList.bulletdListCommon .listCont {
+  display: inline;
+}
+.ciCaseStudyList {
+  width: 60%;
+  padding-right: 2%;
+}
+.ciCaseStudyQuote {
+  width: 40%;
+  padding-left: 5%;
+  border-left: 1px solid #dedede;
+}
+.quoteLeft,
+.quoteRight {
+  width: 15%;
+}
+.ciCaseStudyList,
+.ciCaseStudyQuote {
+  display: table-cell;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+.ciCaseStudyOuterWrapper,
+.digitalAnalyticsLogoWrapper {
+  padding-bottom: 60px;
+}
+.paidService .ciReportFirstList>div:nth-child(2), 
+.paidService .ciReportFirstList>div:last-child,
+.paidService .ciReportFirstList>div,
+.paidService .ciReportSecondList>div:first-child,
+.paidService .ciReportSecondList>div:last-child {
+  padding: 0 30px;
+  text-align: center;
+}
+.ciReportFirstList>div {
+  width: 33%;
+  display: table-cell;
+}
+.ciReportFirstList>div h3,
+.ciReportSecondList>div h3 {
+  padding-top: 3%;
+}
+.ciReportSecondList {
+  display: table;
+  width: 75%;
+  margin: 0 auto;
+}
+.ciReportSecondList>div {
+  width: 50%;
+  display: table-cell;
+}
+.ciReportFirstList>div:nth-child(2),
+.ciReportFirstList>div:last-child,
+.ciReportSecondList>div:first-child {
+  padding-left: 0;
+}
+.ciReportSecondList>div:last-child {
+  padding-left: 10%;
+}
+.ciFAQ .mobile-collapse-content {
+  padding: 20px;
+  display: table;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.ciFAQ .xtraP {
+  display: none;
+  padding: 0 2% 20px 2%;
+}
+.ciFAQ .faqLine.listText, .ciFAQ .faqCnt {
+  border-top: 1px solid #ebebeb;
+  padding-top: 20px;
+}
+.ciFAQ .faqCnt {
+  padding: 20px;
+}
+.smmFAQ.ciFAQ .faqCnt {
+  padding: 20px 2% 20px 2%;
+}
+.ciFAQ .faqLine.listText {
+  padding: 20px 2% 20px 4%;
+}
+.ciFAQ .dualContent .desktop-view-content {
+  border: 1px solid #EBEBEB;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 0;
+}
+.ciFAQ span.iconArrow {
+  text-align: right;
+  display: table-cell;
+  padding-right: 8px;
+  vertical-align: middle;
+  float: none;
+  margin-right: 10px;
+  margin-top: 9px;
+  font-size: 20px;
+}
+.ciFAQ .mobile-collapse-contenting {
+  margin-right: 10px;
+  color: #727272;
+}
+.ciFAQ .listText {
+  display: none;
+  padding: 0 2% 20px 4%;
+  box-sizing: border-box;
+  width: 100%;
+}
+.chooseFormLink img,
+.chooseFormLink h3 {
+  display: inline;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+.chooseFormLink h3 {
+  font-size: 18px;
+  padding-left: 5%;
+  float: right;
+  width: 80%;
+}
+.chooseFormLink h3 span {
+  cursor: pointer;
+}
+.chooseFormLink img {
+  width: 20%;
+}
+.chooseFormLinkWrapper:hover .chooseFormLink h3 span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.chooseFormLinkWrapper {
+  display: inline-block;
+  width: 48%;
+  vertical-align: top;
+}
+.smmchooseFormWrapper .chooseFormLinkWrapper:last-child {
+  float: right;
+}
+.socialMediaChooseForm .smmchooseFormWrapper.smmchooseFormWrapperFirst {
+  padding-top: 40px;
+}
+.socialMediaChooseForm .smmchooseFormWrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.socialMediaSection {
+  background-image: url("../images/responsive/solution/digimarketing/socialMediaBg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.socialMediaSection p,
+.socialMediaSection .linkUnderline {
+  color: #fff;
+}
+.socialMediaIcons {
+  width: 84%;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+.socialMediaIcons span {
+  width: 14%;
+  display: inline-block;
+}
+.socialMediaIcons span:last-child {
+  width: auto;
+}
+.socialMedialinkSection .seoAudit .imgDescriptioncommon {
+  width: 80%;
+}
+.paidAddManagement .socialMedialinkSection .seoAudit figure {
+  width: 18%;
+}
+.paidAddManagement .socialMedialinkSection .seoAudit .imgDescriptioncommon {
+  width: 65%;
+}
+.socialMedialinkSection .seoAudit figure {
+  width: 20%;
+  position: relative;
+}
+.paidAddManagement .socialMedialinkSection figure img {
+  bottom: -100px;
+}
+.paidAddManagement>div:last-child .socialMedialinkSection figure img {
+  bottom: 0;
+}
+.socialMedialinkSection figure img {
+  position: absolute;
+  bottom: 0;
+} 
+.grayBackgroundCommon .socialMedialinkSection figure img {
+  bottom: -90px;
+}
+.socialMedialinkSectionFourthWrapper .grayBackgroundCommon .socialMedialinkSection figure img {
+  bottom: 0;
+}
+.campaignReportingLast.grayBackgroundCommon .socialMedialinkSection figure img {
+  position: initial;
+  bottom: auto;
+}
+.campaignReportingLast.grayBackgroundCommon .socialMedialinkSection .campaignReportingImg img {
+  max-width: 75%;
+}
+.smmclientTestominialWrapper,
+.smmInquiryLink,
+.webSocialClientFirst,
+.webSocialClientSecond {
+  padding-bottom: 60px;
+}
+.socialMediaContentSection #inqBtn,
+.customizedSMM #inqBtn,
+.smmInquiryLink #inqBtn,
+.customizedPaidWrapper #inqBtn,
+.ciWebService #inqBtn {
+  background-color: transparent;
+  padding: 0;
+  font-weight: normal;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.customizedSMM #inqBtn {
+  text-transform: inherit;
+}
+.customizedSMM #inqBtn,
+.smmInquiryLink #inqBtn,
+.customizedPaidWrapper #inqBtn,
+.ciWebService #inqBtn {
+  color: #e2292f;
+  text-transform: inherit;
+}
+.smmServiceswrapper,
+.marketingServiceWrapper {
+  border: 1px solid #e5e5e5;
+}
+.smmServiceswrapper {
+  margin-top: 40px;
+}
+.smmServiceswrapper {
+  padding: 5%;
+}
+.marketingServiceWrapper {
+  padding: 5% 10%;
+}
+.smmServiceswrapper .listText {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding-top: 20px;
+}
+.smmServiceswrapper .listText:last-child {
+  padding-left: 5%;
+}
+.socialMediaIconsWeb,
+.smmWeb {
+  display: block;
+}
+.socialMedialinkSection .smmWeb {
+  display: table-cell;
+}
+.socialMediaIconsMob {
+  display: none;
+}
+.paidParaSubHead {
+  padding-bottom: 10px;
+  color: #353535;
+}
+/***Ecommerce page***/
+
+#fullwidthWrapper .solutionSection section .solutionTab p {
+  background-color: #f2f2f2;
+  border-left: 1px solid #CDCDCD;
+  border-top: 1px solid #CDCDCD;
+  height: 41px;
+  position: relative;
+}
+.textMobile {
+  display: none;
+}
+.ecommerceLeftData {
+  width: 49%;
+  float: left;
+}
+.ecommerceLeftData .block {
+  margin-bottom: 50px;
+}
+.ecommerceLeftData .block img {
+  width: auto;
+}
+.featuredBlock.wpfeaturedBlock {
+  width: 75%;
+}
+.featuredBlock.wpfeaturedBlock.mobbody {
+  width: 88%;
+}
+.featuredBlock.wpfeaturedBlock {
+  float: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+}
+.robustInnerData {
+  display: table;
+  margin-top: 12px;
+}
+.robustInnerData .ecommerceBlockImage {
+  display: table-cell;
+  float: none;
+  vertical-align: middle;
+  width: 130px;
+}
+.ecommerceLeftData .robustInnerData .subContent {
+  float: none;
+  vertical-align: middle;
+  width: auto;
+  display: table-cell;
+  padding-left: 0px;
+}
+.ecommerceLeftData .robustInnerData .subContent p {
+  margin-top: 0;
+}
+.ecommerceSubDesc {
+  margin-top: 10px;
+}
+.ecommerceLeftData .subContent,
+.ecommerceBottomContent .subContent {
+  float: left;
+  padding-left: 15px;
+  width: 68%;
+}
+.ecommerceLeftData .subContent .elementLink {
+  margin-top: 0;
+}
+.ecommerceLeftData .subContent .elementLink a {
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+.ecommerceLeftData .listText {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.ecommerceLeftData .listText li:last-child {
+  padding-bottom: 0;
+}
+.ecommerceContent .rightTopData .elementLink {
+  display: inline-block;
+}
+.ecommerceLeftData .robustBlock .ecommerceBlockImage {
+  display: table-cell;
+  vertical-align: middle;
+  width: 130px;
+}
+.ecommerceContent .rightData {
+  float: left;
+  margin-left: 10px;
+  padding: 17px 0;
+  width: 48%;
+  text-align: center;
+}
+.ecommerceContent .rightData h2,
+.ecommerceContent .rightInnerData,
+.ecommerceContent .innerRightTopData {
+  margin: 0 auto;
+  width: 91%;
+}
+.ecommerceContent .innerRightTopData h2 {
+  font-style: italic;
+  font-size: 24px;
+}
+.ecommerceContent .rightTopData {
+  float: left;
+  margin-left: 10px;
+  padding: 17px 0 24px;
+  width: 48%;
+  border: 2px solid #C3EEC3;
+  margin-bottom: 50px;
+  background: url("../images/responsive/service/web/ecommerce/pattern-tile.png") repeat;
+}
+.ecommerceContent .rightTopData .elementLink a {
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'OpenSansRegular';
+}
+.logoText {
+  margin-top: 15px;
+  margin-bottom: 13px;
+  color: #FFF;
+  display: table;
+}
+.logoText p {
+  display: table-cell;
+  vertical-align: middle;
+}
+.ecommerceContent .innerRightTopData span {
+  font-size: 14px;
+}
+.ecommerceContent .rightTopData .learnText {
+  background: url("../images/responsive/service/web/ecommerce/learn1.png") repeat;
+  margin-top: 0;
+  padding-left: 15px;
+}
+.ecommerceContent .rightTopData .understandText {
+  background: url("../images/responsive/service/web/ecommerce/learn3.png") repeat;
+  margin-top: 0;
+  padding-left: 10px;
+}
+.ecommerceContent .rightTopData .actText {
+  background: url("../images/responsive/service/web/ecommerce/learn5.png") repeat;
+  margin-top: 0;
+  padding-left: 10px;
+}
+.ecommerceContent .rightData h2,
+.ecommerceContent .rightData p {
+  text-align: left;
+}
+.ecommerceContent .ecommerceLeftData .block h2 .toChild {
+  display: none;
+}
+.ecommerceContent form {
+  display: inline-block;
+  line-height: 30px;
+}
+.ecommerceContent .downloadPDF {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  font-family: 'OpenSansRegular';
+  font-size: 14px;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: normal;
+  color: #E2292F;
+  cursor: pointer;
+}
+.cloudService.cldsocialService .featuredsubContent,
+.socialContentWrapper .leftTextData,
+.socialContentWrapper .rightTextData,
+.magentoContent.dataVisContent .leftTextData,
+.magentoContent.dataVisContent .rightTextData {
+  padding-bottom: 40px;
+}
+.cloudService.cldsocialService {
+  padding-top: 60px;
+}
+.solutionsRight,
+.solutionsLeft,
+#fullwidthWrapper .leftdata,
+#fullwidthWrapper .rghtdata {
+  margin-top: 30px;
+}
+.solutionSection ul li {
+  padding-top: 10px;
+  color: #727272;
+}
+.ecmssection.solutionSection ul li,
+.solutionSection .solutionsLeft ul li {
+  color: #e2292f;
+}
+.solutionsRight .box {
+  background-color: #f5f5f5;
+  border: 1px solid #ebebeb;
+  padding: 30px;
+}
+.solutionsRight .box h3 {
+  font-style: italic;
+  font-size: 22px;
+  padding-bottom: 10px;
+}
+.solutionSection,
+.cloudService.cldsocialService .cloudtxt {
+  margin-bottom: 30px;
+}
+.solutionSection p {
+  font-size: 14px;
+  line-height: 24px;
+}
+.solutionSection a,
+.checkInnerLeft a {
+  text-decoration: underline;
+  color: #E2292F;
+}
+.highlight {
+  font-family: "OpenSansItalic";
+  font-weight: bold;
+}
+.solutionSection figure .subtitle {
+  color: #e2292f;
+}
+.solutionTab {
+  border-bottom: 1px solid #cdcdcd;
+  width: 100%;
+}
+.solutionTab .active p {
+  background-color: #FFF;
+  height: 41px;
+}
+#fullwidthWrapper {
+  margin: 0 auto 60px;
+  float: left;
+  width: 100%;
+}
+#fullwidthWrapper .solutionSection {
+  width: 91%;
+  margin: 0 auto;
+  position: relative;
+  max-width: 1500px;
+  margin-top: 60px;
+}
+#fullwidthWrapper .solutionSection.solutionSectionECM {
+  margin-top: 0;
+}
+#fullwidthWrapper .solutionSection h3 {
+  line-height: 26px;
+}
+#fullwidthWrapper .solutionSection .blocks {
+  padding-top: 90px;
+}
+#fullwidthWrapper .solutionSection .active {
+  display: block;
+}
+#fullwidthWrapper .expandText {
+  margin-top: 0;
+}
+#fullwidthWrapper .blocksection {
+  margin: 0 auto;
+  width: 70%;
+}
+.solutionSection .elementLink a {
+  text-decoration: none;
+  font-family: "OpenSansBold";
+}
+.ecmssection {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+.ecmsimg {
+  display: table-cell;
+  vertical-align: middle;
+  width: 182px;
+}
+.ecmsText {
+  display: table-cell;
+  width: auto;
+  padding-left: 2%;
+  vertical-align: middle;
+}
+.centeralign {
+  text-align: center;
+}
+.tabContent .solutionTab {
+  display: inline-block;
+  height: 60px;
+  left: 0;
+  padding-top: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  vertical-align: middle;
+  display: table;
+}
+.testToolsWrapper .tabContent .solutionTab {
+  background-color: #f2f2f2;
+  border-left: 1px solid #cdcdcd;
+  border-top: 1px solid #cdcdcd;
+  cursor: pointer;
+}
+.iotSolnContainer .tabContent .solutionTab {
+  top: 126px;
+  z-index: 99;
+}
+.tabContent .solutionTab p {
+  cursor: pointer;
+  font-size: 20px;
+  padding-top: 18px;
+}
+.tabContent .gameTab {
+  width: 50%;
+}
+.tabContent .digitalTab {
+  width: 36%;
+}
+.tabContent.active .solutionTab {
+  background-color: #FFFFFF;
+}
+.iotSolnContainer .tabContent.active .solutionTab {
+  background-color: transparent;
+}
+.tabContent .blocks,
+.tabContent .gamsection {
+  display: none;
+}
+.tabContent.active .blocks,
+.tabContent.active .gamsection {
+  display: block;
+}
+.tabContent .ecmbusiness,
+.tabContent .gamify {
+  left: 50%;
+}
+.tabContent .designService {
+  left: 35%;
+  width: 30%;
+}
+.tabContent .onlineMarketing {
+  left: 65%;
+}
+#fullwidthWrapper.testToolsWrapper .tabContent .solutionTab span {
+  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #727272;
+  display: table-cell;
+  vertical-align: middle;
+}
+#fullwidthWrapper .solutionSection section:first-child .solutionTab p {
+  border-right: none;
+}
+#fullwidthWrapper .solutionSection section:last-child .solutionTab {
+  border-right: 1px solid #CDCDCD;
+}
+#fullwidthWrapper .solutionSection section.active .solutionTab {
+  background-color: #fff;
+  border-bottom: 0 solid;
+}
+.tabContent .gamsection {
+  margin-top: 30px;
+}
+.solutionSection figure {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  width: 19%;
+}
+#fullwidthWrapper .toChild {
+  display: none;
+}
+#fullwidthWrapper.testToolsWrapper .tabContent .solutionTab span.toChild {
+  display: none;
+}
+
+/* moodle */
+
+.listText.moodleLists {
+  margin: 20px auto 0;
+}
+.openBtmSectionTezzle.bigDataWrapper {
+  float: none;
+  width: 75%;
+}
+.moodle {
+  width: 45%;
+  margin-top: 20px
+}
+.moodleImage {
+  float: right;
+  margin: 30px 0 30px 30px;
+  width: 50%;
+}
+.moodleThemes {
+  margin-bottom: 20px;
+}
+.moodleThemes h2 {
+  margin-bottom: 10px;
+}
+.moodleThemes p {
+  line-height: 24px;
+}
+.solutionSection .icon-Plus,
+.solutionSection .icon-Equal {
+  font-size: 40px;
+}
+.solutionSection hr {
+  border: none;
+  border-top: 1px solid #cdcdcd;
+}
+.digitalHead {
+  line-height: 32px;
+}
+.magentoContent .analyticsleftcontent {
+  display: table-cell;
+  float: none;
+  vertical-align: middle;
+  width: 50%;
+}
+.magentoContent .analyticsrightcontent {
+  border-left: 3px solid #E51E25;
+  display: table-cell;
+  float: none;
+  padding-bottom: 0;
+  padding-left: 3%;
+  vertical-align: middle;
+  width: 50%;
+}
+.magentoContent .analyticslist li {
+  margin-left: 0;
+}
+.magentoContent .socialBox {
+  background-color: #F5F5F5;
+  border: 1px solid #DBDBDB;
+  padding: 30px 13px;
+  width: 90%;
+}
+.magentoContent .rightdata {
+  display: table-cell;
+  padding-left: 27px;
+  text-align: center;
+  vertical-align: middle;
+}
+.magentoContent .rightdata span {
+  display: block;
+  font-family: "OpenSansSemiboldItalic";
+  font-size: 23px;
+}
+.magentoContent .rightdata .icon_Homeplus {
+  font-size: 21px;
+  color: #E2292F;
+  padding: 10px 0;
+}
+.magentoContent .leftTextData h2 {
+  margin-top: 0;
+}
+.magentoContent .leftTextData p {
+  margin-top: 10px;
+}
+.magentoContent .analyticslist li:first-child {
+  margin-top: 10px;
+}
+.magentoContent .leftTextData,
+.magentoContent .rightTextData {
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+}
+.magentosecontent p {
+  margin-top: 10px;
+}
+.magentosecontent {
+  color: #262626;
+  margin: 40px auto;
+  width: 75%;
+  display: flex;
+}
+.magentoContent .iconCheck {
+  margin-top: 4px;
+}
+#caseouterContent .outerSecond h2,
+.bigDataContent h2,
+#mobileNewsCaseouter .outerSecond h2,
+.mobBlck h2,
+.featuredBlock h2 {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-bottom: 1px solid #EBEBEB !important;
+  border-image: none;
+  border-left: 0 none;
+  border-right: 0 none;
+  border-top: 1px solid #EBEBEB;
+  padding: 7px 0;
+  text-align: center;
+}
+.solutionsLeft p:nth-child(2) {
+  margin-top: 30px;
+}
+#bigDataFramewrk h2 {
+  line-height: 61px;
+  margin: 0 auto;
+  text-align: left;
+  width: 82%;
+}
+#bigDataFramewrk {
+  float: none;
+  padding: 20px 0;
+  width: 100%;
+}
+.bigframebottom {
+  width: 82%;
+  margin: 0 auto 30px;
+}
+.bigframebottom h2 {
+  color: #000000;
+  font-family: 'OpenSansbold';
+  font-size: 24px;
+  border: none !important;
+  text-align: left !important;
+  line-height: normal;
+  padding: 0;
+}
+.bigFramewrkimg {
+  margin-top: 20px;
+  text-align: center;
+}
+.bigFramewrkimg figcaption {
+  font-size: 13px;
+  font-family: "OpenSansItalic";
+  text-align: center;
+  margin-top: 15px;
+}
+.bigdtaframewrk {
+  padding: 27px 0 50px !important;
+  background-color: #F4F4F4 !important;
+}
+.bigdtaframewrk .bigDataContent {
+  width: 82%;
+  margin: 40px auto 0;
+  float: none;
+}
+#fullwidthWrapper .solutionSection.aemSection {
+  width: 100%;
+  margin-top: 20px;
+}
+#fullwidthWrapper.solutionWrapper.testToolsWrapper.aemConsultTabWrapper .solutionSection.aemSection {
+  width: 75%;
+}
+.subMenus .menuSelected li .cq5 {
+  height: 43px !important;
+}
+.contentManagement.solutionTab {
+  width: 29%;
+}
+.aemConsultTabWrapper .contentManagement.solutionTab {
+  width: 27%;
+}
+.webDevelopment.solutionTab {
+  left: 27% !important;
+  width: 20%;
+}
+.administration.solutionTab {
+  left: 47% !important;
+  width: 19%;
+}
+.digitalAsset.solutionTab {
+  left: 66% !important;
+  width: 34%;
+}
+.webapp.solutionTab {
+  width: 26%;
+}
+.webapp.solutionTab p {
+  width: 84% !important;
+  left: 16% !important;
+}
+.mobile.solutionTab {
+  left: 26%;
+  width: 23%;
+}
+.test.solutionTab {
+  left: 49%;
+  width: 22%;
+}
+.mobileDevice.solutionTab {
+  left: 71%;
+  width: 29%;
+}
+#fullwidthWrapper .solutionSection section:first-child .contentManagement p {
+  left: 15%;
+  width: 78%;
+}
+#fullwidthWrapper .solutionSection section:last-child .digitalAsset p {
+  width: 84%;
+}
+#fullwidthWrapper .solutionSection section:last-child .digitalAsset.aemSolutionTab p {
+  width: auto;
+}
+.icon-Drupal {
+  background: url("../images/responsive/service/web/cms/Drupal.png") no-repeat scroll 0 4px rgba(0, 0, 0, 0);
+  width: 31px;
+}
+.icon-Joomla {
+  background: url("../images/responsive/service/web/cms/Joomla.png") no-repeat scroll 0 8px rgba(0, 0, 0, 0);
+  width: 31px;
+}
+.icon-WordPress {
+  background: url("../images/responsive/service/web/cms/Wordpress.png") no-repeat scroll 0 8px rgba(0, 0, 0, 0);
+  width: 31px;
+}
+.icon-CQ5 {
+  background: url("../images/responsive/service/web/cms/CQ5.png") no-repeat scroll 0 6.5px rgba(0, 0, 0, 0);
+  width: 42px;
+}
+
+/* Design page css inside approch */
+
+.designImg {
+  text-align: center;
+  padding: 0 0 10px;
+  max-width: 900px;
+  margin: auto;
+}
+.designBox {
+  margin: 50px 0;
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  justify-content: space-between;
+  -ms-justify-content: space-between;
+}
+.designBoxes {
+  width: 32%;
+  background-color: #F5F5F5;
+}
+.designBoxImgWrapper {
+  width: 100%;
+  text-align: center;
+}
+.designBoxes h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.designBoxImg {
+  margin: auto;
+  display: block;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 15px;
+  transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  /* IE 9 */
+  -webkit-transform: rotate(45deg);
+  /* Safari and Chrome */
+  position: relative;
+  top: -50px;
+  border: 4px solid #F4F4F4;
+  background-color: #FFF;
+}
+.designBoxImg img {
+  transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  /* IE 9 */
+  -webkit-transform: rotate(-45deg);
+  /* Safari and Chrome */
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 80px;
+  height: 80px;
+}
+.designBoxContent p {
+  margin: 0 20px;
+  line-height: 25px;
+}
+.designListText li {
+  padding-bottom: 20px;
+  font-size: 16px;
+}
+.designVideo h2 {
+  margin-bottom: 30px;
+}
+.designVideo .videoWrapper {
+  margin-top: 0;
+}
+.designDocument p {
+  height: 25px;
+  background-color: #CFCFCF;
+}
+.designDocument h3 {
+  display: none;
+}
+.designDocument {
+  padding: 50px 0 0;
+}
+.designDocument ul {
+  padding: 20px;
+  margin-top: 30px;
+}
+.designDocument > span {
+  float: right;
+  width: 125%;
+  margin-right: -15%;
+  background: #3b3b3b;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: -12px;
+  text-align: center;
+  position: relative;
+}
+.designDocumentListText li {
+  padding-bottom: 20px;
+}
+.designDocumentListText .icon-checkmark {
+  font-size: 15px;
+}
+.designListCont {
+  width: 83%;
+  width: calc(100% - 30px);
+  display: inline;
+  color: #727272;
+  font-size: 14px;
+}
+padding: 10px;
+
+}
+.designVideoWrapper {
+  position: relative;
+  margin: 0;
+}
+.designVideoWrapper .videoFooter {
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  right: 0;
+  padding: 0 20px;
+  background-color: #707070;
+  opacity: 0.6;
+  max-width: 520px;
+  margin: auto;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+  height: 0;
+  overflow: hidden;
+}
+.designVideoWrapper .videoFooter p {
+  color: #FFF;
+  font-size: 20px;
+}
+.designVideoWrapper .videoMask {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: transparent;
+  z-index: 999;
+  max-width: 560px;
+  margin: auto;
+}
+.designVideoWrapper:hover .videoFooter {
+  height: 60px;
+  padding: 20px
+}
+
+/*seo page*/
+.seoOptimization h3,
+.seoAd h3 {
+  color: #262626;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+.seoHealth {
+  background-color: #f5f5f5;
+  border: 1px solid #ebebeb;
+  margin-bottom: 20px;
+  padding: 30px;
+  float: left;
+  width: 86%;
+}
+.seoBtn {
+  margin: 30px auto 0px;
+}
+.seoOptimization {
+  float: left;
+  width: 100%;
+  margin-top: 30px;
+}
+.seoOpt {
+  float: left;
+  width: 100%;
+  margin-top: 30px;
+}
+.seoAd {
+  float: left;
+  width: 100%;
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #ebebeb;
+  margin-top: 30px;
+}
+.seoOptimization ul li {
+  padding-bottom: 10px;
+}
+.seoHealth ul {
+  margin-top: 20px;
+}
+.seoHealth h3,
+.seoAd h3 {
+  text-align: center;
+}
+.seoAd .expandTitle {
+  margin-top: 10px;
+}
+.seoAd .leftContent,
+.seoAd .middleContent,
+.seoAd .rightContent {
+  width: 29.33%;
+  padding: 0px 2%;
+  margin-top: 35px;
+  text-align: center;
+}
+.seoAd .leftContent p,
+.seoAd .middleContent p,
+.seoAd .rightContent p {
+  text-align: center;
+}
+.seoAd .leftContent img {
+  width: 78px;
+  height: 77px;
+}
+.seoAd .middleContent img {
+  width: 75px;
+  height: 77px;
+}
+.seoAd .rightContent img {
+  width: 74px;
+  height: 77px;
+}
+.seoAd h3 {
+  margin-top: 15px;
+  font-family: 'OpenSansRegular';
+  font-size: 24px;
+}
+.solImages li {
+  padding: 0 !important;
+  text-align: center !important;
+  width: 33% !important;
+}
+
+/*social media analysis--start*/
+.content .cloudSection {
+  padding: 10px 0 0;
+}
+.cloudSection.konyBottomSection.socialMediaAnalysisBottom {
+  border-top: 0 solid;
+}
+.cloudService img {
+  margin-top: 10px;
+}
+.cloudSection .socialBox {
+  background-color: #F5F5F5;
+  border: 1px solid #dbdbdb;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 13px;
+  width: 90%;
+  display: table;
+}
+.cloudSection .socialBox .leftdata {
+  background-color: #E2292F;
+  height: 127px;
+  text-align: center;
+  width: 220px;
+  color: #fff;
+  font-family: "OpenSansSemiboldItalic";
+  font-size: 23px;
+  margin: 0;
+  position: relative;
+}
+.cloudSection .socialBox .leftdata span:first-child {
+  position: relative;
+  top: 50px;
+}
+.cloudSection .socialBox .socialArrow {
+  height: 127px;
+  left: 220px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+.cloudSection .socialBox .rightdata {
+  display: table-cell;
+  padding-left: 27px;
+  text-align: center;
+  vertical-align: middle;
+}
+.cloudSection .socialBox .rightdata span {
+  display: block;
+  font-family: "OpenSansSemiboldItalic";
+  font-size: 23px;
+}
+.cloudSection .socialBox .rightdata .icon_Homeplus {
+  font-size: 21px;
+}
+.cloudSection .icon_Homeplus {
+  color: #E2292F;
+  padding: 10px 0;
+}
+.cloudSection h3 {
+  line-height: 26px;
+  text-align: left;
+  margin-top: 40px;
+}
+.cloudService.cldsocialService,
+.leftOpenDiv.konyBottomData.socialContentWrapper,
+.CIpara,
+.innerCase.aboutInner.confinementContainer.bigDataWrapper {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.levels.webSocialIntelligenceContent {
+  width: 88%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.leftOpenDiv.konyBottomData.socialContentWrapper {
+  float: none;
+}
+.cloudService p.cloudtxt {
+  margin-top: 10px;
+}
+
+/*social media analysis--end*/
+
+/*dm*/
+.dmHeadings {
+  padding-top: 50px;
+  color: #2d2d2d;
+}
+.collapseContent {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: space-around;
+  -ms-justify-content: space-around;
+  -webkit-justify-content: space-around;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  width: 100%;
+}
+.desktop-view-content {
+  border: 1px solid #EBEBEB;
+  padding: 20px 30px 60px;
+  box-sizing: border-box;
+  line-height: 30px;
+  color: #2d2d2d;
+}
+.view {
+  width: 21%;
+  align-self: center;
+  -ms-align-self: center;
+  -webkit-align-self: center;
+  text-align: center;
+}
+.collapseContent .view:last-child {
+  width: 85px;
+  padding-bottom: 0;
+}
+.collapseContent .view:last-child p {
+  color: #e2292f;
+  font-size: 13px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+.checkContainer {
+  background-color: #f8f8f8;
+  float: left;
+  width: 100%;
+  padding: 60px 0;
+  margin-top: -24px;
+  margin-bottom: 55px;
+}
+.checkInnerRight ul {
+  border: 1px solid #dcdcdc;
+  width: 80%;
+  padding: 36px;
+  background-color: #fff;
+  float: right;
+  box-sizing: border-box;
+}
+.checkInnerLeft p:nth-child(2) {
+  font-family: 'OpenSansBold';
+}
+.checkInnerRight ul li:first-child {
+  text-align: center;
+  font-family: 'OpenSansBold';
+  font-size: 16px;
+}
+.red-check li.title:before {
+  content: '';
+  margin: 0;
+}
+.checkInnerLeft.expandTitleWrapper p:nth-child(3) {
+  margin-top: 20px;
+}
+.checkInnerRight ul li:last-child {
+  padding-bottom: 0;
+  text-align: center;
+  margin-top: 13px;
+}
+.reportBtn {
+  background: #e63c3c;
+  color: #fff;
+  width: auto;
+  padding: 0 20px;
+  line-height: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  outline: none;
+  text-transform: none!important;
+}
+.checkInner h2 {
+  padding-bottom: 25px;
+}
+#clientSection {
+  width: 100%;
+  float: left;
+  background-size: cover;
+  background-image: url(../images/responsive/service/cloud/testimonial-bg.png);
+}
+.mobileappContent {
+  width: 80%;
+  margin: 0 auto;
+  max-width: 1500px;
+  padding: 40px 0 0;
+}
+.splitSection {
+  display: table;
+  float: left;
+  padding-bottom: 40px
+}
+.leftsideData {
+  width: 75%;
+  padding-right: 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+.commentsContainer {
+  border-radius: 7px;
+  width: 100%;
+  text-align: center;
+  background: #fff url(../images/responsive/service/cloud/quotation.png) no-repeat;
+  display: inline-block;
+  font-size: 24px;
+  font-family: "OpenSansLight";
+  padding: 37px 21px 37px 93px;
+  box-sizing: border-box;
+  background-position: 12px 27px;
+}
+.rightsideData {
+  width: 25%;
+  border-left: none;
+  padding-left: 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+.rightsideData .desktop-view-content {
+  width: 100%;
+  background-color: transparent;
+  padding: 20px 0;
+  border: none;
+}
+.clientFace {
+  width: 91px;
+  text-align: center;
+  margin: 0 auto;
+}
+#clientSection h3 {
+  font-size: 15px;
+  font-family: "OpenSansbold";
+  padding: 0;
+  font-weight: bold;
+  color: #2d2d2d;
+  text-align: center;
+}
+#clientSection .xtraP {
+  font-size: 12px;
+  text-align: center;
+  line-height: 24px;
+}
+.dmBenifits ul {
+  margin-top: 24px;
+}
+.singleContent .mobile-collapse-content {
+  font-weight: bold;
+  color: #000;
+}
+.singleContent .xtraP p {
+  margin-bottom: 20px;
+}
+.singleContent .xtraP p:last-child {
+  margin-bottom: 0;
+}
+#subMenu {
+  width: 100%;
+  padding: 30px 0 15px;
+}
+#subMenu li {
+  text-align: center;
+  color: #000;
+  display: inline-block;
+  width: 16%;
+  vertical-align: top;
+}
+#subMenu li a {
+  color: #000;
+  font-style: italic;
+  display: inline-block;
+  pointer-events: none;
+}
+.solutionTile.mobileappContent {
+  width: 91%;
+  padding-top: 0;
+}
+.dmTiles.collapseImg {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto 10px;
+  border-radius: 0;
+  border: none;
+  background-color: #fff;
+  background-size: 80%;
+}
+.dmTiles.seo {
+  background-position: 11px -222px;
+}
+.dmTiles.socialManage {
+  background-position: 10px -367px;
+}
+.dmTiles.paid {
+  background-position: 10px -150px;
+}
+.dmTiles.analytics {
+  background-position: 8px -294px;
+}
+.dmTiles.competition {
+  background-position: 9px 4px;
+}
+.dmTiles.contentMarket {
+  background-position: 6px -72px;
+}
+
+/*b {
+    font-weight: bold;
+    color: #000;
+}*/
+.collapseImg {
+  background: #f5fffe url(../images/responsive/solution/digimarketing/dmsprite.png) no-repeat;
+  margin: -89px auto 20px;
+  display: block;
+  border: 1px solid #EBEBEB;
+  border-radius: 95px;
+  padding: 5px;
+  height: 120px;
+  width: 120px;
+}
+.seo {
+  background-position: 32px -330px;
+}
+.socialManage {
+  background-position: 27px -545px;
+}
+.paid {
+  background-position: 28px -217px;
+}
+.analytics {
+  background-position: 26px -426px;
+}
+.competition {
+  background-position: 26px 17px;
+}
+.contentMarket {
+  background-position: 23px -99px;
+}
+.iotInfo {
+  position: relative;
+  text-align: center;
+  clear: both;
+}
+.iotSolnContainer {
+  position: relative;
+  width: 100%;
+  float: left;
+  clear: both;
+  margin-top: 60px;
+}
+.iconSoln .expandTitle.iotTileHeading {
+  width: 88%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.iotSolnContainer .solutionTab {
+  width: 12%;
+}
+.manufacture.solutionTab {
+  left: 26%;
+}
+.solutionTab.healthCare {
+  left: 38%
+}
+.solutionTab.retail {
+  left: 50%;
+}
+.solutionTab.energy {
+  left: 62%;
+}
+.iotSolnContainer .tabContent .solutionTab {
+  height: auto;
+}
+.solnNav {
+  width: 120px;
+  height: 120px;
+  background: url(../images/responsive/solution/iot/iotSprites.png) no-repeat;
+  background-size: 100%;
+  margin: 0 auto;
+  cursor: pointer;
+  background-size: 98%;
+}
+.healthCare .solnNav {
+  background-position: 8px 10px;
+}
+.manufacture .solnNav {
+  background-position: 8px -313px;
+}
+.retail .solnNav {
+  background-position: 8px -634px;
+}
+.energy .solnNav {
+  background-position: 2px -964px;
+}
+.iotSolnContainer .tabContent .manufacture p {
+  color: #0fb49c;
+}
+.iotSolnContainer .tabContent .healthCare p {
+  color: #3788a5;
+}
+.iotSolnContainer .tabContent .retail p {
+  color: #7c6295;
+}
+.iotSolnContainer .tabContent .energy p {
+  color: #4076ab;
+}
+.iotSolnContainer .solutionTab p {
+  font-size: 18px;
+  font-family: "AvenirNextLTPro-Regular";
+}
+.sideLinkContainer {
+  width: 84%;
+  border: 1px solid #d3d3d3;
+  border-radius: 20px;
+  max-width: 340px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.sideLinkContainer .expandTitle {
+  margin-top: 0;
+  width: 84%;
+  margin: 0 auto;
+}
+.sideLinkContainer h3 {
+  width: 80%;
+  margin: 10px auto;
+  font-size: 22px;
+  font-weight: bold;
+}
+.healthHead {
+  padding-top: 30px;
+}
+.innerNavBtn .reportBtn {
+  margin: 24px 0;
+  padding: 3px 20px;
+  border: none;
+  border-radius: 5px;
+}
+.iotSolnContainer .desktop-view-content {
+  border: none;
+}
+.switchHeading {
+  text-align: center;
+}
+.inquiryComments {
+  text-align: center;
+  width: 91%;
+  margin: 70px auto 0;
+  padding-bottom: 70px;
+}
+.inquiryComments.contentInquiryComments {
+  margin: 0 auto;
+}
+.commentTitle {
+  margin-bottom: 25px;
+}
+.inquiryComments #inqBtn {
+  padding: 7px 22px;
+  text-transform: none;
+}
+.xtraP b {
+  font-weight: bold;
+  color: #000;
+}
+.iotInfograph {
+  text-align: center;
+  clear: both;
+}
+.iotInfograph h2 {
+  padding-bottom: 30px;
+}
+#solutionsNav #mobMenuHolder .iotSolnTile {
+  width: 16%;
+}
+#solutionsNav #mobMenuHolder .mediumSoln {
+  width: 12.5%;
+}
+#solutionsNav #mobMenuHolder .smallSolnTile {
+  width: 12%;
+}
+#solutionsNav #mobMenuHolder .websocial {
+  width: 18.5%;
+  line-height: 1;
+}
+#solutionsNav #mobMenuHolder .digitalmenu {
+  width: 15%;
+}
+#mobMenuHolder .active a p {
+  color: #fff;
+}
+.dmMenuTiles #subMenu li {
+  padding: 10px;
+  box-sizing: border-box;
+}
+#solutionsNav #mobMenuHolder {
+  width: 100%;
+}
+#viewPdf {
+  position: relative;
+  z-index: 10;
+}
+/*RPA*/
+.rpaFirstSection,
+.rpaFAQ {
+  padding-bottom: 60px;
+}
+.rpaDescription {
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  margin-bottom: 60px;
+}
+.rpsServiceContents {
+  width: 91%;
+}
+.rpsServiceContents,
+.rpaFirstDesciption,
+.rpaSolutionWrapper,
+.rtlsSolutionsWrapper {
+  margin: 0px auto;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.rpsServiceContents,
+.rpaFirstDesciption,
+.rpaSolutionWrapper {
+  align-items: center;
+}
+.rpaFirstDesciption {
+  justify-content: center;
+}
+.rpaFirstDesciption {
+  align-items: flex-start;
+}
+.rpaFirstDesciption>div,
+.rpaFirstDesciption>ul {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 20px 45px;
+  background: transparent;
+  margin: 30px 0;
+  text-align: center;
+}
+.rtlsSolutionsWrapper>div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  box-sizing: border-box;
+  border: 1px solid #e5e5e5;
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.rpaBenefitsWrapper.rpaFirstDesciption>ul {
+  margin: 0;
+  padding: 10px 45px;
+}
+.rpaBenefitsWrapper.rpaFirstDesciption>ul:nth-of-type(2) ul {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.rpaFirstDesciption>div h3 {
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+.rpaBenefitsWrapper .listTextCommon {
+  text-align: left;
+}
+.rpaBenefitsWrapper:nth-of-type(4) .listTextCommon li {
+  padding-bottom: 45px;
+}
+.rpaBenefitsWrapper .listTextCommon li {
+  padding-bottom: 35px;
+}
+.rpaBenefitsWrapper .listTextCommon span:first-child {
+  display: block;
+  color: #000;
+  font-family: 'PoppinsMedium';
+}
+.rpaBenefitsWrapper .listTextCommon span:nth-child(2) {
+  display: inline-block;
+  width: 100%;
+}
+.rpaBenefitHead {
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 50px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-bottom: 50px;
+}
+.rpsServiceContents>figure {
+  -webkit-flex: 10%;
+  -o-flex: 10%;
+  flex: 10%;
+  -ms-flex: 10%;
+  -moz-flex: 10%;
+  box-sizing: border-box;
+  padding-right: 10px;
+  text-align: center;
+}
+.rpsServiceContents>span,
+.rpaSolutionWrapper>div {
+  -webkit-flex: 30%;
+  -o-flex: 30%;
+  flex: 30%;
+  -ms-flex: 30%;
+  -moz-flex: 30%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: #727272;
+}
+.rpsServiceContents>span:nth-of-type(3) {
+  -webkit-flex: 18%;
+  -o-flex: 18%;
+  flex: 18%;
+  -ms-flex: 18%;
+  -moz-flex: 18%;
+}
+.rpsServiceContents:nth-of-type(1) {
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+.rpaSolutionWrapper>div:nth-child(2),
+.rpaSolutionWrapper>div:nth-child(3) {
+  margin-left: 20px;
+}
+.rpaSolutionWrapper>div p {
+  padding: 30px;
+  border: 1px solid #e5e5e5;
+  border-top: 0;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.rpaSolutionWrapper {
+  padding-top: 50px;
+  align-items: flex-start;
+}
+.rpaEnterprise figure {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.rpaEnterprise .commentTitle,
+.contentTestimonial {
+  text-align: center;
+}
+.rpaEnterprise .inquiryComments {
+  padding-bottom: 0;
+}
+.rpaFAQ .xtraP span {
+  font-family: "PoppinsMedium";
+  color: #3f3f3f;
+  padding-top: 20px;
+  display: block;
+}
+.rpaBenfitMobile,
+.rpsServiceContentsMobile {
+  display: none;
+}
+.contentTestimonial {
+  background-color: #fafafa;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.contentTestimonial q {
+  color: #727272;
+  line-height: 26px;
+}  
+.quoteClientSection {
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+/*RTLS*/
+.rtlsFirstSection,
+.rtlsWorkWrapper .innerSubHeading {
+  padding-bottom: 0;
+}
+.rtlsFirstSection h1 {
+  padding-bottom: 20px;
+}
+.rtlsFirstSection h2 {
+  text-align: center;
+}
+.rtlsSolutionsWrapper ul.listTextCommon li {
+  text-align: left;
+  padding-bottom: 10px;
+}
+.rtlsSolutionsWrapper ul.listTextCommon span {
+  display: inline;
+  color: #000;
+}
+.rtlsSolutionsWrapper p {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+  text-align: left;
+}
+.rtlsSolutionsWrapper h3 {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+.rtlsWorkWrapper.commonBottomSection,
+.rtlsLastSection.commonBottomSection {
+  border: none;
+}
+.rtlsWorkWrapper .chatbotIndFirstList {
+  border-bottom: 1px solid #e5e5e5;
+}
+.rtlsWorkWrapper .chatbotIndFirstList>div {
+  padding-bottom: 30px;
+}
+.rtlsWorkWrapper .chatbotIndSecondList>div {
+  padding-top: 30px;
+}
+.rtlsWorkWrapper .chatbotIndFirstList>div:not(:last-child),
+.rtlsWorkWrapper .chatbotIndSecondList>div:first-child {
+  border-right: 1px solid #e5e5e5;
+}
+.wirelessComparison {
+  background-color: #f8fcff;
+  padding-top: 60px;
+  border: none;
+}
+.wirelessComparison table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 50px;
+}
+.wirelessComparison td {
+  border-left: 2px solid #efefef;
+  border-right: 2px solid #efefef;
+  text-align: left;
+}
+.wirelessComparison th {
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+  vertical-align: middle;
+}
+.wirelessComparison td, 
+.wirelessComparison th {
+  padding: 20px;
+  width: 20%;
+}
+.wirelessComparison tr:nth-child(odd) {
+  background-color: #fafafa;
+}
+.wirelessComparison tr:nth-child(even) {
+  background-color: #fff;
+}
+.wirelessComparison th:first-child {
+  visibility: hidden;
+}
+.wirelessComparison tbody {
+  box-shadow: 0 5px 22px -3px #ccc;
+}
+.wirelessComparison tbody tr:last-child {
+  border-bottom: 2px solid #efefef;
+}
+.wirelessComparison th:first-child {
+  border-bottom: 2px solid #efefef;
+}
+.wirelessComparison th:nth-child(2) {
+  background-color: #31a6ad;
+}
+.wirelessComparison th:nth-child(3) {
+  background-color: #794397;
+}
+.wirelessComparison th:nth-child(4) {
+  background-color: #89a419;
+}
+.wirelessComparison th:nth-child(5) {
+  background-color: #4660bd;
+  box-shadow: 5px 0 10px -2px #ccc;
+}
+.wirelessComparison th:not(:first-child) {
+  box-shadow: 0 -3px 5px 0px #ccc;
+}
+.wirelessComparison td:not(:first-child) {
+  color: #727272;
+}
+.wirelessComparison td:first-child {
+  font-size: 15px;
+  font-family: PoppinsMedium;
+  text-transform: uppercase;
+  color: #363636;
+}
+.wirelessComparison thead td:first-child {
+  box-shadow: 0 -5px 14px -4px #efefef;
+}
+.rtlsIndHeadWrapper {
+  display: table;
+  width: 100%;
+}
+.rtlsIndHeadWrapper>div {
+  display: table-cell;
+  width: 33%;
+  border-bottom: 2px solid #dfdfdf;
+}
+.rtlsIndHeadWrapper>div:nth-child(2) {
+  text-align: center;
+}
+.rtlsIndHeadWrapper>div:last-child {
+  text-align: right;
+}
+.rtlsIndustry .cloudMigrationClick p {
+  position: relative;
+  padding-bottom: 10px;
+  width: 200px;
+  text-align: center;
+  top: 2px;
+}
+.rtlsIndustry .cloudMigrationClick.active p {
+  border-bottom: 2px solid #e2292f;
+}
+.rtlsIndustry .cloudMigrationClick.active p:after {
+  content: "";
+  position: absolute;
+  bottom: -7px;
+  left: 48%;
+  border-color: #e2292f transparent transparent transparent;
+  width: 10px;
+  height: 10px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  border-right: 2px solid #e74c3c;
+  border-bottom: 2px solid #e74c3c;
+  background: #fff;
+}
+.rtlsIndustry .cloudMigrationClick:last-child p {
+  margin-left: auto;
+}
+.rtlsIndustry .cloudMigrationClick:nth-child(2) p {
+  margin: 0 auto;
+}
+.rtlsIndustry .cloudMigrationClick span {
+  display: block;
+  font-family: "PoppinsMedium";
+  font-size: 18px;
+  color: #000;
+}
+.rtlsIndustry .cloudMigrationClick.active span {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.rtlsIndustry .listText {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.rtlsQBeacon {
+  background-color: #f8fcff;
+  border: 1px solid #e2f0fd;
+  border-radius: 10px;
+  padding: 30px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+  align-items: center;
+  justify-content: center;
+}
+.rtlsQBeacon figure {
+  padding-right: 30px;
+}
+.rtlsQBeacon p {
+  width: 80%;
+}
+.rtlsQBeacon a {
+  color: #e2292f;
+  text-decoration: underline;
+}
+.rtlsLastSection p:nth-of-type(1) {
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+.rtlsSolutionHead {
+  color: #727272;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.rtlsIndustry {
+  padding-top: 40px;
+}
+.rtlsDescWrapper .chatbotIndFirstList>div, 
+.rtlsDescWrapper .chatbotIndSecondList>div {
+  padding: 0 65px;
+}
+.rtlsDescWrapper .chatbotIndFirstList>div:nth-child(2) {
+  width: 34%;
+}
+.rtlsSolutionsWrapper {
+  width: 91%;
+}
+.listTextCommon li span.industrySubHead {
+  font-weight: 600;
+  color: #000;
+}
+@media screen and (min-width:280px) and (max-width:767px) {
+  /*rtls*/
+  .rtlsDescWrapper .chatbotIndFirstList>div, 
+  .rtlsDescWrapper .chatbotIndSecondList>div {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .rtlsSolutionsWrapper>div {
+    padding: 20px;
+  }
+  .rtlsWorkWrapper.commonBottomSection {
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 40px;
+    margin-bottom: 0;
+  }
+  .rtlsWorkWrapper .mobile-collapse-content span,
+  .industrialAppContainer .mobile-collapse-content span {
+    margin-right: 0;
+    padding-right: 0;
+  }
+  .rtlsQBeacon figure {
+    padding-top: 30px;
+    padding-right: 0;
+  }
+  .rtlsQBeacon {
+    margin: 0px 20px 20px 20px;
+    text-align: center;
+  }
+  .rtlsWorkWrapper .mobile-collapse-content,
+  .industrialAppContainer .mobile-collapse-content {
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 15px;
+  }
+  .rtlsWorkWrapper .mobilitySolutionsMobile.seoCheckListMob,
+  .industrialAppContainer .mobilitySolutionsMobile.seoCheckListMob {
+    display: inline-block;
+    width: 100%;
+  }
+  .rtlsWorkWrapper .mobile-collapse-content h3,
+  .industrialAppContainer .mobile-collapse-content h3 {
+    display: inline-block;
+    width: 90%;
+  }
+  /*rpa*/
+  .rpaSolutionWrapper>div:nth-child(2), 
+  .rpaSolutionWrapper>div:nth-child(3) {
+    margin-left: 0;
+  }
+  .rpaSolutionWrapper>div:first-child, 
+  .rpaSolutionWrapper>div:nth-child(2),
+  .commonBottomSection.industrialAppContainer {
+    padding-bottom: 40px;
+  }
+  .rpaSolutionWrapper>div img,
+  .rtlsQBeacon p,
+  .rtlsLastSection .inquiryComments {
+    width: 100%;
+  }
+  .rpsServiceContentsMobile tr:last-child td,
+  .rtlsFirstSection h1 {
+    padding-bottom: 0;
+  }
+  .rpsServiceContentsMobile td {
+    vertical-align: middle;
+    padding-bottom: 40px;
+  }
+  .rpsServiceContentsMobile tr td:first-child {
+    text-align: center;
+    padding-right: 20px;
+  }
+  .rpaBenefitsWrapper.rpaFirstDesciption,
+  .rpsServiceContents,
+  .rpaEnterprise figure,
+  .wirelessComparison,
+  .rtlsWorkWrapper .chatbotIndFirstList,
+  .rtlsWorkWrapper .chatbotIndSecondList,
+  .rtlsIndustry {
+    display: none;
+  }
+  .rpaDescription.bigDataWrapper {
+    width: 82%;
+  }
+  .rpaFirstDesciption,
+  .rpaFirstDesciption>div,
+  .rpaBenfitMobile,
+  .rpsServiceContentsMobile,
+  .rpaSolutionWrapper,
+  .rtlsSolutionsWrapper {
+    display: block;
+  }
+  .rpaFirstDesciption>div {
+    padding: 0;
+    width: 91%;
+    margin: 0 auto;
+    padding: 30px 0;
+  }
+  .rpaFirstDesciption:nth-of-type(1)>div:first-child {
+    border-right: 0;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .rpaBenfitMobile .dualContent .desktop-view-content {
+    width: 94%;
+    margin: 20px auto;
+    background-color: #f8f6f7;
+  }
+  .rpaBenefitHead,
+  .rtlsWorkWrapper h2.innerSubHeading {
+    padding-bottom: 20px;
+  }
+  .rpaBenfitMobile .mobile-collapse-content {
+    background-color: #f8f6f7;
+  }
+  .rpaBenfitMobile.ciFAQ .dualContent .desktop-view-content,
+  .rpaBenfitMobile.ciFAQ .faqCnt {
+    border: none;
+  }
+  .rpsServiceContentsMobile {
+    padding-top: 40px;
+  }
+  /*digital marketing*/ 
+  .seoClientLogoList span:first-child {
+    background-position: -1085px 283px;
+  }
+  .seoClientLogoList span:nth-child(2) {
+    background-position: -1375px 283px;
+  }
+  .seoClientLogoList span:nth-child(3) {
+    background-position: -545px 283px;
+  }
+  .digitalAnalyticsClientLogos span:first-child {
+    background-position: -16040px 263px;
+  }
+  .digitalAnalyticsClientLogos span:nth-child(2) {
+    background-position: -16316px 261px
+  }
+  .digitalAnalyticsClientLogos span:nth-child(3) {
+    background-position: -5028px 264px;
+  }
+  .digitalAnalyticsClientLogos .elementLink {
+    height: auto;
+  }
+  .ciClientLogoList span:first-child {
+    background-position: -35px 284px;
+  }
+  .ciClientLogoList span:nth-child(2) {
+    background-position: -545px 283px;
+  }
+  .ciClientLogoList span:nth-child(3) {
+    background-position: -825px 283px;
+  }
+  .webSocialClientLogoList span:first-child {
+    background-position: -299px 283px;
+  }
+  .webSocialClientLogoList span:nth-child(2) {
+    background-position: -16315px 280px;
+  }
+  .webSocialClientLogoList span:nth-child(3) {
+    background-position: -825px 283px;
+  }
+  .digitalMarketingClientLogos .view:first-child p {
+    background-position: -16066px 263px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(2) p {
+    background-position: -560px 283px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(3) p {
+    background-position: -314px 283px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(4) p {
+    background-position: -825px 283px;
+  }
+  .digitalMarketingClientLogos .view {
+    width: 50%;
+  }
+  .checkInnerLeft.expandTitleWrapper p {
+    margin: 0 auto;
+  }
+  .seoClientLogo.webSocialClientLast span:first-child {
+    padding-right: 0;
+  }
+  .seoClientLogo.webSocialClientLast span:last-child {
+    padding-left: 0;
+  }
+  .checkInnerLeft p:nth-child(2) {
+    padding-top: 15px;
+  }
+  .ciFAQ .xtraP.ciDropdownPara {
+    padding: 0 20px 20px 20px;
+  }
+  .digitalMobileLink {
+    padding-top: 10px;
+  }
+  .dmCheckHealth {
+    padding-bottom: 40px;
+  }
+  .seoCheckList.contentMarketingApproach.contentMarketingApproachMob {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .chooseFormLinkWrapper:hover img {
+    transform: initial;
+  }
+  .ciFAQ .faqLine.listText.ciFAQLast {
+    box-sizing: border-box;
+    padding: 20px 2% 20px 40px;
+    width: 100%;
+  }
+  .socialMediaContentWrapper div {
+    text-align: left;
+  }
+  .smmFAQ.ciFAQ .faqCnt.xtraP {
+    padding: 20px;
+  }
+  .ciFAQ.smmFAQ .xtraP {
+    padding: 0 20px 20px 20px;
+  }
+  .ciClientSection.smmClientSection.socialMediaClientSection {
+    padding-bottom: 60px;
+  }
+  .seoAudit.mobAppImgMob figure {
+    width: 26%;
+  }
+  .seoAudit.digitalImgMob figure {
+    width: 32%;
+  }
+  .seoClientSection .colorClientLogo {
+    width: 150px;
+  }
+  .seoClientLogo {
+    display: table;
+  }
+  .freeSeoAudit .listText {
+    padding-bottom: 30px;
+  }
+  .socialMediaContentWrapper div {
+    margin: 0;
+  }
+  .socialMediaContentWrapper {
+    display: block;
+    text-align: center;
+  }
+  .sevenAspectsMob .marketingWrapper {
+    padding: 15px 2%;
+  }
+  .sevenAspectsMob .marketingWrapper p {
+    padding: 0;
+  }
+  .webClientTestimonialWrapper .clientTestominialWrapper.smmclientTestominialWrapper q {
+    font-size: 14px;
+  }
+  .socialAnalyticsWrapper>div {
+    box-shadow: none;
+  }
+  .socialAnalyticsWrapper>div:hover,
+  .socialAnalyticsWrapper>div:hover p, 
+  .socialAnalyticsWrapper>div:hover .listText,
+  .ciClientSection .seoClientLogo.webClientTesimonial span:first-child img {
+    top: auto;
+  }
+  .ciClientSection .seoClientLogo.webClientTesimonial span:first-child img {
+    position: relative;
+    width: 120px;
+    padding-top: 40px;
+  }
+  .socialAnalyticsWrapper>div h3,
+  .socialAnalyticsWrapper>div:hover h3 {
+    top: 0;
+    position: relative;
+  }
+  .socialAnalyticsWrapper>div p, 
+  .socialAnalyticsWrapper>div .listText,
+  .digitalMobileLink {
+    display: block;
+  }
+  .socialAnalyticsWrapper>div,
+  .seoClientLogo.webSocialClientFirst span:first-child, 
+  .seoClientLogo.webSocialClientFirst span:nth-child(2),
+  .seoClientLogo.webSocialClientFirst span:nth-child(3),
+  .seoClientLogo.webSocialClientFirst span:nth-child(4),
+  .seoClientLogo.webSocialClientSecond span:first-child,
+  .seoClientLogo.webSocialClientSecond span:nth-child(3),
+  .seoClientLogo.webSocialClientLast span,
+  .socialMediaContentWrapper div,
+  .dmContentWrapper .checkInner.confinementContainer,
+  .ciClientSection .seoClientLogo.ciClientLogoList span,
+  .rtlsSolutionsWrapper,
+  .rtlsDescWrapper .chatbotIndFirstList>div:nth-child(2) {
+    width: 100%;
+  }
+  .seoClientLogo.webSocialClientFirst span:nth-child(4) img,
+  .seoClientLogo.webSocialClientSecond span:nth-child(3) img,
+  .seoClientLogo.webSocialClientLast span:nth-child(2) img {
+    float: none;
+  }
+  .socialAnalyticsWrapper>div:nth-child(1) {
+    margin-left: 0;
+    margin-bottom: 40px;
+  }
+  .socialAnalyticsWrapper>div:nth-child(2) {
+    margin-right: 0;
+    float: none;
+  }
+  .mobileStepTitle {
+    font-weight: bold;
+    color: #f05344;
+    text-align: center;
+  }
+  .mobileStepTitle:nth-of-type(2) {
+    color: #f5a623;
+  }
+  .mobileStepTitle:nth-of-type(3) {
+    color: #498fe4;
+  }
+  .contentRangeMob .marketingWrapper {
+    padding: 15px 2%;
+  }
+  .marketingWrapper .marketingContentCenter,
+  .marketingWrapper,
+  .marketingWrapper .marketingPaddingRight {
+    background-color: #f8f8f8;
+  }
+  .marketingWrapper .marketingContentCenter,
+  .marketingWrapper .marketingPaddingRight {
+    margin: 0;
+    padding: 0;
+  }
+  .marketingWrapper .marketingContentCenter img {
+    padding: 10px 0;
+    width: 75px;
+  }
+  .contentMarketingFirstSection .listText:nth-child(2),
+  .smmServiceswrapper .listText:last-child {
+    padding-left: 0;
+  }
+  .seoCheckList.paidServiceMob p.xtraP {
+    background: #f8f8f8;
+    padding: 0 2% 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .paidAddManagement .commonmainPadding {
+    padding: 40px 0;
+  }
+  .chooseFormLink h3 {
+    float: none;
+  }
+  .socialMedialinkSection figure img {
+    width: 120px;
+    position: relative;
+  }
+  .paidAddManagement .socialMedialinkSection figure img,
+  .grayBackgroundCommon .socialMedialinkSection figure img {
+    bottom: 0;
+  }
+  .customizedIntellSection .customIntellDesc figure img {
+    width: 100px;
+  }
+  .dMAWrapper h2,
+  .dmBenifits h2,
+  .aboutDigitalMarketing h2,
+  .socialMediaIconList {
+    padding-bottom: 20px;
+  }
+  .seoCheckListMob .listText li,
+  .rtlsSolutionHead {
+    padding-bottom: 10px;
+  }
+  .clientTestominialWrapper.smmclientTestominialWrapper q {
+    font-size: 20px;
+    color: #3f3f3f;
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  .socialMedialinkSection .seoAudit figure {
+    width: auto;
+    position: initial;
+  }
+  .socialMediaIconSet {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .socialMediaIconList,
+  .socialMediaIconSet,
+  .rtlsDescWrapper .chatbotIndFirstList>div,
+  .rtlsDescWrapper .chatbotIndSecondList>div {
+    text-align: center;
+  }
+  .socialMediaIconList span,
+  .socialMediaIconSet span {
+    width: auto;
+  }
+  .socialMediaIconList span:first-child,
+  .socialMediaIconSet span:first-child {
+    float: left;
+  }
+  .socialMediaIconList span:last-child,
+  .socialMediaIconSet span:last-child {
+    float: right;
+  }
+  .socialMediaIconList span:nth-child(2),
+  .socialMediaIconList span:nth-child(3) {
+    width: 25%;
+  }
+  .socialMediaIconsMob,
+  .socialMedialinkSection .smmMob,
+  .smmMob,
+  .paidServiceMob,
+  .contentMarketingApproach {
+    display: block;
+  }
+  .socialMediaIconsWeb,
+  .socialMedialinkSection .smmWeb,
+  .smmWeb,
+  .paidService,
+  .marketingWrapper,
+  .sevenAspectsWrapper,
+  .paidAddManagement .socialMedialinkSection .seoAudit figure.smmIpad {
+    display: none;
+  }
+  .chooseFormLink h3 {
+    width: 75%;
+  }
+  .chooseFormLink img {
+    width: 65px;
+  }
+  .ciFAQ .mobile-collapse-content {
+    font-size: 14px;
+  }
+  .ciReportSecondList.commonmainPadding,
+  .paidAddManagement {
+    padding-top: 0;
+  }
+  .ciCaseStudyWrapper,
+  .searchEngineFirstSection .searchEngineSericeBullets,
+  .bulletdListCommon .listText,
+  .smmServiceswrapper .listText {
+    width: 84%;
+  }
+  .ciCaseStudyQuote .quoteLeft, 
+  .ciCaseStudyQuote .quoteRight {
+    width: auto;
+  }
+  .ciCaseStudyQuote {
+    width: 100%;
+    padding-left: 0;
+    border: none;
+    padding-top: 40px;
+  }
+  .ciCaseStudyOuterWrapper .xtraP {
+    padding: 15px 2%;
+  }
+  .innerciWrapper {
+    padding: 60px 5%;
+  }
+  .ciCaseStudy {
+    background-image: none;
+  }
+  .customIntellDesc {
+    padding-top: 40px;
+  }
+  .searchEngineFirstSection,
+  .competitiveIntelligenceSolution h3,
+  .customizedIntellSection.commonmainPadding.bigDataWrapper,
+  .ciCaseStudy .mobile-collapse-content h3,
+  .ciReportFirstList.commonmainPadding,
+  .searchEngineFirstSection .listText.searchEngineBullets,
+  .bulletdListCommon .listText li:last-child,
+  .contentApproachMob,
+  .toolsSocialMediaContent.commonmainPadding,
+  .contentMarketingApproach.sevenAspectsMob,
+  .seoClientSection .contentOuterWrapper {
+    padding-bottom: 0;
+  }
+  .competitiveIntelligenceSolution .seoCheckListMob.dualContent .desktop-view-content,
+  .seoCheckList .seoCheckListMob.dualContent .desktop-view-content,
+  .rtlsWorkWrapper .seoCheckListMob.dualContent .desktop-view-content,
+  .industrialAppContainer .seoCheckListMob.dualContent .desktop-view-content,
+  .ciCaseStudyOuterWrapper .dualContent .desktop-view-content,
+  .paidService .mobile-collapse-content {
+    border: 1px solid #EBEBEB;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .industrialAppContainer .seoCheckListMob.dualContent .desktop-view-content {
+    border: 1px solid #d7d7d7;
+  }
+  .paidService .dualContent .desktop-view-content {
+    border-top: none;
+  }
+  .competitiveIntelligenceSolution .mobile-collapse-content,
+  .seoCheckList .mobile-collapse-content,
+  .ciCaseStudyOuterWrapper .mobile-collapse-content,
+  .paidService .mobile-collapse-content {
+    padding: 15px 2%;
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+    background: #f8f8f8;
+    border-radius: 10px;
+  }
+  .ciCaseStudyOuterWrapper .mobile-collapse-content {
+    background-color: #fff;
+  }
+  .competitiveIntelligenceSolution .seoCheckListMob .desktop-view-content .xtraP {
+    padding: 15px 2%;
+  }
+  .paidService .desktop-view-content .xtraP,
+  .competitiveIntelligenceSolution .seoCheckListMob .desktop-view-content .xtraP,
+  .seoCheckListMob .desktop-view-content .listText.xtraP {
+    background-color: #f8f8f8;
+    box-sizing: border-box;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .seoClientLogo span:hover .colorClientLogo,
+  .colorClientLog,
+  .chooseFormLink img, 
+  .chooseFormLink h3,
+  .colorClientLogo {
+    display: inline-block;
+  }
+  .seoClientLogo {
+    text-align: center;
+    padding-bottom: 0;
+  }
+  .seoClientLogo span,
+  .seoClientLogo .elementLink,
+  .ciReportFirstList>div,
+  .ciReportSecondList>div,
+  .chooseFormLinkWrapper {
+    display: block;
+    width: 100%;
+  }
+  .seoClientLogo .elementLink .viewLeftArrow {
+    display: inline;
+    padding-bottom: 0;
+  }
+  .leftSpacing,
+  .ciReportFirstList>div:nth-child(2),
+  .ciReportFirstList>div:last-child,
+  .ciReportSecondList>div:first-child,
+  .ciReportSecondList>div:last-child {
+    padding-left: 0;
+  }
+  .seoAudit figure {
+    width: 40%;
+    padding-bottom: 30px;
+  }
+  .seoClientLogo span,
+  .ciReportFirstList>div,
+  .ciReportSecondList>div,
+  .socialMediaFirstSection,
+  .smmchooseFormWrapper .chooseFormLinkWrapper,
+  .paidAdvertisingFirstSection,
+  .contentMarketingFirstSection,
+  .contentMarketingApproach,
+  .ciFirstSection,
+  .digitalAnalyticsClient .elementLink {
+    padding-bottom: 40px;
+  }
+  .seoAudit {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .seoAudit .imgDescriptioncommon {
+    padding-left: 0;
+  }
+  .testToolsWrapper .tabContent .solutionTab {
+    border-right: 1px solid #cdcdcd;
+  }
+  .aemConsultTabWrapper .contentManagement.solutionTab,
+  #fullwidthWrapper.solutionWrapper.testToolsWrapper.aemConsultTabWrapper .solutionSection.aemSection,
+  .socialMediaChooseForm .smmchooseFormWrapper,
+  .socialMediaIcons,
+  .socialMedialinkSection .seoAudit .imgDescriptioncommon,
+  .paidAddManagement .socialMedialinkSection .seoAudit figure,
+  .paidAddManagement .socialMedialinkSection .seoAudit .imgDescriptioncommon,
+  .paidAddManagement .contentInnerWrapper,
+  .customizedPaidWrapper .contentInnerWrapper {
+    width: 100%;
+  }
+  #fullwidthWrapper.testToolsWrapper .tabContent .solutionTab span.toChild {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 10px;
+    height: 28px;
+    line-height: 29px;
+    width: 28px;
+    color: #fff;
+  }
+  .magentoContent.dataVisContent .leftTextData,
+  .magentoContent.dataVisContent .rightTextData {
+    padding-bottom: 0;
+  }
+  .cloudSection.socialMediaAnalysisBottom .socialContentWrapper h2,
+  .cloudSection.socialMediaAnalysisBottom .socialContentWrapper p,
+  .cloudSection.socialMediaAnalysisBottom h3,
+  #fullwidthWrapper.testToolsWrapper .solutionSection.aemSection,
+  .searchEngineSericeBullets .searchEngineBullets,
+  .searchEngineSericeBullets,
+  .seoAudit .imgDescriptioncommon,
+  .contentOuterWrapper,
+  .customizedIntellSection .customIntellDesc figure,
+  .customizedIntellSection .customIntellDesc .imgDescriptioncommon,
+  .customizedIntellSection .customIntellDesc,
+  .ciClientSection .seoClientLogo span,
+  .ciReportSecondList {
+    width: 100%;
+  }
+  .leftOpenDiv.konyBottomData.CIWrapper .rightTextData,
+  .cloudService.cldsocialService .rightTextData,
+  .leftOpenDiv.socialContentWrapper .rightTextData {
+    width: 100%;
+    margin-left: 0;
+  }
+  .checkInner.confinementContainer,
+  .dmBenifits .innerCase.confinementContainer,
+  .sevenAspectsWrapper {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .magentosecontent,
+  .seoAudit figure, 
+  .seoAudit .imgDescriptioncommon,
+  .keywordResearchMob.seoAudit,
+  .mobilitySolutionsMobile.seoCheckListMob,
+  .ciCaseStudyOuterWrapper .mobilitySolutionsMobile,
+  .ciCaseStudyQuote.ciCaseStudyQuoteMob,
+  .smmServiceswrapper .listText {
+    display: block;
+  }
+  .keywordResearchDesk.seoAudit,
+  .greyClientLogo,
+  .seoCheckListTable,
+  .competitiveIntellDesk,
+  .ciCaseStudyQuoteSection,
+  .cicasestudyWeb,
+  .contentMarketingTable,
+  .ConversationPath,
+  .smmIpad {
+    display: none;
+  }
+  .cloudService.cldsocialService,
+  .magentoContent.magentosecontent.bigDataWrapper,
+  h3.bigDataWrapper,
+  p.bigDataWrapper,
+  .checkInner.confinementContainer h2,
+  .dmBenifits .innerCase.confinementContainer h2,
+  .innerCase.bigDataWrapper h2,
+  .levels.webSocialIntelligenceContent {
+    width: 100%;
+  }
+  .leftOpenDiv.konyBottomData.socialContentWrapper,
+  .content .cloudSection .expandTitle,
+  .innerCase.bigDataWrapper,
+  .innerCase.aboutInner.confinementContainer.bigDataWrapper {
+    width: 88%;
+  }
+  .mobileCollapseContent {
+    font-size: 18px;
+    padding-left: 10px;
+  }
+  .dMAWrapper,
+  .digitalAnalyticsFirstWrapper {
+    padding-bottom: 40px;
+  }
+  .singleContent .desktop-view-content {
+    border: none;
+  }
+  .designDocument p {
+    display: none;
+  }
+  /*iot*/
+  
+  .iotInfograph {
+    display: none;
+  }
+  .inquiryComments {
+    margin-top: 60px;
+  }
+  .inquiryComments.contentInquiryComments {
+    margin: 0 auto;
+  }
+  .iotSolnContainer .blocks {
+    padding-bottom: 12px;
+  }
+  .switchHeading {
+    text-align: left;
+  }
+  .iotSolnContainer .switchHeading {
+    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    padding: 10px 0;
+    width: 88%;
+    margin: -30px auto 30px;
+  }
+  .icon-checkmark {
+    margin-top: 7px;
+  }
+  .iotSolnContainer h4 span:last-child {
+    width: 90%;
+    display: inline-block;
+    color: #727272;
+  }
+  .iotSolnContainer .tabContent .solutionTab {
+    display: table;
+    box-sizing: border-box;
+    padding: 10px 5%;
+  }
+  .solnNav {
+    display: table-cell;
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+  }
+  .iotSolnContainer .tabContent,
+  .iotSolnContainer .tabContent.active .solutionTab {
+    background-color: #eee;
+    border: none;
+  }
+  .iotSolnContainer .tabContent {
+    margin-bottom: 10px;
+  }
+  .healthCare .solnNav {
+    background-position: 1px -63px;
+  }
+  .manufacture .solnNav {
+    background-position: 1px -198px;
+  }
+  .retail .solnNav {
+    background-position: 1px -332px;
+  }
+  .energy .solnNav {
+    background-position: 1px -467px;
+  }
+  .iotSolnContainer .desktop-view-content {
+    padding-bottom: 10px;
+  }
+  .sideLinkContainer {
+    width: 88%;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .iotInfo {
+    display: none;
+    clear: both;
+  }
+  .iotSolnContainer .collapseContent {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .solnHeading {
+    display: none;
+  }
+  .iotSolnContainer .solutionTab p {
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-left: 15px;
+    text-align: left;
+  }
+  .iotSolnContainer .toChild {
+    background-color: #eee;
+    float: right;
+  }
+  .iotSolnContainer .toChild:before {
+    content: "\e63d";
+    color: #000;
+  }
+  .iotSolnContainer .activeMenu.toChild:before {
+    content: "\e63c";
+    color: #000;
+  }
+  /*dm*/
+  
+  .collapseImg {
+    background: #f5fffe url(../images/responsive/solution/digimarketing/dmsprite.png) no-repeat;
+    margin: 0;
+    background-size: 86%;
+    height: 40px;
+    width: 40px;
+  }
+  .seo {
+    background-position: 8px -185px;
+  }
+  .socialManage {
+    background-position: 7px -302px;
+  }
+  .paid {
+    background-position: 7px -126px;
+  }
+  .analytics {
+    background-position: 8px -214px;
+    background-size: 77%;
+  }
+  .competition {
+    background-position: 6px 2px;
+  }
+  .contentMarket {
+    background-position: 8px -53px;
+    background-size: 75%;
+  }
+  .singleContent .xtraP {
+    border: 1px solid #EBEBEB;
+    border-top: none;
+  }
+  .mobile-collapse-content .mobileCollapseimage .singleContent .desktop-view-content {
+    border: none;
+  }
+  .dmBenifits {
+    margin: 30px 0;
+    padding: 20px 0;
+    background-color: #eee;
+  }
+  .aboutInner {
+    margin: 10px auto 50px;
+  }
+  .dmBenifits h2,
+  .dmBenifits .listText,
+  .aboutInner h2 {
+    width: 88%;
+  }
+  .singleContent h2 {
+    width: 88%;
+    margin: 10px auto 30px;
+  }
+  .singleContent .mobile-collapse-content {
+    background-color: #eee;
+    border: none;
+    margin-bottom: 10px;
+  }
+  .collapseImg {
+    display: none;
+  }
+  .quesSymbol {
+    display: inline-block;
+    float: left;
+  }
+  .quesText {
+    display: inline-block;
+    width: 88%;
+  }
+  .dmHeadings {
+    margin: 0 auto;
+  }
+  .subMenus #mobMenuHolder li a .solnTileMob {
+    width: 30px;
+  }
+  #clientSection {
+    padding-top: 40px;
+    border-top: 1px solid #EBEBEB;
+    border-bottom: 1px solid #EBEBEB;
+    background: none;
+    margin: 30px auto;
+  }
+  .rightsideData {
+    margin-bottom: 0!important;
+  }
+  .commentsContainer {
+    padding: 95px 20px 20px 20px;
+    background-position: center 20px;
+    background-color: #f8f8f8;
+  }
+  .rightsideData,
+  .leftsideData {
+    width: 100%;
+    padding: 0;
+    border: none;
+    margin-bottom: 20px;
+    display: block;
+  }
+  .mobileappContent {
+    width: 100%;
+  }
+  .solutionTile {
+    display: none;
+  }
+  .checkInner h2 {
+    width: 88%;
+  }
+  .checkContainer {
+    margin-top: 46px;
+  }
+  .checkInnerRight ul {
+    width: 91%;
+    float: none;
+  }
+  .collapseContent.clientCollapse {
+    width: 88%;
+    justify-content: space-around;
+    -ms-justify-content: space-around;
+    -webkit-justify-content: space-around;
+    margin: 0 auto;
+  }
+  .checkInnerRight ul li:last-child {
+    margin-top: 20px;
+  }
+  .view {
+    width: 35%;
+    padding: 20px 0;
+  }
+  .collapseContent .view:last-child {
+    text-align: right;
+    margin-right: 1%;
+    width: 99%;
+  }
+  .desktop-view-content {
+    width: 100%;
+    padding: 0;
+  }
+  .iconArrow {
+    font-size: 22px;
+    text-align: right;
+  }
+  .xtraP {
+    display: none;
+    padding: 0 20px 20px;
+    box-sizing: border-box;
+  }
+  .dualContent .desktop-view-content {
+    margin-bottom: 0;
+    border: none;
+    border-top: 1px solid #EBEBEB;
+    width: 100%;
+    padding: 0 !important;
+    display: block;
+  }
+  .collapseborderImage,
+  .desktopViewHeading {
+    display: none;
+  }
+  .mobile-collapse-content {
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fff;
+    font-size: 28px;
+    padding: 20px;
+    cursor: pointer;
+  }
+  .mobile-collapse-content span,
+  .dmFAQSection .mobileCollapseContent {
+    display: table-cell;
+    padding-right: 8px;
+    vertical-align: middle;
+  }
+  .mobile-collapse-content .mobileCollapseimage {
+    width: 48px;
+  }
+  .mobile-collapse-content {
+    font-size: 18px;
+    padding-left: 10px;
+  }
+  .bannerImageSolution {
+    display: none;
+  }
+  .leftTextData,
+  .rightTextData {
+    width: 100%;
+  }
+  .magentoContent .socialBox {
+    margin: 30px auto 8px;
+    padding: 30px 0;
+    width: 99%;
+  }
+  .magentoContent .leftTextData,
+  .magentoContent .rightTextData {
+    display: block;
+    width: 88%;
+    margin: 0 auto;
+  }
+  .magentoContent .analyticsleftcontent {
+    display: block;
+    width: 88%;
+    margin: 0 auto;
+    float: none;
+  }
+  .magentoContent .analyticsrightcontent {
+    border: 0 none;
+    display: block;
+    margin: 30px auto 0;
+    padding: 0;
+    width: 88%;
+    float: none;
+  }
+  .magentoContent .rightdata {
+    display: block;
+    padding-left: 0;
+    text-align: center;
+  }
+  .magentoContent .analyticslist {
+    margin: 0;
+  }
+  .magentoContent .analyticsrightcontent p:last-child {
+    width: 100%;
+    text-align: left;
+  }
+  .magentosecontent {
+    float: none;
+  }
+  .moodleThemes {
+    margin: 0 auto;
+    width: 88%;
+    float: none;
+  }
+  .moodleImage {
+    display: none;
+  }
+  .moodle {
+    width: 100%;
+    margin-top: 0px;
+  }
+  .moodleThemes p {
+    margin-bottom: 20px;
+  }
+  .listText.moodleLists {
+    margin: 20px auto 0;
+    width: 88%;
+  }
+  .seoOptimization .leftTextData,
+  .seoOptimization .rightTextData {
+    width: 88%;
+    margin: 0 auto;
+  }
+  .seoOptimization p {
+    width: 100%!important;
+  }
+  .seoOptimization .leftTextData p {
+    margin-bottom: 0px;
+  }
+  .seoOpt .leftTextData,
+  .seoOpt .rightTextData {
+    width: 100%;
+  }
+  .seoHealth h3 {
+    text-align: left;
+  }
+  .seoBtn {
+    float: none;
+    margin: 0 auto;
+    width: 88%;
+  }
+  .seoAd * {
+    width: 88%;
+  }
+  .seoAd .leftContent,
+  .seoAd .middleContent,
+  .seoAd .rightContent {
+    float: none;
+    margin: 25px auto 0;
+    width: 88% !important;
+  }
+  .seoAd .leftContent *,
+  .seoAd .middleContent *,
+  .seoAd .rightContent * {
+    width: 100%;
+  }
+  .seoAd .rightContent {
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 20px;
+  }
+  .seoAd {
+    border: none;
+    padding-bottom: 0px;
+  }
+  .seoOpt .listCont {
+    font-size: 14px;
+  }
+  .seoOpt {
+    margin-bottom: 20px;
+  }
+  .seoBtn ul {
+    margin-top: 0px;
+  }
+  .seoHealth p {
+    margin-top: 10px!important;
+  }
+  .magentoContent .analyticslist li {
+    display: table;
+  }
+  .magentoContent .iconCheck,
+  .magentoContent .listanalyticsValues {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .magentoContent .iconCheck {
+    width: 25px;
+    font-size: 17px;
+  }
+  .leftTextData,
+  .rightTextData {
+    width: 100%;
+  }
+  .navImg {
+    display: none;
+  }
+}
+@media screen and (min-width:1600px) {
+  .headContainer p {
+    line-height: 1;
+    text-align: left;
+  }
+}
+@media screen and (max-width:767px) {
+  .socialAnalyticsWrapper>div .listText {
+    margin-bottom: 40px;
+  }
+}
+@media screen and (max-width:439px) {
+  .socialAnalyticsWrapper>div .listText {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (min-width:768px) {
+  .rpaFirstDesciption:nth-of-type(1)>div {
+    position: relative;
+  }
+  .rpaFirstDesciption:nth-of-type(1)>div:nth-child(2):before {
+    content: "";
+    border-right: 1px solid #e5e5e5;
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    height: calc(100% - 66px);
+  }
+  .smmClientSection .seoClientLogo span img {
+    width: 100%;
+    max-width: 170px;
+  }
+  .seoClientLogo.webSocialClientFirst span.rossetaStone,
+  .seoClientLogo.webSocialClientFirst span.ogilvy {
+    width: 24%;
+  }
+  .smmClientSection .seoClientLogo span.ogilvy img {
+    max-width: 160px;
+  }
+  .smmClientSection .seoClientLogo span.hillKnowlton img {
+    max-width: 215px;
+  }
+  .ciClientSection .seoClientLogo span {
+    width: auto;
+    // margin-right: 15px;
+  }
+  .ecommerceContent .ecommerceLeftData .ecommerceBlock h2 {
+    border-bottom: 0 solid !important;
+  }
+  .energyTab .desktop-view-content:nth-child(1) .navImg {
+    margin-bottom: 14px;
+  }
+  .energyTab .desktop-view-content:nth-child(3) .navImg {
+    margin-bottom: 6px;
+  }
+  .designDocument p {
+    display: block!important;
+  }
+  .iotRemoteTracking {
+    margin-top: 7px;
+    margin-bottom: 6px;
+  }
+  .ecommerceLeftData .block {
+    margin-bottom: 50px!important;
+  }
+  .retailIot .iotTileHeading {
+    margin-top: 0;
+  }
+  .switchPara.xtraP {
+    display: block!important;
+    color: #727272;
+  }
+  .healthTab .navImg {
+    height: 81px;
+  }
+  .xtraP {
+    display: block;
+  }
+  .retailIot .desktop-view-content:last-child {
+    padding-right: 140px;
+  }
+  .retailIot .desktop-view-content:nth-child(4) {
+    padding-left: 140px;
+  }
+  .retailIot .desktop-view-content:last-child,
+  .retailIot .desktop-view-content:nth-child(4) {
+    width: 50%;
+    padding-bottom: 0;
+  }
+  .iotSolnContainer {
+    background: url(../images/responsive/solution/iot/iotSolBg.png) no-repeat;
+    background-size: cover;
+  }
+  .retailIot .desktop-view-content {
+    width: 33%;
+  }
+  .healthTab .desktop-view-content {
+    width: 33%;
+    padding-bottom: 0;
+  }
+  .energyTab .expandTitle {
+    margin-top: 0;
+  }
+  .energyTab .desktop-view-content {
+    width: 25%;
+    padding-bottom: 0;
+  }
+  .iotSolnContainer .energyTab.blocks {
+    padding-top: 0;
+  }
+  .retailIot .innerNavIcons:first-child {
+    width: 56%;
+  }
+  .retailIot .innerNavIcons:last-child {
+    width: 40%;
+  }
+  .iotSolnContainer .desktop-view-content {
+    text-align: center;
+  }
+  .active .solnNav {
+    pointer-events: none;
+  }
+  .active .healthCare .solnNav {
+    background-position: 1px -153px;
+  }
+  .active .manufacture .solnNav {
+    background-position: 1px -474px;
+  }
+  .active .energy .solnNav {
+    background-position: 1px -1119px;
+  }
+  .active .retail .solnNav {
+    background-position: 1px -795px;
+  }
+  .iotSolnContainer .blocks {
+    padding-top: 231px;
+  }
+  .iotSolnContainer .blocks.healthTab,
+  .iotSolnContainer .blocks.retailIot {
+    padding-top: 0;
+  }
+  .iotSolnContainer .blocks {
+    -moz-transition: opacity 0.5s linear;
+    -o-transition: opacity 0.5s linear;
+    -webkit-transition: opacity 0.75 linear;
+    transition: opacity .5s linear;
+    opacity: 0;
+    height: 0;
+  }
+  .iotSolnContainer .tabContent.active .blocks {
+    opacity: 1;
+    height: auto;
+  }
+  .solnHeading {
+    color: #2d2d2d;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 16px;
+  }
+  .tabContent.active .solutionTab {
+    pointer-events: none;
+  }
+  .innerNavContainer {
+    display: table;
+    width: 100%;
+    padding-top: 40px;
+    table-layout: fixed;
+  }
+  .innerNavIcons {
+    width: 48%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .iotSolnContainer .icon-checkmark {
+    display: none;
+  }
+  .iotSolnContainer .dualcontent .desktop-view-content {
+    text-align: center;
+    margin-bottom: 0!important;
+    padding: 20px;
+    width: 50%;
+  }
+  .iotSolnContainer .collapseContent.dualcontent .desktop-view-content:nth-child(odd) {
+    margin-right: 0;
+  }
+  .iotSolnContainer .collapseContent.dualcontent {
+    margin-top: 0
+  }
+  .navImg {
+    width: 120px;
+    display: inline-block;
+  }
+  .navImg.small {
+    width: 170px;
+  }
+  .iotSolnContainer {
+    margin: 38px 0 60px;
+    padding: 42px 0 0;
+  }
+  .iotSolnContainer .solutionTab p {
+    padding-bottom: 10px;
+  }
+  .iotSolnContainer .solutionTab {
+    border-bottom: 2px solid #d3d3d3;
+  }
+  .iotSolnContainer .active .manufacture {
+    border-bottom: 3px solid #0fb49c;
+  }
+  .iotSolnContainer .active .healthCare {
+    border-bottom: 3px solid #3788a5;
+  }
+  .iotSolnContainer .active .retail {
+    border-bottom: 3px solid #7c6295;
+  }
+  .iotSolnContainer .active .energy {
+    border-bottom: 3px solid #4076ab;
+  }
+  .iotSolnContainer .active .solutionTab p {
+    font-weight: bold;
+  }
+  .active .solutionTab:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 45%;
+  }
+  .active .manufacture:after {
+    border: 8px solid #0fb49c;
+    border-color: #0fb49c transparent transparent transparent;
+  }
+  .active .healthCare:after {
+    border: 8px solid #3788a5;
+    border-color: #3788a5 transparent transparent transparent;
+  }
+  .active .retail:after {
+    border: 8px solid #7c6295;
+    border-color: #7c6295 transparent transparent transparent;
+  }
+  .active .energy:after {
+    border: 8px solid #4076ab;
+    border-color: #4076ab transparent transparent transparent;
+  }
+  /*dm*/
+  
+  .singleContent h2 {
+    width: 100%;
+    text-align: left;
+    padding: 20px 0;
+  }
+  .innerCase.bigDataWrapper,
+  .collapseContent.singleContent.bigDataWrapper {
+    width: 75%;
+  }
+  .collapseContent.singleContent {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .bigDataWrapper.singleContent .desktop-view-content {
+    width: 100%;
+  }
+  .singleContent .desktop-view-content {
+    width: 98%;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+  }
+  .singleContent .mobile-collapse-content {
+    display: block;
+    padding: 6px 0 6px 25px;
+    background-color: #eee;
+    margin-top: 10px;
+  }
+  .singleContent .mobile-collapse-content:hover {
+    cursor: pointer;
+  }
+  .singleContent .xtraP {
+    display: none;
+    padding: 30px;
+    border: 1px solid #EBEBEB;
+    padding: 30px;
+  }
+  .singleContent .mobileCollapseContent:hover {
+    text-decoration: underline;
+  }
+  .dmBenifits .listText li {
+    padding-bottom: 10px;
+  }
+  #clientSection {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .innerCase.aboutInner {
+    padding-bottom: 80px;
+  }
+  .dmBenifits {
+    width: 100%;
+    background-size: cover;
+    background-image: url(../images/responsive/solution/digimarketing/bg-image.png);
+    clear: both;
+    padding: 46px 0;
+    margin: 50px 0;
+  }
+  .checkInnerLeft {
+    width: 59%;
+    float: left;
+    box-sizing: border-box;
+    padding-right: 30px;
+  }
+  .checkInnerLeft p:first-child {
+    margin-top: 0;
+  }
+  .checkInnerRight {
+    float: left;
+    width: 40%;
+  }
+  .checkInner {
+    width: 84%;
+    margin: 0 auto;
+  }
+  .collapseContent.dualcontent {
+    margin-top: 136px;
+  }
+  .collapseContent.dualcontent .desktop-view-content:nth-child(odd) {
+    margin-right: 6%;
+  }
+  .collapseContent.dualcontent .desktop-view-content {
+    width: 45%;
+    margin-bottom: 120px;
+    display: block;
+  }
+  .dm.collapseContent .desktop-view-content:hover,
+  .dm.collapseContent .desktop-view-content:hover > .collapseImg {
+    box-shadow: 0 0 1em #d8d8d8;
+    cursor: pointer;
+  }
+  .mobile-collapse-content {
+    display: none;
+  }
+  .desktopViewHeading {
+    text-align: center;
+    padding: 10px 0 20px;
+    display: block;
+  }
+  .innerCase {
+    width: 91%;
+    margin: 0 auto;
+  }
+  .mobBannerheading {
+    display: none;
+  }
+  .bannerImageSolution {
+    text-align: center;
+    display: table;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    margin-top: -64px;
+    z-index: -1;
+  }
+  #breadcrumb.bannerBreadcrumb {
+    padding: 10px 0;
+    background-color: rgba(255, 255, 255, 0.78);
+    width: 100%;
+  }
+  #breadcrumb.bannerBreadcrumb #breadcrumbInner {
+    width: 91%;
+    display: block;
+  }
+  .bannerImageSolution img {
+    width: 100%!important;
+  }
+  .bannerImageSolution h1 {
+    color: #fff;
+    text-align: left;
+    font-family: 'OpenSansRegular';
+    left: 5%;
+    top: 42%;
+    position: absolute;
+    font-size: 50px;
+  }
+  .bannerImageSolution h1 span {
+    display: block;
+    font-size: 34px;
+    font-weight: normal;
+    padding-bottom: 8px;
+    font-family: 'OpenSansLight';
+  }
+  .iotSolnContainer .tabContent .blocks {
+    display: inherit;
+  }
+  .iotSolnContainer .tabContent.active .blocks {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+  }
+}
+@media screen and (min-width:1024px) and (max-width:1039px) {
+  .subMenus .menuSelected li a {
+    color: #e2292f;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+  }
+  .solutionTile.mobileappContent {
+    display: none;
+  }
+  #productsNav.digitalMarketingTab {
+    padding-top: 30px;
+  }
+}
+@media screen and (min-width:767px) and (max-width:1024px) {
+  .rtlsDescWrapper .chatbotIndFirstList>div:nth-child(2) {
+    width: 33%;
+  }
+  .rtlsDescWrapper .chatbotIndFirstList>div, 
+  .rtlsDescWrapper .chatbotIndSecondList>div {
+    padding: 0 30px;
+  }
+  .rpsServiceContents:nth-of-type(1) {
+    padding-bottom: 60px;
+  }
+  .seoClientLogoList span:first-child {
+    background-position: -1085px 283px;
+  }
+  .seoClientLogoList span:nth-child(2) {
+    background-position: -1375px 283px;
+  }
+  .seoClientLogoList span:nth-child(3) {
+    background-position: -545px 283px;
+  }
+  .digitalAnalyticsClientLogos span:first-child {
+    background-position: -16040px 263px;
+  }
+  .digitalAnalyticsClientLogos span:nth-child(2) {
+    background-position: -16316px 261px;
+  }
+  .digitalAnalyticsClientLogos span:nth-child(3) {
+    background-position: -5028px 264px;
+  }
+  .ciClientLogoList span:first-child {
+    background-position: -35px 284px;
+  }
+  .ciClientLogoList span:nth-child(2) {
+    background-position: -545px 283px;
+  }
+  .ciClientLogoList span:nth-child(3) {
+    background-position: -825px 283px;
+  }
+  .digitalMarketingClientLogos .view:first-child p {
+    background-position: -16066px 263px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(2) p {
+    background-position: -560px 283px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(3) p {
+    background-position: -314px 283px;
+  }
+  .digitalMarketingClientLogos .view:nth-child(4) p {
+    background-position: -825px 283px;
+  }
+  .webSocialClientLogoList span:first-child {
+    background-position: -299px 283px;
+  }
+  .webSocialClientLogoList span:nth-child(2) {
+    background-position: -16315px 280px;
+  }
+  .webSocialClientLogoList span:nth-child(3) {
+    background-position: -825px 283px;
+  }
+  .digitalMarketingClientLogos .view {
+    width: 21%;
+  }
+  .campaignReportingLast.grayBackgroundCommon .socialMedialinkSection .campaignReportingImg img {
+      max-width: 55%;
+  }
+  .seoAudit figure {
+    vertical-align: top;
+  }
+  .seoAudit.customIntellDesc figure {
+    vertical-align: middle;
+  }
+  .paidAddManagement .socialMedialinkSection .seoAudit figure.smmIpad,
+  .paidAddManagement .socialMedialinkSection .seoAudit figure.leftSpacing.campaignReportingImg {
+    display: table-cell;
+  }
+  .paidAddManagement .socialMedialinkSection .seoAudit figure.smmWeb,
+  .paidAddManagement .socialMedialinkSection .seoAudit figure.leftSpacing {
+    display: none;
+  }
+  .paidAddManagement .socialMedialinkSection figure.smmIpad img,
+  .campaignReportingLast.grayBackgroundCommon figure.campaignReportingImg img {
+    width: 150px;
+    position: absolute;
+    top: 0;
+  }
+  .campaignReportingLast.grayBackgroundCommon figure.campaignReportingImg img,
+  .socialMedialinkSection figure.smmIpadImg img {
+    position: absolute;
+    top: 0;
+  }
+  .ciFAQ .xtraP.ciDropdownPara {
+    padding: 0 20px 20px 20px;
+  }
+  .chooseFormLinkWrapper:hover img {
+    transform: initial;
+  }
+  .seoClientLogo.webSocialClientFirst span:first-child {
+    width: 27%;
+  }
+  .seoClientLogo.webSocialClientFirst span:nth-child(2) {
+    width: 32%;
+  }
+  .seoClientLogo span:hover .greyClientLogo,
+  .seoClientLogo span .greyClientLogo {
+    display: none;
+  }
+  .colorClientLogo {
+    display: inline-block;
+  }
+  .socialAnalyticsWrapper>div {
+    width: 45%;
+  }
+  .socialAnalyticsWrapper>div:nth-child(1) {
+    margin-left: 0;
+  }
+  .socialAnalyticsWrapper>div:nth-child(2) {
+    margin-right: 0;
+  }
+  .ciCaseStudyQuote .quoteLeft, 
+  .ciCaseStudyQuote .quoteRight {
+    width: auto;
+  }
+  .sevenAspectsWrapper {
+    margin: 0 auto;
+  }
+  .seoClientLogo span img {
+    width: 140px;
+  }
+  .smmClientSection .seoClientLogo span img {
+    width: 130px;
+  }
+  #productsNav.digitalMarketingTab .subMenus #mobMenuHolder {
+    width: 88% !important;
+  }
+  .ciCaseStudyQuote {
+    width: 100%;
+    padding-left: 0;
+    border: none;
+    padding-top: 40px;
+  }
+  .ciCaseStudyWrapper .desktop-view-content .iconArrow {
+    color: #cdcdcd;
+  }
+  .ciCaseStudy .mobile-collapse-content h3 {
+    padding-bottom: 0;
+  }
+  .ciCaseStudyOuterWrapper .mobilitySolutionsMobile,
+  .ciCaseStudyQuote.ciCaseStudyQuoteMob {
+    display: block;
+  }
+  .ciCaseStudyOuterWrapper .dualContent .desktop-view-content {
+    margin-bottom: 0;
+    border: none;
+    border-top: 1px solid #EBEBEB;
+    width: 100%;
+    display: block;
+    border: 1px solid #EBEBEB;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+  }
+  .ciCaseStudyOuterWrapper .mobile-collapse-content {
+    font-size: 18px;
+    padding-left: 10px;
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #fff;
+    padding: 20px;
+    cursor: pointer;
+    padding: 15px 2%;
+    display: table;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+  }
+  .ciCaseStudyOuterWrapper .xtraP {
+    display: none;
+    padding: 15px 2%;
+  }
+  .ciCaseStudyOuterWrapper span.iconArrow {
+    display: table-cell;
+  }
+  .ciCaseStudyWrapper,
+  #productsNav.digitalMarketingTab.casesubNav .subMenus .menuSelected {
+    width: 88%;
+  }
+  #productsNav.digitalMarketingTab.casesubNav .subMenus .menuSelected {
+    margin-top: 30px;
+  }
+  // #productsNav.digitalMarketingTab.casesubNav {
+  //   padding-top: 40px;
+  // }
+  .ciCaseStudy {
+    background-image: none;
+  }
+  .innerciWrapper {
+    padding: 60px 5%;
+  }
+  .ciCaseStudyQuoteSection,
+  .cicasestudyWeb {
+    display: none;
+  }
+  .magentoContent.dataVisContent .leftTextData,
+  .magentoContent.dataVisContent .rightTextData {
+    padding-bottom: 0;
+  }
+  .cloudService.cldsocialService,
+  .leftOpenDiv.konyBottomData.socialContentWrapper,
+  .CIpara,
+  .innerCase.bigDataWrapper,
+  .innerCase.aboutInner.confinementContainer.bigDataWrapper,
+  .sevenAspectsWrapper,
+  .innerCase.bigDataWrapper, .collapseContent.singleContent.bigDataWrapper {
+    width: 88%;
+  }
+  .bannerImageSolution h1 span {
+    font-size: 26px;
+  }
+  .bannerImageSolution h1 {
+    font-size: 40px;
+  }
+  .iotSolnContainer .blocks {
+    padding-top: 210px;
+  }
+  .retailIot .desktop-view-content:last-child {
+    padding-right: 70px;
+  }
+  .retailIot .desktop-view-content:nth-child(4) {
+    padding-left: 70px;
+  }
+  .view {
+    width: 16%;
+  }
+  .checkInner {
+    width: 91%;
+  }
+  .checkInnerRight ul,
+  .rtlsSolutionsWrapper {
+    width: 100%;
+  }
+  .mobileappContent.solutionTile {
+    display: none;
+  }
+  .solnNav {
+    width: 100px;
+    height: 100px;
+  }
+  .active .manufacture .solnNav {
+    background-position: 1px -395px;
+  }
+  .manufacture .solnNav {
+    background-position: 5px -262px;
+  }
+  .active .healthCare .solnNav {
+    background-position: 1px -127px;
+  }
+  .healthCare .solnNav {
+    background-position: 5px 4px;
+  }
+  .active .retail .solnNav {
+    background-position: 1px -663px;
+  }
+  .retail .solnNav {
+    background-position: 5px -530px;
+  }
+  .energy .solnNav {
+    background-position: 0px -807px;
+  }
+  .active .energy .solnNav {
+    background-position: 0px -933px;
+  }
+  .retailIot .desktop-view-content {
+    padding: 20px 7px 60px;
+  }
+  .iotSolnContainer .solutionTab {
+    width: 16%;
+  }
+  .manufacture.solutionTab {
+    left: 18%;
+  }
+  .solutionTab.healthCare {
+    left: 34%;
+  }
+  .solutionTab.retail {
+    left: 50%;
+  }
+  .solutionTab.energy {
+    left: 66%;
+  }
+}
+@media screen and (min-width:500px) and (max-width:767px) {
+  .rpaSolutionWrapper {
+    width: 70%;
+  }
+}
+@media screen and (max-width:400px) {
+  .quoteClientSection {
+    display: flex;
+    justify-content: space-between;
+  }
+  .ciProductDrop {
+    display: none;
+  }
+  .ciProductDropMob,
+  .ciProductDropMob span {
+    display: block;
+  }
+  .quoteClientSection img:nth-child(1),.quoteClientSection img:nth-child(3) {
+    height: 32px;
+  }
+}

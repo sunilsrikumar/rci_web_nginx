@@ -1,0 +1,338 @@
+{% load static wagtailuserbar %}
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <title>Build Your Career with Us | QBurst</title>
+    <meta name="description" content="Our people are our greatest asset. We welcome the talented and motivated to join our growing team." />
+    <meta property="og:image" content="../../images/QBurstShareLogo.jpg" />
+    <meta name="google-site-verification" content="2nXO3_4rhv9p7kO1ixwBLZDcT2JGI1951vzzZrxd4x8" />
+    <meta name="msvalidate.01" content="9D5D636E5951DF7C7C4FAE9BE1573277" />
+    <meta name="format-detection" content="telephone=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:600,700" rel="stylesheet">
+
+    <link href="{% static 'stylesheets/commonStyles.min.3-2-8.407857224179678098.css'%}" rel="stylesheet prefetch" type="text/css" media="all" />
+<link href="{% static 'stylesheets/flexslider.min.3-2-8.407857224179678098.css'%}" rel="stylesheet" type="text/css" media="all" />
+<link href="{% static 'stylesheets/company.3-2-8.407857224179678098.css'%}" rel="stylesheet" type="text/css" media="all" />
+
+        <link href="{% static 'stylesheets/resources.3-2-8.407857224179678098.css'%}" rel="stylesheet" type="text/css" media="all" />
+        <link href="{% static 'stylesheets/mediaqueries.min.3-2-8.407857224179678098.css'%}" rel="stylesheet prefetch" type="text/css" media="all" />
+    <link href="{% static 'stylesheets/mobile.min.3-2-8.407857224179678098.css'%}" rel="stylesheet prefetch" type="text/css" media="all" />
+    <link href="{% static 'stylesheets/iPad.min.3-2-8.407857224179678098.css'%}" rel="stylesheet" type="text/css" id="iPadcommon" media="all" />
+    <script src="{% static 'js/jQuery.min.js'%}"></script>
+
+    </head>
+
+
+
+    <body class="{% block body_class %}{% endblock %}">
+        {% wagtailuserbar %}
+
+        {% block content %}{% endblock %}
+
+        {# Global javascript #}
+        <script type="text/javascript" src="{% static 'js/mysite.js' %}"></script>
+        <script type="text/javascript" src="../../jsi18n/index.html' %}" async defer></script>
+
+        <script src="{% static 'js/validation.min.3-2-8.407857224179678098.js' %}" async defer></script>
+        <script src="{% static 'js/script.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script type="text/javascript" src="{% static 'js/plugin.js' %}"></script>
+        <script src="{% static 'js/jsonRPC.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script src="{% static 'js/commonScript.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script src="{% static 'js/jquery.isotope.3-2-8.407857224179678098.js' %}"></script>
+        <script src="{% static 'js/jquery.transit.min.3-2-8.407857224179678098.js' %}"></script>
+        <script src="{% static 'js/filterisotope.3-2-8.407857224179678098.js' %}"></script>
+
+
+
+
+        <footer id="footer">
+                <div class="Footer">
+                   <div class="footerWrapper">
+                         <div class="blockMiddle">
+                         <ul>
+
+
+                                 <li class="addrsHolder">
+                                     <div class="lastInner">
+                                         <p class="addrs" ><!--itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">-->
+                                             <a href="company/contact/index.html#india">
+                                                 <b>7th Floor, Ganga</b><br>Phase III Campus, Technopark<br> Trivandrum - 695583
+                                             </a>
+                                             <br>
+                                             <b class="footerPhone">
+
+
+                                             </b>
+
+                                         </p>
+                                     </div>
+                                 </li>
+
+                                 <li class="moreButton">
+                                     <a href="company/contact/index.html">
+                                         <div>
+                                             <span>All Locations</span>
+                                         </div>
+                                     </a>
+                                 </li>
+
+                         </ul>
+                     </div>
+                     <div class="blockLeft">
+                         <div class="socialIcons">
+                             <a target="_blank" href="" title="QBurst on LinkedIn" ><img style="width: 30px" src="{% static 'images/linkedin.svg' %}"></a>
+                             <a target="_blank" href="" title="QBurst on Twitter" class=""><img style="width: 30px" src="{% static 'images/twitter.svg' %}"></a>
+                             <a target="_blank" href="" title="QBurst on Facebook" class=""><img style="width: 30px" src="{% static 'images/facebook.svg' %}"></a>
+                             <a target="_blank" href="" title="QBurst on SlideShare" class=""><img style="width: 30px" src="{% static 'images/slideshare.svg' %}"></a>
+                             <a target="_blank" href="" title="QBurst on Youtube" class=""><img style="width: 30px" src="{% static 'images/youtube.svg' %}"></a>
+                             <a target="_blank" href="" title="QBurst on Google+" class=""><img style="width: 30px" src="{% static 'images/play.svg' %}"></a>
+                         </div>
+
+                         <div id="copyright">
+                                 <p>© ... 2018. All Rights Reserved. <a class="focus-footer" href="privacypolicy/index.html">Privacy & Cookies Policy</a></p>
+                                 <p class="salesforceFooterText">All trademarks are of <a href="https://www.salesforce.com/in/?ir=1" target="_blank">salesforce.com</a>, inc. and used here with permission.</p>
+                         </div>
+                     </div>
+                     <div class="clear"></div>
+                 </div>
+               </div>
+                 <div class="scrolTp">
+                     <p>
+                        <img src="{% static 'images/homeImg/Scroll_up.svg' %}" alt="scroll">
+                     </p>
+                 </div>
+             </footer>
+<script src="{% static 'js/appearScript.js' %}" defer></script>
+<script src="{% static 'js/home.min.3-2-8.407857224179678098.js' %}" defer></script>
+<script src="{% static 'js/commonScript.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script type="text/javascript" src="{% static 'jsi18n/index.html' %}" async defer></script>
+
+<script src="{% static 'js/inquiryValidation.min.3-2-8.407857224179678098.js' %}" async defer></script>
+
+        <script type="text/javascript" src="{% static 'js/plugin.js' %}"></script>
+        <script src="{% static 'js/jsonRPC.min.3-2-8.407857224179678098.js' %}"></script>
+
+
+                        <script type="text/javascript" src="{% static 'js/mysite.js' %}"></script>
+        <script type="text/javascript" src="../../jsi18n/index.html' %}" async defer></script>
+
+        <script src="{% static 'js/validation.min.3-2-8.407857224179678098.js' %}" async defer></script>
+        <script src="{% static 'js/script.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script type="text/javascript" src="{% static 'js/plugin.js' %}"></script>
+        <script src="{% static 'js/jsonRPC.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script src="{% static 'js/commonScript.min.3-2-8.407857224179678098.js' %}"></script>
+
+        <script src="{% static 'js/jquery.isotope.3-2-8.407857224179678098.js' %}"></script>
+        <script src="{% static 'js/jquery.transit.min.3-2-8.407857224179678098.js' %}"></script>
+        <script src="{% static 'js/filterisotope.3-2-8.407857224179678098.js' %}"></script>
+        <!--
+        <script src="/js/commonScript.min.3-2-8.407857224179678098.js"></script>
+         -->
+        <script type="text/javascript">
+        var window_prop = 'index.html'
+        var path = 'company/career/openings/index.html'
+        load_job_table(window_prop, path);
+        </script>
+
+
+        <script type="text/javascript">
+        $(".cookieclose").click(function() {
+            $(".cookies").css("display", "none");
+            $("#header").css("top", "0");
+        });
+        var _gaq = _gaq || [];
+
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_setAllowHash', false]);
+        _gaq.push(['_setAccount', 'UA-4375023-1']);
+        _gaq.push(['_setDomainName', 'www.qburst.com']);
+        _gaq.push(['_setDomainName', 'www.qburst.pl']);
+        _gaq.push(['_setDomainName', 'www.qburst.eu']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-4375023-1', 'auto');
+        ga('send', 'pageview');
+        </script>
+
+        <script type="text/javascript">
+        var abc = document.body.clientWidth;
+        $(window).bind("load", function() {
+            if (abc > 686) {
+                $.getScript('http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4e71a4c93174bd49');
+            } else {
+                console.log("add this widget not loaded");
+            }
+        });
+        </script>
+
+        <script type="text/javascript">
+        $(document).ready(function() {
+            var domain_url = "https://www.qburst.com".slice(8);
+            if (window.location.host != domain_url) {
+                var defaultCookie = getCookie('domainname');
+                if (defaultCookie == null || defaultCookie == '') {
+                    setCookie("domainname", "name of domain")
+                    $("#cookiePolicy").css("display", "block");
+                }
+            }
+            closeAlert();
+
+            if ($('#cookiePolicy').css('display') == 'block') {
+                $("#header").css("top", "110px");
+            }
+            var winwid = document.body.clientWidth;
+            var device = navigator.userAgent;
+            var version_no = '3-2-8.407857224179678098';
+            $(window).resize(function() {
+                var winwid = document.body.clientWidth;
+                if (device.indexOf("KFJWI") > -1 || device.indexOf("Xoom") > -1 && winwid == "1280" ||
+                    device.indexOf("GT") > -1 && winwid == "1280" || device.indexOf("Nexus 10") > -1 && winwid == "1280" || (winwid > 1010 && winwid < 1025)) {
+                    if (!$("link[href='../stylesheets/maintain.css']").length) {
+                        $('<link href="../stylesheets/maintain.css" id="style1" rel="stylesheet">').appendTo("head");
+                    }
+                } else {
+                    if (!$("link[href='../stylesheets/maintain.css']").length) {
+                        $('#style1').remove();
+                    }
+                }
+                if ($("#iPadcommon").length == 0) {
+                    if (winwid > 750 && winwid < 1024) {
+                        $('<link href="../stylesheets/iPad.min.' + version_no + '.css" rel="stylesheet prefetch" type="text/css" media="all" id="ipadCss" />').appendTo("head");
+                    } else {
+                        $('#ipadCss').remove();
+                    }
+                }
+                var screen_width = screen.width;
+                var domain = window.location.hostname;
+
+            });
+            if (device.indexOf("KFJWI") > -1 || device.indexOf("Xoom") > -1 && winwid == "1280" ||
+                device.indexOf("GT") > -1 && winwid == "1280" || device.indexOf("Nexus 10") > -1 && winwid == "1280" || (winwid > 1010 && winwid < 1025)) {
+                if (!$("link[href='../stylesheets/maintain.css']").length) {
+                    $('<link href="../stylesheets/maintain.css" id="style1" rel="stylesheet">').appendTo("head");
+                }
+            } else {
+                if (!$("link[href='../stylesheets/maintain.css']").length) {
+                    $('#style1').remove();
+                }
+            }
+        });
+        </script>
+        <script>
+        function setCookie(cname, cvalue, exdays) {
+            var defaultCookie = getCookie('domainname');
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toGMTString();
+            document.cookie = cname + "=" + cvalue + "; " + expires;
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1);
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+        function closeAlert() {
+            $(".cookiePolicyClose").click(function() {
+                $("#cookiePolicy").css("display", "none");
+                $("#header").css("top", "0");
+            });
+        }
+        </script>
+        <script type="text/javascript">
+        var country = 'India';
+        var user_domain = 'www.qburst.com';
+        var domain_url = 'https://www.qburst.com'.slice(7);
+        var pl_url = ''.slice(7);
+
+        $(window).load(function() {
+            var winwid = document.body.clientWidth;
+            var version_no = '3-2-8.407857224179678098';
+            var domain = window.location.hostname;
+            if ($("#iPadcommon").length == 0) {
+                if (winwid > 750 && winwid < 1024) {
+                    $('<link href="../stylesheets/iPad.min.' + version_no + '.css" rel="stylesheet prefetch" type="text/css" media="all" id="ipadCss" />').appendTo("head");
+                } else {
+                    $('#ipadCss').remove();
+                }
+            }
+        });
+        $("#document_1").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Application_of_Big_Data_in_Retail_Downloaded', 1);
+        })
+        $("#document_2").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Big_Data_Analytics_in_Insurance_Downloaded', 1);
+        });
+        $("#document_3").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Lambda_Architecture_Near_Real_Time_Big_Data_Analytics_Using_Hadoop_Downloaded', 1);
+        })
+        $("#document_4").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Building_Big_Data_Applications_Downloaded', 1);
+        });
+        $("#document_5").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Social_Media_for_Business_Downloaded', 1);
+        })
+        $("#document_6").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Key_Considerations_before_Embarking_on_an_eCommerce_Project_Downloaded', 1);
+        });
+        $("#document_7").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Mobile_Application_Security_Downloaded', 1);
+        })
+        $("#document_8").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', 'Competitive_Intelligence_in_the_Web_Services_Industry_Downloaded', 1);
+        });
+        $("#document_9").click(function() {
+            ga('send', 'event', 'White_Papers', 'Document_Downloaded', '3_Industries_Transformed_by_the_Industrial_Internet_of_Things_Document_Downloaded', 1);
+        });
+        </script>
+
+
+
+        {% block extra_js %}
+            {# Override this in templates to add extra javascript #}
+        {% endblock %}
+
+    </body>
+</html>

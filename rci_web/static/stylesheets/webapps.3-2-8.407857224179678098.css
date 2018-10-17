@@ -1,0 +1,1822 @@
+/*Chatbots styles*/
+.buildChatbot.commonBottomSection {
+  border: none;
+}
+.chatbotEnterprise h3,
+.chatbotEnterprise ul li,
+.chatbotsIndustries .searchEngineSubhead,
+.searchEngineSubhead {
+  padding-bottom: 20px;
+}
+.chatbotsIndustries .searchEngineSubhead,
+.searchEngineSubhead,
+.buildChatbot h3 {
+  text-align: center;
+}
+.chatbotIndFirstList {
+  width: 100%;
+  display: table;
+  padding-bottom: 0;
+}
+.chatbotIndFirstList>div,
+.chatbotIndSecondList>div {
+  display: table-cell;
+  padding: 0 30px;
+  text-align: center;
+}
+.chatbotIndFirstList>div {
+  width: 33%;
+}
+.chatbotIndSecondList {
+  display: table;
+  width: 75%;
+  margin: 0 auto;
+  padding-bottom: 0;
+}
+.chatbotIndSecondList>div {
+  width: 50%;
+}
+.chatbotEnterprise .listTextCommon {
+  margin: 0 auto;
+  width: 95%;
+}
+.chatbotEnterprise .listTextCommon p,
+.chatbotEnterprise ul li:last-child,
+.chatbotPersonalityWrapperSecond.chatbotPersonalityWrapper>div p {
+  padding-bottom: 0;
+}
+.chatbotEnterprise.paraPadding .chatEnteprisetext {
+  padding-bottom: 30px;
+}
+.chatbotPersonalityWrapper {
+  margin: 0px auto;
+  width: 100%;
+  padding: 0px;
+  display: -webkit-flex;
+  display: -o-flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: flex;
+  -webkit-flex-flow: row;
+  -o-flex-flow: row;
+  flex-flow: row;
+  -ms-flex-flow: row;
+  -moz-flex-flow: row;
+}
+.chatbotPersonalityWrapper>div {
+  -webkit-flex: 50%;
+  -o-flex: 50%;
+  flex: 50%;
+  -ms-flex: 50%;
+  -moz-flex: 50%;
+  margin: 25px;
+  padding: 5px;
+  background: #fff;
+  padding: 40px 30px;
+  border-radius: 4px;
+}
+.chatbotPersonalityWrapper>div:first-child {
+  padding-left: 0;
+  margin-left: 0;
+}
+.chatbotPersonalityWrapper>div:nth-child(2) {
+  padding-right: 0;
+  margin-right: 0;
+}
+.chatbotPersonalityWrapperSecond.chatbotPersonalityWrapper>div {
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.chatbotIndFirstList div img,
+.chatbotIndFirstList div h3,
+.chatbotPersonalityWrapper h3 {
+  padding-bottom: 5px;
+}
+.chatbotPlatform p span {
+  background-image: url(../images/responsive/solution/chatbots/chatbotsLogos.png);
+  height: 80px;
+  display: flex;
+  margin: 0 auto;
+}
+.chatbotPlatform p:first-child span {
+  background-position: 0 -82px;
+  max-width: 115px;
+}
+.chatbotPlatform p:first-child:hover span {
+  background-position: 0 2px;
+}
+.chatbotPlatform p:nth-child(2) span {
+  background-position: -115px -82px;
+  max-width: 136px;
+}
+.chatbotPlatform p:nth-child(2):hover span {
+  background-position: -115px 2px;
+}
+.chatbotPlatform p:nth-child(3) span {
+  background-position: -255px -82px;
+  max-width: 130px;
+}
+.chatbotPlatform p:nth-child(3):hover span {
+  background-position: -255px 2px;
+}
+.chatbotPlatform p:nth-child(4) span {
+  background-position: -390px -82px;
+  max-width: 145px;
+}
+.chatbotPlatform p:nth-child(4):hover span {
+  background-position: -390px 2px;
+}
+.chatbotPlatform p {
+  margin: auto;
+  display: inline-block;
+  width: 24%;
+}
+.buildChatbot h3,
+.buildChatbot .chatbotIndFirstList {
+  padding-top: 40px;
+}
+.chatbotPlatform {
+  padding: 50px 0;
+}
+/*webapps*/
+.microFirst {
+  display: table;
+}
+.microsoftMain .microFirst .spLogo,
+.microFirst p {
+  display: table-cell;
+  vertical-align: middle;
+  float: none;
+}
+.erlangCaseContentWrapper .rightTextData {
+  padding-left: 5%;
+}
+.digitalMarketingTab .wrapper2 ul .owl-item.active span {
+  color: #575757;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+.digitalMarketingTab .wrapper2 ul .active span, 
+.digitalMarketingTab .wrapper2 ul .owl-item.active li a.active span {
+  color: #e2292f;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.imgHolder.weappLogoList li {
+  display: inline-block;
+}
+.block-img-holder li span {
+  background-image: url(../images/responsive/commons/logoListSprite.png);
+  height: 94px;
+  margin: auto;
+  display: flex;
+}
+.weappLogoList li span,
+.cmsClientLogos li span {
+  background-image: url(../images/responsive/service/web/webSprite.png);
+  height: 94px;
+  margin: auto;
+  max-width: 165px;
+  display: flex;
+}
+.block-img-holder li:first-child span {
+  background-position: -3380px 96px;
+  max-width: 98px;
+}
+.block-img-holder li:first-child:hover span {
+  background-position: -3380px 186px;
+}
+.block-img-holder li:nth-child(2) span {
+  background-position: -3478px 86px;
+  max-width: 220px;
+}
+.block-img-holder li:nth-child(2):hover span {
+  background-position: -3478px 176px;
+}
+.block-img-holder li:nth-child(3) span {
+  background-position: -3864px 99px;
+  max-width: 250px;
+}
+.block-img-holder li:nth-child(3):hover span {
+  background-position: -3864px 187px;
+}
+.block-img-holder li:nth-child(4) span {
+  background-position: -3710px 87px;
+  max-width: 150px;
+}
+.block-img-holder li:nth-child(4):hover span {
+  background-position: -3710px 176px;
+}
+.block-img-holder .blockchain-img-list:nth-child(3) {
+  width: 27%;
+}
+.block-img-holder .blockchain-img-list:nth-child(4) {
+  width: 23%;
+}
+.weappLogoList li:nth-child(3) span ,
+.cmsClientLogos li:nth-child(2) span,
+.cmsClientLogos li:nth-child(3) span {
+  max-width: 130px;
+}
+.weappLogoList li:first-child span {
+  background-position:  0 -100px;
+}
+.weappLogoList li:first-child:hover span {
+  background-position:  0 4px;
+}
+.weappLogoList li:nth-child(2) span {
+  background-position:  -165px -100px;
+}
+.weappLogoList li:nth-child(2):hover span {
+  background-position: -165px 2px;
+}
+.weappLogoList li:nth-child(3) span {
+  background-position: -329px -102px;
+}
+.weappLogoList li:nth-child(3):hover span {
+  background-position:  -329px -7px;
+}
+.cmsClientLogos li:first-child span {
+  background-position:  -165px -100px;
+}
+.cmsClientLogos li:first-child:hover span {
+  background-position:  -165px 2px;
+}
+.cmsClientLogos li:nth-child(2) span {
+  background-position: -1065px -103px;
+}
+.cmsClientLogos li:nth-child(2):hover span {
+  background-position: -1065px 9px;
+}
+.cmsClientLogos li:nth-child(3) span {
+  background-position: -1182px -92px;
+}
+.cmsClientLogos li:nth-child(3):hover span {
+  background-position: -1182px 9px;
+}
+.cmsLists ul.listTextCommon {
+  width: 88%;
+}
+.rubyCrossSubDescription p,
+.microFirst p {
+  padding-left: 20px;
+}
+.aspimg {
+  background: url("../images/responsive/service/web/webapps/ruby/asp.png") no-repeat left center;
+  height: 29px;
+  margin: 0 auto;
+  width: 100px;
+}
+.javaimg {
+  background: url("../images/responsive/service/web/webapps/ruby/javalog.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 60px;
+}
+.lampimg {
+  background: url("../images/responsive/service/web/webapps/ruby/lamp.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 68px;
+}
+.rubyimg {
+  background: url("../images/responsive/service/web/webapps/ruby/rubyonrails.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 115px;
+}
+.pythonimg {
+  background: url("../images/responsive/service/web/webapps/ruby/pyth.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 91px;
+}
+.nodeimg {
+  background: url("../images/responsive/service/web/webapps/ruby/node.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 94px;
+}
+.erlangimg {
+  background: url("../images/responsive/service/web/webapps/erlang/erlang.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 94px;
+}
+li.active .rubyimg {
+  background: url("../images/responsive/service/web/webapps/ruby/rubyonrailsactive.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 115px;
+}
+li.active .erlangimg {
+  background: url("../images/responsive/service/web/webapps/erlang/erlangactive.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 94px;
+}
+li.active .nodeimg {
+  background: url("../images/responsive/service/web/webapps/ruby/nodeactive.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 94px;
+}
+li.active .pythonimg {
+  background: url("../images/responsive/service/web/webapps/ruby/pythonactive.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 91px;
+}
+li.active .javaimg {
+  background: url("../images/responsive/service/web/webapps/ruby/java-act.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 60px;
+}
+li.active .aspimg {
+  background: url("../images/responsive/service/web/webapps/ruby/netactive.png") no-repeat center center;
+  height: 40px;
+  margin: 0 auto;
+  width: 100px;
+}
+li.active .lampimg {
+  background: url("../images/responsive/service/web/webapps/ruby/lamp.png") no-repeat center center;
+  height: 29px;
+  margin: 0 auto;
+  width: 68px;
+}
+.crossPlatformNav #mobMenuHolder li p {
+  padding: 5px;
+  line-height: 1;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/*webapps-end*/
+
+
+/*block chain*/
+.biContent .listTextCommon .innerList li span:first-child {
+  color: #e2292f;
+}
+#toggle-less,
+#toggle-more,
+#label-in-mobile {
+  display: none;
+}
+#label-in-mobile,
+#label-in-desktop {
+  color: #262626;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.text-data,
+.windowWrapper .bigDataWrapper {
+  display: table;
+}
+.text-data div {
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+.text-data div:nth-child(1),
+.text-data div:nth-child(3) {
+  margin-right: 2%;
+}
+.windowWrapper .leftTextData,
+.windowWrapper .rightTextData {
+  box-sizing: border-box;
+  display: table-cell;
+}
+.windowWrapper .leftTextData {
+  padding-right: 15px;
+}
+.windowWrapper .rightTextData {
+  padding-left: 15px;
+}
+#public-private h2 {
+  border: none !important;
+}
+#public-private p {
+  margin-top: 0;
+}
+.biContainer .rightTextData {
+  padding-left: 15px;
+  padding-top: 15px;
+  box-sizing: border-box;
+}
+.cmsRightData.drupalcmsRightData {
+  padding-top: 50px;
+}
+.blockchain-app {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
+.desktop-view-content {
+  width: 32%;
+  padding: 0 40px;
+  background-color: #fff;
+  box-sizing: border-box;
+  line-height: 30px;
+  border-right: 1px solid #EBEBEB;
+  float: left;
+  margin-top: 50px;
+}
+.blockchain-app .blockchain-icons {
+  font-size: 40px;
+  padding-bottom: 33px;
+  text-align: center;
+}
+.blockchain-app h3 {
+  text-align: center;
+}
+.desktop-view-content:nth-child(3),
+.desktop-view-content:nth-child(5) {
+  border: none;
+}
+.blockchain-img-list:nth-child(2),
+.blockchain-img-list:nth-child(4) {
+  margin-top: 14px;
+}
+.iconArrow {
+  float: right;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.write-comments {
+  display: block;
+  text-align: center;
+  padding-bottom: 60px;
+}
+.write-comments button {
+  width: 180px;
+  margin: 20px auto;
+  font-size: 16px;
+  text-transform: none;
+}
+.inquiry-para {
+  text-align: center;
+}
+.casestudiesBtn:hover {
+  border-color: #e62422;
+  color: #e62422;
+}
+.block-img-holder .blockchain-img-list {
+  width: 25%;
+  float: left;
+}
+.block-img-holder {
+  margin: 50px auto 15px;
+  text-align: center;
+  width: 100%;
+}
+#blockchain-app-container {
+  padding-bottom: 60px;
+}
+.bigDataService.biWrapper,
+.content .bigDataService.winContentSection,
+.content .windowsServiceWrapper.bigDataWrapper {
+  width: 100%;
+}
+
+/*webapps*/
+
+#pythonCont .mainDesc {
+  display: table;
+  margin-top: 30px;
+  width: 100%;
+}
+#pythonCont .pythonLogo {
+  display: table-cell;
+  vertical-align: middle;
+  width: 35%;
+}
+#pythonCont .expandTitle {
+  display: table-cell;
+  padding-left: 20px;
+}
+#pythonCont .subSection {
+  display: table;
+  margin: 30px auto;
+}
+#pythonCont .subSection div:nth-child(1) {
+  display: table-cell;
+  padding-right: 30px;
+  width: 37%;
+}
+#pythonCont .subSection div:nth-child(2) {
+  display: table-cell;
+  width: 65%;
+}
+#pythonCont .subSection div p {
+  padding-top: 15px;
+}
+#pythonCont .subSection ul li {
+  padding: 15px 0 0;
+  width: auto;
+  // font-size: 16px;
+}
+#pythonCont .subSection ul li span:nth-child(2) {
+  display: inline-block;
+  width: 85%;
+  color: #727272;
+  font-size: 14px;
+}
+#pythonCont .subSection .twinSec .adjustMargin {
+  margin-top: 30px;
+  padding-left: 0;
+}
+#javaContent .javaLogo {
+  display: table-cell;
+  padding-right: 40px;
+  width: 112px;
+}
+#javaContent .mainDesc div:nth-child(2) {
+  display: table-cell;
+  vertical-align: middle;
+  width: auto;
+}
+#javaContent .midSection {
+  margin: 30px auto;
+}
+#javaContent .midSection div:nth-child(1) {
+  display: table-cell;
+  width: auto;
+}
+#javaContent .midSection .expandTitle {
+  margin: 10px 0 30px;
+}
+#javaContent ul li {
+  display: inline-block;
+  padding-bottom: 15px;
+  width: 100%;
+}
+#javaContent .erlangRightContent ul li,
+#javaContent .bottomTable ul li {
+  display: list-item;
+}
+.bottomTable ul.listTextCommon li {
+  color: #000;
+}
+#javaContent .midSection ul li span:nth-child(2) {
+  color: #727272;
+}
+#javaContent ul li:nth-last-child(1) {
+  padding-bottom: 0;
+}
+#javaContent ul li span:nth-child(2) {
+  display: inline-block;
+  width: 85%;
+  color: #727272;
+}
+#javaContent .midSection .java-excel-image {
+  display: table-cell;
+  padding-left: 40px;
+  text-align: right;
+  vertical-align: middle;
+  width: 42%;
+}
+#javaContent .bottomTable {
+  margin: 10px 0 25px;
+  width: 100%;
+}
+#javaContent .bottomTable p {
+  display: table-cell;
+  padding-right: 30px;
+  width: 60%;
+}
+#javaContent .bottomTable ul {
+  border-left: 3px solid #E2292F;
+  display: table-cell;
+  padding-left: 30px;
+  vertical-align: middle;
+  width: 30%;
+}
+#javaContent .bottomTable ul li .icon-Bullet-1 {
+  color: #000;
+}
+#nodeMain .nodeHeading {
+  margin-top: 30px;
+}
+.umbracoLogo,
+#nodeMain .nodeLogo {
+  padding-right: 20px;
+}
+#nodeMain .nodeLogo {
+  display: table-cell;
+  width: 30%;
+}
+#nodeMain .nodeHeading .expandTitle {
+  display: table-cell;
+  vertical-align: middle;
+  width: auto;
+  color: #727272;
+}
+.expandTitle.wpPara {
+  padding-bottom: 20px;
+}
+#nodeMain .nodeContent {
+  margin: 30px auto;
+}
+#nodeMain .nodeContent > div {
+  margin-bottom: 30px;
+}
+#nodeMain .nodeContent .nodeCell {
+  display: table-cell;
+  padding-right: 40px;
+  width: 50%;
+}
+#nodeMain .nodeContent .nodeCell:nth-child(2) {
+  padding: 0;
+  width: 48%;
+}
+#nodeMain .nodeContent .nodeCell .expandTitle,
+#nodeMain .nodeContent .nodeCell p,
+#nodeMain .nodeContent .nodeCell ul {
+  margin-top: 10px;
+}
+#nodeMain .nodeContent .nodeCell ul li {
+  padding-bottom: 15px;
+}
+#nodeMain .nodeContent .nodeCell ul li span {
+  font-size: 16px;
+}
+#nodeMain .nodeContent .nodeCell ul li:nth-last-child(1) {
+  padding: 0;
+}
+#nodeMain .nodeContent .nodeCell ul li span:nth-child(2) {
+  display: inline-block;
+  width: 85%;
+  color: #727272;
+  font-style: 14px;
+}
+.rightaspnetData {
+  float: right;
+  width: 40%;
+  margin-top: 20px;
+}
+.rightaspnetData .listText {
+  margin-top: 15px;
+}
+.leftaspnetData {
+  float: left;
+  width: 50%;
+  margin-top: 20px;
+}
+.aspnetLastContent {
+  margin-top: 15px;
+}
+.webApps h3 {
+  font-family: 'OpenSansRegular';
+  font-size: 22px;
+  line-height: 26px;
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.webApps p {
+  margin-bottom: 20px;
+}
+.details-heading {
+  margin-top: 40px;
+}
+.rubyLogo {
+  width: 11%;
+}
+#caseouterContent .outerSecond h2,
+.bigDataContent h2,
+#mobileNewsCaseouter .outerSecond h2,
+.mobBlck h2,
+.featuredBlock h2 {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-bottom: 1px solid #EBEBEB !important;
+  border-image: none;
+  border-left: 0 none;
+  border-right: 0 none;
+  border-top: 1px solid #EBEBEB;
+  padding: 7px 0;
+  text-align: center;
+}
+
+/*webapps -ens*/
+
+
+/*styles for sharepoint*/
+.servicesection h2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  width: 100%;
+}
+.servicesection {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  justify-content: space-between;
+  -ms-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.servicecontent {
+  width: 32%;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #b5b5b5;
+  box-sizing: border-box;
+  text-align: center;
+}
+.servicesection,
+.sharepointconfig {
+  width: 88%;
+  margin: 0 auto;
+}
+.microShareFirstSection,
+.microIntFirstSection,
+.biContainer,
+.biContent,
+.aspnetFirstSection,
+.azureMicroWrapper {
+  width: 75%;
+  margin: 0 auto;
+}
+.azureMicroWrapper .useCaseOdd h2,
+.azureMicroWrapper .useCaseEven h2 {
+  font-size: 30px;
+}
+.biContainer {
+  float: none;
+  margin: 0 auto !important;
+}
+.servicehead:before {
+  display: block;
+  padding-bottom: 20px;
+  font-family: "icomoon";
+  font-size: 50px;
+}
+.servicedata {
+  margin-top: 20px;
+  text-align: left;
+  line-height: 28px;
+}
+.servicehead.consulting:before {
+  content: "\e913";
+}
+.servicehead.integration:before {
+  content: "\e915";
+  font-size: 55px;
+  padding-bottom: 15px;
+}
+.servicehead.migration:before {
+  content: "\e916";
+}
+.servicehead.customization:before {
+  content: "\e914";
+}
+.servicehead.training:before {
+  content: "\e918";
+}
+.servicehead.mobility:before {
+  content: "\e917";
+}
+.sharepointconfigData p {
+  display: table;
+  // font-size: 16px;
+  width: 20%;
+  margin-bottom: 30px;
+}
+.sharepointicontick,
+.contentHolder {
+  display: table-cell;
+  vertical-align: top;
+  padding-right: 10px;
+}
+.sharepointicontick {
+  width: 30px;
+}
+.sharepointconfig h2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.sharepointbtn li {
+  margin-bottom: 30px;
+  // font-size: 16px;
+  color: #727272;
+}
+.sharepointbtn li:nth-child(2) {
+  margin-bottom: 0;
+}
+.sharepointbtn {
+  margin-bottom: 60px;
+  margin-top: 60px;
+  padding-bottom: 20px;
+  clear: both;
+}
+.sharepointconfigData {
+  display: flex;
+  display: -ms-flex;
+  display: -moz-flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+}
+.sharepointimg {
+  border: 6px solid #f4f4f4;
+  padding: 0;
+  border-radius: 0;
+  width: auto;
+}
+
+/*windows page in microsoft*/
+
+.winContentSection {
+  margin-bottom: 50px !important;
+}
+.winP {
+  margin-top: 25px !important;
+}
+.windowBox {
+  background-color: #f5f5f5;
+  border: 1px solid #ebebeb;
+  padding: 30px;
+  overflow: auto;
+  display: table;
+}
+.windowsBoxContent {
+  display: table-cell;
+  width: 80%;
+  vertical-align: middle;
+}
+.windowBox h3 {
+  font-size: 22px;
+}
+.windowBox img {
+  margin-left: 30px;
+  display: table-cell;
+  vertical-align: middle;
+  float: right;
+}
+.windowsService ul {
+  display: flex;
+  display: -ms-flex;
+  display: -webkit-flex;
+  text-align: center;
+  margin: 20px auto;
+}
+.windowsService ul li {
+  width: 25%;
+  padding: 30px;
+}
+.windowsService ul li img {
+  width: 60px;
+}
+.winApp {
+  padding-bottom: 15px;
+  border-bottom: 1px solid #EBEBEB;
+}
+.winInquiry {
+  text-align: center;
+  float: left;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.windowsService ul li p {
+  font-size: 16px;
+}
+.winInquiry p {
+  margin: 10px auto;
+}
+.winDetails .listText {
+  margin: 10px auto 0px;
+}
+.winDetails .listText li {
+  padding-bottom: 10px;
+}
+.erlangIntroMain .headDesc {
+  text-align: left;
+  margin-top: 0px;
+}
+// .erlangIntro {
+//     float: left;
+// }
+.erlangIntro .mainDesc {
+  margin-top: 30px;
+}
+.erlangIntro .javaLogo {
+  vertical-align: middle;
+}
+.erlangContent {
+  // float: left;
+  // width: 100%;
+  margin-top: 60px;
+  display: table;
+}
+.erlangImg {
+  float: left;
+  width: 100%;
+  padding: 30px 0px;
+  text-align: center;
+  background-color: #f6f6f6;
+  margin-top: 30px
+}
+.erlangImg h2 {
+  margin-bottom: 10px;
+}
+.erlangImgHolder {
+  padding-top: 20px;
+  width: 82%;
+  margin: 0 auto;
+}
+.erlangImgHolder img {
+  padding-right: 3%;
+  padding-left: 3%;
+}
+.erlangBottom {
+  margin: 0 auto;
+  padding: 40px 0px;
+  overflow: hidden;
+}
+.erlangBlock {
+  float: none;
+  width: 88%;
+  margin: 20px auto 40px;
+  color: #262626;
+  max-width: 1500px;
+}
+.erlangIntroMain .expandTitle {
+  margin-top: 20px;
+}
+.erlangContent p {
+  margin-top: 10px;
+}
+.erlangContentWrap {
+  margin-top: 30px;
+}
+.erlangLeftContent {
+  display: table-cell;
+  padding-right: 10%;
+  border-right: 3px solid #e2292f;
+}
+.erlangRightContent {
+  display: table-cell;
+  width: 28%;
+  padding-left: 5%;
+  vertical-align: middle;
+}
+.erlangBottom ul,
+.erlangRightContent ul {
+  margin-top: 10px;
+}
+.erlangBottom li {
+  padding-bottom: 10px;
+  color: #727272;
+}
+.erlangBtn {
+  float: none;
+  margin-top: 0;
+  padding-top: 50px;
+  border-top: 1px solid #ebebeb;
+  width: 82%;
+  overflow: hidden;
+  padding-bottom: 60px;
+}
+.erlangBtn .caseStudyButton {
+  width: 110px!important;
+  padding-bottom: 12px!important;
+}
+.biContent .innerList {
+  margin: 0px 0px 0px 8%!important;
+  width: 92%;
+}
+.biContainer .leftTextData,
+.biContainer .rightTextData {
+  margin-top: 0px;
+}
+.biContainer .leftTextData p:nth-child(2) {
+  margin-top: 20px;
+}
+.biContent .listText {
+  margin-top: 10px;
+}
+.biContent .listText li {
+  padding-bottom: 10px;
+}
+.biPerformance {
+  margin-top: 20px;
+}
+.biPerformance p:nth-child(3) {
+  margin-bottom: 10px;
+}
+.biImage {
+  text-align: center;
+  margin-top: 20px;
+}
+.biImage p {
+  text-align: center;
+  margin-top: 10px;
+}
+.biButton {
+  margin-top: 30px;
+}
+.biButton .caseStudyButton {
+  margin-top: 20px;
+}
+.wordpressLogo {
+  width: 236px!important;
+}
+
+/* cms page*/
+
+.cmsText .bigDataService .rightTextData .cmsList .listText {
+  margin-top: 10px;
+}
+.cmsText .bigDataService .rightTextData .cmsList .listText li {
+  padding-bottom: 12px;
+}
+.cmsContainer {
+  margin-left: 5%;
+  width: 45%!important;
+}
+.cmsContainer .listText .listCont {
+  width: 92%;
+  font-size: 15px;
+}
+.cmsFeaturedContainer {
+  border-bottom: 1px solid #e3e3e3;
+}
+.cmsImages {
+  margin-bottom: 45px!important;
+}
+.cmsText .leftTextData .bigDataPara {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.sliderHolder {
+  // float: left!important;
+  width: 100%;
+  margin-bottom: 60px!important;
+}
+.cmsContainer .listText {
+  margin-top: 10px;
+}
+.cmsSlider .slides img {
+  width: auto!important;
+  margin: 0 auto;
+}
+.cmsMain {
+  display: table;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.cmsData {
+  border-right: 3px solid #E51E25;
+  ;
+  line-height: 24px;
+  margin-top: 20px;
+  width: 69%;
+  display: table-cell;
+}
+.cmsLeftData {
+  padding-right: 9%;
+}
+.cmsLeftData,
+.cmsRightData {
+  display: inline-block;
+  width: 42%;
+  margin-bottom: 40px;
+  float: left;
+}
+.cmsData h3 {
+  color: #262626;
+  font-size: 22px;
+}
+.cmsData p {
+  margin-top: 10px;
+}
+.cmsData h2 {
+  margin-bottom: 40px;
+}
+.cmsList {
+  display: table-cell;
+  padding-left: 3%;
+  vertical-align: middle;
+  width: 31%;
+}
+.cmsPara p {
+  margin-top: 0px;
+}
+.cmsList ul {
+  margin-top: 10px;
+}
+.icon-Drupal {
+  background: url("../images/responsive/service/web/cms/Drupal.png") no-repeat scroll 0 4px rgba(0, 0, 0, 0);
+  width: 34px;
+}
+.icon-Joomla {
+  background: url("../images/responsive/service/web/cms/Joomla.png") no-repeat scroll 0 8px rgba(0, 0, 0, 0);
+  width: 34px;
+}
+.icon-WordPress {
+  background: url("../images/responsive/service/web/cms/Wordpress.png") no-repeat scroll 0 6px rgba(0, 0, 0, 0);
+  width: 34px;
+}
+.icon-CQ5 {
+  background: url("../images/responsive/service/web/cms/CQ5.png") no-repeat scroll 0 6.5px rgba(0, 0, 0, 0);
+  width: 34px;
+}
+.icon-Umbraco {
+  background: url("../images/responsive/service/web/cms/Umbraco.png") no-repeat scroll 0 2px rgba(0, 0, 0, 0);
+  width: 34px;
+}
+.emisDevelopment p {
+  padding-bottom: 33px;
+}
+.cmsNav #mobMenuHolder {
+  width: 100%;
+}
+.cmsNav #mobMenuHolder li {
+  width: 19%;
+}
+
+/*aem page*/
+
+.aemLogo,
+.aemLogo img {
+  height: 129px;
+  width: 125px;
+}
+.aemExpertise h2 {
+  margin-bottom: 10px;
+}
+.aemSection {
+  margin-top: 20px;
+  display: table;
+}
+.aemExpertise {
+  width: 100%;
+  display: table-cell;
+  vertical-align: middle;
+  float: left;
+}
+.aemImage {
+  width: 26%;
+  display: table-cell;
+  vertical-align: middle;
+}
+.aemImage > img {
+  height: 335px;
+  max-width: 427px;
+}
+.microsoftCloudFirstSection {
+  width: 100%;
+  display: table;
+}
+.sharepointCloudDescription {
+  width: 50%;
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: 5%;
+  box-sizing: border-box;
+}
+.sharepointCloudImage {
+  width: 30%;
+  display: table-cell;
+  vertical-align: middle;
+  padding-top: 30px;
+}
+
+/*new media query for block chain*/
+@media screen and (min-width:1024px) and (max-width:1039px) {
+  .subMenus .menuSelected li a {
+    color: #e2292f;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+  }
+  .erlangCaseContentWrapper .rightTextData {
+    padding-left: 0;
+  }
+}
+
+@media screen and (min-width:767px) and (max-width:1024px) {
+  .chatbotPlatform p:first-child span {
+    background-position: 0 2px;
+  }
+  .chatbotPlatform p:nth-child(2) span {
+    background-position: -115px 2px;
+  }
+  .chatbotPlatform p:nth-child(3) span {
+    background-position: -255px 2px;
+  }
+  .chatbotPlatform p:nth-child(4) span {
+    background-position: -390px 2px;
+  }
+  .block-img-holder .blockchain-img-list,
+  .block-img-holder .blockchain-img-list:nth-child(3),
+  .block-img-holder .blockchain-img-list:nth-child(4) {
+    width: 50%;
+  }
+  .block-img-holder li:first-child span,
+  .block-img-holder li:first-child:hover span {
+    background-position: -3380px 186px;
+  }
+  .block-img-holder li:nth-child(2) span,
+  .block-img-holder li:nth-child(2):hover span {
+    background-position: -3478px 176px;
+  }
+  .block-img-holder li:nth-child(3) span,
+  .block-img-holder li:nth-child(3):hover span {
+    background-position: -3864px 187px;
+  }
+  .block-img-holder li:nth-child(4) span,
+  .block-img-holder li:nth-child(4):hover span {
+    background-position: -3710px 176px;
+  }
+  .cmsClientLogos li:first-child span,
+  .cmsClientLogos li:first-child:hover span {
+    background-position:  -165px 2px;
+  }
+  .cmsClientLogos li:nth-child(2) span,
+  .cmsClientLogos li:nth-child(2):hover span {
+    background-position: -1065px 9px;
+  }
+  .cmsClientLogos li:nth-child(3) span,
+  .cmsClientLogos li:nth-child(3):hover span {
+    background-position: -1182px 9px;
+  }
+  .weappLogoList li:first-child span,
+  .weappLogoList li:first-child:hover span {
+    background-position:  0 4px;
+  }
+  .weappLogoList li:nth-child(2) span,
+  .weappLogoList li:nth-child(2):hover span {
+    background-position: -165px 2px;
+  }
+  .weappLogoList li:nth-child(3) span,
+  .weappLogoList li:nth-child(3):hover span {
+    background-position:  -329px -7px;
+  }
+  .windowWrapper .leftTextData, 
+  .windowWrapper .rightTextData {
+    display: block;
+  }
+  .biContainer .rightTextData, 
+  .cmsRightData.drupalcmsRightData {
+    padding-top: 0;
+  }
+  .windowWrapper .leftTextData {
+    padding-right: 0;
+  }
+  .biContainer .rightTextData,
+  .windowWrapper .rightTextData,
+  .erlangCaseContentWrapper .rightTextData,
+  .microFirst p {
+    padding-left: 0;
+  }
+  .microShareFirstSection,
+  .biContainer,
+  .biContent,
+  .microIntFirstSection,
+  .windowWrapper,
+  .aspnetFirstSection,
+  .azureMicroWrapper,
+  .windowWrapper .shareContent.bigDataWrapper {
+    width: 88%;
+  }
+  .windowWrapper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .biContainer.shareContent,
+  .microIntFirstSection.biFirstSection {
+    width: 100%;
+  }
+  .desktop-view-content {
+    padding: 0 15px;
+  }
+  #toggle-less,
+  #toggle-more {
+    display: inline-block;
+  }
+  #details,
+  .microsoftMain .microFirst .spLogo {
+    display: none;
+  }
+  .block-img-holder .blockchain-img-list:nth-child(2) {
+    margin-top: 20px;
+  }
+  .block-img-holder .blockchain-img-list:nth-child(4) {
+    margin-top: 21px;
+  }
+  .block-img-holder .blockchain-img-list:nth-child(3) {
+    margin-top: 10px;
+  }
+  .block-img-holder .blockchain-img-list:nth-child(2) img {
+    width: 86%;
+    margin-top: 3px;
+  }
+}
+@media screen and (min-width:280px) and (max-width:767px) {
+  .chatbotsIndustries .chatbotIndFirstList>div:first-child {
+    padding-top: 30px;
+  }
+  .chatbotIndFirstList>div,
+  .chatbotIndSecondList>div {
+    width: 100%;
+    padding: 0;
+    display: block;
+    text-align: left;
+    padding-bottom: 40px;
+    margin: 0 auto;
+  }
+  .chatbotPlatform p:first-child span {
+    background-position: 0 2px;
+  }
+  .chatbotPlatform p:nth-child(2) span {
+    background-position: -115px 2px;
+  }
+  .chatbotPlatform p:nth-child(3) span {
+    background-position: -255px 2px;
+  }
+  .chatbotPlatform p:nth-child(4) span {
+    background-position: -390px 2px;
+  }
+  .chatbotIndFirstList,
+  .chatbotIndSecondList,
+  .chatbotIndFirstList>div, 
+  .chatbotIndSecondList>div,
+  .chatbotIndFirstList>div:first-child,
+  .buildChatbot .chatbotIndFirstList {
+    padding: 0;
+  }
+  .chatbotPersonalityWrapper>div {
+    padding: 0;
+    margin: 0;
+  }
+  .buildChatbot .chatbotIndFirstList h3,
+  .buildChatbot .chatbotIndSecondList h3,
+  .searchEngineSubhead,
+  .chatbotsIndustries .searchEngineSubhead {
+    text-align: left;
+  }
+  .block-img-holder li:first-child span,
+  .block-img-holder li:first-child:hover span {
+    background-position: -3380px 186px;
+  }
+  .block-img-holder li:nth-child(2) span,
+  .block-img-holder li:nth-child(2):hover span {
+    background-position: -3478px 176px;
+  }
+  .block-img-holder li:nth-child(3) span,
+  .block-img-holder li:nth-child(3):hover span {
+    background-position: -3864px 187px;
+  }
+  .block-img-holder li:nth-child(4) span,
+  .block-img-holder li:nth-child(4):hover span {
+    background-position: -3710px 176px;
+  }
+  .drupalText.expandTitleWrapper p {
+    margin: 0 auto;
+  }
+  .graphAccordion.docAccordion.crossPlatformAccordionContainer.commonFeaturedAppMobile.sharepointCloudFeaturedApp,
+  .chatbotsIndustries .chatbotIndFirstList>div,
+  .chatbotsIndustries .chatbotIndSecondList>div {
+    padding-bottom: 40px;
+  }
+  .sharepointCloudImage {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+  .sharepointCloudDescription {
+    padding-right: 0;
+    width: 100%;
+    display: block;
+  }
+  .windowWrapper .leftTextData,
+  .windowWrapper .rightTextData {
+    display: block;
+  }
+  .content .windowWrapper .bigDataService .bigDataWrapper.windowUWP .leftTextData h2,
+  .content .windowWrapper .bigDataService .bigDataWrapper.windowUWP .leftTextData p,
+  .content .windowWrapper .bigDataService .bigDataWrapper.windowUWP .rightTextData h2,
+  .content .windowWrapper .bigDataService .bigDataWrapper.windowUWP .rightTextData p {
+    width: 100% !important;
+  }
+  .cmsRightData.drupalcmsRightData,
+  .biContainer .rightTextData  {
+    padding-top: 0;
+  }
+  .windowWrapper .leftTextData {
+    padding-right: 0;
+  }
+  .windowWrapper .rightTextData,
+  .biContainer .rightTextData,
+  .erlangCaseContentWrapper .rightTextData,
+  .microFirst p {
+    padding-left: 0;
+  }
+  .microShareFirstSection,
+  .biContent {
+    width: 91%;
+  }
+  .microIntFirstSection,
+  .content .bigDataService.biContent h2,
+  .content .bigDataService.lampDataContainer h2,
+  .content .bigDataService.rubyonRailsContent h2,
+  .biContainer.shareContent,
+  .bigDataWrapper.wordpressSite,
+  .block-img-holder .blockchain-img-list,
+  .block-img-holder .blockchain-img-list:nth-child(3),
+  .block-img-holder .blockchain-img-list:nth-child(4),
+  .chatbotIndSecondList,
+  .chatbotPlatform p {
+    width: 100%;
+  }
+  .biContent .rightTextData,
+  .biWrapper .rightTextData {
+    width: 100%;
+    margin-left: auto;
+  }
+  /*block chain*/
+  .text-data div {
+    width: 100%;
+    padding: 0;
+  }
+  .aspnetFirstSection .leftaspnetData p,
+  .azureMainContent {
+    text-align: left;
+  }
+  .aspnetFirstSection .leftaspnetData {
+    margin-bottom: 30px;
+  }
+  .details-heading {
+    margin-top: 20px;
+  }
+  #pythonCont .expandTitle {
+    padding-left: 0;
+  }
+  #blockchain-app-container,
+  .windowWrapper,
+  .aspnetFirstSection,
+  .azureMicroWrapper {
+    width: 100%;
+  }
+  .aspnetFirstSection .leftaspnetData,
+  .headingSec.bigDataWrapper {
+    width: 88%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .block-img-holder {
+    margin-top: 10px;
+  }
+  .inquiry-para {
+    padding: 0 20px;
+  }
+  .write-comments,
+  .chatbotIndSecondList>div:nth-child(2) {
+    padding-bottom: 0;
+  }
+  .block-img-holder .blockchain-img-list {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .xtraP {
+    display: none;
+    padding: 0 18px 35px;
+  }
+  .blockchain-icons,
+  #label-in-desktop,
+  .desktop-view-content h3,
+  #details,
+  .microsoftMain .microFirst .spLogo {
+    display: none;
+  }
+  .mobile-collapse-content {
+    font-size: 28px;
+    padding: 20px;
+    cursor: pointer;
+  }
+  .mobile-collapse-content span {
+    margin-right: 10px;
+  }
+  .mob-block-heading {
+    font-size: 18px;
+  }
+  .desktop-view-content {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 0;
+    margin-top: 5px;
+    background-color: #f8f8f8;
+  }
+  .mobile-collapse-content span:nth-child(1) {
+    float: left;
+    margin-top: 5px;
+  }
+  #public-private h2 {
+    text-align: left;
+    line-height: normal;
+  }
+  #toggle-less,
+  #label-in-mobile,
+  #toggle-more {
+    display: block;
+  }
+  #webappNav #mobMenuHolder,
+  #webappNav #mobMenuHolder li,
+  #javaContent .midSection .expandTitle,
+  #javaContent .midSection div:nth-child(1) {
+    width: 100%;
+  }
+  #webappNav #mobMenuHolder li a p {
+    background-position: center left;
+    padding-left: 0;
+  }
+  #webappNav .menuSelected li:first-child span.rubyimg,
+  #webappNav #mobMenuHolder li a p.rubyimg {
+    width: 24px;
+  }
+  /*python page*/
+  #pythonCont .mainDesc {
+    display: block;
+    float: none;
+    margin: 30px auto 0;
+  }
+  #pythonCont .subSection {
+    display: block;
+    float: none;
+    margin: 30px auto 0;
+    width: 88%;
+  }
+  #pythonCont .subSection div:nth-child(1) {
+    display: block;
+    padding-right: 0;
+    width: 100%;
+  }
+  #pythonCont .subSection div:nth-child(2) {
+    display: block;
+    margin-top: 30px;
+    width: 100%;
+  }
+  #pythonCont .pythonLogo,
+  #javaContent .javaLogo {
+    display: none;
+  }
+  /*java page*/
+  #javaContent .mainDesc {
+    margin: 0 auto;
+  }
+  #javaContent .mainDesc .expandTitle.javaContent {
+    padding-bottom: 20px;
+  }
+  #javaContent .mainDesc div:nth-child(2) {
+    display: block;
+    width: 100%;
+  }
+  #javaContent .midSection {
+    margin: 0 auto 30px;
+    width: 88%;
+  }
+  #javaContent .midSection div:nth-child(1),
+  .chatbotPersonalityWrapper {
+    display: block;
+  }
+  #javaContent .midSection .java-excel-image {
+    display: block;
+    margin: 30px 0 0;
+    padding-left: 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+  }
+  #javaContent .bottomCont,
+  .chatbotEnterprise .listTextCommon {
+    margin: 0 auto;
+    width: 88%;
+  }
+  #javaContent .bottomTable p {
+    display: block;
+    margin: 10px 0 0;
+    padding-right: 0;
+    width: 100%;
+  }
+  #javaContent .bottomTable ul {
+    display: block;
+    width: 94%;
+    margin-top: 30px;
+  }
+  #nodeMain .nodeLogo {
+    display: none;
+  }
+  #nodeMain .nodeHeading {
+    margin: 30px auto 0;
+    width: 88%;
+  }
+  #nodeMain .nodeHeading.nodeJSHeading {
+    width: 100%;
+  }
+  #nodeMain .nodeContent .nodeCell {
+    display: block;
+    margin-bottom: 30px;
+    padding-right: 0;
+    width: 100% !important;
+  }
+  #nodeMain .nodeContent {
+    margin: 30px auto;
+    width: 88%;
+  }
+  #nodeMain .nodeContent .nodeCell .expandTitle {
+    width: auto;
+  }
+  #webappNav .menuSelected li:first-child span.javaimg,
+  #webappNav .menuSelected li:first-child span.nodeimg,
+  #webappNav .menuSelected li:first-child span.pythonimg,
+  #webappNav .menuSelected li:first-child span.aspimg,
+  #webappNav .menuSelected li:first-child span.lampimg {
+    display: inline-block;
+    margin-top: 6px;
+  }
+  #webappNav .menuSelected li:first-child span.nodeimg {
+    width: 94px;
+  }
+  #webappNav .menuSelected li:first-child span.javaimg {
+    width: 60px
+  }
+  #webappNav .menuSelected li:first-child span.pythonimg {
+    width: 91px;
+  }
+  #webappNav .menuSelected li:first-child span.aspimg {
+    width: 105px !important;
+  }
+  #webappNav .menuSelected li:first-child span.lampimg {
+    width: 75px;
+  }
+  li.active .nodeimg {
+    background: url("../images/responsive/service/web/webapps/ruby/node.png") no-repeat center center;
+  }
+  li.active .pythonimg {
+    background: url("../images/responsive/service/web/webapps/ruby/pyth.png") no-repeat center center;
+  }
+  li.active .javaimg {
+    background: url("../images/responsive/service/web/webapps/ruby/javalog.png") no-repeat center center;
+  }
+  li.active .aspimg {
+    background: url("../images/responsive/service/web/webapps/ruby/asp.png") no-repeat center center;
+  }
+  li.active .lampimg {
+    background: url("../images/responsive/service/web/webapps/ruby/lamp.png") no-repeat center center;
+  }
+  li.active .erlangimg {
+    background: url("../images/responsive/service/web/webapps/erlang/erlang.png") no-repeat center left;
+  }
+  .erlangimg {
+    background: url("../images/responsive/service/web/webapps/erlang/erlang.png") no-repeat center left;
+  }
+  .windowsServiceWrapper,
+  .bigDataWrapper.wordpressSite .expandText {
+    width: 88%;
+    margin: auto;
+  }
+  .winContent {
+    width: 88% !important;
+    margin: auto;
+  }
+  .windowsService ul {
+    display: list-item;
+  }
+  .windowsService ul li {
+    width: 80%;
+    margin: auto;
+    padding: 30px !important;
+  }
+  .sharepointconfigData p {
+    width: 50%;
+  }
+  .servicecontent {
+    width: 100%;
+  }
+  .sharepointbtn {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 0;
+  }
+  .erlangIntro {
+    float: none;
+  }
+  .erlangIntro p {
+    width: 100%!important;
+  }
+  .erlangIntroMain {
+    margin-top: 20px;
+  }
+  .erlangContent {
+    float: none;
+    margin-top: 0px;
+  }
+  .erlangLeftContent {
+    border-right: none;
+    display: block;
+    margin: 0 auto;
+    padding-right: 0;
+  }
+  .erlangRightContent {
+    display: block;
+    margin: 0 auto;
+    padding-left: 0;
+    width: 100%;
+    padding-bottom: 60px;
+  }
+  .erlangContent p {
+    width: 100%!important;
+  }
+  .erlangImg {
+    float: none;
+    margin: -20px auto 0;
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .erlangImg h2 {
+    margin-bottom: 20px;
+  }
+  .erlangImgHolder img {
+    padding: 5px 3%;
+  }
+  .erlangImgHolder {
+    padding-top: 0px;
+  }
+  .erlangContentWrap {
+    margin-top: 10px;
+  }
+  .erlangBottom {
+    float: none;
+    width: 100%;
+  }
+  .erlangBottom .leftTextData {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .erlangBottom .rightTextData {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .erlangBottom p {
+    width: 100%!important;
+  }
+  .erlangBottom .rightTextData li span:nth-child(2) {
+    display: inline-block;
+    width: 92%;
+  }
+  .erlangBtn {
+    float: none;
+    margin: 0 auto;
+    width: 88%;
+  }
+}
+@media screen and (min-width:280px) and (max-width:400px) {
+  .sharepointconfigData p {
+    width: 100%;
+  }
+}
+@media screen and (min-width:1024px) {
+  #details,
+  #label-in-desktop {
+    display: block!important;
+  }
+}
+@media screen and (max-width:1024px) {
+  li.active .rubyimg {
+    background: url("../images/responsive/service/web/webapps/ruby/rubyonrails.png") no-repeat center center;
+  }
+}
+@media (min-width: 768px) {
+  .xtraP {
+    display: block!important;
+  }
+}

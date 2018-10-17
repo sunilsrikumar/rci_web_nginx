@@ -1,0 +1,184 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags wagtailimages_tags %}
+{% load static %}
+{% load wagtailcore_tags %}
+
+{% block body_class %}template-companycareerspage{% endblock %}
+{% block content %}
+
+
+
+
+<div id="cform" class="feedback" style="display:none;">
+    <div class="feedbackInner">
+        <div id="statusDiv" class="feedbackSmtMsg"></div>
+        <form method="post" id="feedbackForm" name="feedbackImg" class="drop"><input type='hidden' name='csrfmiddlewaretoken' value='PbXS6XLfjE9Z6955byNJMzXKwYoIIeyZ' />
+                <div class="feedbackFrm">
+                    <input autofocus="autofocus" class="feedbackTxt" id="id_email" maxlength="100" name="email" onkeyup="limitText(this.form.email, 150)" placeholder="Your email" title="Please enter a valid email" type="email" />
+                    <span id="mailValmsg"></span>
+                    <textarea class="feedbackTxtArea" cols="20" id="id_comments" maxlength="1000" name="comments" onkeyup="limitText(this.form.comments, 1000)" placeholder="Inquiry/Feedback" rows="4" title="Please enter feedback">
+</textarea>
+                    <span id="comntValmsg"></span>
+                    <div class="clear"></div>
+                    <div class="captchaHolder">
+                    <div class="captcha_feedback">
+                        <img alt="Captcha code" src="#" />
+                    </div>
+                            <input autocomplete="off" class="feedbackTxt" id="id_captcha" maxlength="10" name="captcha" onkeyup="limitText(this.form.captcha, 10)" placeholder="Enter Code *" title="Please enter valid captcha" type="text" />
+                        <span id="captchafeedValMsg" ></span>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <br>
+                <div class="ruler"></div>
+                <div class="feedbackBtm"></div>
+                <div class="feedbackSbmt">
+                    <input type="submit" value="Submit Message" name="submit" class="submitBtn" />
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    <div class="close" title="Close button"><span class="icon_Homeleft"></span></div>
+</div><!--feedback form -->
+<div id="breadcrumb">
+    <div id="breadcrumbInner">
+        <span>
+            <a href="{{ page.get_parent.url }}">Company</a>
+            <span class="breadcrumbSlash">/</span> Careers
+        </span>
+        <div class="clear"></div>
+    </div>
+</div>
+
+        <div class="clear"></div>
+        <section class="homeWrapper">
+            <div class="homeContent clearfix">
+
+                <div id="content" class="services">
+                    <div class="leftCnt privacy">
+
+                    </div>
+                </div>
+
+                <section class="content">
+
+<div class="casesubNav" id="tripleSubNav">
+    <div class="subMenus">
+        <ul class="menuSelected">
+            <li class="selectOption" value="">
+                <a href="#">
+
+                  <span id="selectTitle">- More on Careers -</span>
+                    <span class=""></span>
+
+                    <span></span>
+                </a>
+            </li>
+            <li><span class="iconHomedown"></span></li>
+        </ul>
+
+    </div>
+</div>
+<section class="bigDataWrapper">
+    <h1>{{page.career_page_heading}}</h1>
+    <p class="analyticsDesc headDesc">
+        <span>{{page.career_page_subheading}}</span>
+    </p>
+    <p class="expandTitle">{{page.career_intro}}</p>
+</section>
+<div class="careerContent clearfix bigDataWrapper">
+
+
+
+    {% for item in page.career_work_culture.all %}
+
+    <div class="workCulture">
+        <div class="leftContent">
+            {% image item.image max-1000x500 %}
+        </div>
+        <div class="rightContent">
+            <h2>{{ item.block_title }}</h2>
+            <p> {{item.block_intro}}</p>
+            <p class="rightContentP">We are a flat organization and we strive to keep it that way. Ranks and designations do not stand in the way of innovation, leadership, and individual initiative. Creativity sparks, ideas mature, and solutions evolve in small collaborative teams. Hard work is expected, but we make sure to have fun while we are at it. QBurstians enjoy what they do and so they do it even better.</p>
+            <p class="rightContentIpad">
+                Gear up to be constantly challenged in this fast paced environment that lauds independence, critical thinking, imagination and above all, team spirit.</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    {% endfor %}
+
+    {% for item in page.career_block.all %}
+    <div class="celebratingWork">
+        <div class="rightContent">
+            {% image item.image max-1000x500 %}
+        </div>
+        <div class="leftContent">
+            <h2>{{ item.block_title }}</h2>
+            <p>{{item.block_intro}}</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    {% endfor %}
+
+    <div class="checkList leftValues">
+        <h2>{{page.career_checklist_header}}</h2>
+        <ul>
+			{% for item in page.checklist.all %}
+            <li>
+                <span class="icon-checkmark iconCheck"></span>
+                <span class="listValues">{{item.checklist}}.</span>
+            </li>
+             {% endfor %}
+        </ul>
+        <p class="careerPara">If you have mostly ticks and not crosses, you might want to check out our <span class="elementLink"><a href={{page.career_opening_url}} target="self">current openings</a>.</span></p>
+    </div>
+
+    <div class="testimonial">
+
+<h4 class="testimonialTitle">{{page.testimonial_title}}</h4>
+<div id="scroller" class="scrollerCnt">
+	<div class="quotes icon_HomeTestimonial"></div>
+	<div class="navigationArrow" style="display:block"></div>
+	<div class="mobBorder"></div>
+	<ul class="slides">
+
+		{% for item in page.testimonial.all %}
+
+		<li class="testimonialCnt">
+            <div class="testimonialMid">
+            	<i>{{item.intro}}.
+					<br>
+					<span class="clear"></span>
+				</i>
+				<div class="scrollHolder">
+            		<div class="clientScroll">
+                		<div class="jobtesti testiphoto testiClient" style="background: url('../../images/jobTestimonial/sandeep.jpg') no-repeat scroll 0 0 transparent;">
+						</div>
+                    	<div class="jobText floatLeft">
+							<p class="clientName">{{item.client_name}}</p>
+							<small>{{item.client_desinatiion}}</small>
+						</div>
+					</div>
+				</div>
+			</div>
+        </li>
+		 {% endfor %}
+
+	</ul>
+</div>
+    </div>
+
+</div>
+
+                </section>
+
+            </div>
+        </section>
+
+
+
+    </div>
+
+
+{% endblock %}

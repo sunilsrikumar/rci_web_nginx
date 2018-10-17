@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% load wagtailcore_tags %}
+{% load wagtailcore_tags wagtailimages_tags %}
+{% load static %}
+{% block body_class %}template-serviceindexpage{% endblock %}
+
+{% block content %}
+
+
+<div id="cform" class="feedback" style="display:none;">
+    <div class="feedbackInner">
+        <div id="statusDiv" class="feedbackSmtMsg"></div>
+        <form method="post" id="feedbackForm" name="feedbackImg" class="drop"><input type='hidden' name='csrfmiddlewaretoken' value='PbXS6XLfjE9Z6955byNJMzXKwYoIIeyZ' />
+                <div class="feedbackFrm">
+                    <input autofocus="autofocus" class="feedbackTxt" id="id_email" maxlength="100" name="email" onkeyup="limitText(this.form.email, 150)" placeholder="Your email" title="Please enter a valid email" type="email" />
+                    <span id="mailValmsg"></span>
+                    <textarea class="feedbackTxtArea" cols="20" id="id_comments" maxlength="1000" name="comments" onkeyup="limitText(this.form.comments, 1000)" placeholder="Inquiry/Feedback" rows="4" title="Please enter feedback">
+</textarea>
+                    <span id="comntValmsg"></span>
+                    <div class="clear"></div>
+                    <div class="captchaHolder">
+                    <div class="captcha_feedback">
+                        <img alt="Captcha code" src="#" />
+                    </div>
+                            <input autocomplete="off" class="feedbackTxt" id="id_captcha" maxlength="10" name="captcha" onkeyup="limitText(this.form.captcha, 10)" placeholder="Enter Code *" title="Please enter valid captcha" type="text" />
+                        <span id="captchafeedValMsg" ></span>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <br>
+                <div class="ruler"></div>
+                <div class="feedbackBtm"></div>
+                <div class="feedbackSbmt">
+                    <input type="submit" value="Submit Message" name="submit" class="submitBtn" />
+                </div>
+                <div class="clear"></div>
+            </form>
+        </div>
+    <div class="close" title="Close button"><span class="icon_Homeleft"></span></div>
+</div><!--feedback form -->
+<div id="breadcrumb">
+    <div id="breadcrumbInner">
+        <span>
+				<a href="{{ page.get_parent.url }}">Home</a>
+				<span class="breadcrumbSlash">/</span> Services
+        </span>
+        <div class="inquirybtnHolder">
+            <div class="InquiryBtn">SEND INQUIRY</div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+        <div class="clear"></div>
+        <section class="homeWrapper">
+            <div class="homeContent clearfix">
+
+                <div id="content" class="services">
+                    <div class="leftCnt privacy">
+
+                    </div>
+                </div>
+
+                <section class="content">
+
+<h1>{{ page.intro|richtext }}</h1>
+<ul class="landingPageBlock servicesBlock">
+    {% for post in page.get_children %}
+    <li class="element">
+        {% with post=post.specific %}
+
+        <a href="{% pageurl post %}"></a>
+        <div class="elementText">
+            <a href="{% pageurl post %}">
+                 {% image post.image fill-200x200-c100 %}
+                <h2> {{ post.service_name}}</h2>
+            </a>
+            <p>
+                  {{ post.service_intro}}</p>
+        </div>
+        <div class="elementLink">
+            <a  href="{% pageurl post %}">{{ service.title }}>Read More<span class="viewLeftArrow">></span></a>
+        </div>
+        {% endwith %}
+
+    </li>
+    {% endfor %}
+</ul>
+<div class="clearfix"></div>
+<div id="featureBox" class="clearfix">
+    <h2>{{page.why_us}}</h2>
+    {% for item in page.service_index_items.all %}
+    <div class="dataRow">
+        <p>
+            <img alt="icon" src="../static/images/responsive/companys/icon.png">
+            <span>{{ item.heading1 }}</span>
+        </p>
+        <p>
+            <img alt="icon" src="../static/images/responsive/companys/icon.png">
+            <span>{{ item.heading2 }}</span>
+        </p>
+    </div>
+    {% endfor %}
+
+</div>
+<div class="clear"></div>
+
+                </section>
+
+            </div>
+        </section>
+
+
+{% endblock %}
